@@ -1,0 +1,4231 @@
+{
+  "section_11": [
+    [["¿Dónde vives?"], ["Where do you live?"]],
+    [["vivo en"], ["I live in"]],
+    [["el norte"], ["the North"]],
+    [["el sur"], ["the South"]],
+    [["el este"], ["the East"]],
+    [["el oeste"], ["the West"]],
+    [["el noroeste"], ["the Northwest"]],
+    [["el noreste"], ["the Northeast"]],
+    [["el suroeste"], ["the Southwest"]],
+    [["el sureste"], ["the Southeast"]],
+    [["el centro"], ["the centre"]],
+    [["Inglaterra"], ["England"]],
+    [["Escocia"], ["Scotland"]],
+    [["Irlanda"], ["Ireland"]],
+    [["Gales"], ["Wales"]]
+  ],
+  "section_12": [
+    [["¿Qué haces en verano?"], ["What do you do in summer?"]],
+    [["En verano"], ["In summer", "in the summer"]],
+    [["En invierno"], ["In winter", "in the winter"]],
+    [["chateo en la red"], ["I chat online"]],
+    [["cocino para mi familia"], ["I cook for my family"]],
+    [["descargo canciones"], ["I download songs"]],
+    [["escribo correos"], ["I write emails"]],
+    [["hago natación"], ["I go swimming"]],
+    [["hago esquí"], ["I go skiing"]],
+    [["hago una barbacoa"], ["I have a barbecue"]],
+    [["juego al baloncesto"], ["I play basketball"]],
+    [["monto a caballo"], ["I go horseriding"]],
+    [["monto en bici"], ["I go cycling"]],
+    [["nado en el mar"], ["I swim in the sea"]],
+    [
+      ["salgo con mis amigos", "salgo con mis amigas"],
+      ["I go out with my friends"]
+    ],
+    [["toco la guitarra"], ["I play the guitar"]],
+    [
+      ["trabajo como voluntario/a", "trabajo como voluntaria"],
+      ["I work as a volunteer"]
+    ],
+    [["veo la tele"], ["I watch TV"]],
+    [["voy al polideportivo"], ["I go to the sports centre"]],
+    [["a un centro comercial"], ["to a shopping centre"]],
+    [["voy de paseo"], ["I go for a walk"]]
+  ],
+  "section_13": [
+    [["¿Con qué frecuencia?"], ["How often?"]],
+    [["siempre"], ["always"]],
+    [["a menudo"], ["often"]],
+    [["todos los días"], ["every day", "everyday"]],
+    [["a veces"], ["sometimes"]],
+    [["de vez en cuando"], ["from time to time"]],
+    [["una vez a la semana"], ["once a week"]],
+    [["dos o tres veces al año"], ["two or three times a year"]],
+    [["casi nunca"], ["almost never"]]
+  ],
+  "section_14": [
+    [
+      ["¿Qué tiempo hace?"],
+      ["What is the weather like?", "how is the weather?"]
+    ],
+    [["Hace buen tiempo"], ["It is good weather"]],
+    [["Hace mal tiempo"], ["It is bad weather"]],
+    [["Hace calor"], ["It is hot", "It's hot"]],
+    [["Hace frío"], ["It is cold", "It's cold"]],
+    [["Hace sol"], ["It is sunny", "It's sunny"]],
+    [["Hace viento"], ["It is windy", "It's windy"]],
+    [
+      ["Llueve", "está lloviendo"],
+      ["It is raining", "It's raining"]
+    ],
+    [
+      ["Nieva", "está nevando"],
+      ["It is snowing", "It's snowing"]
+    ],
+    [
+      ["El tiempo es variable"],
+      ["The weather is changeable", "The weather is variable"]
+    ],
+    [["El clima es soleado"], ["The climate is sunny"]],
+    [["El clima es caluroso"], ["The climate is hot"]],
+    [["Hay niebla"], ["It is foggy", "It's foggy"]],
+    [["Hay tormenta"], ["It is stormy", "It's stormy"]],
+    [["Hay chubascos"], ["There are showers"]],
+    [["Está nublado"], ["It is cloudy", "It's cloudy"]]
+  ],
+  "section_15": [
+    [
+      ["¿Qué te gusta hacer?"],
+      ["What do you like doing?"],
+      ["What do you like to do?"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["Soy adicto/a a"],
+      ["I am addicted to"],
+      ["I'm addicted to"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["Soy un(a) fanático/a de"],
+      ["I am a fan of"],
+      ["I'm a fan of"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["Prefiero"], ["I prefer"], ["▲"], ["▲"]],
+    [["Me gusta"], ["I like"], ["▲"], ["▲"]],
+    [["Me encanta/Me mola/Me chifla/Me flipa"], ["I love"], ["▲"], ["▲"]],
+    [["Odio"], ["I hate"], ["▲"], ["▲"]],
+    [["Nos encanta"], ["We love"], ["▲"], ["▲"]],
+    [["bucear"], ["diving"], ["to dive"], ["▲"], ["▲"]],
+    [
+      ["estar al aire libre"],
+      ["being outdoors"],
+      ["to be outdoors"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["estar en contacto con los amigos"],
+      ["being in touch with friends"],
+      ["being in contact with friends"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["hacer artes marciales"], ["doing martial arts"], ["▲"], ["▲"]],
+    [["hacer deportes acuáticos"], ["doing water sports"], ["▲"], ["▲"]],
+    [["ir al cine"], ["going to the cinema"], ["▲"], ["▲"]],
+    [["ir de compras"], ["going shopping"], ["▲"], ["▲"]],
+    [["leer revistas"], ["reading magazines"], ["▲"], ["▲"]],
+    [["usar el ordenador"], ["using the computer"], ["▲"], ["▲"]],
+    [["ver películas"], ["watching films"], ["▲"], ["▲"]],
+    [["Prefiero veranear"], ["I prefer to spend the summer"], ["▲"], ["▲"]],
+    [["en el extranjero"], ["abroad"], ["▲"], ["▲"]],
+    [["en la costa"], ["on the coast"], ["▲"], ["▲"]],
+    [["en la montaña"], ["in the mountains"], ["▲"], ["▲"]]
+  ],
+  "section_16": [
+    [
+      ["¿Adónde fuiste de vacaciones?"],
+      ["Where did you go on holiday?"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["hace una semana"], ["a week ago"], ["▲"], ["▲"]],
+    [["hace dos meses"], ["two months ago"], ["▲"], ["▲"]],
+    [
+      ["fui de vacaciones a Francia"],
+      ["I went on holiday to France"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["¿Con quién fuiste?"], ["Who did you go with?"], ["▲"], ["▲"]],
+    [["Fui solo/a"], ["I went alone"], ["I went on my own"], ["▲"], ["▲"]],
+    [["con mi insti"], ["with my school"], ["▲"], ["▲"]],
+    [["con mi mejor amigo/a"], ["with my best friend"], ["▲"], ["▲"]],
+    [["¿Cómo viajaste?"], ["How did you travel?"], ["▲"], ["▲"]],
+    [["Viajé en coche"], ["I travelled by car"], ["▲"], ["▲"]],
+    [["en autocar"], ["by coach"], ["▲"], ["▲"]],
+    [["en avión"], ["by plane"], ["▲"], ["▲"]],
+    [["en barco"], ["by boat"], ["▲"], ["▲"]],
+    [["en tren"], ["by train"], ["▲"], ["▲"]]
+  ],
+  "section_17": [
+    [["¿Qué hiciste?"], ["What did you do?"], ["▲"], ["▲"]],
+    [["primero"], ["first"], ["▲"], ["▲"]],
+    [["luego"], ["then"], ["after"], ["▲"], ["▲"]],
+    [["más tarde"], ["later"], ["afterwards"], ["▲"], ["▲"]],
+    [["después"], ["after"], ["later"], ["▲"], ["▲"]],
+    [["finalmente"], ["finally"], ["▲"], ["▲"]],
+    [["Lo mejor fue cuando"], ["The best thing was when"], ["▲"], ["▲"]],
+    [["Lo peor fue cuando"], ["The worst thing was when"], ["▲"], ["▲"]],
+    [["aprendí a hacer vela"], ["I learnt to sail"], ["▲"], ["▲"]],
+    [
+      ["comí muchos helados"],
+      ["I ate lots of ice cream"],
+      ["I ate lots of ice creams"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["compré recuerdos"], ["I bought souvenirs"], ["▲"], ["▲"]],
+    [["descansé"], ["I rested"], ["I relaxed"], ["▲"], ["▲"]],
+    [["fui al acuario"], ["I went to the aquarium"], ["▲"], ["▲"]],
+    [["hice turismo"], ["I went sightseeing"], ["▲"], ["▲"]],
+    [["llegué tarde"], ["I arrived late"], ["▲"], ["▲"]],
+    [
+      ["perdí mi móvil"],
+      ["I lost my mobile"],
+      ["I lost my phone"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["saqué fotos"], ["I took photos"], ["▲"], ["▲"]],
+    [["tomé el sol"], ["I sunbathed"], ["▲"], ["▲"]],
+    [
+      ["tuve un accidente en la playa"],
+      ["I had an accident on the beach"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["vi un partido"], ["I watched a match"], ["I saw a match"], ["▲"], ["▲"]],
+    [
+      ["vomité en la montaña rusa"],
+      ["I was sick on the roller coaster"],
+      ["I threw up on the roller coaster"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["Puedes"], ["You can"], ["one can"], ["▲"], ["▲"]],
+    [
+      ["pasear por las Ramblas"],
+      ["walk along Las Ramblas"],
+      ["have a walk around Las Ramblas"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["ver los barcos en el puerto"],
+      ["see the boats in the port"],
+      ["watch the boats in the port"],
+      ["▲"],
+      ["▲"]
+    ]
+  ],
+  "section_18": [
+    [["¿Qué tal lo pasaste?"], ["How was it?"], ["▲"], ["▲"]],
+    [["Me encantó"], ["I loved it"], ["▲"], ["▲"]],
+    [["Me gustó"], ["I liked it"], ["▲"], ["▲"]],
+    [["Lo pasé bomba/fenomenal"], ["I had a great time"], ["▲"], ["▲"]],
+    [["Lo pasé fatal"], ["I had an awful time"], ["▲"], ["▲"]],
+    [["Fue inolvidable"], ["It was unforgettable"], ["▲"], ["▲"]],
+    [["impresionante"], ["impressive"], ["▲"], ["▲"]],
+    [["flipante"], ["awesome"], ["amazing"], ["▲"], ["▲"]],
+    [["horroroso"], ["awful"], ["▲"], ["▲"]],
+    [["un desastre"], ["a disaster"], ["▲"], ["▲"]],
+    [
+      ["¿Qué tiempo hizo?"],
+      ["What was the weather like?"],
+      ["How was the weather?"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["Hizo buen tiempo"], ["It was good weather"], ["▲"], ["▲"]],
+    [["Hizo mal tiempo"], ["It was bad weather"], ["▲"], ["▲"]],
+    [["Hizo calor"], ["It was hot"], ["▲"], ["▲"]],
+    [["Hizo frío"], ["It was cold"], ["▲"], ["▲"]],
+    [["Hizo sol"], ["It was sunny"], ["▲"], ["▲"]],
+    [["Hizo viento"], ["It was windy"], ["▲"], ["▲"]],
+    [["Hubo niebla"], ["It was foggy"], ["▲"], ["▲"]],
+    [["Hubo tormenta"], ["It was stormy"], ["▲"], ["▲"]],
+    [["Llovió"], ["It rained"], ["It was raining"], ["▲"], ["▲"]],
+    [["Nevó"], ["It snowed"], ["It was snowing"], ["▲"], ["▲"]]
+  ],
+  "section_19": [
+    [
+      ["¿Cómo era el hotel?"],
+      ["What was the hotel like?"],
+      ["How was the hotel?"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["Me alojé/Me quedé"], ["I stayed"], ["▲"], ["▲"]],
+    [["Nos alojamos/Nos quedamos"], ["We stayed"], ["▲"], ["▲"]],
+    [["en un albergue juvenil"], ["in a youth hostel"], ["▲"], ["▲"]],
+    [["en un apartamento"], ["in an apartment"], ["▲"], ["▲"]],
+    [["en un camping"], ["on a campsite"], ["▲"], ["▲"]],
+    [
+      ["en un hotel de cinco estrellas"],
+      ["in a five star hotel"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["en una casa rural"],
+      ["in a house in the country"],
+      ["in a country house"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["en una pensión"], ["in a guest house"], ["▲"], ["▲"]],
+    [["Fui de crucero"], ["I went on a cruise"], ["▲"], ["▲"]],
+    [["Estaba"], ["It was"], ["▲"], ["▲"]],
+    [
+      ["cerca de la playa"],
+      ["near the beach"],
+      ["close to the beach"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["en el centro de la ciudad"], ["in the city centre"], ["▲"], ["▲"]],
+    [["en las afueras"], ["on the outskirts"], ["▲"], ["▲"]],
+    [["Era"], ["It was"], ["▲"], ["▲"]],
+    [["acogedor(a)"], ["welcoming"], ["▲"], ["▲"]],
+    [["antiguo/a"], ["old"], ["▲"], ["▲"]],
+    [["barato/a"], ["cheap"], ["▲"], ["▲"]],
+    [["caro/a"], ["expensive"], ["▲"], ["▲"]],
+    [["grande"], ["big"], ["▲"], ["▲"]],
+    [["lujoso/a"], ["luxurious"], ["▲"], ["▲"]],
+    [["moderno/a"], ["modern"], ["▲"], ["▲"]],
+    [["pequeño/a"], ["small"], ["▲"], ["▲"]],
+    [["ruidoso/a"], ["noisy"], ["▲"], ["▲"]],
+    [["tranquilo/a"], ["quiet"], ["▲"], ["▲"]],
+    [
+      ["Lo bueno del pueblo era que"],
+      ["The good thing about the town was that"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["Lo malo del pueblo era que"],
+      ["The bad thing about the town was that"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["tenía"], ["It had"], ["▲"], ["▲"]],
+    [
+      ["mucho ambiente/tráfico"],
+      ["lots of atmosphere/traffic"],
+      ["a lot of atmosphere/traffic"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["muchos espacios verdes"],
+      ["lots of green spaces"],
+      ["a lot of green spaces"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["muchas discotecas"],
+      ["lots of discos"],
+      ["a lot of discos"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["muchas tiendas"], ["lots of shops"], ["a lot of shops"], ["▲"], ["▲"]],
+    [
+      ["muchas lugares de interés"],
+      ["lots of places of interest"],
+      ["a lot of places of interest"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["muchas contaminación"],
+      ["lots of pollution"],
+      ["a lot of pollution"],
+      ["▲"],
+      ["▲"]
+    ],
+    [["muchas gente"], ["lots of people"], ["a lot of people"], ["▲"], ["▲"]],
+    [
+      ["muchas cosas que hacer"],
+      ["lots of things to do"],
+      ["a lot of things to do"],
+      ["▲"],
+      ["▲"]
+    ],
+    [
+      ["No había ni … ni …"],
+      ["There was neither … nor …"],
+      ["There wasn't either ... or ..."],
+      ["▲"],
+      ["▲"]
+    ],
+    [["Tampoco había"], ["Nor was there"], ["Neither was there"], ["▲"], ["▲"]],
+    [["Lo pasé bien/mal/fatal"], ["I had a good/bad/awful time"], ["▲"], ["▲"]],
+    [["Tenía/Había"], ["It had/There was"], ["▲"], ["▲"]]
+  ],
+  "section_111": [
+    [["Quisiera reservar"], ["I would like to book"]],
+    [["¿Hay wifi gratis"], ["Is there free wifi?"]],
+    [["aire acondicionado"], ["air conditioning"]],
+    [["en el hotel"], ["in the hotel"]],
+    [["las habitaciones"], ["the rooms"]],
+    [["¿Cuánto cuesta una habitación?"], ["How much does a room cost?"]],
+    [
+      ["¿A qué hora se sirve el desayuno?"],
+      [
+        "What time is breakfast served?",
+        "At what time is the breakfast served?"
+      ]
+    ],
+    [
+      ["¿Cuándo está abierta la piscina?"],
+      ["When is the pool open?", "When does the pool open?"]
+    ],
+    [["¿Se admiten perros?"], ["Are dogs allowed?"]],
+    [["una habitación individual"], ["a single room"]],
+    [["sin balcón"], ["without a balcony"]],
+    [["con bañera"], ["with a bath"]],
+    [["con cama de matrimonio"], ["with double bed"]],
+    [["con desayuno incluido"], ["with breakfast included"]],
+    [["con media pensión"], ["with half board"]],
+    [["con pensión completa"], ["with full board"]],
+    [["con vistas al mar"], ["with sea view", "with views to the sea"]],
+    [["¿Para cuántas noches?"], ["For how many nights?"]],
+    [["Para tres noches"], ["For three nights"]],
+    [["¿Puede repetir?"], ["Can you repeat?"]],
+    [["¿Puede hablar más despacio?"], ["Can you speak more slowly?"]]
+  ],
+  "section_112": [
+    [["Quiero quejarme"], ["I want to complain", "I want to make a complaint"]],
+    [["Quiero hablar con el director"], ["I want to speak to the manager"]],
+    [
+      ["Quiero cambiar de habitación"],
+      ["I want to change rooms", "I want to change my room"]
+    ],
+    [
+      ["El ascensor no funciona"],
+      ["The lift does not work", "The lift doesn't work"]
+    ],
+    [["La ducha está sucia"], ["The shower is dirty"]],
+    [["La habitación"], ["The room"]],
+    [["La luz"], ["The light"]],
+    [["Hay ratas en la cama"], ["There are rats in the bed"]],
+    [
+      ["No hay papel higiénico"],
+      [
+        "There is no toilet paper",
+        "There isn't toilet paper",
+        "There isn't any toilet paper"
+      ]
+    ],
+    [["Necesito un secador"], ["I need a hairdryer"]],
+    [["jabón"], ["soap"]],
+    [["champú"], ["shampoo"]],
+    [["toallas"], ["towels"]],
+    [["Socorro"], ["Help"]],
+    [["Es inaceptable"], ["It is unacceptable", "It's unacceptable"]],
+    [["Lo siento/Perdone"], ["I am sorry", "I'm sorry"]],
+    [["El hotel está completo"], ["The hotel is full"]]
+  ],
+  "section_113": [
+    [
+      ["Mis vacaciones desastrosas"],
+      ["My disastrous holiday", "My disastrous holidays"]
+    ],
+    [["Por desgracia"], ["Unfortunately"]],
+    [["Por un lado"], ["On the one hand"]],
+    [["por otro lado"], ["on the other hand"]],
+    [["El primer dia"], ["On the first day"]],
+    [["Al día siguiente"], ["On the following day"]],
+    [["Tuve una avería"], ["I had a breakdown"]],
+    [["un retraso"], ["a delay"]],
+    [["Tuvimos que esperar mucho tiempo"], ["We had to wait a long time"]],
+    [["ir a la comisaría"], ["go to the police station"]],
+    [["llamar a un mecánico"], ["call a mechanic"]],
+    [["Perdí la cartera"], ["I lost the wallet", "I lost my wallet"]],
+    [["Perdimos el equipaje"], ["We lost the luggage"]],
+    [["la maleta"], ["the suitcase"]],
+    [["las llaves"], ["the keys"]],
+    [["Cuando llegamos"], ["When we arrived"]],
+    [["era muy tarde"], ["it was very late"]],
+    [["estaba cansado/a"], ["I was tired"]],
+    [["la recepción ya estaba cerrada"], ["the reception was already closed"]],
+    [["acampar"], ["to camp"]],
+    [["decidir"], ["to decide"]],
+    [["alquilar bicicletas"], ["to hire bicycles"]],
+    [
+      ["coger el teleférico"],
+      ["to take the cable car", "to catch the cable car"]
+    ],
+    [["hacer alpinismo"], ["to go mountain climbing"]],
+    [["volver"], ["to return"]],
+    [["el paisaje"], ["the landscape"]],
+    [["la autopista"], ["the motorway", "the highway"]],
+    [["precioso/a"], ["beautiful", "wonderful"]]
+  ],
+  "section_21": [
+    [["¿Te interesa?", "¿Te interesan?"], ["Are you interested in?"]],
+    [["el arte dramático"], ["drama", "theatre"]],
+    [["el dibujo"], ["art", "drawing"]],
+    [["el español"], ["Spanish"]],
+    [["el inglés"], ["English"]],
+    [["la biología"], ["biology"]],
+    [["la educación física"], ["PE", "Physical Education"]],
+    [["la física"], ["physics"]],
+    [["la geografía"], ["geography"]],
+    [["la historia"], ["history"]],
+    [["la informática"], ["ICT"]],
+    [["la química"], ["chemistry"]],
+    [["la religión"], ["RE", "Religious Education"]],
+    [["la tecnología"], ["technology", "DT"]],
+    [["los idiomas"], ["languages"]],
+    [["las empresariales"], ["business studies"]],
+    [["las matemáticas"], ["maths", "mathematics"]],
+    [["las ciencias"], ["science", "sciences"]],
+    [["la asignatura"], ["the subject", "subject"]],
+    [["me encanta", "me encantan", "me chifla", "me chiflan"], ["I love"]],
+    [["me interesa", "me interesan"], ["I’m interested in"]],
+    [["me fascina", "me fascinan"], ["I’m fascinated by"]],
+    [
+      ["no me gusta", "no me gustan"],
+      ["I don't like", "I do not like", "I dislike"]
+    ],
+    [["odio"], ["I hate"]],
+    [["prefiero"], ["I prefer"]],
+    [["porque es"], ["because it is"]],
+    [["porque son"], ["because they are"]],
+    [
+      ["Mi día preferido es el viernes"],
+      ["My favourite day is Friday", "My favourite day is Fridays"]
+    ],
+    [["mi horario"], ["my timetable"]],
+    [["¿Qué día tienes dibujo?"], ["What day do you have art?"]],
+    [["Tengo inglés los martes"], ["I have English on Tuesdays"]],
+    [
+      ["¿A qué hora tienes español?"],
+      ["What time do you have Spanish?", "At what time do you have Spanish?"]
+    ],
+    [["a la una"], ["at one o’clock"]],
+    [["a las dos y cuarto"], ["at quarter past two"]],
+    [["a las tres menos cuarto"], ["at quarter to three"]],
+    [["a las cuatro y cinco"], ["at five past four"]],
+    [["a las seis menos cinco"], ["at five to six"]],
+    [["a las siete y media"], ["at half past seven"]],
+    [["la educación primaria"], ["primary education"]],
+    [["la educación secundaria"], ["secondary education"]],
+    [["el bachillerato"], ["A levels"]],
+    [["la formación profesional"], ["vocational training"]],
+    [["el instituto"], ["secondary school", "the school"]]
+  ],
+  "section_22": [
+    [["¿Qué tal los estudios?"], ["How are your studies?"]],
+    [["más fácil que"], ["easier than", "more easy than"]],
+    [["menos divertido que"], ["less fun than"]],
+    [["Es mejor que"], ["It’s better than", "It is better than"]],
+    [["Es peor que"], ["It’s worse than", "It is worse than"]],
+    [["tan difícil como"], ["as difficult as"]],
+    [["divertido", "divertida"], ["fun"]],
+    [["aburrido", "aburrida"], ["boring"]],
+    [["útil"], ["useful"]],
+    [["relevante"], ["relevant"]],
+    [["práctico", "práctica"], ["practical"]],
+    [["creativo", "creativa"], ["creative"]],
+    [["relajante"], ["relaxing"]],
+    [["lógico", "lógica"], ["logical"]],
+    [["exigente"], ["demanding"]],
+    [
+      [
+        "Mi profesor de ciencias es paciente",
+        "Mi profesora de ciencias es paciente"
+      ],
+      ["My science teacher is patient", "My teacher of science is patient"]
+    ],
+    [["impaciente"], ["impatient"]],
+    [
+      ["severo", "severa"],
+      ["strict", "severe", "harsh"]
+    ],
+    [
+      ["listo", "lista"],
+      ["clever", "intelligent"]
+    ],
+    [
+      ["tonto", "tonta"],
+      ["stupid", "silly"]
+    ],
+    [
+      ["trabajador", "trabajadora"],
+      ["hard-working", "hard working"]
+    ],
+    [["perezoso", "perezosa"], ["lazy"]],
+    [
+      ["simpático", "simpática"],
+      ["nice", "friendly", "kind"]
+    ],
+    [["Mi profe explica bien"], ["My teacher explains well"]],
+    [
+      ["tiene buen sentido del humor"],
+      ["has a good sense of humour", "has good sense of humour"]
+    ],
+    [["tiene expectativas altas"], ["has high expectations"]],
+    [
+      ["crea un buen ambiente de trabajo"],
+      ["creates a good working atmosphere"]
+    ],
+    [["nunca se enfada"], ["never gets angry"]],
+    [["me hace pensar"], ["makes me think"]],
+    [["nos da consejos"], ["gives us advice"]],
+    [["nos pone muchos deberes"], ["gives us lots of homework"]],
+    [["el curso académico"], ["academic year"]],
+    [
+      ["los exámenes", "las evaluaciones"],
+      ["exams", "tests", "assessments"]
+    ],
+    [["suspender"], ["to fail"]],
+    [["aprobar"], ["to pass"]]
+  ],
+  "section_23": [
+    [
+      ["¿Cómo es tu insti?"],
+      ["What is your school like?", "How is your school?"]
+    ],
+    [["En mi instituto hay"], ["In my school there is"]],
+    [["Mi instituto tiene"], ["My school has"]],
+    [["un salón de actos"], ["a hall"]],
+    [["un comedor"], ["a canteen", "a cafeteria"]],
+    [["un campo de fútbol"], ["a football pitch"]],
+    [["un patio"], ["a playground"]],
+    [["un gimnasio"], ["a gym"]],
+    [["una piscina"], ["a pool", "a swimming pool"]],
+    [["una biblioteca"], ["a library"]],
+    [["una pista de tenis"], ["a tennis court"]],
+    [["unos laboratorios"], ["some laboratories", "some labs"]],
+    [["muchas aulas"], ["lots of classrooms"]],
+    [["Lo bueno es que"], ["The good thing is that"]],
+    [["Lo malo es que"], ["The bad thing is that"]],
+    [["Lo mejor es que"], ["The best thing is that"]],
+    [["Lo peor es que"], ["The worst thing is that"]],
+    [
+      ["Lo que más me gusta es"],
+      ["What I like most is", "What I like the most is"]
+    ],
+    [
+      ["Lo que menos me gusta es"],
+      ["What I like least is", "What I like the least is"]
+    ],
+    [["Mi insti es público y mixto"], ["My school is state and mixed"]],
+    [
+      ["Mi insti es privado y femenino"],
+      ["My school is all girls and private"]
+    ],
+    [["Un colegio masculino"], ["an all boys school", "a boys school"]],
+    [
+      ["En mi escuela primaria había menos deberes"],
+      ["In my primary school there was less homework"]
+    ],
+    [
+      ["Mi escuela primaria tenía más alumnos"],
+      ["My primary school had more students"]
+    ],
+    [["las instalaciones"], ["facilities"]],
+    [["aulas de informática"], ["ICT rooms"]],
+    [["poco espacio"], ["little space"]],
+    [["El edificio"], ["The building"]],
+    [["El día escolar"], ["The school day"]],
+    [["Las clases eran"], ["The lessons were"]]
+  ],
+  "section_21": [
+    [["¿Te interesa?", "¿Te interesan?"], ["Are you interested in?"]],
+    [["el arte dramático"], ["drama", "theatre"]],
+    [["el dibujo"], ["art", "drawing"]],
+    [["el español"], ["Spanish"]],
+    [["el inglés"], ["English"]],
+    [["la biología"], ["biology"]],
+    [["la educación física"], ["PE", "Physical Education"]],
+    [["la física"], ["physics"]],
+    [["la geografía"], ["geography"]],
+    [["la historia"], ["history"]],
+    [["la informática"], ["ICT"]],
+    [["la química"], ["chemistry"]],
+    [["la religión"], ["RE", "Religious Education"]],
+    [["la tecnología"], ["technology", "DT"]],
+    [["los idiomas"], ["languages"]],
+    [["las empresariales"], ["business studies"]],
+    [["las matemáticas"], ["maths", "mathematics"]],
+    [["las ciencias"], ["science", "sciences"]],
+    [["la asignatura"], ["the subject", "subject"]],
+    [["me encanta", "me encantan", "me chifla", "me chiflan"], ["I love"]],
+    [["me interesa", "me interesan"], ["I’m interested in"]],
+    [["me fascina", "me fascinan"], ["I’m fascinated by"]],
+    [
+      ["no me gusta", "no me gustan"],
+      ["I don't like", "I do not like", "I dislike"]
+    ],
+    [["odio"], ["I hate"]],
+    [["prefiero"], ["I prefer"]],
+    [["porque es"], ["because it is"]],
+    [["porque son"], ["because they are"]],
+    [
+      ["Mi día preferido es el viernes"],
+      ["My favourite day is Friday", "My favourite day is Fridays"]
+    ],
+    [["mi horario"], ["my timetable"]],
+    [["¿Qué día tienes dibujo?"], ["What day do you have art?"]],
+    [["Tengo inglés los martes"], ["I have English on Tuesdays"]],
+    [
+      ["¿A qué hora tienes español?"],
+      ["What time do you have Spanish?", "At what time do you have Spanish?"]
+    ],
+    [["a la una"], ["at one o’clock"]],
+    [["a las dos y cuarto"], ["at quarter past two"]],
+    [["a las tres menos cuarto"], ["at quarter to three"]],
+    [["a las cuatro y cinco"], ["at five past four"]],
+    [["a las seis menos cinco"], ["at five to six"]],
+    [["a las siete y media"], ["at half past seven"]],
+    [["la educación primaria"], ["primary education"]],
+    [["la educación secundaria"], ["secondary education"]],
+    [["el bachillerato"], ["A levels"]],
+    [["la formación profesional"], ["vocational training"]],
+    [["el instituto"], ["secondary school", "the school"]]
+  ],
+  "section_22": [
+    [["¿Qué tal los estudios?"], ["How are your studies?"]],
+    [["más fácil que"], ["easier than", "more easy than"]],
+    [["menos divertido que"], ["less fun than"]],
+    [["Es mejor que"], ["It’s better than", "It is better than"]],
+    [["Es peor que"], ["It’s worse than", "It is worse than"]],
+    [["tan difícil como"], ["as difficult as"]],
+    [["divertido", "divertida"], ["fun"]],
+    [["aburrido", "aburrida"], ["boring"]],
+    [["útil"], ["useful"]],
+    [["relevante"], ["relevant"]],
+    [["práctico", "práctica"], ["practical"]],
+    [["creativo", "creativa"], ["creative"]],
+    [["relajante"], ["relaxing"]],
+    [["lógico", "lógica"], ["logical"]],
+    [["exigente"], ["demanding"]],
+    [
+      [
+        "Mi profesor de ciencias es paciente",
+        "Mi profesora de ciencias es paciente"
+      ],
+      ["My science teacher is patient", "My teacher of science is patient"]
+    ],
+    [["impaciente"], ["impatient"]],
+    [
+      ["severo", "severa"],
+      ["strict", "severe", "harsh"]
+    ],
+    [
+      ["listo", "lista"],
+      ["clever", "intelligent"]
+    ],
+    [
+      ["tonto", "tonta"],
+      ["stupid", "silly"]
+    ],
+    [
+      ["trabajador", "trabajadora"],
+      ["hard-working", "hard working"]
+    ],
+    [["perezoso", "perezosa"], ["lazy"]],
+    [
+      ["simpático", "simpática"],
+      ["nice", "friendly", "kind"]
+    ],
+    [["Mi profe explica bien"], ["My teacher explains well"]],
+    [
+      ["tiene buen sentido del humor"],
+      ["has a good sense of humour", "has good sense of humour"]
+    ],
+    [["tiene expectativas altas"], ["has high expectations"]],
+    [
+      ["crea un buen ambiente de trabajo"],
+      ["creates a good working atmosphere"]
+    ],
+    [["nunca se enfada"], ["never gets angry"]],
+    [["me hace pensar"], ["makes me think"]],
+    [["nos da consejos"], ["gives us advice"]],
+    [["nos pone muchos deberes"], ["gives us lots of homework"]],
+    [["el curso académico"], ["academic year"]],
+    [
+      ["los exámenes", "las evaluaciones"],
+      ["exams", "tests", "assessments"]
+    ],
+    [["suspender"], ["to fail"]],
+    [["aprobar"], ["to pass"]]
+  ],
+  "section_23": [
+    [
+      ["¿Cómo es tu insti?"],
+      ["What is your school like?", "How is your school?"]
+    ],
+    [["En mi instituto hay"], ["In my school there is"]],
+    [["Mi instituto tiene"], ["My school has"]],
+    [["un salón de actos"], ["a hall"]],
+    [["un comedor"], ["a canteen", "a cafeteria"]],
+    [["un campo de fútbol"], ["a football pitch"]],
+    [["un patio"], ["a playground"]],
+    [["un gimnasio"], ["a gym"]],
+    [["una piscina"], ["a pool", "a swimming pool"]],
+    [["una biblioteca"], ["a library"]],
+    [["una pista de tenis"], ["a tennis court"]],
+    [["unos laboratorios"], ["some laboratories", "some labs"]],
+    [["muchas aulas"], ["lots of classrooms"]],
+    [["Lo bueno es que"], ["The good thing is that"]],
+    [["Lo malo es que"], ["The bad thing is that"]],
+    [["Lo mejor es que"], ["The best thing is that"]],
+    [["Lo peor es que"], ["The worst thing is that"]],
+    [
+      ["Lo que más me gusta es"],
+      ["What I like most is", "What I like the most is"]
+    ],
+    [
+      ["Lo que menos me gusta es"],
+      ["What I like least is", "What I like the least is"]
+    ],
+    [["Mi insti es público y mixto"], ["My school is state and mixed"]],
+    [
+      ["Mi insti es privado y femenino"],
+      ["My school is all girls and private"]
+    ],
+    [["Un colegio masculino"], ["an all boys school", "a boys school"]],
+    [
+      ["En mi escuela primaria había menos deberes"],
+      ["In my primary school there was less homework"]
+    ],
+    [
+      ["Mi escuela primaria tenía más alumnos"],
+      ["My primary school had more students"]
+    ],
+    [["las instalaciones"], ["facilities"]],
+    [["aulas de informática"], ["ICT rooms"]],
+    [["poco espacio"], ["little space"]],
+    [["El edificio"], ["The building"]],
+    [["El día escolar"], ["The school day"]],
+    [["Las clases eran"], ["The lessons were"]]
+  ],
+  "section_24": [
+    [["Tengo que llevar uniforme"], ["I have to wear a uniform"]],
+    [["Tenemos que llevar corbata"], ["We have to wear a tie"]],
+    [["No llevo vaqueros"], ["I don’t wear jeans", "I do not wear jeans"]],
+    [["Llevamos un vestido"], ["We wear a dress"]],
+    [
+      ["Es obligatorio llevar zapatos"],
+      ["It’s compulsory to wear shoes", "It is compulsory to wear shoes"]
+    ],
+    [["un jersey"], ["a jumper", "a sweater"]],
+    [["una camisa"], ["a shirt"]],
+    [["una camiseta"], ["a T-shirt", "a T shirt"]],
+    [["una chaqueta a rayas"], ["a striped jacket"]],
+    [["una falda a cuadros"], ["a checked skirt"]],
+    [["unos pantalones"], ["trousers"]],
+    [["unos calcetines"], ["socks"]],
+    [["unas medias"], ["tights"]],
+    [["amarillo", "amarilla"], ["yellow"]],
+    [["blanco", "blanca"], ["white"]],
+    [["negro", "negra"], ["black"]],
+    [["rojo", "roja"], ["red"]],
+    [["morado", "morada", "violeta", "púrpura"], ["purple"]],
+    [["naranja"], ["orange"]],
+    [["rosa"], ["pink"]],
+    [["azul"], ["blue"]],
+    [["verde"], ["green"]],
+    [["gris"], ["grey"]],
+    [["marrón"], ["brown"]],
+    [["incómodo", "incómoda"], ["uncomfortable"]],
+    [
+      ["anticuado", "anticuada"],
+      ["old-fashioned", "old fashioned"]
+    ],
+    [["elegante"], ["smart"]],
+    [
+      ["mejora la disciplina"],
+      ["improves discipline", "improves the discipline"]
+    ],
+    [
+      ["limita la individualidad"],
+      ["limits individuality", "limits the individuality"]
+    ],
+    [["da una imagen positiva"], ["gives a positive image"]],
+    [["ahorra tiempo"], ["saves time"]]
+  ],
+  "section_25": [
+    [["Las normas del insti"], ["School rules", "the rules of the school"]],
+    [["Está prohibido"], ["It is forbidden", "It's forbidden"]],
+    [["No se permite"], ["You are not allowed", "You're not allowed"]],
+    [["No se debe"], ["You must not", "One must not"]],
+    [["comer chicle"], ["to chew chewing gum"]],
+    [
+      ["usar el móvil en clase"],
+      ["to use your phone in lessons", "to use the phone in lessons"]
+    ],
+    [["dañar las instalaciones"], ["to damage the facilities"]],
+    [["ser agresivo o grosero"], ["to be aggressive or rude"]],
+    [["correr en los pasillos"], ["to run in the corridors"]],
+    [["llevar piercings"], ["to have piercings"]],
+    [["Hay que"], ["It is necessary"]],
+    [["ser puntual"], ["to be on time"]],
+    [
+      ["respetar el turno de palabra"],
+      ["to wait for your turn to speak", "to respect your turn to speak"]
+    ],
+    [["mantener limpio el patio"], ["to keep the playground clean"]],
+    [
+      ["La norma más importante es"],
+      ["The most important rule is", "The most important norm is"]
+    ],
+    [["respetar a los demás"], ["to respect others"]],
+    [
+      ["Las normas son necesarias"],
+      ["The rules are necessary", "The norms are necessary"]
+    ],
+    [["para fomentar la buena disciplina"], ["for promoting good discipline"]],
+    [
+      ["limitar la libertad de expresión"],
+      ["limiting freedom of expression", "to limit the freedom of expression"]
+    ],
+    [
+      ["para fastidiar a los alumnos"],
+      ["for annoying the students", "to annoy the students"]
+    ],
+    [["sacar buenas notas"], ["to get good grades"]],
+    [["Estoy de acuerdo"], ["I agree"]],
+    [["Qué horror"], ["How awful"]],
+    [["Un problema de mi insti es"], ["One problem in my school is"]],
+    [["el estrés de los exámenes"], ["exam stress"]],
+    [["el acoso escolar"], ["bullying"]],
+    [["la presión del grupo"], ["peer pressure"]],
+    [["unos alumnos se burlan de otros"], ["some students make fun of others"]],
+    [
+      ["unos alumnos sufren intimidación"],
+      [
+        "some students suffer intimidation",
+        "some students are victims of intimidation"
+      ]
+    ],
+    [["hacen novillos"], ["skive", "truant"]],
+    [["ser parte de la pandilla"], ["to be part of the friendship"]],
+    [["son una mala influencia"], ["are a bad influence"]]
+  ],
+  "section_26": [
+    [
+      ["¿Cómo es tu día escolar?"],
+      ["What is your school day like?", "How is your school day?"]
+    ],
+    [["normalmente"], ["usually", "normally"]],
+    [["Salgo de casa a las"], ["I leave home at"]],
+    [["Voy a pie"], ["I walk", "I go on foot", "I go walking"]],
+    [["en bici"], ["by bike"]],
+    [["en autobús"], ["by bus"]],
+    [["en coche"], ["by car"]],
+    [["en metro"], ["by underground", "by tube"]],
+    [["en tren"], ["by train", "by overground"]],
+    [
+      ["Las clases empiezan a las nueve"],
+      ["Lessons start at nine", "The lessons start at nine"]
+    ],
+    [
+      ["Las clases terminan a las tres"],
+      ["Lessons finish at three", "The lessons finish at three"]
+    ],
+    [
+      ["Tenemos cinco clases al día"],
+      ["We have five lessons per day", "We have five lessons a day"]
+    ],
+    [["Cada clase dura una hora"], ["Each lesson lasts one hour"]],
+    [
+      ["El recreo es a las once"],
+      ["Break is at eleven", "Breaktime is at eleven"]
+    ],
+    [
+      ["La hora de comer es a las doce y media"],
+      ["Lunch is at half-past twelve", "Lunch is at half past twelve"]
+    ]
+  ],
+  "section_27": [
+    [["¿Qué vas a hacer?"], ["What are you going to do?"]],
+    [
+      ["Vas a llevar ropa de calle"],
+      [
+        "You’re going to wear casual clothes",
+        "You’re going to wear street clothes"
+      ]
+    ],
+    [["llegar salir estar"], ["arrive go out be"]],
+    [
+      ["Voy a ir de excursión"],
+      ["I'm going on a trip", "I am going on a trip"]
+    ],
+    [
+      ["Vamos a comer juntos"],
+      ["We're going to eat together", "We are going to eat together"]
+    ],
+    [["hacer una visita guiada"], ["do a guided tour"]],
+    [["ver los edificios"], ["see the buildings"]],
+    [
+      ["pasar todo el día en el instituto"],
+      ["spend the whole day in the school", "spend the whole day at the school"]
+    ],
+    [["asistir a clases"], ["attend lessons"]],
+    [["practicar el español"], ["practise Spanish"]],
+    [["tener una programación variada"], ["to have a varied programme"]],
+    [["Va a ser guay"], ["It’s going to be cool"]]
+  ],
+  "section_28": [
+    [
+      ["Las actividades extraescolares"],
+      ["Extra-curricular activities", "Extra curricular activities"]
+    ],
+    [
+      ["Toco la trompeta desde hace un año"],
+      ["I’ve been playing the trumpet for one year"]
+    ],
+    [
+      ["Canto en el coro desde hace un mes"],
+      ["I’ve been singing in the choir for one month"]
+    ],
+    [["Voy al club de ajedrez"], ["I go to the chess club"]],
+    [
+      ["Soy miembro del club de lectura"],
+      ["I'm a member of the reading club", "I am a member of the reading club"]
+    ],
+    [["Pienso que/Creo que"], ["I think that", "I believe that"]],
+    [
+      ["las actividades extraescolares son divertidas"],
+      [
+        "extra-curricular activities are fun",
+        "extra curricular activities are fun"
+      ]
+    ],
+    [
+      ["te ayudan a desarrollar tus talentos"],
+      ["they help you to develop your talents"]
+    ],
+    [["olvidar las presiones del colegio"], ["forget the pressures of school"]],
+    [["hacer nuevos amigos"], ["make new friends"]],
+    [["te dan más confianza"], ["they give you more confidence"]],
+    [["una sensación de logro"], ["a sense of achievement"]],
+    [
+      ["la oportunidad de ser creativo/a"],
+      ["the opportunity to be creative", "the chance to be creative"]
+    ],
+    [
+      ["la oportunidad de expresarte"],
+      ["the opportunity to express yourself", "the chance to express yourself"]
+    ],
+    [["El verano pasado"], ["Last summer"]],
+    [
+      ["participé en un evento especial"],
+      ["I participated in a special event", "I took part in a special event"]
+    ],
+    [["un torneo"], ["a tournament"]],
+    [["gané un trofeo"], ["I won a trophy"]],
+    [["toqué un solo"], ["I played a solo"]],
+    [["tuvimos una charla"], ["we had a talk", "we had a presentation"]],
+    [["ganamos una competición nacional"], ["we won a national competition"]],
+    [["dimos un concierto"], ["we gave a concert"]],
+    [["Fue un éxito"], ["It was a success"]],
+    [["El próximo trimestre"], ["Next term"]],
+    [["voy a dejarlo"], ["I’m going to stop doing it"]],
+    [["aprender a"], ["learn to"]],
+    [["continuar con"], ["continue with"]],
+    [["apuntarme al club de jazz"], ["sign up for the jazz club"]],
+    [["montar una obra de teatro"], ["put on a play"]]
+  ],
+  "section_31": [
+    [["¿Qué aplicaciones usas?"], ["What apps do you use?"]],
+    [
+      ["Uso Facebook para"],
+      ["I use Facebook in order to", "I use Facebook to"]
+    ],
+    [["ver mis series favoritas"], ["watch my favourite series"]],
+    [
+      ["organizar las salidas con mis amigos"],
+      [
+        "organise to go out with my friends",
+        "organise meetings with my friends"
+      ]
+    ],
+    [
+      ["controlar mi actividad física"],
+      ["control my physical activity", "monitor my physical activity"]
+    ],
+    [
+      ["contactar con mi familia"],
+      ["contact with my family", "get in touch with my family"]
+    ],
+    [["chatear con mis amigos"], ["chat with my friends"]],
+    [
+      ["La tengo desde hace dos meses"],
+      ["I've had it for two months", "I have had it for two months"]
+    ],
+    [
+      ["Es una buena aplicación para"],
+      ["It's a good app for", "It is a good app for"]
+    ],
+    [
+      ["buscar y descargar música"],
+      ["searching and downloading music", "looking for and downloading music"]
+    ],
+    [["pasar el tiempo"], ["passing the time"]],
+    [["sacar fotos"], ["taking photos"]],
+    [["editar fotos"], ["editing photos"]],
+    [["compartir fotos"], ["sharing photos"]],
+    [["subir fotos"], ["uploading photos"]],
+    [["estar en contacto"], ["keeping in touch"]],
+    [["conocer a nueva gente"], ["meeting new people"]],
+    [["chatear y mandar mensajes"], ["chatting and sending messages"]],
+    [
+      ["No es una red social práctica"],
+      [
+        "It's not a practical social network",
+        "It is not a practical social network"
+      ]
+    ],
+    [
+      ["Es una red social popular"],
+      ["It's a popular social network", "It is a popular social network"]
+    ],
+    [["amplio/a"], ["extensive", "large", "wide"]],
+    [["cómodo/a"], ["convenient", "comfortable"]],
+    [["divertido/a"], ["fun"]],
+    [["necesario/a"], ["necessary"]],
+    [["peligroso/a"], ["dangerous"]],
+    [["rápido/a"], ["quick", "fast", "rapid"]],
+    [["fácil de usar"], ["easy to use"]],
+    [["útil"], ["useful"]],
+    [["gratis"], ["free"]],
+    [["una pérdida de tiempo"], ["a waste of time"]],
+    [
+      ["Soy adicto/a a YouTube"],
+      ["I'm addicted to YouTube", "I am addicted to YouTube"]
+    ],
+    [
+      ["Estoy enganchado/a a mi móvil"],
+      ["I am hooked on my phone", "I am hooked to my phone"]
+    ],
+    [["te engancha"], ["it hooks you", "it gets you hooked"]]
+  ],
+  "section_32": [
+    [["¿Qué estás haciendo?"], ["What are you doing?"]],
+    [["Estoy editando mis fotos"], ["I am editing my photos"]],
+    [["Estás escuchando música"], ["You are listening to music"]],
+    [["Está descansando"], ["He is resting"]],
+    [
+      ["Están pensando en salir"],
+      ["They are thinking about going out", "They are thinking on going out"]
+    ],
+    [["actualizando mi página de Facebook"], ["updating my Facebook page"]],
+    [["preparando algo para comer"], ["preparing something to eat"]],
+    [["repasando para un examen"], ["revising for an exam"]],
+    [["tomando el sol"], ["sunbathing"]],
+    [["haciendo footing"], ["jogging", "running"]],
+    [["haciendo el vago"], ["lazing about", "being lazy"]],
+    [["leyendo"], ["reading"]],
+    [["viendo una peli"], ["watching a film"]],
+    [["escribiendo"], ["writing"]],
+    [["¿Quieres salir conmigo?"], ["Do you want to go out with me?"]],
+    [["No puedo porque está lloviendo"], ["I can't because it's raining"]],
+    [["tengo que hacer los deberes"], ["I have to do my homework"]],
+    [["visitar a mi abuela"], ["visit my grandmother"]],
+    [
+      ["cuidar a mi hermano"],
+      ["look after my brother", "take care of my brother"]
+    ],
+    [["quiero quedarme en casa"], ["I want to stay at home"]],
+    [
+      ["subir mis fotos a Instagram"],
+      ["upload my photos to Instagram", "upload my photos on Instagram"]
+    ],
+    [
+      ["¿A qué hora quedamos?"],
+      ["What time shall we meet?", "At what time do we meet?"]
+    ],
+    [["¿Dónde quedamos?"], ["Where shall we meet?", "Where do we meet?"]],
+    [["en la Plaza Mayor"], ["in the main square"]],
+    [["debajo de"], ["underneath"]],
+    [["detrás de"], ["behind"]],
+    [["delante de"], ["in front of"]],
+    [["enfrente de"], ["opposite"]],
+    [["al lado de"], ["next to"]]
+  ],
+  "section_33": [
+    [
+      ["¿Qué te gusta leer?"],
+      ["What do you like reading?", "What do you like to read?"]
+    ],
+    [["los periódicos"], ["newspapers"]],
+    [["las revistas"], ["magazines"]],
+    [["las poesías"], ["poems"]],
+    [
+      ["las novelas de ciencia ficción"],
+      ["science fiction novels", "science-fiction novels"]
+    ],
+    [["las novelas de amor"], ["romantic novels", "love novels"]],
+    [["las historias de vampiros"], ["vampire stories"]],
+    [["las biografías"], ["biographies"]],
+    [["¿Con qué frecuencia lees?"], ["How often do you read?"]],
+    [["todos los días"], ["every day", "everyday"]],
+    [["a menudo"], ["often"]],
+    [["generalmente"], ["generally", "normally"]],
+    [["de vez en cuando"], ["from time to time"]],
+    [["una vez a la semana"], ["once a week"]],
+    [["dos veces al mes"], ["twice a month"]],
+    [["una vez al año"], ["once a year"]],
+    [["nunca"], ["never"]]
+  ],
+  "section_34": [
+    [["¿Qué es mejor?"], ["What is better?"]],
+    [["leer en papel"], ["reading paper books", "reading on paper"]],
+    [["Leer en formato digital"], ["Reading in digital format"]],
+    [["protege el planeta"], ["protects the planet"]],
+    [["no malgasta papel"], ["doesn't waste paper", "does not waste paper"]],
+    [["cansa la vista"], ["tires your eyes"]],
+    [
+      ["depende de la energía eléctrica"],
+      ["depends on electricity", "relies on electricity"]
+    ],
+    [
+      ["te permite llevar miles de libros"],
+      [
+        "allows you to take thousands of books",
+        "allows you to have thousands of books"
+      ]
+    ],
+    [["cuesta mucho menos"], ["costs a lot less"]],
+    [["me fastidia"], ["it annoys me"]],
+    [
+      ["no hay numeración de páginas"],
+      ["there isn't page numbering", "there is no page numbering"]
+    ],
+    [
+      ["Los libros electrónicos son fáciles de transportar"],
+      ["Electronic books are easy to transport"]
+    ],
+    [
+      ["son más ecológicos"],
+      ["are more environmentally-friendly", "are more ecological"]
+    ],
+    [["no ocupan espacio"], ["don't take up space", "do not take up space"]],
+    [["Una desventaja es"], ["One disadvantage is"]],
+    [["el uso de batería"], ["the battery use", "the use of battery"]],
+    [
+      ["Me gusta tocar las páginas"],
+      ["I like to touch the pages", "I like touching the pages"]
+    ],
+    [
+      ["Prefiero pasar las páginas a mano"],
+      [
+        "I prefer to turn the pages by hand",
+        "I prefer turning the pages by hand"
+      ]
+    ],
+    [["escribir anotaciones"], ["to write notes", "writing notes"]],
+    [
+      ["leer horas y horas"],
+      ["to read for hours and hours", "reading for hours and hours"]
+    ],
+    [["un ratón de biblioteca"], ["a bookworm"]],
+    [["un libro tradicional"], ["a traditional book"]]
+  ],
+  "section_35": [
+    [["La familia"], ["Family"]],
+    [["el padre"], ["father"]],
+    [["la madre"], ["mother"]],
+    [["el padrastro"], ["step-father", "step father"]],
+    [["la madrastra"], ["step-mother", "step mother"]],
+    [["el hermano"], ["brother"]],
+    [["la hermana"], ["sister"]],
+    [["el hermanastro"], ["step-brother", "step brother"]],
+    [["la hermanastra"], ["step-sister", "step sister"]],
+    [["el abuelo"], ["grandfather"]],
+    [["la abuela"], ["grandmother"]],
+    [["el bisabuelo"], ["great grandfather"]],
+    [["la bisabuela"], ["great grandmother"]],
+    [["el tío"], ["uncle"]],
+    [["la tía"], ["aunt"]],
+    [["el primo"], ["male cousin"]],
+    [["la prima"], ["female cousin"]],
+    [["el sobrino"], ["nephew"]],
+    [["la sobrina"], ["niece"]],
+    [["el marido"], ["husband"]],
+    [["la mujer"], ["wife"]],
+    [["el hijo"], ["son"]],
+    [["la hija"], ["daughter"]],
+    [["el nieto"], ["grandson"]],
+    [["la nieta"], ["granddaughter"]],
+    [["mayor"], ["older"]],
+    [["menor"], ["younger"]]
+  ],
+  "section_36": [
+    [
+      ["¿Cómo es?"],
+      ["What is he like?", "What is she like?", "How is he?", "How is she?"]
+    ],
+    [["Tiene los ojos azules"], ["He has blue eyes", "She has blue eyes"]],
+    [["los ojos verdes"], ["green eyes"]],
+    [["los ojos marrones"], ["brown eyes"]],
+    [["Tiene los ojos grandes"], ["He has big eyes", "She has big eyes"]],
+    [["Tiene el pelo moreno"], ["He has dark hair", "She has dark hair"]],
+    [["el pelo rubio"], ["blond hair"]],
+    [["el pelo castaño"], ["brown hair"]],
+    [["el pelo rojo"], ["red hair"]],
+    [["el pelo corto"], ["short hair"]],
+    [["el pelo largo"], ["long hair"]],
+    [["rizado"], ["curly"]],
+    [["liso"], ["straight"]],
+    [["ondulado"], ["wavy"]],
+    [["de punta"], ["spiky"]],
+    [["Tiene la piel morena"], ["He has dark skin", "She has dark skin"]],
+    [["la piel blanca"], ["fair skin"]],
+    [["la cara redonda"], ["a round face"]],
+    [["la cara alargada"], ["an oval face"]],
+    [
+      ["los dientes prominentes"],
+      ["big teeth", "large teeth", "prominent teeth"]
+    ],
+    [["pecas"], ["freckles"]],
+    [["Lleva gafas"], ["He wears glasses", "She wears glasses"]],
+    [["Lleva barba"], ["He has a beard", "She has a beard"]],
+    [["Lleva bigote"], ["He has a moustache", "She has a moustache"]],
+    [["Es alto"], ["He is tall", "She is tall"]],
+    [["bajo"], ["short"]],
+    [["delgado"], ["slim"]],
+    [["gordito"], ["chubby"]],
+    [["gordo"], ["fat"]],
+    [["calvo"], ["bald"]],
+    [["moreno"], ["dark-haired", "dark haired"]],
+    [["rubio"], ["fair-haired", "fair haired"]],
+    [["castaño"], ["brown-haired", "brown haired"]],
+    [["pelirrojo"], ["a redhead"]],
+    [["español", "española"], ["Spanish"]],
+    [["inglés", "inglesa"], ["English"]],
+    [["peruano", "peruana"], ["Peruvian"]],
+    [
+      ["No es ni alto ni bajo"],
+      ["He is neither tall nor short", "She is neither tall nor short"]
+    ],
+    [
+      ["Nos parecemos físicamente"],
+      [
+        "We look alike physically",
+        "We look similar physically",
+        "We look like each other"
+      ]
+    ]
+  ],
+  "section_37": [
+    [
+      ["¿Cómo es de carácter?"],
+      ["What is he like as a person?", "What is she like as a person?"]
+    ],
+    [
+      ["Como persona es optimista"],
+      ["As a person he is optimistic", "As a person she is optimistic"]
+    ],
+    [["pesimista"], ["pessimistic"]],
+    [
+      ["simpático", "simpática"],
+      ["nice", "friendly", "kind"]
+    ],
+    [
+      ["antipático", "antipática"],
+      ["nasty", "unfriendly", "unpleasant"]
+    ],
+    [
+      ["trabajador", "trabajadora"],
+      ["hard-working", "hard working"]
+    ],
+    [["perezoso", "perezosa"], ["lazy"]],
+    [["generoso", "generosa"], ["generous"]],
+    [
+      ["tacaño", "tacaña"],
+      ["mean", "stingy"]
+    ],
+    [
+      ["hablador", "habladora"],
+      ["chatty", "talkative"]
+    ],
+    [
+      ["callado", "callada"],
+      ["quiet", "silent", "reserved"]
+    ],
+    [
+      ["divertido", "divertida"],
+      ["fun", "amusing"]
+    ],
+    [
+      ["gracioso", "graciosa"],
+      ["funny", "amusing"]
+    ],
+    [["serio", "seria"], ["serious"]],
+    [["fiel"], ["loyal", "faithful", "true"]],
+    [["infiel"], ["disloyal", "unfaithful"]],
+    [["feliz"], ["happy", "merry"]],
+    [["triste"], ["sad"]],
+    [["ordenado", "ordenada"], ["tidy"]],
+    [["caótico", "caótica"], ["chaotic"]],
+    [["enérgico", "enérgica"], ["energetic"]],
+    [
+      ["animado", "animada"],
+      ["lively", "cheerful"]
+    ],
+    [
+      ["tranquilo", "tranquila"],
+      ["calm", "quiet"]
+    ],
+    [
+      ["pensativo", "pensativa"],
+      ["thoughtful", "reflective"]
+    ],
+    [["comprensivo", "comprensiva"], ["understanding"]],
+    [["honesto", "honesta"], ["honest"]],
+    [["alegre"], ["cheerful"]],
+    [["molesto", "molesta"], ["annoying"]],
+    [["ambicioso", "ambiciosa"], ["ambitious"]],
+    [["egoísta"], ["selfish"]]
+  ],
+  "section_38": [
+    [
+      ["¿Te llevas bien con tu familia?"],
+      ["Do you get on well with your family?"]
+    ],
+    [["Me llevo bien con mi familia"], ["I get on well with my family"]],
+    [["Mi padre me apoya"], ["My dad supports me", "My father supports me"]],
+    [
+      ["Mi madre me acepta como soy"],
+      ["My mum accepts me as I am", "My mother accepts me as I am"]
+    ],
+    [["Mi hermano nunca me critica"], ["My brother never criticises me"]],
+    [["tenemos mucho en común"], ["we have a lot in common"]],
+    [
+      ["Me divierto con mi hermana"],
+      ["I have fun with my sister", "I have a good time with my sister"]
+    ],
+    [
+      ["Me peleo con mi primo"],
+      ["I argue with my cousin", "I fight with my cousin"]
+    ],
+    [["Nos llevamos superbién"], ["We get on really well"]],
+    [["Nos llevamos como el perro y el gato"], ["We fight like cat and dog"]],
+    [
+      ["Nos divertimos siempre"],
+      ["We always have fun", "We always have a good time"]
+    ]
+  ],
+  "section_39": [
+    [
+      ["¿Cómo es un buen amigo?"],
+      ["What is a good friend like?", "How is a good friend?"]
+    ],
+    [["Un buen amigo es alguien que"], ["A good friend is someone who"]],
+    [["te apoya"], ["supports you"]],
+    [["te escucha"], ["listens to you"]],
+    [["te conoce bien"], ["knows you well"]],
+    [["te acepta como eres"], ["accepts you as you are"]],
+    [["te quiere mucho"], ["loves you a lot"]],
+    [["te da consejos"], ["gives you advice"]],
+    [["te hace reír"], ["makes you laugh"]],
+    [["no te critica"], ["doesn't criticise you", "does not criticise you"]],
+    [["nunca te juzga"], ["never judges you"]],
+    [["Conocí a mi mejor amigo/a"], ["I met my best friend"]],
+    [["Nos conocimos"], ["We met"]],
+    [["Nos hicimos amigos"], ["We became friends"]],
+    [
+      ["Nos hicimos novios"],
+      [
+        "We became a couple",
+        "We started going out",
+        "We became boyfriend and girlfriend"
+      ]
+    ],
+    [["convivimos"], ["we lived together"]],
+    [["nos casamos"], ["we got married"]],
+    [
+      ["Es el amor de mi vida"],
+      ["He is the love of my life", "She is the love of my life"]
+    ],
+    [["Tenemos mucho en común"], ["We have a lot in common"]],
+    [["nos gustan las mismas cosas"], ["we like the same things"]],
+    [["nos encantan las mismas películas"], ["we love the same films"]]
+  ],
+  "section_41": [
+    [["La paga"], ["Pocket money", "my pay"]],
+    [["Mis padres me dan"], ["My parents give me"]],
+    [["Mi madre me da"], ["My mum gives me", "My mother gives me"]],
+    [["diez euros a la semana"], ["ten euros a week"]],
+    [["Gasto mi paga en"], ["I spend my pocket money on", "I spend my pay on"]],
+    [["También compro"], ["I also buy", "I buy also"]],
+    [["saldo para el móvil"], ["credit for my phone", "credit for the phone"]],
+    [["ropa"], ["clothes"]],
+    [["joyas"], ["jewellery"]],
+    [["maquillaje"], ["make-up", "make up"]],
+    [["zapatillas de marca"], ["designer trainers", "branded trainers"]],
+    [["videojuegos"], ["videogames", "computer games"]],
+    [["revistas"], ["magazines"]]
+  ],
+  "section_42": [
+    [["Mis ratos libres"], ["My free time", "My spare time"]],
+    [
+      ["las actividades de ocio"],
+      ["leisure activities", "recreational activities"]
+    ],
+    [
+      ["Tengo muchos pasatiempos"],
+      ["I have lots of hobbies", "I have many hobbies"]
+    ],
+    [["A la hora de comer"], ["At lunchtime", "At lunch time"]],
+    [["Cuando tengo tiempo"], ["When I have time", "Whenever I have time"]],
+    [["Después del insti"], ["After school"]],
+    [["Los fines de semana"], ["At weekends", "On the weekends"]],
+    [
+      ["Mientras desayuno"],
+      ["Whilst I have breakfast", "While I have breakfast"]
+    ],
+    [["juego al billar"], ["I play billiards", "I play pool"]],
+    [["futbolín"], ["table football", "foosball"]],
+    [
+      ["monto en bici"],
+      ["I ride my bike", "I ride a bike", "I go bike riding"]
+    ],
+    [
+      ["monto en monopatín"],
+      ["I skateboard", "I ride a skateboard", "I go on a skateboard"]
+    ],
+    [
+      ["quedo con mis amigos"],
+      [
+        "I meet up with my friends",
+        "I go out with my friends",
+        "I catch up with my friends"
+      ]
+    ],
+    [["voy de compras"], ["I go shopping"]],
+    [
+      ["mi pasión es la lectura"],
+      ["my passion is reading", "my passion is literature"]
+    ],
+    [["Suelo"], ["I tend to", "I usually"]],
+    [["descansar"], ["rest"]],
+    [["escuchar música"], ["listen to music"]],
+    [["hacer deporte"], ["do sport"]],
+    [["ir al cine"], ["go to the cinema"]],
+    [["leer periódicos"], ["read newspapers"]],
+    [["salir con amigos"], ["go out with friends"]],
+    [["usar el ordenador"], ["use the computer"]],
+    [["ver la tele"], ["watch TV", "watch televission", "watch the telly"]],
+    [["Es relajante"], ["It’s relaxing", "It is relaxing"]],
+    [["Soy creativo/a"], ["I’m creative", "I am creative"]],
+    [["me ayuda a relajarme"], ["it helps me to relax", "helps me to relax"]],
+    [
+      ["me ayuda a olvidarme de todo"],
+      [
+        "it helps me to forget everything",
+        "helps me to forget about everything"
+      ]
+    ],
+    [["me hace reír"], ["it makes me laugh", "makes me laugh"]]
+  ],
+  "section_43": [
+    [["música", "La música"], ["Music"]],
+    [["Me gusta el soul"], ["I like soul"]],
+    [["Me gusta el rap"], ["I like rap"]],
+    [["hip-hop"], ["hip-hop"]],
+    [["pop"], ["pop"]],
+    [["rock"], ["rock"]],
+    [["música jazz", "la música jazz"], ["jazz music"]],
+    [["música clásica", "la música clásica"], ["classical music"]],
+    [["música electrónica", "la música electrónica"], ["electronic music"]],
+    [
+      ["asistir a un concierto", "asistir al concierto"],
+      ["to attend a concert", "to go to a concert"]
+    ],
+    [["cantar una canción", "cantar la canción"], ["to sing a song"]],
+    [["tocar el teclado", "tocar el teclado"], ["to play the keyboard"]],
+    [["la batería", "la batería"], ["the drums"]],
+    [["la flauta", "la flauta"], ["the flute"]],
+    [["la guitarra", "la guitarra"], ["the guitar"]],
+    [["la trompeta", "la trompeta"], ["the trumpet"]],
+    [
+      ["mi cantante preferido es", "mi cantante preferido es"],
+      ["my favourite singer is", "my prefered singer is"]
+    ],
+    [["un espectáculo", "un espectáculo"], ["a show"]],
+    [["una gira mundial", "una gira mundial"], ["a world tour"]]
+  ],
+  "section_44": [
+    [["El deporte"], ["Sport", "Sports"]],
+    [["Soy bastante deportista"], ["I am quite sporty"]],
+    [
+      ["Era miembro de un equipo"],
+      ["I used to be a member of a team", "I was a member of a team"]
+    ],
+    [["Yo era miembro de un equipo"], ["I was a member of a team"]],
+    [["aficionado/a del Real Madrid"], ["a fan of Real Madrid"]],
+    [["un fanático/a del fútbol"], ["a football fanatic", "a football fan"]],
+    [["juego al bádminton"], ["I play badminton"]],
+    [["jugué al balonmano"], ["I played handball"]],
+    [
+      ["jugaba al baloncesto"],
+      ["I used to play basketball", "I played basketball"]
+    ],
+    [["ping-pong"], ["table tennis"]],
+    [["voleibol"], ["volleyball"]],
+    [["hago equitación"], ["I do horseriding"]],
+    [["hice judo"], ["I did judo"]],
+    [["hacía ciclismo"], ["I used to do cycling", "I did cycling"]],
+    [["deportes acuáticos"], ["water sports"]],
+    [["patinaje sobre hielo"], ["ice skating"]],
+    [["piragüismo"], ["canoeing"]],
+    [["remo"], ["rowing"]],
+    [["submarinismo"], ["diving"]],
+    [["tiro con arco"], ["archery"]],
+    [
+      ["voy a clases de baile"],
+      ["I go to dancing lessons", "I go to dancing classes"]
+    ],
+    [
+      ["fui a clases de escalada"],
+      ["I went to climbing lessons", "I went to climbing classes"]
+    ],
+    [
+      ["iba a clases de natación"],
+      ["I used to go to swimming lessons", "I used to go to swimming classes"]
+    ],
+    [["pesca"], ["fishing"]],
+    [["ya no juego al tenis"], ["I no longer play tennis"]],
+    [["todavía hago boxeo"], ["I still do boxing"]],
+    [["batir un récord"], ["to break a record", "to beat a record"]],
+    [["correr"], ["to run"]],
+    [["entrenar"], ["to train"]],
+    [["jugar un partido contra"], ["to play a match against"]],
+    [["marcar un gol"], ["to score a goal", "to score"]],
+    [["montar a caballo"], ["to go horseriding"]],
+    [["participar en un torneo"], ["to participate in a tournament"]],
+    [["patinar"], ["to skate", "rollerblading"]],
+    [
+      ["mi jugador preferido es"],
+      ["my favourite player is", "my prefered player is"]
+    ],
+    [
+      ["su punto culminante fue cuando"],
+      ["the highlight of his career was", "the highlight of her career was"]
+    ],
+    [["el campeón"], ["the champion"]],
+    [["la campeona"], ["the champion"]],
+    [["la temporada"], ["the season"]]
+  ],
+  "section_45": [
+    [
+      ["tele", "La tele"],
+      ["the TV", "the television", "the telly"]
+    ],
+    [["Soy teleadicto/a"], ["I'm a TV addict", "I am a TV addict"]],
+    [
+      ["Mi programa favorito es"],
+      [
+        "My favourite programme is",
+        "My favourite program is",
+        "My preferred program is"
+      ]
+    ],
+    [["un concurso"], ["a game show"]],
+    [["un programa de deportes"], ["a sports programme", "a sports program"]],
+    [["un reality"], ["a reality TV show", "a reality show"]],
+    [["un documental"], ["a documentary"]],
+    [["una telenovela"], ["a soap", "a soap opera"]],
+    [["una comedia"], ["a comedy"]],
+    [["una serie policíaca"], ["a crime series", "a police series"]],
+    [["las noticias"], ["the news"]],
+    [["Me gustan las comedias"], ["I like comedies"]],
+    [["Es aburrido"], ["It is boring"]],
+    [["Son entretenidas"], ["They are entertaining"]],
+    [["adictivo"], ["addictive"]],
+    [["divertido"], ["fun", "amusing"]],
+    [
+      ["tonto", "tonta"],
+      ["silly", "stupid"]
+    ],
+    [["informativo"], ["informative"]],
+    [["malo", "mala"], ["bad"]],
+    [["emocionante"], ["exciting"]],
+    [["interesante"], ["interesting"]]
+  ],
+  "section_46": [
+    [
+      ["películas", "Las películas"],
+      ["Films", "movies"]
+    ],
+    [["un misterio"], ["a mystery"]],
+    [["una película de amor"], ["a love film", "a romantic film", "a romance"]],
+    [["una película de terror"], ["a horror film", "a horror movie"]],
+    [["una película de acción"], ["an action film", "an action movie"]],
+    [
+      ["una película de aventuras"],
+      ["an adventure film", "an adventure movie"]
+    ],
+    [["una película de animación"], ["an animated film", "an animated movie"]],
+    [
+      ["una película de ciencia ficción"],
+      ["a sci-fi film", "a sci-fi movie", "a science fiction film"]
+    ],
+    [["una película de fantasía"], ["a fantasy film", "a fantasy movie"]],
+    [["una película extranjera"], ["a foreign film", "a foreign movie"]]
+  ],
+  "section_47": [
+    [["nacionalidades", "Nacionalidades"], ["Nationalities"]],
+    [["americano", "americana"], ["American"]],
+    [["argentino", "argentina"], ["Argentinian"]],
+    [["británico", "británica"], ["British"]],
+    [["chino", "china"], ["Chinese"]],
+    [["griego", "griega"], ["Greek"]],
+    [["italiano", "italiana"], ["Italian"]],
+    [["mexicano", "mexicana"], ["Mexican"]],
+    [["sueco", "sueca"], ["Swedish"]],
+    [["alemán", "alemana"], ["German"]],
+    [["danés", "danesa"], ["Danish"]],
+    [["español", "española"], ["Spanish"]],
+    [["francés", "francesa"], ["French"]],
+    [["holandés", "holandesa"], ["Dutch"]],
+    [["inglés", "inglesa"], ["English"]],
+    [["irlandés", "irlandesa"], ["Irish"]],
+    [["japonés", "japonesa"], ["Japanese"]]
+  ],
+  "section_48": [
+    [["temas del momento"], ["Trending topics"]],
+    [["he compartido"], ["I've shared", "I have shared"]],
+    [["he comprado"], ["I've bought", "I have bought"]],
+    [["he jugado"], ["I've played", "I have played"]],
+    [["he leído"], ["I've read", "I have read"]],
+    [["he oído"], ["I've heard", "I have heard", "I've listened"]],
+    [["he roto"], ["I've broken", "I have broken"]],
+    [["he subido"], ["I've uploaded", "I have uploaded"]],
+    [["¿Has probado?"], ["Have you tried?"]],
+    [["mi hermano ha descargado"], ["my brother has downloaded"]],
+    [
+      ["se ha estrenado"],
+      ["has been released", "It has been released", "It's been released"]
+    ],
+    [["la nueva canción"], ["the new song"]],
+    [["el último libro"], ["the latest book", "the last book"]],
+    [
+      ["Ya lo he visto"],
+      [
+        "I've already seen it",
+        "I have already seen it",
+        "I've already watched it"
+      ]
+    ],
+    [
+      ["No la he visto todavía"],
+      [
+        "I haven't seen it yet",
+        "I have not seen it yet",
+        "I haven't watched it yet"
+      ]
+    ],
+    [["acabo de jugar a"], ["I've just played", "I have just played"]],
+    [["cuenta la historia de"], ["it tells the story of"]],
+    [["trata de"], ["it is about"]],
+    [
+      ["combina el misterio con la acción"],
+      ["it combines mystery with action"]
+    ],
+    [["el argumento es fuerte"], ["the plot is strong"]],
+    [["la banda sonora es buena"], ["the soundtrack is good"]],
+    [["los actores son malos"], ["the actors are bad"]],
+    [["los efectos especiales"], ["the special effects", "the special FX"]],
+    [["los gráficos"], ["the graphics"]],
+    [["los personajes"], ["the characters"]],
+    [["las animaciones"], ["the animations"]],
+    [["las canciones"], ["the songs"]],
+    [
+      ["guapo", "guapa"],
+      ["good looking", "pretty"]
+    ],
+    [["guay"], ["cool"]],
+    [["estupendos"], ["great"]],
+    [["impresionantes"], ["impressive"]],
+    [["originales"], ["original"]],
+    [["repetitivos", "repetitivas"], ["repetitive"]]
+  ],
+  "section_49": [
+    [["ir al cine"], ["Going to the cinema", "to go to the cinema"]],
+    [["ir al teatro"], ["Going to the theatre", "to go to the theatre"]],
+    [["¿Qué vamos a hacer mañana?"], ["What are we going to do tomorrow?"]],
+    [["esta tarde"], ["this afternoon"]],
+    [["esta noche"], ["tonight"]],
+    [
+      ["¿Tienes ganas de ir a un concierto?"],
+      ["Do you fancy going to a concert?", "Do you want to go to a concert?"]
+    ],
+    [["un festival"], ["a festival"]],
+    [["un espectáculo de baile"], ["a dance show"]],
+    [["el circo?"], ["the circus?"]],
+    [["¿Qué ponen?"], ["What's on?", "What is on?"]],
+    [
+      ["Es una película de Spielberg"],
+      ["It’s a Spielberg film", "It is a Spielberg film"]
+    ],
+    [
+      ["Es una obra de Shakespeare"],
+      ["It’s a Shakespeare play", "It is a Shakespeare play"]
+    ],
+    [
+      ["¿A qué hora empieza?"],
+      ["What time does it start?", "At what time does it start?"]
+    ],
+    [["Termina a las diez"], ["It finishes at ten"]],
+    [["Dos entradas por favor"], ["Two tickets please"]],
+    [
+      ["No quedan entradas"],
+      ["There are no tickets left", "There aren't any tickets left"]
+    ],
+    [
+      ["¿Hay un descuento para estudiantes?"],
+      ["Is there a discount for students?", "Is there a student discount?"]
+    ],
+    [
+      ["Aquí tiene mi carné de estudiante"],
+      ["Here is my student card", "Here is my student ID"]
+    ]
+  ],
+  "section_410": [
+    [
+      ["¿En el cine o en casa?"],
+      ["At the cinema or at home?", "In the cinema or at home?"]
+    ],
+    [["Me gusta ir al cine porque"], ["I like going to the cinema because"]],
+    [
+      ["Prefiero ver las pelis en casa porque"],
+      ["I prefer watching films at home because"]
+    ],
+    [["el ambiente es mejor"], ["the atmosphere is better"]],
+    [["hay demasiadas personas"], ["there are too many people"]],
+    [
+      ["la imagen es mejor en la gran pantalla"],
+      [
+        "the picture is better on the big screen",
+        "the image is better on the big screen"
+      ]
+    ],
+    [["las entradas son muy caras"], ["the tickets are very expensive"]],
+    [
+      ["las palomitas están ricas"],
+      ["the popcorn is tasty", "the popcorn is nice"]
+    ],
+    [["los asientos no son cómodos"], ["the seats are not comfortable"]],
+    [
+      ["los otros espectadores me molestan"],
+      ["the other spectators annoy me", "the other viewers annoy me"]
+    ],
+    [
+      ["ponen tráilers para las nuevas pelis"],
+      ["they show trailers for new films", "they show trailers for new movies"]
+    ],
+    [
+      ["si vas al baño te pierdes una parte"],
+      ["if you go to the toilet you miss a part"]
+    ],
+    [["tienes que hacer cola"], ["you have to queue"]],
+    [["una corrida de toros"], ["a bull fight"]],
+    [["en directo"], ["live"]]
+  ],
+  "section_411": [
+    [["Los modelos a seguir"], ["Role models"]],
+    [["Admiro a"], ["I admire"]],
+    [["Mi inspiración es"], ["My inspiration is"]],
+    [["Mi ídolo es"], ["My idol is"]],
+    [
+      ["es un mal modelo a seguir"],
+      ["he is a bad role model", "she is a bad role model"]
+    ],
+    [
+      ["Un buen modelo a seguir es alguien que"],
+      ["A good role model is someone who"]
+    ],
+    [["apoya a organizaciones benéficas"], ["supports charities"]],
+    [["recauda fondos para"], ["raises money for"]],
+    [["tiene mucho talento"], ["is very talented"]],
+    [["tiene mucho éxito"], ["is very successful"]],
+    [
+      ["trabaja en defensa de los animales"],
+      ["works in defence of animals", "works in defense of animals"]
+    ],
+    [
+      ["usa su fama para ayudar a los demás"],
+      ["uses his fame to help others", "uses her fame to help others"]
+    ],
+    [["se emborrachan"], ["they get drunk"]],
+    [["se comportan mal"], ["they behave badly", "they misbehave"]],
+    [
+      ["se meten en problemas con la policía"],
+      ["they get into trouble with the police"]
+    ],
+    [["amable"], ["nice", "pleasant"]],
+    [["cariñoso", "cariñosa"], ["affectionate"]],
+    [["fuerte"], ["strong"]],
+    [["lucha por los derechos de"], ["fights for the rights of"]],
+    [["lucha contra"], ["fights against"]],
+    [["la pobreza"], ["poverty"]],
+    [["la homofobia"], ["homophobia"]],
+    [["los derechos de los refugiados"], ["the rights of refugees"]],
+    [["los niños desfavorecidos"], ["underprivileged children"]],
+    [["la justicia social"], ["social justice"]],
+    [
+      ["a pesar de sus problemas"],
+      [
+        "despite his problems",
+        "despite her problems",
+        "in spite of his problems"
+      ]
+    ],
+    [["ha batido varios récords"], ["has broken several records"]],
+    [["ha creado"], ["has created"]],
+    [["ha ganado tres medallas"], ["has won three medals"]],
+    [["ha sufrido varias enfermedades"], ["has suffered several illnesses"]],
+    [["ha superado sus problemas"], ["has overcome his problems"]],
+    [["ha tenido mucho éxito como"], ["has had lots of success as"]],
+    [["siempre sonríe"], ["always smiles"]],
+    [["solo piensa en los demás"], ["only thinks of other people"]]
+  ],
+  "section_51": [
+    [["Mi ciudad tiene"], ["My city has", "My town has"]],
+    [["En mi pueblo hay"], ["In my town there is", "In my village there is"]],
+    [["un ayuntamiento"], ["a town hall"]],
+    [["muchos bares"], ["lots of bars"]],
+    [["un cine"], ["a cinema"]],
+    [["un castillo en ruinas"], ["a ruined castle", "a castle in ruins"]],
+    [["un mercado"], ["a market"]],
+    [["un museo"], ["a museum"]],
+    [["un parque"], ["a park"]],
+    [["un polideportivo"], ["a sports centre"]],
+    [["un puerto"], ["a port", "a harbour"]],
+    [["un teatro"], ["a theatre"]],
+    [["una biblioteca"], ["a library"]],
+    [["una bolera"], ["a bowling alley"]],
+    [["una iglesia"], ["a church"]],
+    [["una piscina"], ["a swimming pool", "a pool"]],
+    [["una playa"], ["a beach"]],
+    [["una Plaza Mayor"], ["a town square", "a main square"]],
+    [["una pista de hielo"], ["an ice rink"]],
+    [["una oficina de Correos"], ["a post office"]],
+    [["muchas tiendas"], ["lots of shops", "many shops"]],
+    [
+      ["muchos lugares de interés"],
+      [
+        "many interesting places",
+        "lots of interesting places",
+        "lots of sights"
+      ]
+    ],
+    [
+      ["mucho que hacer"],
+      ["a lot to do", "lots of things to do", "many things to do"]
+    ],
+    [["no hay nada que hacer"], ["there is nothing to do"]],
+    [["Vivo en un pueblo"], ["I live in a village", "I live in a town"]],
+    [["histórico"], ["historic"]],
+    [["moderno"], ["modern"]],
+    [["tranquilo"], ["quiet"]],
+    [["ruidoso"], ["noisy"]],
+    [["turístico"], ["touristy"]],
+    [["bonito"], ["pretty"]],
+    [["feo"], ["ugly"]],
+    [
+      ["Está situado en el norte del país"],
+      ["It is situated in the north of the country"]
+    ],
+    [["el sur"], ["the south"]],
+    [["el este"], ["the east"]],
+    [["el oeste"], ["the west"]]
+  ],
+  "section_52": [
+    [
+      ["¿Por dónde se va al cine?"],
+      ["How do you get to the cinema?", "How do you go to the cinema?"]
+    ],
+    [
+      ["¿Dónde está la piscina?"],
+      ["Where is the pool?", "Where is the swimming pool?"]
+    ],
+    [
+      ["¿Está cerca el gimnasio?"],
+      ["Is the gym nearby?", "Is the gym near?", "Is the gym close?"]
+    ],
+    [["sigue todo recto"], ["go straight on", "go straight ahead"]],
+    [["gira a la derecha"], ["turn right"]],
+    [["gira a la izquierda"], ["turn left"]],
+    [
+      ["toma la primera calle a la derecha"],
+      ["take the first street on the right", "take the first road on the right"]
+    ],
+    [
+      ["toma la segunda calle a la izquierda"],
+      ["take the second street on the left", "take the second road on the left"]
+    ],
+    [
+      ["toma la tercera calle a la derecha"],
+      ["take the third street on the right", "take the third road on the right"]
+    ],
+    [
+      ["pasa el puente"],
+      ["pass the bridge", "go over the bridge", "cross the bridge"]
+    ],
+    [["los semáforos"], ["the traffic lights"]],
+    [["cruza la plaza"], ["cross the square", "pass the square"]],
+    [
+      ["coge el autobús número doce"],
+      ["take the bus number twelve", "catch the bus number twelve"]
+    ],
+    [
+      ["está en la esquina"],
+      ["it's in the corner", "it is in the corner", "it's on the corner"]
+    ],
+    [["al final de la calle"], ["at the end of the street"]],
+    [["al lado del museo"], ["next to the museum", "beside the museum"]],
+    [["enfrente de"], ["opposite"]]
+  ],
+  "section_53": [
+    [
+      ["¿Cómo es tu zona?"],
+      ["What is your area like?", "How is your area?", "How is your zone?"]
+    ],
+    [
+      ["está situado en un valle"],
+      [
+        "it is situated in a valley",
+        "it is located in a valley",
+        "it is placed in a valley"
+      ]
+    ],
+    [
+      ["entre el desierto y la sierra"],
+      ["between the desert and the mountains"]
+    ],
+    [
+      ["al lado del río"],
+      ["by the river", "beside the river", "next to the river"]
+    ],
+    [["lleno de bosques"], ["full of woods", "full of forests"]],
+    [
+      ["a mil metros sobre el nivel del mar"],
+      ["at a thousand metres above sea level"]
+    ],
+    [
+      ["Tiene varias influencias culturales"],
+      ["It has various cultural influences"]
+    ],
+    [
+      ["unos impresionantes paisajes naturales"],
+      ["some amazing natural landscapes", "some impressive natural landscapes"]
+    ],
+    [["el bullicio de una ciudad"], ["the hustle and bustle of a city"]],
+    [["El clima es soleado"], ["The climate is sunny"]],
+    [["El clima es seco"], ["The climate is dry"]],
+    [["El clima es caluroso"], ["The climate is hot"]],
+    [["El clima es templado"], ["The climate is mild"]],
+    [["llueve a menudo"], ["it rains often", "it often rains"]],
+    [["en primavera"], ["in spring"]],
+    [["invierno"], ["winter"]],
+    [["verano"], ["summer"]],
+    [["otoño"], ["autumn"]],
+    [["hay mucha marcha"], ["there is lots going on"]],
+    [["Es mi ciudad natal"], ["It is my home town"]],
+    [["mi lugar favorito"], ["my favourite place", "my prefered place"]],
+    [["acogedor"], ["welcoming"]],
+    [["famoso por", "famosa por"], ["famous for"]],
+    [["una región muy húmeda"], ["a very humid region"]],
+    [["una zona muy montañosa"], ["a very mountainous area"]],
+    [["pintoresco"], ["picturesque"]],
+    [["tan fácil desplazarse"], ["so easy to get around"]],
+    [
+      ["Se puede subir a la torre"],
+      ["you can go up the tower", "one can go up the tower"]
+    ],
+    [["hacer un recorrido en autobús"], ["do a bus tour"]],
+    [["disfrutar de las vistas"], ["enjoy the views"]],
+    [["el ambiente"], ["the atmosphere"]],
+    [
+      ["apreciar la arquitectura variada"],
+      [
+        "appreciate the variety of architecture",
+        "appreciate the varied architecture"
+      ]
+    ],
+    [
+      ["aprovechar el buen tiempo"],
+      [
+        "make the most of the good weather",
+        "take advantage of the good weather"
+      ]
+    ],
+    [
+      ["Se pueden probar platos típicos"],
+      ["You can try local dishes", "You can try typical dishes"]
+    ],
+    [
+      ["ver edificios de estilos muy diferentes"],
+      [
+        "see buildings with very different styles",
+        "see buildings of very different styles"
+      ]
+    ]
+  ],
+  "section_54": [
+    [
+      ["En la oficina de turismo"],
+      ["At the tourist office", "In the tourist office"]
+    ],
+    [
+      ["¿Me puede dar un plano de la ciudad?"],
+      ["Can you give me a map of the city?"]
+    ],
+    [
+      ["¿Cuánto cuesta una entrada para adultos?"],
+      [
+        "How much is a ticket for adults?",
+        "How much does a ticket for adults cost?"
+      ]
+    ],
+    [
+      ["¿Dónde se pueden sacar las entradas?"],
+      ["Where can you get the tickets?", "Where can one get the tickets?"]
+    ],
+    [
+      ["¿A qué hora sale el autobús?"],
+      ["What time does the bus leave?", "At what time does the bus leave?"]
+    ],
+    [
+      ["¿Hay visitas guiadas?"],
+      ["Are there guided tours?", "Are there guided visits?"]
+    ],
+    [
+      ["¿Me puede recomendar un hotel?"],
+      ["Can you recommend a hotel?", "Can you recommend a hotel to me?"]
+    ],
+    [["un restaurante típico"], ["a typical restaurant"]]
+  ],
+  "section_55": [
+    [["¿Qué haremos mañana?"], ["What will we do tomorrow?"]],
+    [
+      ["Sacaré muchas fotos"],
+      [
+        "I will take lots of photos",
+        "I will take many photos",
+        "I'll take many photos"
+      ]
+    ],
+    [
+      ["Subiremos al teleférico"],
+      ["We will go up on the cable car", "We'll go up on the cable car"]
+    ],
+    [
+      ["Bajaremos a pie"],
+      ["We will go down on foot", "We'll go down on foot", "We will walk down"]
+    ],
+    [
+      ["Pasaremos entre las nubes"],
+      ["We will go through the clouds", "We'll go through the clouds"]
+    ],
+    [
+      ["Iremos a la playa"],
+      ["We will go to the beach", "We'll go to the beach"]
+    ],
+    [["una excursión en barco"], ["a boat trip"]],
+    [["Haremos piraguïsmo"], ["We will go canoeing", "We'll go canoeing"]],
+    [["Podremos hacer"], ["We will be able to do", "We'll be able to do"]],
+    [
+      ["Podrás comprar regalos"],
+      ["You will be able to buy presents", "You'll be able to buy presents"]
+    ],
+    [
+      ["será genial"],
+      ["it will be great", "it'll be great", "it will be amazing"]
+    ],
+    [
+      ["Estoy muy a gusto"],
+      [
+        "I am feeling very much at home",
+        "I'm feeling very much at home",
+        "I'm very comfortable"
+      ]
+    ],
+    [["Buena idea"], ["Good idea", "Great idea", "Nice idea"]],
+    [["de acuerdo"], ["OK", "alright", "I agree"]],
+    [["Qué mal rollo"], ["What a nightmare", "How bad"]],
+    [["Qué pena"], ["What a shame"]],
+    [["Qué triste"], ["How sad"]]
+  ],
+  "section_56": [
+    [
+      ["¿Qué tiempo hará?"],
+      [
+        "What will the weather be like?",
+        "How will the weather be?",
+        "What weather will be there?"
+      ]
+    ],
+    [["Hará sol"], ["It will be sunny", "It'll be sunny"]],
+    [["Hará viento"], ["It will be windy", "It'll be windy"]],
+    [
+      ["Habrá nubes"],
+      ["There will be clouds", "It will be cloudy", "It'll be cloudy"]
+    ],
+    [["claros"], ["clear spells"]],
+    [["chubascos"], ["showers"]],
+    [["una ola de calor"], ["a heat wave"]],
+    [["truenos y relámpagos"], ["thunder and lightning"]],
+    [["temperaturas más altas"], ["higher temperatures"]],
+    [["granizos"], ["hail"]],
+    [["brisas fuertes"], ["strong winds"]],
+    [["periodos soleados"], ["sunny periods"]],
+    [["lloverá bastante"], ["it will rain quite a bit", "it will rain a lot"]],
+    [["Las temperaturas bajarán"], ["The temperatures will fall"]],
+    [["El tiempo será variable"], ["The weather will be variable"]],
+    [["El tiempo se despejará"], ["The weather will clear up"]],
+    [["El tiempo cambiará"], ["The weather will change"]],
+    [["El tiempo no nos importará"], ["The weather will not matter to us"]]
+  ],
+  "section_57": [
+    [["Las tiendas"], ["Shops"]],
+    [["el banco"], ["bank"]],
+    [["el estanco"], ["tobacconist"]],
+    [["la cafetería"], ["café", "coffee shop"]],
+    [["la carnicería"], ["butcher"]],
+    [["la estación de trenes"], ["train station"]],
+    [["la farmacia"], ["pharmacy", "drugstore", "chemist"]],
+    [["la frutería"], ["greengrocer", "fruit shop"]],
+    [["la joyería"], ["jeweller", "jeweler"]],
+    [["la librería"], ["book shop"]],
+    [["la panadería"], ["bakery"]],
+    [["la papelería"], ["stationery shop", "stationery"]],
+    [["la pastelería"], ["cake shop"]],
+    [["la peluquería"], ["hairdresser"]],
+    [["la pescadería"], ["fish shop"]],
+    [["la tienda de ropa"], ["clothes shop", "clothing store"]],
+    [["la zapatería"], ["shoe shop", "shoe store"]],
+    [["un regalo"], ["a present"]],
+    [["sellos"], ["stamps"]],
+    [["una carta"], ["a letter"]],
+    [["recoger"], ["to pick up", "to pick"]],
+    [["mandar"], ["to send"]],
+    [["horario comercial"], ["business hours", "commercial hours"]],
+    [["horas de apertura"], ["opening hours"]],
+    [
+      ["de lunes a viernes"],
+      ["from Monday to Friday", "from Mondays to Fridays", "Mondays to Fridays"]
+    ],
+    [["abre a las nueve"], ["it opens at nine"]],
+    [["abre a la una"], ["it opens at one"]],
+    [
+      ["no cierra a mediodía"],
+      ["it doesn't close at midday", "it does not close at midday"]
+    ],
+    [
+      ["cerrado domingo y festivos"],
+      [
+        "closed on Sundays and public holidays",
+        "closed on Sundays and bank holidays"
+      ]
+    ],
+    [["abierto todos los días"], ["open every day", "open everyday"]]
+  ],
+  "section_58": [
+    [["recuerdos y regalos"], ["souvenirs and presents"]],
+    [["el abanico"], ["fan"]],
+    [["el llavero"], ["key ring"]],
+    [["el oso de peluche"], ["teddy bear"]],
+    [["los pendientes"], ["earrings"]],
+    [["la gorra"], ["cap"]],
+    [["la taza"], ["mug"]],
+    [["las golosinas"], ["sweets", "candies"]],
+    [["las pegatinas"], ["stickers"]],
+    [["¿me puede ayudar?"], ["can you help me?"]],
+    [["quiero comprar"], ["i want to buy"]],
+    [
+      ["¿tiene uno más barato"],
+      ["do you have a cheaper one", "have you got a cheaper one?"]
+    ],
+    [
+      ["un billete de cincuenta euros"],
+      ["a fifty euro note", "a fifty euros note", "a note of fifty euros"]
+    ],
+    [["tengo cambio"], ["i have change", "i've got change"]]
+  ],
+  "section_59": [
+    [["quejas"], ["complaints"]],
+    [["quiero devolver"], ["i want to return"]],
+    [["está roto"], ["it is broken", "it's broken"]],
+    [["es demasiado estrecho"], ["it is too tight", "it's too tight"]],
+    [
+      ["tiene un agujero"],
+      ["it has a hole", "it has got a hole", "it's got a hole"]
+    ],
+    [
+      ["tiene una mancha"],
+      ["it has a stain", "it has got a stain", "it's got a stain"]
+    ],
+    [
+      ["le falta un botón"],
+      ["it is missing a button", "it's missing a button", "a button is missing"]
+    ],
+    [["¿puede reembolsarme el dinero?"], ["can you reimburse me the money?"]],
+    [["podemos hacer un cambio"], ["we can exchange it"]],
+    [["¿qué me recomienda?"], ["what do you recommend?"]],
+    [["¿qué te parece?"], ["what do you think?", "how about?"]],
+    [
+      ["te queda bien"],
+      ["it suits you", "it looks good on you", "it looks good"]
+    ],
+    [
+      ["te quedan demasiado grandes"],
+      ["they are too big on you", "they are too big for you"]
+    ],
+    [
+      ["una talla más grande"],
+      ["a bigger size", "one bigger size", "one size bigger"]
+    ],
+    [["en rebajas"], ["on sale"]],
+    [["me lo llevo"], ["i will take it", "i'll take it", "i'm taking it"]]
+  ],
+  "section_510": [
+    [["de compras"], ["shopping"]],
+    [["normalmente voy"], ["normally i go", "i normally go"]],
+    [["suelo ir"], ["i tend to go", "i usually go"]],
+    [
+      ["a los centros comerciales"],
+      ["to shopping centres", "to the shopping centres", "to the malls"]
+    ],
+    [["de tiendas con mis amigos"], ["shopping with my friends"]],
+    [["nunca me ha gustado"], ["i have never liked"]],
+    [["prefiero"], ["i prefer"]],
+    [["odio"], ["i hate"]],
+    [["comprar en cadenas"], ["shopping in chain stores"]],
+    [["grandes almacenes"], ["department stores"]],
+    [["tiendas de segunda mano"], ["second-hand shops", "second hand shops"]],
+    [["tiendas de diseño"], ["designer shops"]],
+    [
+      ["comprar por internet"],
+      ["shopping on the internet", "buying on the internet"]
+    ],
+    [["hacer cola"], ["queueing", "to queue", "making a queue"]],
+    [["es más económico"], ["it is cheaper", "it is more economical"]],
+    [["más práctico"], ["more practical"]],
+    [["menos cómodo"], ["less comfortable"]],
+    [["es un buen sitio"], ["it is a good place"]],
+    [["pasar la tarde"], ["spending the afternoon", "to spend the afternoon"]],
+    [["hay más variedad"], ["there is more variety"]],
+    [["demasiada gente"], ["too many people"]],
+    [
+      ["los precios son más bajos"],
+      ["the prices are lower", "prices are lower", "the prices are cheaper"]
+    ],
+    [["hay más ofertas"], ["there are more offers"]],
+    [["ropa alternativa"], ["alternative clothing", "alternative clothes"]],
+    [
+      ["ropa de moda"],
+      ["fashionable clothing", "fashion clothing", "fashion clothes"]
+    ],
+    [["gangas"], ["bargains"]],
+    [["artículos de marca"], ["branded items", "brand items"]]
+  ],
+  "section_511": [
+    [
+      ["los pros y los contras de la ciudad"],
+      ["the pros and cons of the city", "the for and against of the city"]
+    ],
+    [
+      ["lo mejor de vivir en una ciudad"],
+      [
+        "the best thing about living in a city",
+        "the best thing of living in a city"
+      ]
+    ],
+    [
+      ["es tan fácil desplazarse"],
+      ["it is so easy to get around", "it's so easy to get around"]
+    ],
+    [
+      ["hay una red de transporte público"],
+      [
+        "there is a public transport system",
+        "there is a public transport network",
+        "there's a public transport network"
+      ]
+    ],
+    [["hay tantas diversiones"], ["there are so many things to do"]],
+    [
+      ["hay muchas posibilidades de trabajo"],
+      [
+        "there are lots of job opportunities",
+        "there are many job opportunities"
+      ]
+    ],
+    [["lo peor es que"], ["the worst thing is that"]],
+    [["el centro es tan ruidoso"], ["the centre is so noisy"]],
+    [["hay tanto tráfico"], ["there is so much traffic"]],
+    [["se lleva una vida tan frenética"], ["life is so frenetic"]],
+    [
+      ["la gente no se conoce"],
+      ["people don't know each other", "people do not know each other"]
+    ],
+    [["en el campo"], ["in the countryside"]],
+    [
+      ["el transporte público no es fiable"],
+      [
+        "public transport is not reliable",
+        "the public transport is not reliable"
+      ]
+    ],
+    [
+      ["hay bastante desempleo"],
+      [
+        "there is quite a lot of unemployment",
+        "there is quite a bit of unemployment",
+        "there's quite a lot of unemployment"
+      ]
+    ],
+    [
+      ["no hay tantos atascos como antes"],
+      [
+        "there aren't as many traffic jams as before",
+        "there aren't so many traffic jams as before",
+        "there are not as many traffic jams as before"
+      ]
+    ],
+    [["yo conozco a todos mis vecinos"], ["i know all my neighbours"]]
+  ],
+  "section_512": [
+    [["¿qué harías?"], ["what would you do?"]],
+    [
+      ["introduciría más zonas peatonales"],
+      ["i would introduce more pedestrian areas"]
+    ],
+    [["renovaría"], ["i would renovate"]],
+    [["edificios antiguos"], ["old buildings"]],
+    [
+      ["las zonas deterioradas en las afueras"],
+      [
+        "the deteriorated areas on the outskirts",
+        "the dilapidated areas on the outskirts"
+      ]
+    ],
+    [
+      ["mejoraría el sistema de transporte"],
+      ["i would improve the transport system"]
+    ],
+    [["crearía más áreas de ocio"], ["i would create more leisure areas"]],
+    [
+      ["construiría un nuevo centro comercial"],
+      [
+        "i would build a new shopping centre",
+        "i would construct a new shopping centre"
+      ]
+    ],
+    [["invertiría en el turismo rural"], ["i would invest in rural tourism"]],
+    [
+      ["controlaría el ruido"],
+      ["i would limit the noise", "i would control the noise"]
+    ]
+  ],
+  "section_513": [
+    [["destino arequipa"], ["destination arequipa"]],
+    [
+      ["vimos lugares interesantes"],
+      ["we saw interesting places", "we watched interesting places"]
+    ],
+    [["tuvimos un guía"], ["we had a guide"]],
+    [
+      ["nos hizo un recorrido"],
+      ["he did a tour for us", "she did a tour for us", "he made a tour for us"]
+    ],
+    [
+      ["nos ayudó a entender la historia"],
+      [
+        "he helped us to understand the history",
+        "she helped us to understand the history",
+        "he helped us understand the history"
+      ]
+    ],
+    [
+      ["recorrí a pie el centro histórico"],
+      ["i walked around the historic centre"]
+    ],
+    [["compré tantas cosas"], ["i bought so many things"]],
+    [
+      ["alquilé una bici de montaña"],
+      ["i hired a mountain bike", "i rented a mountain bike"]
+    ],
+    [
+      ["cogí un autobús turístico"],
+      ["i took a tourist bus", "i catched a tourist bus", "i took a tour bus"]
+    ],
+    [["subimos"], ["we went up"]],
+    [["bajamos"], ["we went down"]],
+    [["aprendí mucho sobre la cultura"], ["i learned a lot about the culture"]],
+    [
+      ["me quedé impresionado con la ciudad"],
+      [
+        "i was impressed by the city",
+        "i was really impressed by the city",
+        "i was impressed with the city"
+      ]
+    ],
+    [
+      ["había vistas maravillosas"],
+      [
+        "there were amazing views",
+        "there were wonderful views",
+        "there were beautiful views"
+      ]
+    ],
+    [
+      ["la comida estaba muy buena"],
+      [
+        "the food was very good",
+        "the food was very nice",
+        "the food was very tasty"
+      ]
+    ],
+    [["la gente era abierta"], ["the people were open"]],
+    [
+      ["lo que más me gustó fue"],
+      [
+        "what i liked most was",
+        "the thing that i liked most was",
+        "the thing i liked most was"
+      ]
+    ],
+    [
+      ["fue una experiencia única"],
+      ["it was a one-off experience", "it was a unique experience"]
+    ],
+    [["qué miedo"], ["how scary", "how spooky", "what a scare"]],
+    [
+      ["volveré algún día"],
+      ["i will go back one day", "i will return one day"]
+    ],
+    [
+      ["aprenderé a hacer surf"],
+      ["i will learn to surf", "i'll learn to surf", "i will learn surfing"]
+    ],
+    [
+      ["trabajaré como voluntario"],
+      ["i will work as a volunteer", "i'll work as a volunteer"]
+    ]
+  ],
+  "section_61": [
+    [["las comidas"], ["the meals", "the food", "the dishes"]],
+    [["el desayuno"], ["breakfast"]],
+    [["la comida"], ["lunch", "almuerzo"]],
+    [["la merienda"], ["tea meal", "the snack"]],
+    [["la cena"], ["dinner"]],
+    [["desayunar"], ["to have breakfast"]],
+    [["comer"], ["to have lunch", "to have almuerzo"]],
+    [["merendar"], ["to have tea"]],
+    [["cenar"], ["to have dinner"]],
+    [["tomar"], ["to have"]],
+    [["beber"], ["to drink"]],
+    [["entre semana"], ["during the week"]],
+    [["los fines de semana"], ["at weekends", "at the weekends"]],
+    [
+      ["desayuno a las ocho"],
+      [
+        "i have breakfast at eight o’clock",
+        "i've got breakfast at eight o’clock"
+      ]
+    ],
+    [["tomo un café"], ["i have a coffee"]],
+    [["un huevo"], ["an egg"]],
+    [["un yogur"], ["a yoghurt", "a yogurt"]],
+    [["un pastel"], ["a cake"]],
+    [["un bocadillo"], ["a sandwich"]],
+    [["una hamburguesa"], ["a burger", "a hamburger"]],
+    [["té"], ["tea"]],
+    [["marisco"], ["seafood"]],
+    [["pescado"], ["fish"]],
+    [["pollo"], ["chicken"]],
+    [["zumo de naranja"], ["orange juice"]],
+    [["carne"], ["meat"]],
+    [["ensalada"], ["salad"]],
+    [["fruta"], ["fruit"]],
+    [["leche"], ["milk"]],
+    [["sopa"], ["soup"]],
+    [["tortilla"], ["omelette"]],
+    [["cereales"], ["cereals", "cereal"]],
+    [["galletas"], ["biscuits", "cookies"]],
+    [["patatas fritas"], ["chips", "fries", "fried potatoes"]],
+    [["tostadas"], ["toast", "toasts"]],
+    [["verduras"], ["vegetables"]],
+    [["algo dulce"], ["something sweet"]],
+    [["algo ligero"], ["something light"]],
+    [["ser goloso/a"], ["to have a sweet tooth"]],
+    [["tener hambre"], ["to be hungry"]],
+    [["tener prisa"], ["to be in a hurry", "to be in a rush"]],
+    [
+      ["tomar un desayuno fuerte"],
+      ["to have a big breakfast", "to have a strong breakfast"]
+    ]
+  ],
+  "section_62": [
+    [
+      ["las expresiones de cantidad"],
+      ["expressions of quantity", "the expressions of quantity"]
+    ],
+    [["cien gramos de"], ["100 grams of"]],
+    [["un bote de"], ["a jar of"]],
+    [["un kilo de"], ["a kilo of"]],
+    [["un litro de"], ["a litre of", "a liter of"]],
+    [["un paquete de"], ["a packet of"]],
+    [["una barra de"], ["a loaf of"]],
+    [["una botella de"], ["a bottle of"]],
+    [["una caja de"], ["a box of"]],
+    [["una docena de"], ["a dozen"]],
+    [["una lata de"], ["a can of"]]
+  ],
+  "section_63": [
+    [["los alimentos"], ["food products", "foods", "food"]],
+    [["el aceite de oliva"], ["olive oil"]],
+    [["el agua"], ["water"]],
+    [["el ajo"], ["garlic"]],
+    [["el arroz"], ["rice"]],
+    [["el atún"], ["tuna"]],
+    [["el azúcar"], ["sugar"]],
+    [["el maíz"], ["corn"]],
+    [["el pan"], ["bread"]],
+    [["el queso"], ["cheese"]],
+    [["la cerveza"], ["beer"]],
+    [["la carne de cerdo"], ["pork", "pork meat"]],
+    [["la carne de cordero"], ["lamb", "lamb meat"]],
+    [["la carne de ternera"], ["beef", "beef meat", "veal"]],
+    [["la coliflor"], ["cauliflower"]],
+    [["la harina"], ["flour"]],
+    [["la mantequilla"], ["butter"]],
+    [["la mermelada"], ["jam", "marmelade"]],
+    [["los albaricoques"], ["apricots"]],
+    [["los guisantes"], ["peas"]],
+    [["los lácteos"], ["dairy products", "dairy", "milk products"]],
+    [["los melocotones"], ["peaches"]],
+    [["los melones"], ["melons"]],
+    [["los pepinos"], ["cucumbers"]],
+    [["los pimientos"], ["peppers"]],
+    [["los plátanos"], ["bananas"]],
+    [["los pomelos"], ["grapefruits"]],
+    [["los refrescos"], ["fizzy drinks", "soft drinks"]],
+    [["las cebollas"], ["onions"]],
+    [["las fresas"], ["strawberries"]],
+    [["las judías verdes"], ["green beans"]],
+    [["las legumbres"], ["pulses", "legumes"]],
+    [["las lentejas"], ["lentils"]],
+    [["las manzanas"], ["apples"]],
+    [["las naranjas"], ["oranges"]],
+    [["las peras"], ["pears"]],
+    [["las piñas"], ["pineapples"]],
+    [["las uvas"], ["grapes"]],
+    [["las zanahorias"], ["carrots"]],
+    [["¿Has probado?"], ["Have you tried?"]],
+    [
+      ["Es un tipo de postre"],
+      ["It’s a type of dessert", "It is a type of dessert"]
+    ],
+    [
+      ["Es un plato caliente"],
+      ["It’s a hot dish", "It is a hot dish", "It is a hot meal"]
+    ],
+    [["Contiene"], ["It contains"]]
+  ],
+  "section_64": [
+    [["mi rutina diaria"], ["my daily routine"]],
+    [["me despierto"], ["I wake up"]],
+    [["me levanto"], ["I get up"]],
+    [["me ducho"], ["I shower", "I have a shower", "I get showered"]],
+    [["me peino"], ["I brush my hair", "I comb my hair"]],
+    [["me afeito"], ["I shave", "I have a shave"]],
+    [["me visto"], ["I get dressed", "I dress"]],
+    [
+      ["me lavo los dientes"],
+      ["I brush my teeth", "I wash my teeth", "I clean my teeth"]
+    ],
+    [["me acuesto"], ["I go to bed", "I lie down"]],
+    [["salgo de casa"], ["I leave home"]],
+    [["vuelvo a casa tarde"], ["I return home late", "I go back home late"]],
+    [["temprano"], ["early"]],
+    [["enseguida"], ["straight away", "right away"]],
+    [["odio levantarme"], ["I hate getting up"]]
+  ],
+  "section_65": [
+    [
+      ["¿Qué le pasa?"],
+      ["What’s the matter?", "What's wrong?", "What is wrong?"]
+    ],
+    [
+      ["No me encuentro bien"],
+      ["I don’t feel well", "I do not feel well", "I'm not feeling well'"]
+    ],
+    [["Me siento fatal"], ["I feel awful", "I'm feeling awful"]],
+    [["Estoy enfermo/a"], ["I'm ill", "I am ill", "I am sick"]],
+    [["cansado"], ["tired"]],
+    [["Tengo frío."], ["I'm cold", "I am cold"]],
+    [["Tengo catarro"], ["I have a cold", "I've got a cold"]],
+    [["Tengo diarrea"], ["I have diarrhoea", "I've got diarrhoea"]],
+    [["Tengo dolor de cabeza"], ["I have a headache"]],
+    [["Tengo fiebre"], ["I have a fever", "I've got a fever", "I have fever"]],
+    [["Tengo gripe"], ["I have flu", "I have the flu", "I've got flu"]],
+    [["Tengo mucho sueño"], ["I'm very sleepy", "I am very sleepy"]],
+    [["Tengo náuseas"], ["I feel sick", "I have nausea"]],
+    [["Tengo quemaduras de sol"], ["I have sunburn"]],
+    [["Tengo tos"], ["I have a cough", "I've got a cough"]],
+    [
+      ["Tengo una insolación"],
+      ["I have sunstroke", "I've got a sunstroke", "I have a sunstroke"]
+    ],
+    [
+      ["Tengo una picadura"],
+      ["I’ve been stung", "I have been stung", "I have a sting"]
+    ],
+    [["Me duele la cabeza"], ["My head hurts"]],
+    [["Me he cortado la mano"], ["I’ve cut my hand", "I have cut my hand"]],
+    [
+      ["Me he hecho daño en la rodila"],
+      ["I’ve hurt my knee", "I have hurt my knee"]
+    ],
+    [
+      ["Me he quemado el dedo"],
+      ["I’ve burnt my finger", "I have burnt my finger"]
+    ],
+    [["Me he roto el brazo"], ["I’ve broken my arm", "I have broken my arm"]],
+    [
+      ["Me he torcido el tobillo"],
+      ["I’ve twisted my ankle", "I have twisted my ankle"]
+    ],
+    [["el estómago"], ["the stomach"]],
+    [["el pie"], ["the foot"]],
+    [["la boca"], ["the mouth"]],
+    [["la espalda"], ["the back"]],
+    [["la garganta"], ["the throat"]],
+    [["la nariz"], ["the nose"]],
+    [["la pierna"], ["the leg"]],
+    [["los dientes"], ["the teeth"]],
+    [["las orejas"], ["the ears"]],
+    [["los ojos"], ["the eyes"]],
+    [["desde hace un día"], ["for one day"]],
+    [["¿Desde cuándo?"], ["Since when?"]],
+    [["desde ayer"], ["since yesterday"]],
+    [["no se preocupe"], ["don’t worry", "do not worry"]],
+    [["Qué mala suerte"], ["What bad luck", "how unlucky", "such bad luck"]],
+    [["Hay que ir al dentista"], ["You have to go to the dentist"]],
+    [["Tiene que tomar aspirinas"], ["You have to take aspirins"]],
+    [["Tienes que tomar aspirinas"], ["You have to take aspirins"]],
+    [["tomar este jarabe"], ["take this syrup"]],
+    [["tomar estas pastillas "], ["take these tablets"]]
+  ],
+  "section_66": [
+    [["Las fiestas"], ["Festivals", "Parties"]],
+    [["la fiesta de"], ["the festival of"]],
+    [
+      ["esta tradición antigua"],
+      ["this old tradition", "this ancient tradition"]
+    ],
+    [["se caracteriza por"], ["is characterised by"]],
+    [
+      ["se celebra en"],
+      ["is celebrated in", "is celebrated on", "is celebrated at"]
+    ],
+    [["se repite"], ["is repeated"]],
+    [["se queman figuras de madera"], ["wooden figures are burnt"]],
+    [["se construyen hogueras"], ["bonfires are built", "they build bonfires"]],
+    [
+      ["se disparan fuegos artificiales"],
+      [
+        "fireworks are set off",
+        "they set off fireworks",
+        "they set fireworks off"
+      ]
+    ],
+    [["se lanzan huevos"], ["eggs are thrown", "they throw eggs"]],
+    [
+      ["las calles se llenan de"],
+      ["the streets are filled with", "they fill the streets with"]
+    ],
+    [["los jóvenes"], ["young people", "the youth", "the young"]],
+    [["los familiares"], ["relatives"]],
+    [["comen manzanas de caramelo"], ["they eat toffee apples"]],
+    [["decoran las tumbas"], ["they decorate graves", "with candles"]],
+    [["con velas"], ["with candles"]],
+    [["preparan altares"], ["they prepare altars"]],
+    [
+      ["se disfrazan de fantasmas"],
+      ["they dress up as ghosts", "they dress up as phantoms"]
+    ],
+    [
+      ["ven desfiles"],
+      ["they watch processions", "they watch parades", "they see processions"]
+    ]
+  ],
+  "section_67": [
+    [["Un día especial"], ["A special day"]],
+    [["Abrimos los regalos"], ["We open presents", "We open the presents"]],
+    [
+      ["Buscamos huevos de chocolate"],
+      ["We look for chocolate eggs", "We search chocolate eggs"]
+    ],
+    [["Cantamos villancicos"], ["We sing Christmas carols"]],
+    [["Cenamos bacalao"], ["We have cod for dinner", "We eat cod for dinner"]],
+    [["Comemos dulces navideños"], ["We eat Christmas sweets"]],
+    [["doce uvas"], ["twelve grapes"]],
+    [["pavo"], ["turkey"]],
+    [["Nos acostamos muy tarde"], ["We go to bed very late"]],
+    [
+      ["Nos levantamos muy temprano"],
+      ["We get up very early", "We wake up very early"]
+    ],
+    [["Rezamos"], ["We pray"]],
+    [["Vamos a la mezquita"], ["We go to the mosque"]],
+    [["Ayer fue"], ["Yesterday was", "Yesterday it was"]],
+    [["el baile de fin de curso"], ["the school prom", "the prom"]],
+    [["el Día de Navidad"], ["Christmas Day"]],
+    [["Domingo de Pascua"], ["Easter Sunday"]],
+    [["Nochebuena"], ["Christmas Eve"]],
+    [["Nochevieja"], ["New Year’s Eve", "New Years' Eve", "New Years Eve"]],
+    [["Me bañé"], ["I had a bath", "I bathed"]]
+  ],
+  "section_68": [
+    [
+      ["¿Qué va a tomar?"],
+      ["What are you going to have?", "What are you going to eat?"]
+    ],
+    [["de primer plato"], ["for starter", "for the starter", "as a starter"]],
+    [
+      ["de segundo plato"],
+      ["for main course", "for the main course", "as a main course"]
+    ],
+    [["de postre"], ["for dessert"]],
+    [
+      ["Voy a tomar"],
+      ["I’m going to have", "I am going to have", "I'm having"]
+    ],
+    [["bistec"], ["steak"]],
+    [["filete de cerdo"], ["pork fillet"]],
+    [["jamón serrano"], ["Serrano ham"]],
+    [["sopa de fideos"], ["noodle soup"]],
+    [["tortilla de espinacas"], ["spinach omelette"]],
+    [["calamares"], ["squid"]],
+    [["albóndigas"], ["meatballs"]],
+    [
+      ["chuletas de cordero asadas"],
+      ["roast lamb chops", "roasted lamb chops"]
+    ],
+    [["croquetas caseras"], ["homemade croquettes"]],
+    [["gambas"], ["prawns"]],
+    [["natillas"], ["custard"]],
+    [["¿Qué me recomienda?"], ["What do you recommend?"]],
+    [["el menú del día"], ["the set menu"]],
+    [["la especialidad de la casa"], ["the house speciality"]],
+    [
+      ["está buenísimo", "está buenísima"],
+      ["it’s extremely good", "it is extremely good", "it’s extremely nice"]
+    ],
+    [["Que aproveche"], ["Enjoy your meal"]],
+    [["¿Algo más?"], ["Anything else?"]],
+    [["Nada más"], ["Nothing else"]],
+    [["¿Me trae la cuenta"], ["Can you bring me the bill"]],
+    [["No tengo cuchillo"], ["I don't have a knife", "I do not have a knife"]],
+    [["cuchara"], ["spoon"]],
+    [["tenedor"], ["fork"]],
+    [["No hay aceite"], ["There’s no oil", "There is no oil"]],
+    [["El mantel está sucio"], ["The table cloth is dirty"]],
+    [["plato"], ["plate"]],
+    [["vaso"], ["glass"]],
+    [["El vino está malo"], ["The wine is bad", "The wine is off"]],
+    [["La carne está fría"], ["The meat is cold"]],
+    [["dejar una propina"], ["to leave a tip", "leave a tip"]],
+    [["equivocarse"], ["to make a mistake", "to be wrong"]],
+    [["pedir"], ["to order", "to ask for"]],
+    [
+      ["ser alérgico", "ser alérgica"],
+      ["to be allergic to", "being allergic to"]
+    ],
+    [
+      ["ser vegetariano", "ser vegetariana"],
+      ["to be a vegetarian", "being a vegetarian"]
+    ]
+  ],
+  "section_69": [
+    [["Un festival de música"], ["A music festival"]],
+    [["Me fascina"], ["it fascinates me"]],
+    [["Admiro"], ["I admire"]],
+    [
+      ["No aguanto", "No soporto"],
+      ["I can't stand", "I cannot stand"]
+    ],
+    [["actitud"], ["attitude"]],
+    [["su comportamiento"], ["his behaviour", "her behaviour"]],
+    [["determinación"], ["determination"]],
+    [["su forma de vestir"], ["his way of dressing", "her way of dressing"]],
+    [["voz"], ["voice"]],
+    [["sus coreografías"], ["their choreography"]],
+    [["una canción"], ["a song"]],
+    [["las letras"], ["the lyrics"]],
+    [["atrevido", "atrevida"], ["daring"]],
+    [["imaginativo", "imaginativa"], ["imaginative"]],
+    [["precioso", "preciosa"], ["beautiful"]],
+    [["repetitivo", "repetitiva"], ["repetitive"]],
+    [["original"], ["original"]],
+    [["triste"], ["sad"]],
+    [["Me falta crema solar"], ["I need sun cream"]],
+    [["pasaporte"], ["passport"]],
+    [["un sombrero"], ["a hat"]],
+    [["una gorra"], ["cap"]]
+  ],
+  "section_71": [
+    [["¿En qué trabajas?"], ["What is your job?"]],
+    [["Soy abogado", "Soy abogada"], ["I'm a lawyer"]],
+    [
+      ["Es bailarín", "Es bailarina"],
+      ["He's a dancer", "She's a dancer"]
+    ],
+    [["Me gustaría ser contable"], ["I'd like to be an accountant"]],
+    [["albañil"], ["builder", "bricklayer"]],
+    [
+      ["azafato", "azafata"],
+      ["flight attendant", "stewardess", "steward"]
+    ],
+    [["camarero", "camarera"], ["waiter"]],
+    [["cocinero", "cocinera"], ["cook"]],
+    [
+      ["bombero", "bombera"],
+      ["firefighter", "fireman"]
+    ],
+    [["contable"], ["accountant"]],
+    [
+      ["dependiente", "dependienta"],
+      ["shop assistant", "clerk"]
+    ],
+    [["electricista"], ["electrician"]],
+    [["enfermero", "enfermera"], ["nurse"]],
+    [["fontanero"], ["plumber"]],
+    [["fotógrafo", "fotógrafa"], ["photographer"]],
+    [["guía turístico", "guía turística"], ["tour guide"]],
+    [["ingeniero", "ingeniera"], ["engineer"]],
+    [["jardinero", "jardinera"], ["gardener"]],
+    [["mecánico", "mecánica"], ["mechanic"]],
+    [["músico", "música"], ["musician"]],
+    [["periodista"], ["journalist"]],
+    [["policía"], ["police officer", "policeman", "policewoman"]],
+    [["recepcionista"], ["receptionist"]],
+    [["socorrista"], ["lifeguard"]],
+    [["soldado"], ["soldier"]],
+    [
+      ["veterinario", "veterinaria"],
+      ["vet", "veterinarian"]
+    ],
+    [["Es un trabajo artístico"], ["It is an artistic job"]],
+    [["exigente"], ["demanding"]],
+    [["monótono"], ["monotonous"]],
+    [["con responsabilidad"], ["with responsibility"]],
+    [["con buenas perspectivas"], ["with good prospects"]],
+    [["con un buen sueldo"], ["with a good salary", "with a good pay"]],
+    [
+      ["Tengo que contestar llamadas telefónicas"],
+      ["I have to answer telephone calls", "I have to answer phone calls"]
+    ],
+    [["Suelo"], ["I tend to", "I usually"]],
+    [
+      ["cuidar a los clientes"],
+      ["look after the customers", "take care of the customers"]
+    ],
+    [
+      ["cuidar a los pacientes"],
+      ["look after the patients", "take care of the patients"]
+    ],
+    [
+      ["cuidar a los pasajeros"],
+      ["look after the passengers", "take care of the passengers"]
+    ],
+    [
+      ["cuidar las plantas y las flores"],
+      [
+        "look after the plants and flowers",
+        "take care of the plants and flowers"
+      ]
+    ],
+    [["enseñar"], ["teach", "to teach", "teaching"]],
+    [
+      ["vigilar a los niños"],
+      ["supervise the children", "to supervise the children"]
+    ],
+    [
+      ["hacer entrevistas"],
+      ["do interviews", "to interview", "to do interviews"]
+    ],
+    [
+      ["preparar platos distintos"],
+      [
+        "prepare different dishes",
+        "to prepare different dishes",
+        "prepare different meals"
+      ]
+    ],
+    [["reparar coches"], ["repair cars", "to repair cars"]],
+    [
+      ["servir comida y bebida"],
+      ["serve food and drink", "to serve food and drink"]
+    ],
+    [
+      ["trabajar en un taller"],
+      ["work in a workshop", "to work in a workshop", "working in a workshop"]
+    ],
+    [
+      ["a bordo de un avión"],
+      ["aboard a plane", "on board a plane", "aboard an airplane"]
+    ],
+    [
+      ["vender ropa de marca"],
+      [
+        "sell designer clothing",
+        "sell designer clothes",
+        "to sell designer clothing"
+      ]
+    ],
+    [
+      ["viajar por todo el mundo"],
+      [
+        "travel the world",
+        "travel all over the world",
+        "travel all around the world"
+      ]
+    ]
+  ],
+  "section_72": [
+    [
+      ["¿Qué tipo de persona eres?"],
+      ["What type of person are you?", "What kind of person are you?"]
+    ],
+    [["Creo que soy"], ["I think I am", "I think I'm"]],
+    [["ambicioso", "ambiciosa"], ["ambitious"]],
+    [
+      ["comprensivo", "comprensiva"],
+      ["understanding", "comprehensive"]
+    ],
+    [["creativo", "creativa"], ["creative"]],
+    [
+      ["extrovertido", "extrovertida"],
+      ["outgoing", "extrovert"]
+    ],
+    [["fuerte"], ["strong"]],
+    [["inteligente"], ["intelligent", "smart", "clever"]],
+    [["organizado", "organizada"], ["organised"]],
+    [["paciente"], ["patient"]],
+    [["práctico", "práctica"], ["practical"]],
+    [["serio", "seria"], ["serious"]],
+    [["trabajador", "trabajadora"], ["hardworking"]],
+    [["valiente"], ["brave"]]
+  ],
+  "section_73": [
+    [
+      ["¿Qué haces para ganar dinero?"],
+      ["What do you do to earn money?", "What do you do to make money?"]
+    ],
+    [
+      ["¿Tienes un trabajo a tiempo parcial?"],
+      ["Do you have a part-time job?", "Do you have a part time job?"]
+    ],
+    [["Reparto periódicos"], ["I deliver newspapers"]],
+    [["Hago de canguro"], ["I babysit", "I work as a babysitter"]],
+    [["Trabajo de cajero", "Trabajo de cajera"], ["I work as a cashier"]],
+    [
+      ["Ayudo con las tareas domésticas"],
+      ["I help with the housework", "I help with the house chores"]
+    ],
+    [["Cocino"], ["I cook"]],
+    [["Lavo los platos"], ["I wash the dishes", "I wash the plates"]],
+    [
+      ["Paso la aspiradora"],
+      ["I do the vacuuming", "I pass the hoover", "I pass the vacuum cleaner"]
+    ],
+    [["Plancho la ropa"], ["I iron the clothes"]],
+    [["Pongo y quito la mesa"], ["I lay and clear the table"]],
+    [["Paseo al perro"], ["I walk the dog"]],
+    [["Corto el césped"], ["I cut the lawn", "I cut the grass"]],
+    [["Lo hago"], ["I do it"]],
+    [["los sábados"], ["on Saturdays"]],
+    [["antes del insti"], ["before school"]],
+    [["después"], ["after"]],
+    [
+      ["cuando necesito dinero"],
+      ["when I need money", "whenever I need money"]
+    ],
+    [
+      ["cuando mi madre está trabajando"],
+      [
+        "when my mum is working",
+        "when my mother is working",
+        "whenever my mum is working"
+      ]
+    ],
+    [["cuando me necesitan"], ["when they need me", "whenever they need me"]],
+    [["cada mañana"], ["each morning"]],
+    [["una vez a la semana"], ["once a week"]],
+    [
+      ["Gano cinco euros a la hora"],
+      [
+        "I earn five euros per hour",
+        "I make five euros per hour",
+        "I earn five euros an hour"
+      ]
+    ],
+    [
+      ["Gano veinte libras al día"],
+      [
+        "I earn ten pounds per day",
+        "I make ten pounds per day",
+        "I earn ten pounds a day"
+      ]
+    ],
+    [
+      ["Me llevo bien con mis compañeros"],
+      ["I get on well with my colleagues"]
+    ],
+    [
+      ["Mi jefe es amable", "Mi jefa es amable"],
+      ["My boss is nice", "My boss is kind"]
+    ],
+    [["El horario es flexible"], ["The hours are flexible"]]
+  ],
+  "section_74": [
+    [["Mis prácticas laborales"], ["My work experience", "My work practice"]],
+    [
+      ["Hice mis prácticas laborales en"],
+      ["I did my work experience in", "I did my work practices in"]
+    ],
+    [
+      ["Pasé quince días trabajando en"],
+      ["I spent fifteen days working in", "I spent a fortnight working in"]
+    ],
+    [["una agencia de viajes"], ["a travel agency"]],
+    [["una granja"], ["a farm", "a farmhouse"]],
+    [["una oficina"], ["an office"]],
+    [["una fábrica de juguetes"], ["a toy factory"]],
+    [["una tienda benéfica"], ["a charity shop", "a charity"]],
+    [["la empresa de mi madre"], ["my mum’s company", "my mother’s company"]],
+    [["el primer día"], ["the first day", "on the first day"]],
+    [["el último día"], ["the last day", "on the last day"]],
+    [["llegué"], ["I arrived"]],
+    [
+      ["archivaba documentos"],
+      ["I filed documents", "I used to file documents"]
+    ],
+    [["ayudaba"], ["I helped", "I used to help"]],
+    [
+      ["cogía el autobús"],
+      ["I caught the bus", "I used to catch the bus", "I took the bus"]
+    ],
+    [["empezaba a las"], ["I started at", "I used to start at"]],
+    [["terminaba a las"], ["I finished at", "I used to finish at"]],
+    [
+      ["hacía una variedad de tareas"],
+      ["I did a variety of tasks", "I used to do a variety of tasks"]
+    ],
+    [
+      ["iba en transporte público"],
+      ["I went by public transport", "I used to go by public transport"]
+    ],
+    [
+      ["llevaba ropa elegante"],
+      ["I wore smart clothes", "I used to wear smart clothes"]
+    ],
+    [
+      ["ponía folletos en los estantes"],
+      [
+        "I put brochures on the shelves",
+        "I used to put brochures on the shelves"
+      ]
+    ],
+    [
+      ["sacaba fotocopias"],
+      [
+        "I did photocopying",
+        "I did photocopies",
+        "I used to do the photocopying"
+      ]
+    ],
+    [["Mi jefe era"], ["My boss was", "My boss used to be"]],
+    [
+      ["Mis compañeros eran"],
+      ["My colleagues were", "My colleagues used to be", "My jobmates were"]
+    ],
+    [["Los clientes eran"], ["The customers were", "The customers used to be"]],
+    [["alegre", "alegres"], ["cheerful"]],
+    [["agradable", "agradables"], ["pleasant"]],
+    [["desagradable", "desagradables"], ["unpleasant"]],
+    [["educado"], ["polite"]],
+    [["maleducado", "maleducada", "maleducados", "maleducadas"], ["rude"]],
+    [["El trabajo era duro"], ["The job was hard", "The job was tough"]],
+    [
+      ["Aprendí a trabajar en equipo"],
+      ["I learnt to work in a team", "I learned to work in a team"]
+    ],
+    [["muchas nuevas habilidades"], ["lots of new skills"]],
+    [
+      ["No aprendí nada nuevo"],
+      ["I didn't learn anything new", "I did not learn anything new"]
+    ]
+  ],
+  "section_75": [
+    [
+      ["¿Por qué aprender idiomas?"],
+      ["Why learn languages?", "Why learning languages?"]
+    ],
+    [["Aumenta tu confianza"], ["It increases your confidence"]],
+    [
+      ["Estimula el cerebro"],
+      ["It stimulates the brain", "It stimulates your brain"]
+    ],
+    [["Mejora tus perspectivas laborales"], ["It improves your job prospects"]],
+    [["Te abre la mente"], ["It opens your mind"]],
+    [
+      ["Te hace parecer más atractivo", "Te hace parecer más atractiva"],
+      [
+        "It makes you appear more attractive",
+        "It makes you look more attractive"
+      ]
+    ],
+    [["Te ayuda a"], ["It helps you to"]],
+    [["Te permite"], ["It allows you to", "It lets you"]],
+    [["apreciar otras culturas"], ["appreciate other cultures"]],
+    [
+      ["conocer a mucha gente distinta"],
+      ["meet lots of different people", "meeting lots of different people"]
+    ],
+    [
+      ["conocer nuevos sitios"],
+      ["get to know new places", "getting to know new places"]
+    ],
+    [
+      ["encontrar un trabajo"],
+      ["find a job", "finding a job", "to find a job"]
+    ],
+    [
+      ["descubrir nuevas culturas"],
+      [
+        "discover new cultures",
+        "discovering new cultures",
+        "to discover new cultures"
+      ]
+    ],
+    [
+      ["establecer buenas relaciones"],
+      [
+        "establish good relationships",
+        "establishing good relationships",
+        "to establish good relationships"
+      ]
+    ],
+    [
+      ["hacer nuevos amigos"],
+      ["make new friends", "making new friends", "to make new friends"]
+    ],
+    [
+      ["mejorar tu lengua materna"],
+      [
+        "improve your first language",
+        "improving your native language",
+        "improving your first language"
+      ]
+    ],
+    [
+      ["solucionar problemas"],
+      ["solve problems", "solving problems", "to solve problems"]
+    ],
+    [
+      ["trabajar o estudiar en el extranjero"],
+      [
+        "work or study abroad",
+        "to work or study abroad",
+        "working or studying abroad"
+      ]
+    ],
+    [
+      ["Me hace falta saber hablar"],
+      ["I need to know how to speak", "I need to know how to talk"]
+    ],
+    [["idiomas extranjeros"], ["foreign languages"]]
+  ],
+  "section_76": [
+    [["Solicitando un trabajo"], ["Applying for a job"]],
+    [["Se buscan camareros"], ["waiters required", "waiters needed"]],
+    [
+      ["Se requieren peluqueros"],
+      ["hairdressers required", "hairdressers needed"]
+    ],
+    [
+      ["No hace falta experiencia"],
+      [
+        "Experience not needed",
+        "Experience is not needed",
+        "Experience not required"
+      ]
+    ],
+    [["Muy señor mío"], ["Dear Sir"]],
+    [
+      ["Le escribo para solicitar el puesto de"],
+      [
+        "I am writing to apply for the post of",
+        "I'm writing to apply for the post of",
+        "I am writing to apply for the position of"
+      ]
+    ],
+    [
+      ["Le adjunto mi currículum vitae"],
+      [
+        "I am enclosing my CV",
+        "I am enclosing my curriculum vitae",
+        "I'm enclosing my CV"
+      ]
+    ],
+    [
+      ["Le agradezco su amable atención"],
+      ["Thank you for your kind attention"]
+    ],
+    [["Atentamente"], ["Yours faithfully"]],
+    [
+      ["No tengo experiencia previa"],
+      [
+        "I don't have previous experience",
+        "I don't have former experience",
+        "I do not have previous experience"
+      ]
+    ],
+    [["He estudiado"], ["I have studied"]],
+    [
+      ["He hecho un curso de"],
+      [
+        "I have done a course in",
+        "I've done a course in",
+        "I have done a course of"
+      ]
+    ],
+    [["un buen sentido del humor"], ["a good sense of humour"]],
+    [["buenas capacidades de comunicación"], ["good communication skills"]],
+    [["resolución de problemas"], ["problem-solving skills"]],
+    [
+      ["buenas habilidades lingüísticas"],
+      [
+        "good language skills",
+        "good linguistic skills",
+        "good language abilities"
+      ]
+    ]
+  ],
+  "section_77": [
+    [["Un año sabático"], ["A gap year"]],
+    [
+      ["Si pudiera tomarme un año sabático"],
+      ["If I could take a gap year", "If I could have a gap year"]
+    ],
+    [["Si tuviera bastante dinero"], ["If I had enough money"]],
+    [
+      ["apoyaría un proyecto medioambiental"],
+      [
+        "I would support an environmental project",
+        "I'd support an environmental project"
+      ]
+    ],
+    [["aprendería a esquiar"], ["I would learn to ski", "I'd learn to ski"]],
+    [
+      ["ayudaría a construir un colegio"],
+      ["I would help to build a school", "I'd help to build a school"]
+    ],
+    [
+      ["buscaría un trabajo"],
+      [
+        "I would look for a job",
+        "I'd look for a job",
+        "I would search for a job"
+      ]
+    ],
+    [["enseñaría inglés"], ["I would teach English", "I'd teach English"]],
+    [
+      ["ganaría mucho dinero"],
+      [
+        "I would earn a lot of money",
+        "I'd earn a lot of money",
+        "I would earn lots of money"
+      ]
+    ],
+    [
+      ["haría un viaje en Interrail"],
+      [
+        "I would go Interrailing",
+        "I'd go Interrailing",
+        "I would do a trip on Interrail"
+      ]
+    ],
+    [["iría a España"], ["I would go to Spain", "I'd go to Spain"]],
+    [
+      ["mejoraría mi nivel de español"],
+      ["I would improve my level of Spanish", "I'd improve my level of Spanish"]
+    ],
+    [
+      ["nunca olvidaría la experiencia"],
+      ["I would never forget the experience", "I'd never forget the experience"]
+    ],
+    [
+      ["pasaría un año en Colombia"],
+      ["I would spend a year in Colombia", "I'd spend a year in Colombia"]
+    ],
+    [
+      ["trabajaría en un orfanato"],
+      ["I would work in an orphanage", "I'd work in an orphanage"]
+    ],
+    [
+      ["viajaría con mochila por el mundo"],
+      [
+        "I would go backpacking around the world",
+        "I'd go backpacking around the world"
+      ]
+    ]
+  ],
+  "section_78": [
+    [["¿Cómo viajarías?"], ["How would you travel?"]],
+    [["Viajaría en autobús"], ["I would travel by bus", "I'd travel by bus"]],
+    [["autocar"], ["coach"]],
+    [["avión"], ["plane"]],
+    [["Es más barato"], ["It's cheaper", "It is cheaper"]],
+    [["cómodo"], ["comfortable"]],
+    [["mas rápido"], ["quicker"]],
+    [["Puedes"], ["You can"]],
+    [
+      ["ver vídeos mientras viajas"],
+      ["watch videos whilst you travel", "watch videos while you travel"]
+    ],
+    [
+      ["dejar tu maleta"],
+      ["leave your suitcase", "leave your luggage", "leave your baggage"]
+    ],
+    [["consigna"], ["left-luggage office", "left luggage office"]],
+    [
+      ["Hay muchos atascos"],
+      ["There are lots of traffic jams", "There are many traffic jams"]
+    ],
+    [["retrasos"], ["delays"]],
+    [["en las autopistas"], ["on the motorways", "on the highways"]],
+    [
+      ["Los billetes son carísimos"],
+      [
+        "The tickets are extremely expensive",
+        "The tickets are really expensive"
+      ]
+    ],
+    [["Los conductores están en huelga"], ["The drivers are on strike"]],
+    [
+      ["Odio esperar en la parada de autobús"],
+      ["I hate waiting at the bus stop", "I hate to wait at the bus stop"]
+    ],
+    [
+      ["Tengo miedo a volar"],
+      ["I'm scared of flying", "I'm scared to fly", "I am scared of flying"]
+    ]
+  ],
+  "section_79": [
+    [["Viajando en tren"], ["Travelling by train", "Traveling by train"]],
+    [["El tren con destino a Málaga"], ["The train to Malaga"]],
+    [["efectuará su salida"], ["will depart"]],
+    [["andén"], ["platform"]],
+    [["la taquilla"], ["the ticket office"]],
+    [
+      ["Quisiera un billete de ida a Madrid"],
+      ["I would like a single ticket to Madrid"]
+    ],
+    [["un billete de ida y vuelta"], ["a return ticket"]],
+    [["¿De qué andén sale?"], ["From which platform does it leave?"]],
+    [
+      ["¿A qué hora llega?"],
+      ["What time does it arrive?", "At what time does it arrive?"]
+    ],
+    [["¿Es directo"], ["Is it direct?"]]
+  ],
+  "section_710": [
+    [["El futuro"], ["The future"]],
+    [["Me interesa"], ["it interests me"]],
+    [["Me importa"], ["it matters to me"]],
+    [["Me preocupa"], ["it worries me"]],
+    [["el paro"], ["unemployment"]],
+    [["el éxito"], ["success"]],
+    [["el fracaso"], ["failure"]],
+    [["matrimonio"], ["marriage"]],
+    [["la responsabilidad"], ["responsibility"]],
+    [["la pobreza"], ["poverty"]],
+    [["las notas"], ["the grades", "the marks", "the results"]],
+    [
+      ["Espero aprobar mis exámenes"],
+      ["I hope to pass my exams", "I hope to pass my tests"]
+    ],
+    [
+      ["Me gustaría casarme"],
+      ["I would like to get married", "I would like to marry"]
+    ],
+    [["Quiero aprender a conducir"], ["I want to learn to drive"]],
+    [
+      ["Tengo la intención de tener hijos"],
+      ["I intend to have children", "I have the intention of having children"]
+    ],
+    [
+      ["Voy a sacar buenas notas"],
+      ["I am going to get good grades", "I am going to get good marks"]
+    ],
+    [
+      ["conseguir un buen trabajo"],
+      ["get a good job", "getting a good job", "to get a good job"]
+    ],
+    [
+      ["estudiar una carrera universitaria"],
+      [
+        "study a university course",
+        "study a university career",
+        "studying a university career"
+      ]
+    ],
+    [
+      ["montar mi propio negocio"],
+      [
+        "set up my own business",
+        "setting up my own business",
+        "to set up my own business"
+      ]
+    ],
+    [["ser feliz"], ["be happy"]],
+    [
+      ["trabajar como voluntario/a"],
+      [
+        "work as a volunteer",
+        "working as a volunteer",
+        "to work as a volunteer"
+      ]
+    ],
+    [
+      ["Cuando gane bastante dinero"],
+      [
+        "When I earn enough money",
+        "When I earn make money",
+        "Once I earn enough money"
+      ]
+    ],
+    [["Cuando me enamore"], ["When I fall in love", "Once I fall in love"]],
+    [["Cuando sea mayor"], ["When I am older", "Once I am older"]],
+    [
+      ["Cuando vaya a la universidad"],
+      ["When I go to university", "Once I go to university"]
+    ],
+    [
+      ["Cuando termine este curso"],
+      ["When I finish this course", "Once I finish this course"]
+    ],
+    [
+      ["buscaré un trabajo"],
+      [
+        "I'll look for a job",
+        "I will look for a job",
+        "I will search for a job"
+      ]
+    ],
+    [
+      ["compartiré piso con mis amigos"],
+      [
+        "I'll share a flat with my friends",
+        "I will share a flat with my friends"
+      ]
+    ],
+    [["compraré un coche"], ["I'll buy a car", "I will buy a car"]],
+    [
+      ["iré a la universidad"],
+      ["I'll go to university", "I will go to university"]
+    ],
+    [["me casaré"], ["I'll get married", "I'll marry", "I will get married"]],
+    [["me iré de casa"], ["I'll leave home", "I will leave home"]],
+    [
+      ["seguiré estudiando en mi insti"],
+      [
+        "I'll carry on studying at my school",
+        "I'll go on studying at my school",
+        "I will carry on studying at my school"
+      ]
+    ],
+    [["seré famoso/a"], ["I will be famous"]],
+    [
+      ["me tomaré un año sabático"],
+      ["I'll take a gap year", "I will take a gap year"]
+    ],
+    [["trabajaré como"], ["I'll work as", "I will work as"]]
+  ],
+  "section_81": [
+    [
+      ["¿Cómo es tu casa?"],
+      ["What is your house like?"],
+      ["How is your house?"]
+    ],
+    [["Vivo en un bloque de pisos"], ["I live in a block of flats"]],
+    [["una casa individual"], ["a detached house"], ["an individual house"]],
+    [
+      ["una casa adosada"],
+      ["a semi-detached house"],
+      ["a semi detached house"],
+      ["a terraced house"]
+    ],
+    [
+      ["una residencia de ancianos"],
+      ["an old people’s home"],
+      ["a home for the elderly"],
+      ["a home for old people"]
+    ],
+    [["una finca / granja"], ["a farmhouse"], ["a farm"]],
+    [
+      ["Alquilamos una casa amueblada"],
+      ["We rent a furnished house"],
+      ["We rented a furnished house"]
+    ],
+    [
+      ["Está en el campo"],
+      ["It's in the country"],
+      ["It is in the country"],
+      ["It is in the countryside"]
+    ],
+    [
+      ["un barrio de la ciudad"],
+      ["a neighbourhood of the city"],
+      ["a district of the city"]
+    ],
+    [["las afueras"], ["the outskirts"]],
+    [["la costa"], ["the coast"]],
+    [["la montaña / sierra"], ["the mountains"]],
+    [
+      ["el cuarto piso de un edificio antiguo"],
+      ["the fourth floor of an old building"]
+    ],
+    [
+      ["Mi apartamento tiene tres dormitorios"],
+      ["My apartment has three bedrooms"]
+    ],
+    [["dos cuartos de baño"], ["two bathrooms"]],
+    [["una cocina amplia"], ["a spacious kitchen"]],
+    [["bien equipado/a"], ["well equipped"], ["well-equipped"]],
+    [
+      ["un comedor recién renovado"],
+      ["a recently refurbished dining room"],
+      ["a recently renovated dining room"]
+    ],
+    [["un aseo"], ["a toilet"]],
+    [["un sótano"], ["a basement"], ["a cellar"]],
+    [["un salón"], ["a living room"]],
+    [["una mesa"], ["a table"]],
+    [["unas sillas"], ["some chairs"]],
+    [["Mi casa ideal sería"], ["My ideal house would be"]],
+    [["Tendría"], ["It would have"]],
+    [["una piscina climatizada"], ["a heated pool"]],
+    [["mi propio cine en casa"], ["my own home cinema"]],
+    [["una sala de fiestas"], ["a party room"]],
+    [["Cambiaría los muebles"], ["I would change the furniture"]],
+    [
+      ["Lo pintaría de otro color"],
+      ["I would paint it another colour"],
+      ["I would paint it in another colour"]
+    ]
+  ],
+  "section_82": [
+    [["se debería"], ["you should"], ["one should"]],
+    [
+      ["apagar la luz"],
+      ["turn off the light"],
+      ["turn the light off"],
+      ["turn the lights off"]
+    ],
+    [
+      ["ducharse en vez de bañarse"],
+      ["have a shower instead of a bath"],
+      ["take a shower instead of a bath"]
+    ],
+    [["separar la basura"], ["separate the rubbish"], ["split the rubbish"]],
+    [
+      ["reciclar el plástico y el vidrio"],
+      ["recycle plastic and glass"],
+      ["recycle the plastic and the glass"]
+    ],
+    [
+      ["desenchufar los aparatos eléctricos"],
+      ["unplug electric appliances"],
+      ["unplug the electric appliances"],
+      ["disconnect electric appliances"]
+    ],
+    [["ahorrar energía"], ["save energy"]],
+    [
+      ["cerrar el grifo"],
+      ["turn off the tap"],
+      ["turn the tap off"],
+      ["close the tap"]
+    ],
+    [
+      ["hacer todo lo posible"],
+      ["do everything possible"],
+      ["do everything that's possible"],
+      ["do everything that is possible"]
+    ],
+    [
+      ["no se debería"],
+      ["you should not"],
+      ["one should not"],
+      ["you shouldn't"]
+    ],
+    [["malgastar el agua"], ["waste water"], ["waste the water"]],
+    [["usar bolsas de plástico"], ["use plastic bags"], ["using plastic bags"]]
+  ],
+  "section_83": [
+    [
+      ["¿Cuáles son los problemas más serios"],
+      ["What are the most serious problems"],
+      ["Which are the most serious problems"]
+    ],
+    [["Me preocupa", "Me preocupan"], ["I am worried about"]],
+    [["el paro", "el desempleo"], ["unemployment"]],
+    [["el hambre"], ["hunger"]],
+    [["la pobreza"], ["poverty"]],
+    [["la deforestación"], ["deforestation"]],
+    [
+      ["la diferencia entre ricos y pobres"],
+      ["the difference between rich and poor"]
+    ],
+    [["la drogadicción"], ["drug addiction"], ["drug-addiction"]],
+    [["la obesidad"], ["obesity"]],
+    [["la crisis económica"], ["the economic crisis"], ["economic crisis"]],
+    [
+      ["los problemas del medio ambiente"],
+      ["environmental problems"],
+      ["problems of the environment"],
+      ["the problems of the environment"]
+    ],
+    [["los sin hogar", "los sin techo"], ["the homeless"], ["homeless people"]],
+    [
+      ["los animales en peligro de extinción"],
+      ["animals in danger of extinction"],
+      ["the animals in danger of extinction"]
+    ],
+    [
+      ["Es esencial que compremos productos verdes"],
+      ["It's essential that we buy green products"],
+      ["It is essential that we buy green products"]
+    ],
+    [
+      ["Es necesario que cuidemos el planeta"],
+      ["It's necessary that we look after the planet"],
+      ["It is necessary that we look after the planet"],
+      ["It's necessary that we take care of the planet"]
+    ],
+    [
+      ["Es esencial que creemos oportunidades de trabajo"],
+      ["It's essential that we create job opportunities"],
+      ["It is essential that we create job opportunities"]
+    ],
+    [
+      ["Es necesario que ahorremos agua"],
+      ["It's necessary that we save water"],
+      ["It is necessary that we save water"]
+    ],
+    [
+      ["Es esencial que construyamos más casas"],
+      ["It's essential that we build more houses"],
+      ["it is essential that we build more houses"]
+    ],
+    [
+      ["Es necesario que cambiemos la ley"],
+      ["It's necessary that we change the law"],
+      ["It is necessary that we change the law"]
+    ],
+    [["campañas publicitarias"], ["publicity campaigns"]],
+    [["recaudar dinero"], ["raise money"], ["raise funds"]],
+    [["organizaciones de caridad"], ["charities"], ["charity organisations"]],
+    [["el tercer mundo"], ["the third world"]],
+    [
+      ["No es justo que haya tanta contaminación"],
+      ["It's not fair that there is so much pollution"],
+      ["It is not fair that there is so much pollution"]
+    ],
+    [["desigualdad social"], ["social inequality"]],
+    [
+      ["Es terrible que haya tanta gente sin techo"],
+      ["It's terrible that there is so many homeless people"],
+      ["It is terrible that there is so many homeless people"]
+    ],
+    [
+      ["gente sin trabajo"],
+      ["people without a job"],
+      ["people out of work"],
+      ["jobless people"]
+    ],
+    [["gente obesa"], ["obese people"]],
+    [["drogadictos"], ["drug addicts"]]
+  ],
+  "section_84": [
+    [["Actúa localmente"], ["Act locally"]],
+    [
+      ["Hay demasiada basura en las calles"],
+      ["There is too much rubbish on the streets"],
+      ["There is too much rubbish in the streets"]
+    ],
+    [
+      ["gente sin espacio para vivir"],
+      ["people without space to live"],
+      ["people without a space live"],
+      ["people with nowhere to live"]
+    ],
+    [["(la) destrucción de los bosques"], ["destruction of forests"]],
+    [["(la) polución de los mares y ríos"], ["pollution of seas and rivers"]],
+    [
+      ["El aire está contaminado"],
+      ["The air is polluted"],
+      ["The air is contaminated"]
+    ],
+    [
+      ["Los combustibles fósiles se acaban"],
+      ["Fossil fuels are running out"],
+      ["Fossil fuels getting finished"]
+    ],
+    [
+      ["No corte tantos árboles"],
+      ["Don’t cut down so many trees"],
+      ["Do not cut down so many trees"]
+    ],
+    [
+      ["No vaya en coche si es posible ir a pie"],
+      ["Don't go by car if it's possible to walk"],
+      ["Do not go by car if it is possible to walk"]
+    ],
+    [
+      ["No tire basura al suelo"],
+      ["Don't throw rubbish onto the ground"],
+      ["Do not throw rubbish onto the ground"]
+    ],
+    [["No malgaste energía"], ["Don't waste energy"], ["Do not waste energy"]],
+    [
+      ["No construya tantas casas grandes"],
+      ["Don't build so many large houses"],
+      ["Don't build so many big houses"],
+      ["Do not build so many large houses"]
+    ],
+    [
+      ["No eche tantos desechos químicos"],
+      ["Don't release so much chemical waste"],
+      ["Do not release so much chemical waste"]
+    ],
+    [["Plante más bosques y selvas"], ["Plant more woods and forests"]],
+    [
+      ["Reduzca las emisiones de los vehículos"],
+      ["Reduce vehicle emissions"],
+      ["Reduce the emissions of the vehicles"]
+    ],
+    [
+      ["Recicle el papel, el vidrio y el plástico"],
+      ["Recycle paper, glass and plastic"]
+    ]
+  ],
+  "section_85": [
+    [
+      ["Use energías renovables", "usa energías renovables"],
+      ["Use renewable energy"]
+    ],
+    [
+      ["Diseñe casas más pequeñas", "diseña casas más pequeñas"],
+      ["Design smaller houses"]
+    ],
+    [
+      ["Introduzca leyes más estrictas"],
+      ["Introduce stricter laws"],
+      ["Introduce more strict laws"],
+      ["Enter stricter laws"]
+    ],
+    [
+      ["llevar una vida más verde"],
+      ["live a greener life"],
+      ["living a greener life"],
+      ["to live a greener life"]
+    ],
+    [
+      ["salvar el planeta"],
+      ["save the planet"],
+      ["saving the planet"],
+      ["to save the planet"]
+    ],
+    [
+      ["reducir la huella de carbono"],
+      ["reduce the carbon footprint"],
+      ["reducing the carbon footprint"],
+      ["to reduce the carbon footprint"]
+    ],
+    [
+      ["ecológico", "ecológica"],
+      ["environmentally-friendly"],
+      ["environmentally friendly"],
+      ["ecological"]
+    ],
+    [["el techo", "techo"], ["roof"], ["ceiling"]],
+    [["el agua de lluvia", "agua de lluvia"], ["rain water"]],
+    [
+      ["el domicilio", "el hogar", "domicilio", "hogar"],
+      ["home"],
+      ["the home"],
+      ["the domicile"]
+    ],
+    [
+      ["los recursos naturales", "recursos naturales"],
+      ["natural resources"],
+      ["the natural resources"]
+    ],
+    [
+      ["los paneles solares", "paneles solares"],
+      ["solar panels"],
+      ["the solar panels"]
+    ],
+    [["la arena"], ["sand"], ["the sand"]],
+    [["los eco-ladrillos"], ["eco bricks"], ["eco-bricks"], ["the eco-bricks"]],
+    [["una fábrica"], ["a factory"]],
+    [["mudarse de casa"], ["move house"], ["moving house"], ["to move house"]]
+  ],
+  "section_86": [
+    [["Una dieta sana"], ["A healthy diet"]],
+    [["los alimentos"], ["foods"]],
+    [["lácteos"], ["dairy products"]],
+    [["pescados y huevos"], ["fish and eggs"]],
+    [["frutas y verduras"], ["fruit and vegetables"]],
+    [["cereales"], ["cereals"], ["cereal"]],
+    [["fideos"], ["noodles"]],
+    [["dulces"], ["sweets"]],
+    [["legumbres"], ["pulses"]],
+    [["frutos secos"], ["nuts"], ["nuts and dried fruit"]],
+    [["los nutrientes"], ["nutrients"]],
+    [["proteínas"], ["proteins"]],
+    [["minerales"], ["minerals"]],
+    [["grasa"], ["fat"]],
+    [["sal"], ["salt"]],
+    [["vitaminas"], ["vitamins"]],
+    [["azúcar"], ["sugar"]],
+    [["el sabor"], ["taste"]],
+    [["vegetariano"], ["vegetarian"]],
+    [["vegano"], ["vegan"]],
+    [["saludable / sano"], ["healthy"]],
+    [["No tengo hambre"], ["I'm not hungry"], ["I am not hungry"]],
+    [["Tengo sed"], ["I'm thirsty"], ["I am thirsty"]],
+    [["Tengo sueño"], ["I'm sleepy"], ["I am sleepy"], ["I'm tired"]],
+    [["tiempo para cocinar"], ["time to cook"]],
+    [["contiene"], ["it contains"]],
+    [["fibra"], ["Fibre"]],
+    [["protege contra el cáncer"], ["protects against cancer"]],
+    [["combate la obesidad"], ["fights obesity"], ["combats obesity"]],
+    [
+      ["reduce el riesgo de enfermedades"],
+      ["reduces the risk of diseases"],
+      ["reduces the risk of illnesses"]
+    ],
+    [["evitar comer"], ["avoid eating"], ["to avoid eating"]],
+    [["cambiar mi dieta"], ["change my diet"], ["to change my diet"]],
+    [
+      ["llevar una dieta equilibrada"],
+      ["have a balanced diet"],
+      ["to have a balanced diet"],
+      ["having a balanced diet"]
+    ],
+    [
+      ["preparar con ingredientes frescos"],
+      ["prepare with fresh ingredients"],
+      ["to prepare with fresh ingredients"]
+    ],
+    [
+      ["engordar"],
+      ["put on weight"],
+      ["to put on weight"],
+      ["putting on weight"]
+    ],
+    [
+      ["saltarse el desayuno"],
+      ["skip breakfast"],
+      ["skipping breakfast"],
+      ["to skip breakfast"]
+    ],
+    [
+      ["practicar más deporte"],
+      ["practice more sport"],
+      ["to practice more sport"],
+      ["practicing more sport"]
+    ]
+  ],
+  "section_87": [
+    [
+      ["Vivir a tope"],
+      ["Live life to the full"],
+      ["Live to the max"],
+      ["Live fully"]
+    ],
+    [
+      ["Beber alcohol"],
+      ["drink alcohol"],
+      ["to drink alcohol"],
+      ["drinking alcohol"]
+    ],
+    [
+      ["Fumar cigarrillos"],
+      ["smoke cigarettes"],
+      ["to smoke cigarettes"],
+      ["smoking cigarettes"]
+    ],
+    [["porros"], ["joints"]],
+    [
+      ["Tomar drogas blandas"],
+      ["take soft drugs"],
+      ["to take soft drugs"],
+      ["taking soft drugs"]
+    ],
+    [["Drogas duras"], ["Hard drugs"]],
+    [["Es ilegal"], ["It's illegal"], ["It is illegal"]],
+    [["peligroso"], ["dangerous"]],
+    [["un malgasto de dinero"], ["a waste of money"]],
+    [["un problema serio"], ["a serious problem"]],
+    [["un vicio muy caro"], ["an expensive habit"], ["an expensive vice"]],
+    [
+      ["muy perjudicial para la salud"],
+      ["very harmful to your health"],
+      ["very damaging to your health"],
+      ["very harmful to the health"]
+    ],
+    [["provoca mal aliento"], ["causes bad breath"]],
+    [["daña los pulmones"], ["damages the lungs"]],
+    [["mancha los dientes de amarillo"], ["stains your teeth yellow"]],
+    [
+      ["causa el fracaso escolar"],
+      ["causes failure at school"],
+      ["causes school failure"]
+    ],
+    [["depresión"], ["depression"]],
+    [
+      ["produce una fuerte dependencia física"],
+      ["produces a strong physical dependence"]
+    ],
+    [["tiene muchos riesgos"], ["has many risks"], ["it has many risks"]],
+    [
+      ["tu capacidad para tomar decisiones"],
+      ["your capacity to make decisions"],
+      ["your capacity to take decisions"]
+    ],
+    [["te relaja"], ["relaxes you"], ["it relaxes you"]],
+    [["te quita el estrés"], ["relieves stress"], ["it relieves stress"]],
+    [
+      ["te quita el sueño"],
+      ["robs you of sleep"],
+      ["takes you off sleep"],
+      ["it robs you of sleep"]
+    ],
+    [
+      ["te hace sentir bien"],
+      ["makes you feel good"],
+      ["It makes you feel good"]
+    ],
+    [
+      ["Es fácil engancharse"],
+      ["It's easy to get hooked"],
+      ["It is easy to get hooked"]
+    ],
+    [["Qué asco"], ["How disgusting"]],
+    [["Cedí ante la presión de grupo"], ["I gave in to peer pressure"]],
+    [["Caí en el hábito de"], ["I fell into the habit of"]],
+    [["Empecé a"], ["I started to"]],
+    [["Perdí peso"], ["I lost weight"]],
+    [
+      ["No puedo parar"],
+      ["I can't stop"],
+      ["I cannot stop"],
+      ["I can not stop"]
+    ],
+    [
+      ["Ya he empezado a"],
+      ["I've already started to"],
+      ["I have already started to"]
+    ],
+    [
+      ["Todavía no he dejado de"],
+      ["I still haven’t given up"],
+      ["I still have not given up"],
+      ["I still haven’t stopped"]
+    ],
+    [["A partir de ahora intentaré"], ["From now on I will try to"]]
+  ],
+  "section_88": [
+    [["El deporte nos une"], ["Sport unites us"], ["Sports unite us"]],
+    [
+      ["¿Para qué sirven los eventos deportivos?"],
+      ["What do sports events serve for?"],
+      ["What are sports events for?"]
+    ],
+    [
+      ["grandes acontecimientos deportivos"],
+      ["big sports events"],
+      ["big sporting events"]
+    ],
+    [["los Juegos Olímpicos"], ["the Olympics"], ["the Olympic Games"]],
+    [["la Copa Mundial del Fútbol"], ["the Football World Cup"]],
+    [["Sirven para"], ["They serve to"], ["serve to"]],
+    [["promover"], ["promote"], ["foster"], ["encourage"]],
+    [
+      ["la participación en el deporte"],
+      ["participation in sport"],
+      ["participation in sports"],
+      ["the participation in sport"]
+    ],
+    [
+      ["el espíritu de solidaridad"],
+      ["team spirit"],
+      ["the spirit of solidarity"]
+    ],
+    [
+      ["regenerar los centros urbanos"],
+      ["regenerate urban centres"],
+      ["regenerate city centres"]
+    ],
+    [
+      ["elevar el orgullo nacional"],
+      ["increase national pride"],
+      ["elevate national pride"]
+    ],
+    [
+      ["los valores de respeto y diciplina"],
+      ["the values of respect and discipline"]
+    ],
+    [
+      ["unir a la gente"],
+      ["unite people"],
+      ["to unite people"],
+      ["uniting people"]
+    ],
+    [
+      ["dar un impulso económico"],
+      ["give an economic impulse"],
+      ["to give an economic impulse"],
+      ["give a boost to the economy"]
+    ],
+    [
+      ["inspirar a la gente"],
+      ["inspire people"],
+      ["to inspire the people"],
+      ["inspiring the people"]
+    ],
+    [["Una desventaja es"], ["A disadvantage is"]],
+    [["el riesgo de ataques terroristas"], ["the risk of terrorist attacks"]],
+    [["el tráfico"], ["traffic"], ["the traffic"]],
+    [["el dopaje"], ["doping"]],
+    [["la deuda"], ["debt"], ["the debt"]],
+    [
+      ["el coste de organización de la seguridad"],
+      ["the cost of organising the security"],
+      ["the cost of the organisation of the security"]
+    ],
+    [["la ciudad anfitriona"], ["the host city"]],
+    [["el voluntariado"], ["volunteering"], ["the volunteering"]],
+    [
+      ["Solicité un trabajo voluntario"],
+      ["I applied for a volunteering job"],
+      ["I applied for a volunteer job"]
+    ],
+    [["Nunca había sido"], ["I had never been"]],
+    [
+      ["Antes ya había trabajado como"],
+      ["Previously I had already worked as"],
+      ["Before I had already worked as"]
+    ]
+  ],
+  "section_89": [
+    [["Apúntate"], ["Sign up", "join"]],
+    [["¿Qué estabas haciendo?"], ["What were you doing?"]],
+    [
+      ["estaba ensayando", "yo estaba ensayando"],
+      ["I was rehearsing", "I was practicing"]
+    ],
+    [["nevando"], ["snowing"]],
+    [["entrando en casa"], ["entering home", "coming into the house"]],
+    [["durmiendo"], ["sleeping"]],
+    [
+      ["conduciendo por la ciudad"],
+      ["driving through the city", "driving around the city"]
+    ],
+    [["leyendo"], ["reading"]],
+    [["volando por el aire"], ["flying through the air"]],
+    [
+      ["Se estaba convirtiendo en un río"],
+      ["It was turning into a river", "was turning into a river"]
+    ],
+    [["Se estaba moviendo"], ["It was moving", "was moving"]],
+    [["a mi alrededor"], ["around me"]],
+    [["Se estaban cayendo"], ["They were falling"]],
+    [
+      ["¿Cómo te enteraste del temblor?"],
+      ["How did you find out about the tremor?"]
+    ],
+    [["incendio forestal"], ["forest fire"]],
+    [["huracán"], ["hurricane"]],
+    [["tornado"], ["tornado"]],
+    [["terremoto"], ["earthquake"]],
+    [["tormenta de nieve"], ["snow storm"]],
+    [["acción humanitaria"], ["humanitarian campaign"]],
+    [["inundaciones"], ["floods"]],
+    [["viendo las noticias"], ["watching the news"]],
+    [
+      ["buscando información en línea"],
+      ["looking for information online", "searching for information online"]
+    ],
+    [
+      ["charlando con un amigo"],
+      ["chatting with a friend", "talking to a friend"]
+    ],
+    [
+      ["leyendo un post en Facebook"],
+      ["reading a Facebook post", "reading a post on Facebook"]
+    ],
+    [["encontré un artículo"], ["I found an article"]],
+    [["recibí un SMS"], ["I received a text message", "I received a message"]],
+    [
+      ["lo vi en las noticias"],
+      ["I saw it on the news", "I watched it on the news"]
+    ],
+    [
+      ["mi novio me llamó"],
+      [
+        "my boyfriend called me",
+        "my boyfriend phoned me",
+        "my boyfriend rang me"
+      ]
+    ],
+    [
+      ["una organización de servicio voluntario"],
+      ["a voluntary service organisation"]
+    ],
+    [["una campaña para las víctimas"], ["a campaign for the victims"]],
+    [["una caja de supervivencia"], ["a survival box"]],
+    [["Decidí apuntarme"], ["I decided to sign up", "I decided to join"]],
+    [["recaudar fondos"], ["to raise funds", "to raise money"]],
+    [["organizamos algunos eventos"], ["we organised some events"]],
+    [["un espectáculo de baile"], ["a dance show"]],
+    [["una carrera de bici apadrinada"], ["a sponsored bike race"]],
+    [["una venta de pasteles"], ["a cake sale", "a sale of cakes"]],
+    [["ser solidario"], ["showing solidarity", "being supportive"]],
+    [
+      ["Te hace sentir más conectado con los demás"],
+      ["Makes you feel more connected to others"]
+    ]
+  ]
+}

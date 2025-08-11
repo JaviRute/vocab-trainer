@@ -1,38 +1,488 @@
-.App {
-  text-align: center;
+/* Basic CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
+html,
+body {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+
+ /*--------- APP + FRAMEWORK ------------*/
+
+ .App {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+   height: 100vh;
+   background-color: #5A5966;
+   color: #fff;
+   text-align: center;
+   font-family: "Nunito", sans-serif;
+   padding: 1vh;
+ }
+
+ .framework {
+   width: 800px;
+   background-color: #070F2B;
+   border-radius: 1rem;
+   /* delete these 3 if I get errors, this is to make sure the framework is never moved by the keypad on mobile */
+   position: sticky;
+   margin: 10px;
+   padding: 0;
+ }
+
+ /*------------TOP-ROW----------------------------*/
+
+ .top-row {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+ }
+
+
+ .flag-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  padding: 5px;
+  border-radius: 1rem;
+  transition: color 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+ }
+
+ .flag-container img{
+  width: 50px;
+ }
+
+ .flag {
+  border-radius: 5px;
+  border: 2px solid #000;
+ }
+
+ .arrow {
+  height: 30px;
+  border: 0px solid transparent;
+ }
+
+.flag-container:hover {
+  border: 1px solid red;
+  background-color: #1B1A55;
+  cursor: pointer;
+}
+
+.flag-container:active {
+  border: 1px solid pink;
+  background-color: #262475;
+}
+
+ /*---------------- SELECTION ROW-----------------------*/
+
+ .selection-row {
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+ }
+
+ .theme-list, .lesson-list {
+  background-color: #1B1A55;
+  border-radius: 1rem;
+  width: 45%;
+  transition: color 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 1rem;
+
+ }
+
+ .theme-list:hover, .lesson-list:hover {
+    border: 1px solid red;
+    box-shadow: -2px -2px 2px 1px rgba(0, 0, 0, 0.1),
+      -2px 2px 2px 1px rgba(0, 0, 0, 0.1),
+      2px -2px 2px 1px rgba(0, 0, 0, 0.1),
+      2px 2px 2px 1px rgba(0, 0, 0, 0.1);
+ }
+
+ .theme-choice, .lesson-choice {
+    cursor: pointer;
+    border: 1px solid transparent;
+  }
+
+.theme-choice:hover, .lesson-choice:hover {
+    background-color: #262475;
+    border-radius: 1rem;
+
+  }
+
+.lesson-wrapper1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.restart-selection {
+  cursor: pointer;
+}
+
+.restart-selection:hover {
+  color: red;
+}
+
+.dummy {
+  color: transparent;
+  cursor: default;
+  user-select: none;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ /*----------CORRECT / INCORRECT ANSWER------------*/
+
+ #correct-answer {
+   font-weight: bold;
+   color: #00BB32;
+   background-color: #e0f7d4;
+   border: 1px solid #48bb78;
+ }
+
+ #incorrect-answer {
+   font-weight: bold;
+   color: #FF1500;
+   background-color: #fbd5d5;
+   border: 1px solid #f56565;
+ }
+
+/*---------------TRIES------------------*/
+
+.tries {
+  margin: 0.5rem;
+  color: #999;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+/*--------------DUMMY HINT -------------*/
+
+.dummy-hint {
+  color: transparent;
+  user-select: none;
+  pointer-events: none;
+}
+
+/*-------------- BUTTONS ---------------*/
+
+.button-group {
+  width: 800px;
+  height: 4vw;
+  min-height: 60px;
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
+  margin: 0 auto 1rem auto;
+}
+
+.main-button {
+  background-color: #d6d6d6;
+  color: #3B3B3B;
+  border: 2px solid #1A1A1A;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 600;
+  outline: none;
+  padding: 5px auto;
+  margin: 0.5rem auto;
+  text-align: center;
+  cursor: pointer;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  min-height: 40px;
+  width: 18%;
+  min-width: 50px;
+  will-change: transform;
+}
+
+.main-button:hover {
+  color: #fff;
+  background-color: #1B1A55;
+  border: 2px solid #fff;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+  box-shadow: 5px 5px 10px #1D3DB3, 5px -5px 10px #1D3DB3, -5px -5px 10px #1D3DB3, -5px 5px 10px #1D3DB3;
+}
+
+.main-button:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+
+.main-button,
+.top-button,
+.seconds-button,
+.special-characters button {
+  background-color: #d6d6d6;
+  color: #3B3B3B;
+  border: 2px solid #1A1A1A;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 600;
+  outline: none;
+  padding: 5px auto;
+  margin: 0.5rem auto;
+  text-align: center;
+  cursor: pointer;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  min-height: 40px;
+  width: 18%;
+  min-width: 50px;
+  will-change: transform;
+}
+
+
+.special-char-buttons button:hover {
+  color: #fff;
+  background-color: #1B1A55;
+  border: 2px solid #fff;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+  box-shadow: 5px 5px 10px #1D3DB3, 5px -5px 10px #1D3DB3, -5px -5px 10px #1D3DB3, -5px 5px 10px #1D3DB3;
+}
+
+
+.dummy-button {
+  background-color: #5A5966;
+  color: #5A5966;
+  border: 2px solid transparent;
+  box-sizing: border-box;
+  display: inline-block;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 600;
+  padding: 5px auto;
+  margin: 1rem auto;
+  text-align: center;
+  cursor: initial;
+  min-height: 40px;
+  width: 18%;
+  min-width: 50px;
+  user-select: none;
+  pointer-events: none;
+}
+
+.dummy-button:hover {
+  color: #5A5966;
+  border: none;
+  background-color: #5A5966;
+  box-shadow: none;
+  transform: none;
+  box-shadow: 5px 5px 10px #5A5966, 5px -5px 10px #5A5966, -5px -5px 10px #5A5966, -5px 5px 10px #5A5966;
+}
+
+
+/* ------------------------------HINT--------------------------------*/
+
+.hint {
+  font-weight: bold;
+  font-size: 1.1rem;
+} */
+
+.spread-out-hint {
+  margin-left: 10px;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+
+}
+
+
+
+/* ---------------------------- TARGET EXPRESSION -------------------- */
+
+.target-expression {
+  width: 100%;
+  height: 4rem;
+  text-align: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 1.5rem;
+  font-family: "Nunito", sans-serif;
+  background-color: #1B1A55;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  display: flex;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.special-char-buttons {
+  display: flex;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.special-characters {
+  background-color: #262475;
+  color: #fff;
+  padding: 0.5rem;
+  border-radius: 1rem;
 }
+
+.special-characters p {
+  margin: 0;
+}
+
+.special-characters button {
+  margin: 0.5rem;
+  font-size: 1.5rem;
+}
+
+
+/* -------------- INPUT ------------- */ 
+
+.user-text {
+  width: 100%;
+  height: 3rem;
+  text-align: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-family: "Nunito", sans-serif;
+}
+
+
+
+
+
+/* ---------------------- Responsiveness ---------------------*/
+
+@media (max-width: 900px) {
+
+  .special-characters {
+    display: none;
+  }
+
+  .framework, .button-group {
+    max-width: 95vw;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  .user-text, .target-expression {
+    font-size: 1.3rem;
+  }
+
+  .main-button {
+    width: 22%;
+    font-size: 16px;
+  }
+
+}
+
+@media (max-width: 540px) {
+
+  .framework {
+    margin-top: 0;
+    margin-bottom: 0;
+    position: sticky;
+  }
+
+  h1 {
+    padding: 0;
+  }
+
+  .selection-row {
+      flex-direction: column;
+      align-items: center;
+      padding: 0 1vw 1vh 1vh;
+    }
+
+  .theme-list, .lesson-list {
+    width: 80vw;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+
+  .theme-choice, .lesson-choice {
+      margin: 2px 0;
+      font-size: 0.9rem;
+  }
+
+  h1 {
+    font-size: 1.3rem;
+  }
+
+  .user-text, .target-expression {
+    font-size: 1.1rem;
+  }
+
+  .tries-container {
+    display: flex;
+    justify-content: space-evenly;
+  } 
+
+  .tries {
+    margin: 3px;
+  }
+
+  .button-group {
+    margin: 0.3rem auto;
+  }
+
+  .main-button {
+    width: 28%;
+    font-size: 15px;
+  }
+
+}
+
+
+/* CSS rules specific to 4:3 aspect ratio, commonly used in projectors in schools */
+@media screen and (min-width: 1020px) and (max-width: 1030px) and (min-height: 600px) and (max-height: 768px) {
+
+  .framework {
+      margin: 0.5rem;
+  }
+
+  .App {
+    margin: 0;
+    padding: 0;
+  }
+
+  .main-button {
+    min-height: 40px;
+    width: 18%;
+    min-width: 50px;
+  }
+
+  .user-text {
+    margin: 0 auto;
+  }
+
+}
+
+
+
