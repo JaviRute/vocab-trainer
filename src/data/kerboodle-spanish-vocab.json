@@ -6,15 +6,15 @@
       [["artístico", "artística"], ["artistic"]],
       [["bueno", "buena"], ["good"]],
       [
-        ["deportivo", "deportiva"],
-        ["sports", "sporty", "of sports"]
+        ["deportivo", "deportiva", "depostista"],
+        ["sporty", "sports", "of sports"]
       ],
       [["difícil"], ["difficult"]],
       [
         ["divertido", "divertida"],
         ["fun", "enjoyable"]
       ],
-      [["estar"], ["to be"]],
+      [["estar", "ser"], ["to be"]],
       [["feliz"], ["happy"]],
       [["fuerte"], ["strong"]],
       [["gracioso", "graciosa"], ["funny"]],
@@ -23,7 +23,7 @@
       [["listo", "lista"], ["clever"]],
       [["muy"], ["very"]],
       [["nervioso", "nerviosa"], ["nervous"]],
-      [["perezoso", "perezosa"], ["lazy"]],
+      [["perezoso", "perezosa", "vago", "vaga"], ["lazy"]],
       [["persona"], ["person"]],
       [["personalidad"], ["personality"]],
       [["porque"], ["because"]],
@@ -31,7 +31,7 @@
       [["responsable"], ["responsible"]],
       [["serio", "seria"], ["serious"]],
       [
-        ["simpático", "simpática"],
+        ["simpático", "simpática", "amigable"],
         ["nice", "friendly"]
       ],
       [["trabajador", "trabajadora"], ["hard-working"]],
