@@ -35,7 +35,7 @@ img {
    align-items: center;
    height: 100vh;
    /* background-color: #5A5966; */
-   background-color: #54585A;
+   background-color: #191b1b;
    color: #fff;
    text-align: center;
    font-family: "Nunito", sans-serif;
@@ -281,8 +281,8 @@ img {
 
 
 .dummy-button {
-  background-color: #54585A;
-  color: #54585A;
+  background-color: #191b1b;
+  color: #191b1b;
   border: 2px solid transparent;
   box-sizing: border-box;
   display: inline-block;
@@ -301,12 +301,12 @@ img {
 }
 
 .dummy-button:hover {
-  color: #5A5966;
+  color: #191b1b;
   border: none;
-  background-color: #5A5966;
+  background-color: #191b1b;
   box-shadow: none;
   transform: none;
-  box-shadow: 5px 5px 10px #5A5966, 5px -5px 10px #5A5966, -5px -5px 10px #5A5966, -5px 5px 10px #5A5966;
+  box-shadow: 5px 5px 10px #191b1b, 5px -5px 10px #191b1b, -5px -5px 10px #191b1b, -5px 5px 10px #191b1b;
 }
 
 
