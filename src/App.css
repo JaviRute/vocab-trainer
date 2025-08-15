@@ -118,8 +118,6 @@ img {
   flex-direction: column;
   justify-content: flex-start;
   margin: 1rem;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Noto Sans Duployan', sans-serif;
  }
 
  .theme-list:hover, .lesson-list:hover {
@@ -255,8 +253,6 @@ img {
   border-radius: 10px;
   box-sizing: border-box;
   display: inline-block;
-  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-family: 'Noto Sans Duployan', sans-serif;
   font-size: 18px;
   font-weight: 600;
   outline: none;
