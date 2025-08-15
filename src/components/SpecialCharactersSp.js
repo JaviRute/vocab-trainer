@@ -12,6 +12,7 @@ export default function SpecialCharactersSp({ setUserResponse, handleSpecialChar
         <button onClick={() => handleSpecialCharacter('í')}>í</button>
         <button onClick={() => handleSpecialCharacter('ó')}>ó</button>
         <button onClick={() => handleSpecialCharacter('ú')}>ú</button>
+        <button onClick={() => handleSpecialCharacter('ü')}>ü</button>
         <button onClick={() => handleSpecialCharacter('ñ')}>ñ</button>
       </div>
     </div>
