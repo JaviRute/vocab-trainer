@@ -44,7 +44,7 @@
       "1.1H Personalidad y Aspecto Físico",
       [["actitud", "la actitud"], ["attitude"]],
       [["alto", "alta"], ["tall"]],
-      [["aspecto"], ["appearance"]],
+      [["aspecto", "apariencia"], ["appearance"]],
       [["bajo", "baja"], ["short"]],
       [["bonito", "bonita"], ["pretty"]],
       [["cara"], ["face"]],
@@ -592,119 +592,89 @@
     ],
     [
       "5.2F Latinoamérica celebra la vida",
-      [["además"], ["furthermore", "moreover"]],
-      [["alegría"], ["joy"]],
-      [["antes"], ["before"]],
       [["aprender"], ["to learn"]],
-      [
-        ["bueno", "buena"],
-        ["good", "nice"]
-      ],
       [["calle"], ["street"]],
-      [["calor"], ["heat"]],
-      [["cámara"], ["camera"]],
-      [["campo"], ["countryside"]],
       [["carnaval"], ["carnival"]],
-      [["celebrar"], ["to celebrate"]],
       [["consistir en"], ["to consist of"]],
-      [["desde"], ["from", "since"]],
       [["desfile"], ["parade"]],
-      [["después"], ["after"]],
       [["egoísta"], ["selfish"]],
       [["entre"], ["between", "among"]],
       [["esperar"], ["to wait", "to hope"]],
       [["feria"], ["fair", "funfair"]],
       [["flor"], ["flower"]],
-      [["influencia"], ["influence"]],
       [["lengua"], ["language"]],
-      [["llegar"], ["to arrive"]],
       [["llenar"], ["to fill"]],
-      [["lugar"], ["place"]],
-      [["móvil"], ["mobile", "mobile phone"]],
       [["muerto", "muerta"], ["dead"]],
       [
-        ["ninguno", "ninguna"],
+        ["ningún", "ninguno", "ninguna"],
         ["none", "no"]
+      ],
+      [
+        ["buen", "bueno", "buena"],
+        ["good", "nice"]
+      ],
+      [["mal", "malo", "mala"], ["bad"]],
+      [["primer", "primero", "primera"], ["first"]],
+      [["tercer", "tercero", "tercera"], ["third"]],
+      [
+        ["algún", "alguno", "alguna"],
+        ["some", "any"]
+      ],
+      [
+        ["algún", "alguno", "alguna"],
+        ["some", "any"]
+      ],
+      [
+        ["gran", "grande"],
+        ["big", "large"]
       ],
       [["olor"], ["smell"]],
       [["poder"], ["to be able to", "can"]],
-      [["ponerse"], ["to put on"]],
-      [["primero", "primera"], ["first"]],
-      [["quechua"], ["Quechua"]],
-      [["teatro"], ["theatre", "theater"]],
-      [["tiempo"], ["time", "weather"]],
       [["traer"], ["to bring"]],
-      [["triste"], ["sad"]],
-      [["variedad"], ["variety"]],
-      [["ver"], ["to watch", "to see"]],
-      [["visitar"], ["to visit"]],
-      [["zapato"], ["shoe"]]
+      [["variedad"], ["variety"]]
     ],
     [
       "5.2H Bailando al ritmo hispano",
       [["afroamericano", "afroamericana"], ["African American"]],
       [["abandonar"], ["to leave", "to abandon"]],
-      [["aparecer"], ["to appear"]],
-      [["ayer"], ["yesterday"]],
-      [["bailar"], ["to dance"]],
+      [["aparecer"], ["to appear", "to seem"]],
       [["caribeño", "caribeña"], ["Caribbean"]],
-      [["coche"], ["car"]],
-      [["con"], ["with"]],
-      [["como"], ["like", "as"]],
-      [["conocer"], ["to know"]],
       [
         ["conocido", "conocida"],
         ["known", "familiar"]
       ],
-      [["concurso"], ["competition", "contest"]],
-      [["derecha"], ["right"]],
-      [["despertarse"], ["to wake up"]],
-      [["empezar"], ["to start", "to begin"]],
-      [["en vivo", "en directo"], ["live"]],
-      [["espectáculo"], ["show", "spectacle"]],
-      [["esperar"], ["to hope", "to wait"]],
+      [
+        ["concurso", "competición"],
+        ["competition", "contest"]
+      ],
+      [
+        ["empezar", "comenzar"],
+        ["to start", "to begin"]
+      ],
+      [
+        ["espectáculo", "show"],
+        ["show", "spectacle"]
+      ],
       [["estrella"], ["star"]],
       [["falda"], ["skirt"]],
-      [["ganar"], ["to win", "to earn"]],
-      [["grupo"], ["group"]],
-      [["individual"], ["individual"]],
       [["influencia"], ["influence"]],
-      [["izquierda"], ["left"]],
       [["latino", "latina"], ["Latin"]],
       [["mano"], ["hand"]],
       [["mezcla"], ["mixture"]],
-      [["minuto"], ["minute"]],
       [["nacer"], ["to be born"]],
       [["necesario", "necesaria"], ["necessary"]],
-      [
-        ["otro", "otra"],
-        ["other", "another"]
-      ],
-      [["para"], ["for", "in order to"]],
       [["pareja"], ["couple"]],
       [["paso"], ["step"]],
-      [["pie"], ["foot"]],
       [["pierna"], ["leg"]],
-      [["practicar"], ["to practice"]],
-      [["público"], ["public"]],
-      [["rápido"], ["fast", "quick", "rapid"]],
       [["ritmo"], ["rhythm"]],
       [["romántico"], ["romantic"]],
       [
         ["seguro", "segura"],
         ["sure", "certain"]
       ],
-      [["situarse"], ["to be located"]],
       [["sorpresa"], ["surprise"]],
-      [["también"], ["also"]],
-      [["tío", "tía"], ["uncle"]],
-      [["tipo"], ["sort", "type"]],
       [["último"], ["last"]],
-      [["usar"], ["to use"]],
-      [["verdadero", "verdadera"], ["true"]],
-      [["visitar"], ["to visit"]],
-      [["votar"], ["to vote"]],
-      [["ya"], ["now", "already"]]
+      [["votar"], ["to vote"]]
     ],
     [
       "6.1F Lola y Rosalía, ayer y hoy",
