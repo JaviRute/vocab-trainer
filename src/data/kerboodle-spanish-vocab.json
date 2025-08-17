@@ -680,122 +680,102 @@
       "6.1F Lola y Rosalía, ayer y hoy",
       [["animado", "animada"], ["lively"]],
       [["artista"], ["artist"]],
-      [["bailar"], ["to dance"]],
-      [["cada"], ["each", "every"]],
       [["canción"], ["song"]],
-      [["caro", "cara"], ["expensive"]],
-      [["cine"], ["cinema"]],
       [["concierto"], ["concert"]],
-      [["cultura"], ["culture"]],
-      [["emocionante"], ["exciting"]],
       [["energía"], ["energy"]],
       [["entrada"], ["ticket", "entrance"]],
-      [["escuchar"], ["to listen"]],
       [["estilo"], ["style"]],
       [["estrella"], ["star"]],
       [["Estados Unidos"], ["United States"]],
       [["fama"], ["fame"]],
-      [["forma"], ["way"]],
-      [["hacer"], ["to make", "to do"]],
       [["icono"], ["icon"]],
-      [["llevar"], ["to wear", "to carry"]],
       [["mejor"], ["better", "best"]],
       [["morir"], ["to die"]],
       [["nacer"], ["to be born"]],
-      [["nuestro", "nuestra"], ["our"]],
       [["opinar"], ["to believe", "to think"]],
-      [["otro", "otra"], ["other"]],
       [["pasar de moda"], ["to be out of fashion"]],
       [
         ["película", "peli"],
         ["film", "movie"]
       ],
-      [["pensar"], ["to think"]],
-      [["personal"], ["personal"]],
       [["personalidad"], ["personality"]],
-      [["presentarse"], ["to appear", "to give"]],
+      [["presentarse"], ["to appear", "to give", "to present oneself"]],
       [["seguir"], ["to continue", "to follow"]],
       [["tanto"], ["so much", "so"]],
-      [["tiempo"], ["time"]],
-      [["todavía"], ["still"]],
+      [["todavía"], ["still", "yet"]],
       [
         ["único", "única"],
-        ["only", "unique"]
+        ["only", "unique", "only one"]
       ],
       [["urbano", "urbana"], ["urban"]],
-      [["votar"], ["to vote"]],
-      [["vez"], ["time"]]
+      [["votar"], ["to vote"]]
     ],
     [
       "6.1H La nueva cultura de la fama",
       [["actual"], ["current"]],
       [["apoyo"], ["support"]],
-      [["argentino", "argentina"], ["Argentinian"]],
-      [["ayer"], ["yesterday"]],
-      [["ballet"], ["ballet"]],
-      [["caminar"], ["to walk"]],
-      [
-        ["caerse", "caer"],
-        ["to fall over", "to fall"]
-      ],
-      [["clásico", "clásica"], ["classical"]],
       [["danza"], ["dance"]],
       [["desfavorecido", "desfavorecida"], ["disadvantaged"]],
       [["deportista"], ["sportsman", "athlete", "sporty"]],
-      [["dinero"], ["money"]],
-      [["diseñador", "diseñadora"], ["designer"]],
-      [["duda"], ["doubt"]],
-      [["enorme"], ["enormous"]],
-      [["equipo"], ["team", "equipment"]],
       [["esfuerzo"], ["effort"]],
       [["estreno"], ["premiere"]],
-      [["generoso", "generosa"], ["generous"]],
-      [["historia"], ["history"]],
-      [["influencer"], ["influencer"]],
       [["jugador", "jugadora"], ["player"]],
-      [["lado"], ["side"]],
       [["llamar la atención"], ["to stand out", "be noteworthy"]],
       [["llegar a ser"], ["to become"]],
-      [["loco", "loca"], ["crazy"]],
-      [["manera"], ["manner", "way"]],
-      [["más tarde"], ["later"]],
-      [["mientras"], ["while"]],
       [["mundialmente"], ["worldwide"]],
       [
         ["niñero", "niñera"],
         ["nanny", "au pair"]
       ],
-      [["organización"], ["organization"]],
-      [["pastel"], ["cake", "este creo q lo puedes quitar"]],
       [["portugués", "portuguesa"], ["Portuguese"]],
-      [["programa"], ["programme"]],
-      [["privado", "privada"], ["private"]],
-      [["propio", "propia"], ["own"]],
-      [["red social"], ["social network"]],
-      [["rico", "rica"], ["rich"]],
       [["seguidor", "seguidora"], ["follower"]],
-      [["sentido del humor"], ["sense of humor"]],
-      [["sin"], ["without"]],
-      [["tienda"], ["shop"]],
-      [["trabajar"], ["to work"]],
-      [["universidad"], ["university"]],
-      [["varios", "varias"], ["several"]],
-      [["vida"], ["life"]],
-      [["ya"], ["now", "already"]]
+      [["sentido del humor"], ["sense of humor", "sense of humour"]],
+      [
+        ["ser listo", "ser lista"],
+        ["to be clever", "to be intelligent"]
+      ],
+      [
+        ["estar listo", "estar lista"],
+        ["to be ready", "to be prepared"]
+      ],
+      [
+        ["ser bueno", "ser buena"],
+        ["to be kind", "to be a good person"]
+      ],
+      [
+        ["estar bueno", "estar buena"],
+        ["to taste good", "to taste nice", "to taste well"]
+      ],
+      [
+        ["ser malo", "ser mala"],
+        ["to be bad", "to be a bad person"]
+      ],
+      [
+        ["estar malo", "estar mala"],
+        ["to taste bad", "to taste badly", "to be ill", "to be sick"]
+      ],
+      [["ser rico", "ser rica"], ["to be rich"]],
+      [
+        ["estar rico", "estar rica"],
+        [
+          "to be tasty",
+          "to be delicious",
+          "to taste good",
+          "to taste well",
+          "to taste nice"
+        ]
+      ],
+      [["ser aburrido", "ser aburrida"], ["to be boring"]],
+      [["estar aburrido", "estar aburrida"], ["to be bored"]]
     ],
     [
       "6.2F Famosos que valen la pena",
-      [["a mi modo de ver"], ["as I see it", "in my opinion"]],
       [["agresivo", "agresiva"], ["aggressive"]],
       [
         ["antipático", "antipática"],
-        ["unpleasant", "unkind"]
+        ["unpleasant", "unkind", "unfriendly"]
       ],
       [["ascendencia"], ["heritage"]],
-      [["aunque"], ["although"]],
-      [["cine"], ["cinema"]],
-      [["ciudad"], ["city"]],
-      [["como"], ["as"]],
       [["comprensivo", "comprensiva"], ["understanding"]],
       [["comunidad"], ["community"]],
       [["de niño", "de niña"], ["as a child"]],
@@ -803,70 +783,41 @@
       [["donar"], ["to donate"]],
       [["educado", "educada"], ["polite"]],
       [["egoísta"], ["selfish"]],
-      [["emocionante"], ["exciting"]],
-      [["enfermo", "enferma"], ["ill"]],
-      [["escuela"], ["primary school", "school"]],
-      [["Estados Unidos"], ["United States"]],
-      [["estar seguro", "estar segura"], ["to be sure"]],
-      [["fama"], ["fame"]],
-      [["hablar"], ["to speak", "to talk"]],
+      [
+        ["enfermo", "enferma"],
+        ["ill", "sick"]
+      ],
+      [
+        ["estar seguro", "estar segura"],
+        ["to be sure", "to be certain"]
+      ],
       [["humilde"], ["humble"]],
-      [["idioma"], ["language"]],
-      [["importante"], ["important"]],
       [["indígena"], ["native", "indigenous"]],
       [["inspirar"], ["to inspire"]],
-      [["joven"], ["young person", "young"]],
-      [["latinoamericano", "latinoamericana"], ["Latin American"]],
       [
         ["maleducado", "maleducada"],
         ["impolite", "rude"]
       ],
-      [["mexicano", "mexicana"], ["Mexican"]],
       [["modelo a seguir"], ["role model"]],
-      [["norte"], ["north"]],
-      [["nominación"], ["nomination"]],
-      [["Nueva York"], ["New York"]],
-      [["opinar"], ["to think"]],
       [["optimista"], ["optimistic"]],
       [["país"], ["country"]],
       [["papel"], ["role", "paper"]],
-      [["parecer"], ["to seem"]],
-      [["participación"], ["participation"]],
-      [["participar"], ["to participate"]],
-      [["perezoso", "perezosa"], ["lazy"]],
       [["pesimista"], ["pessimistic", "negative"]],
-      [["premio"], ["award", "prize"]],
-      [["proyecto"], ["project"]],
-      [["puertorriqueño", "puertorriqueña"], ["Puerto Rican"]],
       [["que yo sepa"], ["as far as I know"]],
-      [["recibir"], ["to receive"]],
-      [["reducir"], ["to reduce"]],
       [
         ["sincero", "sincera"],
         ["honest", "sincere"]
       ],
-      [["sur"], ["south"]],
-      [
-        ["televisión", "tele"],
-        ["television", "telly", "TV"]
-      ],
-      [["trabajador", "trabajadora"], ["hard-working"]],
-      [["único", "única"], ["unique"]],
-      [["valer la pena"], ["to be worth it"]],
-      [["vida social"], ["social life"]],
-      [["visibilidad"], ["visibility", "awareness"]],
-      [["votar"], ["to vote"]],
-      [["voz"], ["voice"]]
+      [["valer la pena"], ["to be worth it", "to be worthwhile"]],
+      [["visibilidad"], ["visibility", "awareness"]]
     ],
     [
       "6.2H ¡La fama tiene dos caras!",
-      [["a causa de"], ["because of"]],
-      [["acoso"], ["harassment"]],
+      [["a causa de"], ["because of", "due to"]],
       [["acosar"], ["to harass"]],
       [["cambiar"], ["to change"]],
       [["decir"], ["to say", "to tell"]],
       [["dejar"], ["to leave"]],
-      [["durante"], ["during", "for"]],
       [["entrenar"], ["to train"]],
       [["esconder"], ["to hide"]],
       [["espacio"], ["space"]],
@@ -875,42 +826,27 @@
         ["to agree", "to agree with"]
       ],
       [["falta"], ["lack"]],
-      [["fin de semana"], ["weekend"]],
       [["fotógrafo", "fotógrafa"], ["photographer"]],
-      [["ir de compras"], ["to go shopping"]],
-      [["jugador", "jugadora"], ["player"]],
       [["lástima"], ["pity, shame"]],
       [["lejos de"], ["far from"]],
-      [["leer"], ["to read"]],
-      [["límite"], ["limit"]],
-      [["lugar"], ["place"]],
-      [["novela"], ["novel"]],
-      [["página"], ["page"]],
-      [["paparazzi"], ["paparazzi", "photographer who follows famous people"]],
       [["para siempre"], ["forever"]],
-      [["pasión"], ["passion"]],
       [["peligroso", "peligrosa"], ["dangerous"]],
       [["periodista"], ["journalist"]],
-      [["persecución"], ["pursuit"]],
-      [["por fin"], ["finally"]],
-      [["preferir"], ["to prefer"]],
-      [["preguntar"], ["to ask", "to ask a question"]],
-      [["privacidad"], ["privacy"]],
+      [["persecución"], ["pursuit", "chase"]],
+      [
+        ["por fin", "finalmente"],
+        ["finally", "in the end"]
+      ],
+      [
+        ["preguntar", "hacer una pregunta"],
+        ["to ask", "to ask a question", "to ask", "to make a question"]
+      ],
       [["público", "pública"], ["public"]],
       [["quejarse"], ["to complain"]],
       [["respeto"], ["respect"]],
-      [["seguidor", "seguidora"], ["follower"]],
-      [["separación"], ["separation"]],
-      [
-        ["teléfono móvil", "móvil"],
-        ["mobile phone", "mobile"]
-      ],
-      [["telerrealidad"], ["reality TV"]],
       [["tener derecho a"], ["to have the right to"]],
-      [["tener miedo"], ["to be afraid"]],
-      [["tiempo libre"], ["free time"]],
-      [["vacaciones"], ["holidays"]],
-      [["ver"], ["to see", "to watch"]]
+      [["tener miedo"], ["to be afraid", "to be scared"]],
+      [["tiempo libre"], ["free time"]]
     ]
   ],
   "Theme 3": [
