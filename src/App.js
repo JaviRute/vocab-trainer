@@ -1,6 +1,6 @@
 //TTD
 //* Create better vocab lists for each lesson, 20 to 30 expressions to translate
-//* Añadir u con dos puntos en Special Characters
+//* Incluir el vocab de Foundation
 //* Asegurarse q en los vocab lists todos los verbos puedan ser acceptados con o sin "to" delante (run / to run)
 //* Integrar con verbstrainer
 //* hacer q no sea case-sensitive (da error si el usuario no pone mayusculas/minusculas a la perfeccion)
