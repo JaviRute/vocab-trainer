@@ -462,6 +462,7 @@
     [
       "4.2F Veo, veo... ¿Qué ves?",
       [["anoche"], ["last night"]],
+      [["amor"], ["love"]],
       [["cine"], ["cinema"]],
       [["concurso"], ["contest", "competition"]],
       [["dibujos animados"], ["cartoons"]],
@@ -603,6 +604,7 @@
       [["esperar"], ["to wait", "to hope"]],
       [["feria"], ["fair", "funfair"]],
       [["flor"], ["flower"]],
+      [["influencia"], ["influence"]],
       [["lengua"], ["language"]],
       [["llenar"], ["to fill"]],
       [["muerto", "muerta"], ["dead"]],
