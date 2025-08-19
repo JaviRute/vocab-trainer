@@ -6,8 +6,8 @@
       [["artístico", "artística"], ["artistic"]],
       [["bueno", "buena"], ["good"]],
       [
-        ["deportivo", "deportiva", "depostista"],
-        ["sporty", "sports", "of sports"]
+        ["deportivo", "deportiva", "deportista"],
+        ["sporty", "sports-related"]
       ],
       [["difícil"], ["difficult"]],
       [
@@ -66,7 +66,7 @@
       [["optimista"], ["optimistic"]],
       [["pequeño"], ["small", "little"]],
       [["rubio", "rubia"], ["blonde"]],
-      [["tatuaje"], ["tatoo"]],
+      [["tatuaje"], ["tattoo"]],
       [["tener"], ["to have"]],
       [["triste"], ["sad"]],
       [["verde"], ["green"]]
@@ -90,7 +90,7 @@
       [["guardar secretos"], ["to keep secrets"]],
       [["hablar"], ["to speak", "talk"]],
       [["llevarse bien con"], ["to get on well with"]],
-      [["llevarse mal con"], ["to get on badly with", "to get on bad with"]],
+      [["llevarse mal con"], ["to get on badly with"]],
       [["mejor"], ["better", "best"]],
       [["paciente"], ["patient"]],
       [["parecerse a"], ["to look like"]],
@@ -113,10 +113,16 @@
       [["compartir"], ["to share"]],
       [["complicado", "complicada"], ["complicated"]],
       [["comprensivo", "comprensiva"], ["understanding"]],
-      [["diverso", "diversa"], ["various"]],
+      [
+        ["diverso", "diversa"],
+        ["various", "diverse"]
+      ],
       [["divorciado", "divorciada"], ["divorced"]],
       [["familia extendida"], ["extended family"]],
-      [["familia reconstituida"], ["step family"]],
+      [
+        ["familia reconstituida"],
+        ["step family", "blended family", "reconstituted family"]
+      ],
       [
         ["hijo", "hija"],
         ["son", "daughter"]
@@ -130,7 +136,7 @@
         ["single parent family", "single-parent family"]
       ],
       [["familia nuclear"], ["nuclear family"]],
-      [["familia numerosa"], ["large family", "numerous family"]],
+      [["familia numerosa"], ["large family"]],
       [["padre"], ["father"]],
       [["pareja"], ["couple", "partner"]],
       [["pasarlo bien"], ["to have a good time"]],
@@ -158,7 +164,7 @@
       [["entrenar", "entrenarse"], ["to train"]],
       [["equilibrado", "equilibrada"], ["balanced"]],
       [["evitar"], ["to avoid"]],
-      [["ganar"], ["to earn", "win"]],
+      [["ganar"], ["to earn", "to win"]],
       [["gimnasio"], ["gym"]],
       [["grasa"], ["fat", "grease"]],
       [["jamón"], ["ham"]],
@@ -260,7 +266,7 @@
       [["mexicano", "mexicana"], ["Mexican"]],
       [["plato"], ["dish", "plate"]],
       [["procesado", "procesada"], ["processed"]],
-      [["puente"], ["bridge", "Bank holiday"]],
+      [["puente"], ["bridge", "Bank Holiday"]],
       [["religioso", "religiosa"], ["religious"]],
       [["siesta"], ["siesta", "afternoon nap", "nap"]],
       [["tomate"], ["tomato"]],
@@ -358,7 +364,7 @@
         ["safe", "sure", "secure"]
       ],
       [["tener éxito"], ["to be successful"]],
-      [["traje"], ["suit", "costume"]],
+      [["traje"], ["suit"]],
       [["vuelo"], ["flight"]]
     ],
     [
@@ -443,7 +449,7 @@
       [["moda"], ["fashion"]],
       [["mundo"], ["world"]],
       [["novela"], ["novel"]],
-      [["pasear"], ["to go for a walk", "to have a walk", "to have a stroll"]],
+      [["pasear"], ["to go for a walk", "to take a walk", "to stroll"]],
       [["pintar"], ["to paint"]],
       [["por ciento"], ["percent"]],
       [["ropa"], ["clothing"]],
@@ -457,16 +463,13 @@
       "4.2F Veo, veo... ¿Qué ves?",
       [["anoche"], ["last night"]],
       [["cine"], ["cinema"]],
-      [["concurso"], ["contest", "game"]],
+      [["concurso"], ["contest", "competition"]],
       [["dibujos animados"], ["cartoons"]],
       [["disfrutar"], ["to enjoy"]],
       [["documental"], ["documentary"]],
       [["efectos especiales"], ["special effects"]],
       [["entrevista"], ["interview"]],
-      [
-        ["en vivo", "en directo"],
-        ["live", "live show"]
-      ],
+      [["en vivo", "en directo"], ["live"]],
       [
         ["extranjero", "extranjera"],
         ["foreign", "foreigner"]
@@ -478,18 +481,17 @@
       [["película"], ["film", "movie"]],
       [["programa"], ["programme"]],
       [
-        ["tiempo", "el tiempo"],
-        ["weather", "time"]
+        ["tiempo", "el tiempo", "weather forecast"],
+        ["time", "weather", ""]
       ],
       [["telenovela", "culebrón"], ["soap opera"]],
       [
         ["televisión", "tele"],
         ["television", "telly", "TV"]
       ],
-      [["tiempo"], ["weather", "weather forecast"]],
       [["ver"], ["to watch", "to see"]],
-      [["una vez al día"], ["once a day", "one time a day"]],
-      [["dos veces a la semana"], ["twice a week", "two times a week"]],
+      [["una vez al día"], ["once a day"]],
+      [["dos veces a la semana"], ["twice a week"]],
       [["tres veces al mes"], ["three times a month"]],
       [
         ["cada día", "todos los días"],
@@ -520,7 +522,7 @@
       [["obra de arte"], ["artwork"]],
       [["paisaje"], ["landscape"]],
       [["peligro"], ["danger"]],
-      [["regalar"], ["to gift", "to give a present"]],
+      [["regalar"], ["to give a present", "to gift"]],
       [["río"], ["river"]],
       [
         ["roca", "piedra"],
@@ -565,12 +567,12 @@
       "5.1H ¡Un año más!",
       [["baile"], ["dance"]],
       [["cara"], ["face"]],
-      [["ceremonia"], ["Easter"]],
+      [["ceremonia"], ["ceremony"]],
       [["conmigo"], ["with me"]],
       [["costumbre"], ["custom", "tradition"]],
       [["estar de acuerdo con"], ["to agree with"]],
       [["iglesia"], ["church"]],
-      [["letra"], ["lyric", "lyrics", "letter"]],
+      [["letra"], ["lyrics", "letter"]],
       [["mordida"], ["bite"]],
       [["oreja"], ["ear"]],
       [["pastel"], ["cake"]],
@@ -620,10 +622,6 @@
         ["some", "any"]
       ],
       [
-        ["algún", "alguno", "alguna"],
-        ["some", "any"]
-      ],
-      [
         ["gran", "grande"],
         ["big", "large"]
       ],
@@ -636,7 +634,7 @@
       "5.2H Bailando al ritmo hispano",
       [["afroamericano", "afroamericana"], ["African American"]],
       [["abandonar"], ["to leave", "to abandon"]],
-      [["aparecer"], ["to appear", "to seem"]],
+      [["aparecer"], ["to appear", "to turn up"]],
       [["caribeño", "caribeña"], ["Caribbean"]],
       [
         ["conocido", "conocida"],
@@ -650,10 +648,7 @@
         ["empezar", "comenzar"],
         ["to start", "to begin"]
       ],
-      [
-        ["espectáculo", "show"],
-        ["show", "spectacle"]
-      ],
+      [["espectáculo", "show"], ["show"]],
       [["estrella"], ["star"]],
       [["falda"], ["skirt"]],
       [["influencia"], ["influence"]],
@@ -698,7 +693,7 @@
         ["film", "movie"]
       ],
       [["personalidad"], ["personality"]],
-      [["presentarse"], ["to appear", "to give", "to present oneself"]],
+      [["presentarse"], ["to introduce oneself", "to present oneself"]],
       [
         ["seguir", "continuar"],
         ["to continue", "to follow"]
@@ -718,13 +713,13 @@
       [["apoyo"], ["support"]],
       [["danza"], ["dance"]],
       [["desfavorecido", "desfavorecida"], ["disadvantaged"]],
-      [["deportista"], ["sportsman", "athlete", "sporty"]],
+      [["deportista"], ["sportsman", "athlete", "sportsperson"]],
       [["esfuerzo"], ["effort"]],
       [["estreno"], ["premiere"]],
       [["jugador", "jugadora"], ["player"]],
       [
         ["llamar la atención"],
-        ["to stand out", "be noteworthy", "to call the attention"]
+        ["to stand out", "to be noteworthy", "to attract attention"]
       ],
       [["llegar a ser"], ["to become"]],
       [["mundialmente"], ["worldwide"]],
@@ -752,7 +747,7 @@
       ],
       [
         ["estar bueno", "estar buena"],
-        ["to taste good", "to taste nice", "to taste well"]
+        ["to taste good", "to taste nice"]
       ],
       [
         ["ser malo", "ser mala"],
@@ -765,13 +760,7 @@
       [["ser rico", "ser rica"], ["to be rich"]],
       [
         ["estar rico", "estar rica"],
-        [
-          "to be tasty",
-          "to be delicious",
-          "to taste good",
-          "to taste well",
-          "to taste nice"
-        ]
+        ["to be tasty", "to be delicious", "to taste good", "to taste nice"]
       ],
       [["ser aburrido", "ser aburrida"], ["to be boring"]],
       [["estar aburrido", "estar aburrida"], ["to be bored"]]
@@ -783,7 +772,7 @@
         ["antipático", "antipática"],
         ["unpleasant", "unkind", "unfriendly"]
       ],
-      [["ascendencia"], ["heritage"]],
+      [["ascendencia"], ["heritage", "ancestry", "descent"]],
       [["comprensivo", "comprensiva"], ["understanding"]],
       [["comunidad"], ["community"]],
       [["de niño", "de niña"], ["as a child"]],
@@ -835,7 +824,7 @@
       ],
       [["falta"], ["lack"]],
       [["fotógrafo", "fotógrafa"], ["photographer"]],
-      [["lástima"], ["pity, shame"]],
+      [["lástima"], ["pity", "shame"]],
       [["lejos de"], ["far from"]],
       [["para siempre"], ["forever"]],
       [["peligroso", "peligrosa"], ["dangerous"]],
@@ -847,7 +836,7 @@
       ],
       [
         ["preguntar", "hacer una pregunta"],
-        ["to ask", "to ask a question", "to ask", "to make a question"]
+        ["to ask", "to ask a question"]
       ],
       [["público", "pública"], ["public"]],
       [["quejarse"], ["to complain"]],
@@ -860,7 +849,7 @@
   "Theme 3": [
     [
       "7.1F ¿Qué haces durante las vacaciones?",
-      [["bosque"], ["wood, forest"]],
+      [["bosque"], ["wood", "forest"]],
       [["buscar"], ["to look for"]],
       [["carretera"], ["road"]],
       [["decidir"], ["to decide"]],
@@ -878,7 +867,7 @@
       [["perderse"], ["to get lost"]],
       [["plano"], ["map", "street plan"]],
       [["playa"], ["beach"]],
-      [["principal"], ["main", "principal"]],
+      [["principal"], ["main"]],
       [["recuerdo"], ["souvenir", "memory"]],
       [["reservar"], ["to book", "to reserve"]],
       [["sitio"], ["place"]],
@@ -894,21 +883,21 @@
       [["balcón"], ["balcony"]],
       [["bolsa"], ["bag"]],
       [["brazo"], ["arm"]],
-      [["cuenta", "factura"], ["bill"]],
+      [["cuenta"], ["bill"]],
       [
         ["dar un paseo"],
         [
           "to go for a walk",
           "to go for a stroll",
-          "to have a walk",
-          "to have a stroll"
+          "to take a walk",
+          "to stroll"
         ]
       ],
       [["descubrir"], ["to discover"]],
       [["equipaje"], ["luggage", "baggage"]],
       [["maleta"], ["suitcase", "briefcase"]],
       [["nevera"], ["fridge"]],
-      [["obras"], ["roadworks", "building works"]],
+      [["obras"], ["roadworks", "construction works", "building works"]],
       [
         ["quemar", "quemarse"],
         ["to burn", "to get sunburnt"]
@@ -1011,11 +1000,7 @@
       [["momento"], ["moment"]],
       [
         ["navegar por internet"],
-        [
-          "to surf the Internet",
-          "to navigate the Internet",
-          "to browse the Internet"
-        ]
+        ["to surf the Internet", "to browse the Internet"]
       ],
       [["permitir"], ["to allow", "to permit", "to let", "to enable"]],
       [["pesado", "pesada"], ["heavy"]],
@@ -1089,27 +1074,36 @@
         ["average", "mean"]
       ],
       [["nombre"], ["name"]],
-      [["numero"], ["number"]],
+      [["número"], ["number"]],
       [["oír"], ["to hear", "to listen"]],
       [["profundamente"], ["deeply", "profoundly"]],
       [
         ["prohibido", "prohibida"],
         ["forbidden", "banned"]
       ],
-      [["quién"], ["who", "whom", "to take away"]],
-      [["quitar"], ["to remove"]],
+      [["quién"], ["who", "whom"]],
+      [["quitar"], ["to remove", "to take away"]],
       [["ruido"], ["noise", "sound"]],
       [["saber"], ["to know"]],
-      [["todas partes"], ["everywhere", "all around"]]
+      [
+        ["todas partes", "por todas partes"],
+        ["everywhere", "all around"]
+      ]
     ],
     [
       "8.2H La tecnología del futuro",
       [["absorber"], ["to absorb"]],
-      [["añadir"], ["to add", "incluir"]],
-      [["apagar"], ["to turn off", "put out", "to switch off", "to shut down"]],
-      [["capaz de"], ["capable of", "able to", "capable to"]],
+      [
+        ["añadir", "incluir"],
+        ["to add", "to include"]
+      ],
+      [
+        ["apagar"],
+        ["to turn off", "to put out", "to switch off", "to shut down"]
+      ],
+      [["capaz de"], ["capable of", "able to"]],
       [["castillo"], ["castle"]],
-      [["cepillo"], ["brush", "toobrush"]],
+      [["cepillo"], ["brush", "toothbrush"]],
       [["científico", "científica"], ["scientist"]],
       [["cuestión"], ["issue", "matter"]],
       [["dental"], ["dental"]],
@@ -1132,14 +1126,10 @@
     ],
     [
       "9.1F Mi pueblo y mi ciudad",
-      [["agosto"], ["August"]],
       [["al lado de"], ["next to", "at the side of", "beside"]],
-      [["árbol"], ["tree"]],
-      [["así"], ["like this", "like that"]],
       [["baño"], ["bathroom"]],
       [["bosque"], ["wood", "forest"]],
       [["campo"], ["field", "countryside"]],
-      [["castillo"], ["castle"]],
       [["centro comercial"], ["shopping centre"]],
       [["cielo"], ["sky"]],
       [["clima"], ["climate"]],
@@ -1147,15 +1137,12 @@
       [["detrás de"], ["behind"]],
       [["encima de"], ["on top of"]],
       [["estación"], ["station"]],
-      [["este"], ["east"]],
       [["fábrica"], ["factory"]],
       [["faltar"], ["to be lacking", "to be short of", "to lack"]],
       [["veinte grados"], ["twenty degrees"]],
-      [["hospital"], ["hospital"]],
       [["imposible"], ["impossible"]],
       [["lejos de"], ["far from"]],
       [["llegar"], ["to arrive", "to get to"]],
-      [["mal"], ["bad", "badly"]],
       [["mezquita"], ["mosque"]],
       [["nieve"], ["snow"]],
       [["parque de atracciones", "parque temático"], ["theme park"]],
@@ -1163,50 +1150,32 @@
       [["plaza mayor"], ["main square"]],
       [["puente"], ["bridge"]],
       [["puerto"], ["port", "harbour"]],
-      [["servicios"], ["toilets"]],
-      [["tarde"], ["afternoon", "evening"]],
-      [
-        ["único", "única"],
-        ["only", "unique"]
-      ],
-      [["verduras"], ["vegetables", "greens"]]
+      [["servicios"], ["toilets"]]
     ],
     [
       "9.1H Lo bueno y lo malo de mi región",
-      [["abuela"], ["grandmother"]],
       [["afueras"], ["outskirts"]],
-      [["animado", "animada"], ["lively"]],
       [["atraer"], ["to attract"]],
       [["ayuntamiento"], ["town hall", "council"]],
       [["barrio"], ["neighbourhood", "district", "area", "neighborhood"]],
       [["centro deportivo", "polideportivo"], ["sports centre"]],
-      [
-        ["cierto", "cierta"],
-        ["true", "certain"]
-      ],
       [["conseguir"], ["to manage"]],
       [["construcción"], ["building", "construction"]],
       [["cruzar"], ["to cross"]],
-      [["delincuencia"], ["crime"]],
+      [["delincuencia", "crimen"], ["crime"]],
       [["delito"], ["crime", "offence"]],
-      [["desde hace un mes"], ["for a month"]],
       [["edad"], ["age"]],
-      [["empresa"], ["company", "firm"]],
       [["escalera"], ["stairs", "ladder"]],
       [["estado"], ["state"]],
       [["gastar"], ["to spend"]],
       [["gracias"], ["thanks"]],
       [["industria"], ["industry"]],
       [["infantil"], ["childish", "children’s", "of children"]],
-      [["mal"], ["bad", "badly"]],
-      [["mes"], ["month"]],
       [["metro"], ["underground", "tube"]],
       [["nivel"], ["level"]],
-      [["noroeste"], ["north-west", "northwest"]],
       [["paro"], ["unemployment"]],
       [["piso"], ["flat", "apartment"]],
       [["roto", "rota"], ["broken"]],
-      [["semana pasada"], ["last week"]],
       [["sistema"], ["system"]],
       [["torre"], ["tower"]],
       [["transporte"], ["transport"]]
@@ -1217,7 +1186,6 @@
       [["basura"], ["rubbish", "litter", "garbage"]],
       [["botella"], ["bottle"]],
       [["calefacción"], ["heating"]],
-      [["colegio", "instituto", "insti"], ["school"]],
       [["contenedor"], ["container", "bin"]],
       [["cuidado"], ["care"]],
       [["dejar"], ["to leave", "to let", "to allow"]],
@@ -1238,70 +1206,62 @@
       [["recoger"], ["to collect", "to pick up"]],
       [["regar"], ["to water", "to irrigate"]],
       [["separar"], ["to separate", "to split"]],
-      [["Tierra"], ["Earth"]],
       [["tirar"], ["to throw"]]
     ],
     [
       "9.2H Protegiendo el planeta",
       [["abeja"], ["bee"]],
-      [["acción"], ["action", "act"]],
-      [["advertir"], ["to warn"]],
-      [["agotar"], ["to exhaust"]],
-      [["alimentos"], ["foodstuff"]],
-      [["alrededor de"], ["around"]],
-      [["amenazar"], ["to threaten"]],
-      [["artificial"], ["artificial"]],
-      [["aumentar"], ["to increase"]],
-      [["campaña"], ["campaign"]],
-      [["cifra"], ["figure"]],
+      [
+        ["advertir", "avisar"],
+        ["to warn", "to alert"]
+      ],
+      [["agotar"], ["to exhaust", "to deplete"]],
+      [
+        ["alimentos", "comida"],
+        ["foodstuff", "food", "provisions"]
+      ],
+      [
+        ["alrededor de", "cerca de"],
+        ["around", "near", "about"]
+      ],
+      [["amenazar", "intimidar"], ["to threaten"]],
+      [
+        ["aumentar", "incrementar"],
+        ["to increase", "to rise", "to grow"]
+      ],
+      [
+        ["cifra", "número"],
+        ["figure", "number"]
+      ],
       [["ciudadano", "ciudadana"], ["citizen"]],
-      [["como consecuencia de"], ["as a result of"]],
-      [["concienciar"], ["to make aware", "raise awareness"]],
-      [["consciente"], ["aware"]],
-      [["consumo"], ["consumption"]],
+      [
+        ["concienciar", "sensibilizar"],
+        ["to make aware", "to raise awareness"]
+      ],
       [["contaminación"], ["pollution"]],
-      [["contaminar"], ["to pollute"]],
-      [["contribuir"], ["to contribute"]],
-      [["crear"], ["to create"]],
       [["cultivo"], ["crop"]],
-      [["dejar de + infinitive"], ["to stop ... ing"]],
-      [["destinado a"], ["aimed at"]],
-      [["destruir"], ["to destroy"]],
-      [["efectivo", "efectiva"], ["effective"]],
-      [["eléctrico", "eléctrica"], ["electric"]],
-      [["emitir"], ["to emit", "give off"]],
-      [["en vez de"], ["instead of"]],
-      [["especie"], ["species"]],
-      [["fundar"], ["to set up"]],
-      [["ganadería"], ["cattle farming"]],
-      [["gas"], ["gas"]],
-      [["gobierno"], ["government"]],
+      [["dejar de contaminar", "parar de contaminar"], ["to stop polluting"]],
+      [
+        ["destinado a", "dirigido a"],
+        ["aimed at", "intended for"]
+      ],
+      [
+        ["en vez de", "en lugar de"],
+        ["instead of", "rather than"]
+      ],
+      [["ganadería"], ["cattle farming", "livestock farming"]],
       [["hogar"], ["home"]],
       [["humo"], ["smoke", "fume"]],
-      [["imagen"], ["image"]],
-      [["impacto"], ["impact"]],
-      [["informe"], ["report"]],
-      [["iniciativa"], ["initiative"]],
       [["invernadero"], ["greenhouse"]],
-      [["investigación"], ["research", "investigation"]],
-      [["luz"], ["light"]],
+      [["investigación"], ["research", "investigation", "study"]],
       [["medida"], ["measure"]],
-      [["millón"], ["million"]],
-      [["necesidad"], ["need"]],
-      [["olor"], ["smell"]],
-      [["organización"], ["organisation"]],
-      [["planeta"], ["planet"]],
-      [["poblado", "poblada"], ["populated"]],
-      [["prohibir"], ["to prohibit", "to ban"]],
-      [["químico", "química"], ["chemical"]],
-      [["reciente"], ["recent"]],
-      [["reportar"], ["to report"]],
-      [["según"], ["according to"]],
       [
-        ["tantos", "tantas"],
-        ["so many", "as many"]
+        ["poblado", "poblada", "habitado", "habitada"],
+        ["populated", "inhabited"]
       ],
-      [["transporte"], ["transport"]]
+      [["prohibir"], ["to prohibit", "to ban", "to forbid"]],
+      [["químico", "química"], ["chemical"]],
+      [["según", "de acuerdo con"], ["according to"]]
     ]
   ]
 }
