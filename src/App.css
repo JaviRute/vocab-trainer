@@ -55,10 +55,16 @@ img {
 
  /*------------TOP-ROW----------------------------*/
 
+ .title {
+  font-size: 1.8rem;
+ }
+
  .top-row {
   margin-top: 0.5rem;
   display: flex;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
  }
 
 
@@ -205,7 +211,7 @@ img {
   margin: 0 auto 1rem auto;
 }
 
-.main-button {
+.main-button, .top-button, .seconds-button {
   background-color: #d6d6d6;
   color: #3B3B3B;
   border: 2px solid #1A1A1A;
@@ -227,7 +233,7 @@ img {
   will-change: transform;
 }
 
-.main-button:hover {
+.main-button:hover, .top-button:hover  {
   color: #fff;
   /* background-color: #5758B4; */
   background-color: #D91656;
@@ -237,7 +243,11 @@ img {
   box-shadow: 5px 5px 10px #F27AA2, 5px -5px 10px #F27AA2, -5px -5px 10px #F27AA2, -5px 5px 10px #F27AA2;
 }
 
-.main-button:active {
+
+
+.main-button:active,
+.top-button:active,
+.seconds-button:active {
   box-shadow: none;
   transform: translateY(0);
 }
@@ -253,6 +263,7 @@ img {
   border-radius: 10px;
   box-sizing: border-box;
   display: inline-block;
+  font-family: 'Noto Sans Duployan', sans-serif;
   font-size: 18px;
   font-weight: 600;
   outline: none;
@@ -269,6 +280,30 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.seconds-button {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.small-button {
+  width: 25%;
+}
+
+.small-button:hover {
+  background-color: #D91656;
+  color: #fff;
+  cursor: pointer;
+}
+
+.no-pointer {
+  cursor: default;
+}
+
+.small-button:active {
+  transform: translateY(-1px);
 }
 
 
@@ -309,6 +344,13 @@ img {
   box-shadow: none;
   transform: none;
   box-shadow: 5px 5px 10px #191b1b, 5px -5px 10px #191b1b, -5px -5px 10px #191b1b, -5px 5px 10px #191b1b;
+}
+
+.top-button {
+  width: 40px;
+  height: 40px;
+  margin: 1vw;
+  border-radius: 33%;
 }
 
 
@@ -405,7 +447,8 @@ img {
     font-size: 1.3rem;
   }
 
-  .main-button {
+  .main-button,
+  .seconds-button {
     width: 22%;
     font-size: 16px;
   }
@@ -462,9 +505,17 @@ img {
     margin: 0.3rem auto;
   }
 
-  .main-button {
+  .main-button,
+  .seconds-button {
     width: 28%;
     font-size: 15px;
+  }
+
+  .small-button {
+    font-size: 8px;
+    margin: auto 0;
+    height: 1.5rem;
+    color: red
   }
 
 }

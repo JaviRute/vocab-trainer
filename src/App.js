@@ -22,6 +22,7 @@ import Expression from './components/Expression';
 import Input from './components/Input';
 import SpecialCharactersSp from './components/SpecialCharactersSp';
 import TopRow from './components/TopRow';
+import SetSeconds from './components/SetSeconds';
 import Hint from './components/Hint';
 import SelectionRow from './components/SelectionRow';
 
@@ -43,7 +44,7 @@ function App() {
   const theme1 = kerboodleSpanishData["Theme 1"];
   const theme2 = kerboodleSpanishData["Theme 2"];
   const theme3 = kerboodleSpanishData["Theme 3"];
-
+  let countdown;  
 
   // -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE 
   
@@ -51,6 +52,7 @@ function App() {
   const [userResponse, setUserResponse] = useState("");
 
   const [userTries, setUserTries] = useState(3);
+  const [gameIsOn, setGameIsOn] = useState(false);
   const [gameOver, setGameOver] = useState(false);
   const [questionAlreadyAnswered, setQuestionAlreadyAnswered] = useState(false);
   const [showHint, setShowHint] = useState(false);
@@ -60,6 +62,18 @@ function App() {
   const [expressionsAnswered, setExpressionsAnswered] = useState(0);
   const [remainingExpressions, setRemainingExpressions] = useState([]);
   const [spToEngMode, setSpToEngMode] = useState(true);
+  const [showTutorial, setShowTutorial] = useState(false);
+
+  // sets whether the labels and input appear or not
+  const [labelsOn, setLabelsOn] = useState(false);
+  const [inputOn, setInputOn] = useState(false);
+  const [input, setInput] = useState('');
+
+  // Sets teacher mode on or off
+  const [teacherMode, setTeacherMode] = useState(false)
+  const [secondsByUser, setSecondsByUser] = useState(20); //seconds chosen by the user
+  const [countdownInterval, setCoundownInterval] = useState(null) //countdown
+  const [countdownValue, setCountdownValue] = useState(20); // CLAUDE
   
   //This state changes the style of the text when you give the right/wrong answer
   const [rightAnswer, setRightAnswer] = useState(false);
@@ -162,14 +176,6 @@ function App() {
     setHintGiven(false);
     setQuestionAlreadyAnswered(false);
     if (remainingExpressions.length > 0) {
-      // all this commented text is old code when it took a random expression from the whole vocab list
-      // const themes = Object.keys(kerboodleSpanishData);
-      // const randomThemeKey = themes[Math.floor(Math.random() * themes.length)];
-      // const randomTheme = kerboodleSpanishData[randomThemeKey];
-      // const lessons = Object.keys(randomTheme);
-      // const randomLessonKey = lessons[Math.floor(Math.random() * lessons.length)];
-      // const randomLesson = randomTheme[randomLessonKey];
-
       const randomItem = remainingExpressions[Math.floor(Math.random() * remainingExpressions.length)];
       setTargetExpression(randomItem);
       setRightAnswer(false);
@@ -189,7 +195,53 @@ function App() {
       setGameOver(true);
       setUserResponse("All expressions answered, YOU WIN!")
     }
+    // countdown = secondsByUser; (commented by CLAUDE)
+    if (!teacherMode) {
+      // Focus the input element after setting the game
+      // It was necessary to include this on a setTimeout to make sure it happened immediately after first click
+      setTimeout(() => {
+        inputRef.current.focus();
+      }, 0);
+    } else {
+      // Clear any existing interval
+      if (countdownInterval) {
+        clearInterval(countdownInterval);
+      }
+      
+      // Initialize countdown
+      setCountdownValue(secondsByUser);
+      setInput(secondsByUser.toString());
+      
+      // Start countdown
+      let currentCountdown = secondsByUser;
+      const newInterval = setInterval(() => {
+        currentCountdown--;
+        setCountdownValue(currentCountdown);
+        setInput(currentCountdown.toString());
+        
+        if (currentCountdown <= 0) {
+          clearInterval(newInterval);
+          setGameIsOn(false);
+          setCoundownInterval(null);
+          setInput("0"); // Keep showing 0 instead of clearing the input
+        }
+      }, 1000);
+      
+      setCoundownInterval(newInterval);
+    }
+    }
 
+  // This function appears only on Teacher mode, letting the teacher show the correct answer
+  const showAnswer = () => {
+      // Clear countdown interval if running
+      if (countdownInterval) {
+          clearInterval(countdownInterval);
+          setCoundownInterval(null);
+      }
+      setRightAnswer(true);
+      setUserResponse(`${targetExpression[0][0]} = ${targetExpression[1][0]}`);
+      setInput(`${targetExpression[0][0]} = ${targetExpression[1][0]}`); // This is the key addition - update the input that shows in teacher mode CLAUDE
+      setGameIsOn(false);
   }
 
   // Function to handle the insertion of special characters
@@ -243,10 +295,35 @@ function App() {
     }
   }, [lesson]);
 
+  const toggleTeacherMode = () => {
+    setLabelsOn(false);
+    setInputOn(false);
+    setGameIsOn(false);
+    setGameOver(true);
+    setTeacherMode(prevValue => !prevValue);
+    setTheme("");
+    setLesson("");
+  }
+
+  // Add cleanup when component unmounts (add this useEffect):
+  // This is for the countdown (CLAUDE)
+    useEffect(() => {
+      return () => {
+        if (countdownInterval) {
+          clearInterval(countdownInterval);
+        }
+      };
+    }, [countdownInterval]);
+
+  // Switches the value of showTutorial true/false
+  const handleTutorial = () => {
+      setShowTutorial(prevValue => !prevValue)
+  }
+
   return (
     <div className="App">
       <div className='framework'>
-        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection}/>
+        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode}/>
 
         <SelectionRow 
           theme={theme} 
@@ -262,13 +339,11 @@ function App() {
         
         {theme && lesson && 
           <>
-          <div className='tries-container'>
+          {!teacherMode && <div className='tries-container'>
             <p className='tries'>{`Attempts left: ${userTries}`}</p>
             <p className='tries'>{`Hints: ${numberOfHints}`}</p>
             <p className='tries'>{`Expressions: ${expressionsAnswered} / ${expressionsToAnswer}`}</p>
-          </div>
-            
-            
+          </div>  }         
           </>
         }
 
@@ -285,15 +360,33 @@ function App() {
         {/* {!showHint && <p className='dummy-hint'>Hint</p>} */}
         {theme && lesson && 
           <>
-              <Input 
-                inputRef={inputRef}
-                targetExpression={targetExpression} 
-                handleCheck={handleCheck}
-                setUserResponse={setUserResponse}
-                userResponse={userResponse}
-                rightAnswer={rightAnswer}
-                wrongAnswer={wrongAnswer}
-                />
+            {teacherMode ? (
+              // Teacher mode: show countdown input (read-only)
+              <input
+                className="user-text teacher-countdown"
+                type="text"
+                value={input}
+                readOnly
+              />
+            ) : (
+              // Student mode: show interactive input
+              <input
+                className="user-text"
+                id={(rightAnswer ? "correct-answer" : "") + (wrongAnswer ? "incorrect-answer" : "")}
+                type="text"
+                value={userResponse}
+                onChange={(e) => {
+                    setUserResponse(e.target.value);
+                }}
+                onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        handleCheck();
+                    }
+                }}
+                ref={inputRef}
+              />
+            )}
             <Expression targetExpression={targetExpression} spToEngMode={spToEngMode}/>
           </>
         }
@@ -311,9 +404,16 @@ function App() {
             hintGiven={hintGiven}
             numberOfHints={numberOfHints}
             questionAlreadyAnswered={questionAlreadyAnswered}
+            teacherMode={teacherMode}
+            labelsOn={labelsOn}
+            showAnswer={showAnswer}
+            setSecondsByUser={setSecondsByUser}
+            secondsByUser={secondsByUser}
+            SetSeconds={SetSeconds}
+
             />
             {/* I am commenting Special characters until I make a mode to answer expressions in Spanish */}
-          {!spToEngMode && <SpecialCharactersSp 
+          {!spToEngMode && !teacherMode && <SpecialCharactersSp 
             handleSpecialCharacter={handleSpecialCharacter}
             setUserResponse={setUserResponse}
             />}

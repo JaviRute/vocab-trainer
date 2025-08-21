@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState, useRef } from 'react';
 
-export default function Input({ inputRef, handleCheck, targetExpression, setUserResponse, userResponse, rightAnswer, wrongAnswer }) {
+export default function Input({ inputRef, handleCheck, targetExpression, setUserResponse, userResponse, rightAnswer, wrongAnswer}) {
 
   return (
     <input

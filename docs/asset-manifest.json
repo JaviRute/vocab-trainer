@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vocab-trainer/static/css/main.5fd3351c.css",
-    "main.js": "/vocab-trainer/static/js/main.d7be288a.js",
+    "main.css": "/vocab-trainer/static/css/main.0cc8eeb4.css",
+    "main.js": "/vocab-trainer/static/js/main.32a69424.js",
     "static/js/453.0e42dfb5.chunk.js": "/vocab-trainer/static/js/453.0e42dfb5.chunk.js",
     "static/media/correct.mp3": "/vocab-trainer/static/media/correct.df6381a81afca11bf087.mp3",
     "static/media/wrong.mp3": "/vocab-trainer/static/media/wrong.fdfd32366429729aff4c.mp3",
@@ -9,12 +9,12 @@
     "index.html": "/vocab-trainer/index.html",
     "static/media/spanish-flag.svg": "/vocab-trainer/static/media/spanish-flag.f8773eac5989d78ac448c1737a5d12ea.svg",
     "static/media/arrow.svg": "/vocab-trainer/static/media/arrow.013103da3de4ebc0b6f57f7f959df501.svg",
-    "main.5fd3351c.css.map": "/vocab-trainer/static/css/main.5fd3351c.css.map",
-    "main.d7be288a.js.map": "/vocab-trainer/static/js/main.d7be288a.js.map",
+    "main.0cc8eeb4.css.map": "/vocab-trainer/static/css/main.0cc8eeb4.css.map",
+    "main.32a69424.js.map": "/vocab-trainer/static/js/main.32a69424.js.map",
     "453.0e42dfb5.chunk.js.map": "/vocab-trainer/static/js/453.0e42dfb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd3351c.css",
-    "static/js/main.d7be288a.js"
+    "static/css/main.0cc8eeb4.css",
+    "static/js/main.32a69424.js"
   ]
 }
