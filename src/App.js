@@ -1,7 +1,5 @@
 //TTD
-//* Create better vocab lists for each lesson, 20 to 30 expressions to translate
 //* Incluir el vocab de Foundation
-//* Asegurarse q en los vocab lists todos los verbos puedan ser acceptados con o sin "to" delante (run / to run)
 //* Integrar con verbstrainer
 //* hacer q no sea case-sensitive (da error si el usuario no pone mayusculas/minusculas a la perfeccion)
 //* cambia la fuente del user text y la expression q te pone abajo, se ve muy fea
@@ -9,7 +7,6 @@
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción
 //* añadir vocabulario frances
-//* añadir teacher mode
 
 
 import './App.css';
@@ -25,9 +22,11 @@ import TopRow from './components/TopRow';
 import SetSeconds from './components/SetSeconds';
 import Hint from './components/Hint';
 import SelectionRow from './components/SelectionRow';
+import Tutorial from './components/Tutorial';
 
 import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
+
 
 //Sound files
 import wrongSoundFile from './sound/wrong.mp3';
@@ -319,6 +318,7 @@ function App() {
   const handleTutorial = () => {
       setShowTutorial(prevValue => !prevValue)
   }
+  
 
   return (
     <div className="App">
@@ -419,6 +419,9 @@ function App() {
             />}
         </>}
 
+        {showTutorial &&
+          <Tutorial handleTutorial={handleTutorial}/>
+        }
 
     </div>
   );
