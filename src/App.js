@@ -1,12 +1,13 @@
 //TTD
+//* change favicon
 //* Incluir el vocab de Foundation
+//* Hacer otra app con vocab para KS3
+//* Hacer otra app de frances GCSE
+//* Hacer otra app de frances KS3
 //* Integrar con verbstrainer
-//* hacer q no sea case-sensitive (da error si el usuario no pone mayusculas/minusculas a la perfeccion)
-//* cambia la fuente del user text y la expression q te pone abajo, se ve muy fea
-//* hacer q el hint aparezca con la primera letra subrayada (ya lo intenté, fue un coñazo y no consegui nada)
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción
-//* añadir vocabulario frances
+
 
 
 import './App.css';
