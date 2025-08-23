@@ -4,6 +4,7 @@
 //* Hacer otra app con vocab para KS3
 //* Hacer otra app de frances GCSE
 //* Hacer otra app de frances KS3
+//* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
 //* Integrar con verbstrainer
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción

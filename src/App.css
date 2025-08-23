@@ -125,7 +125,7 @@ img {
   border: 1px solid transparent;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   margin: 1rem;
  }
 
