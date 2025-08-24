@@ -14,7 +14,7 @@ export default function Buttons( {userResponse, handleCheck, targetExpression, h
         <button 
           className='main-button'
           onClick={handlePlay}
-          >Play</button>
+          >Next</button>
 
         {(!questionAlreadyAnswered && !hintGiven && numberOfHints > 0) && <button 
           className='main-button'

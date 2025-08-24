@@ -504,8 +504,12 @@ img {
 
 @media (max-width: 540px) {
 
+  .App {
+    padding: 0;
+  }
+
   .options-container div {
-      width: 50%;
+      width: 40%;
     }
 
   .framework {
@@ -520,6 +524,10 @@ img {
 
   h1 {
     padding: 0;
+  }
+
+  .arrow {
+    height: 20px;
   }
 
   .selection-row {
@@ -557,7 +565,7 @@ img {
   }
 
   .button-group {
-    margin: 0.3rem auto;
+    margin: 0 auto;
   }
 
   .main-button,
