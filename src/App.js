@@ -1,7 +1,7 @@
 //TTD
 //* change favicon
-//* Incluir el vocab de Foundation
-//* Hacer otra app con vocab para KS3
+//* Revisar todo el vocab, añade sinonimos importantes
+//* Añade vocab para KS3
 //* Hacer otra app de frances GCSE
 //* Hacer otra app de frances KS3
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
