@@ -1,7 +1,6 @@
 //TTD
 //* change favicon
 //* Revisar todo el vocab, añade sinonimos importantes
-//* Añade vocab para KS3
 //* Hacer otra app de frances GCSE
 //* Hacer otra app de frances KS3
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
@@ -48,7 +47,7 @@ function App() {
   const theme3 = kerboodleSpanishData["Theme 3"];
   const year7 = ks3SpanishData["Year 7: Viva 1"];
   const year8 = ks3SpanishData["Year 8: Viva 2"];
-  const year9 = ks3SpanishData["YEar 9: Viva 3 Rojo"];
+  const year9 = ks3SpanishData["Year 9: Viva 3 Rojo"];
   let countdown;  
 
   // -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE 
