@@ -1004,13 +1004,19 @@
         ["Fue fenomenal"],
         ["It was fantastic", "It was amazing", "It was great"]
       ],
-      [["Fue flipante"], ["It was awesome", "It was incredible"]],
+      [
+        ["Fue flipante"],
+        ["It was awesome", "It was incredible", "It was amazing"]
+      ],
       [["Fue genial"], ["It was great", "It was excellent"]],
       [["Fue guay"], ["It was cool", "It was awesome"]],
       [["Fue regular"], ["It was OK", "It was so-so", "It was so so"]],
       [["Fue un desastre"], ["It was a disaster"]],
       [["Fue horrible"], ["It was horrible", "It was awful"]],
-      [["Fue horroroso"], ["It was terrible", "It was dreadful"]],
+      [
+        ["Fue horroroso"],
+        ["It was terrible", "It was dreadful", "It was horrible"]
+      ],
       [["Fue raro"], ["It was weird", "It was strange"]],
       [["Me gustó"], ["I liked it"]],
       [["Me encantó"], ["I loved it"]],

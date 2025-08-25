@@ -207,10 +207,12 @@ function App() {
       if (spToEngMode === true) {console.log(`Pssssst! The answer is "${randomItem[1]}"`)};
       if (spToEngMode === false) {console.log(`Pssssst! The answer is "${randomItem[0]}"`)};
     } else {
-      setGameOver(true);
-      setUserResponse("All expressions answered, YOU WIN!");
-      confettiRef.current.fire();
-      playCheeringSound();
+      if (!gameOver) {
+        setGameOver(true);
+        setUserResponse("All expressions answered, YOU WIN!");
+        confettiRef.current.fire();
+        playCheeringSound();
+      } 
     }
     // countdown = secondsByUser; (commented by CLAUDE)
     if (!teacherMode) {
