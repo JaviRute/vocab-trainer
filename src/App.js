@@ -1,6 +1,5 @@
 //TTD
 //* change favicon
-//* Revisar todo el vocab, añade sinonimos importantes
 //* Hacer otra app de frances GCSE
 //* Hacer otra app de frances KS3
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
@@ -14,6 +13,7 @@ import './App.css';
 import { useState, useRef, useEffect } from 'react';
 
 
+
 //Components
 import Buttons from './components/Buttons'
 import Expression from './components/Expression';
@@ -24,6 +24,7 @@ import SetSeconds from './components/SetSeconds';
 import Hint from './components/Hint';
 import SelectionRow from './components/SelectionRow';
 import Tutorial from './components/Tutorial';
+import ConfettiCelebration from "./components/Confetti";
 
 import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
@@ -33,10 +34,13 @@ import ks3SpanishData from './data/ks3-spanish-vocab.json'
 //Sound files
 import wrongSoundFile from './sound/wrong.mp3';
 import correctSoundFile from './sound/correct.mp3';
+import cheeringSoundFile from './sound/crowd-cheering3.mp3';
 
 
 
 function App() {
+
+  const confettiRef = useRef();
 
   //This is here to allow Input.js to focus on the input when the user clicks on Play
   const inputRef = useRef(null);
@@ -94,6 +98,7 @@ function App() {
   //preload sounds to avoid delay
   const wrongSound = new Audio(wrongSoundFile);
   const correctSound = new Audio(correctSoundFile);
+  const cheeringSound = new Audio(cheeringSoundFile);
 
   const playWrongSound = () => {
     wrongSound.currentTime = 0;
@@ -102,6 +107,10 @@ function App() {
   const playCorrectSound = () => {
     correctSound.currentTime = 0;
     correctSound.play();
+  }
+    const playCheeringSound = () => {
+    cheeringSound.currentTime = 0;
+    cheeringSound.play();
   }
 
   // FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------
@@ -199,7 +208,9 @@ function App() {
       if (spToEngMode === false) {console.log(`Pssssst! The answer is "${randomItem[0]}"`)};
     } else {
       setGameOver(true);
-      setUserResponse("All expressions answered, YOU WIN!")
+      setUserResponse("All expressions answered, YOU WIN!");
+      confettiRef.current.fire();
+      playCheeringSound();
     }
     // countdown = secondsByUser; (commented by CLAUDE)
     if (!teacherMode) {
@@ -403,6 +414,8 @@ function App() {
         }
 
       </div>
+
+      <ConfettiCelebration ref={confettiRef} />
 
         {theme && lesson && 
         <>

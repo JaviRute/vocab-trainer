@@ -1000,7 +1000,10 @@
       [["¿Cómo te fue?"], ["How was it?", "How did it go?"]],
       [["Fue divertido", "Estuvo divertido"], ["It was fun"]],
       [["Fue estupendo"], ["It was brilliant", "It was great"]],
-      [["Fue fenomenal"], ["It was fantastic", "It was amazing"]],
+      [
+        ["Fue fenomenal"],
+        ["It was fantastic", "It was amazing", "It was great"]
+      ],
       [["Fue flipante"], ["It was awesome", "It was incredible"]],
       [["Fue genial"], ["It was great", "It was excellent"]],
       [["Fue guay"], ["It was cool", "It was awesome"]],
@@ -1013,10 +1016,18 @@
       [["Me encantó"], ["I loved it"]],
       [["¿Por qué?"], ["Why?"]],
       [["porque"], ["because"]],
-      [["Hizo buen tiempo"], ["The weather was good", "It was nice weather"]],
+      [
+        ["Hizo buen tiempo"],
+        ["The weather was good", "It was nice weather", "It was good weather"]
+      ],
       [
         ["Comí algo malo y vomité"],
-        ["I ate something bad and vomited", "I ate something bad and threw up"]
+        [
+          "I ate something bad and vomited",
+          "I ate something bad and threw up",
+          "I ate something bad and I vomited",
+          "I ate something bad and was sick"
+        ]
       ],
       [["Llovió"], ["It rained"]],
       [["Perdí mi pasaporte"], ["I lost my passport"]],
