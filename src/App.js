@@ -34,7 +34,7 @@ import ks3SpanishData from './data/ks3-spanish-vocab.json'
 //Sound files
 import wrongSoundFile from './sound/wrong.mp3';
 import correctSoundFile from './sound/correct.mp3';
-import cheeringSoundFile from './sound/crowd-cheering3.mp3';
+import cheeringSoundFile from './sound/crowd-cheering5.mp3';
 
 
 
@@ -83,7 +83,7 @@ function App() {
   const [teacherMode, setTeacherMode] = useState(false)
   const [secondsByUser, setSecondsByUser] = useState(20); //seconds chosen by the user
   const [countdownInterval, setCoundownInterval] = useState(null) //countdown
-  const [countdownValue, setCountdownValue] = useState(20); // CLAUDE
+  const [countdownValue, setCountdownValue] = useState(20); 
   
   //This state changes the style of the text when you give the right/wrong answer
   const [rightAnswer, setRightAnswer] = useState(false);
@@ -128,9 +128,18 @@ function App() {
 
   const handleCheck = () => {
     if(!gameOver) {
+      const trimmedResponse = userResponse.trim();
+      // Cheat to beat the game instantly
+      if (trimmedResponse === "▼" || trimmedResponse === "Javi es el mas guapo") {
+        setGameOver(true);
+        setUserResponse("All expressions answered, YOU WIN!");
+        confettiRef.current.fire();
+        playCheeringSound();
+        setExpressionsAnswered(remainingExpressions.length)
+      }
       if(!questionAlreadyAnswered){
         if (spToEngMode === true ) {
-          if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
+          if (formatArray(targetExpression[1]).includes(formatString(trimmedResponse)) || trimmedResponse === "▲") {
             setRightAnswer(true);
             setWrongAnswer(false);
             playCorrectSound();
@@ -138,16 +147,24 @@ function App() {
             if (expressionsAnswered != 0 && expressionsAnswered % 5 === 0) {
               setNumberOfHints(prevVal => prevVal + 1)
             }
-            setUserResponse(`${targetExpression[0][0]} = ${targetExpression[1][0]}`);
+            if (spToEngMode) {
+              setUserResponse(targetExpression[1][0]);
+            } else {
+              setUserResponse(targetExpression[0][0]);
+            }
+            // This line underneath is the old way to show the answer, showing both the expression
+            // in Spanish and English. Sometimes it was too much text
+            //setUserResponse(`${targetExpression[1][0]} = ${targetExpression[0][0]}`);
+            //Remove answered expression
             //Remove answered expression
             setRemainingExpressions(prevVal => prevVal.filter(expr => expr !== targetExpression));
             setQuestionAlreadyAnswered(true);            
-          } else if (userTries === 1 && targetExpression[0][0] !== userResponse) {
+          } else if (userTries === 1 && targetExpression[0][0] !== trimmedResponse) {
             setGameOver(true);
             setUserTries(0);
             setUserResponse(`The answer was: "${targetExpression[1][0]}"`);
             playWrongSound();
-          } else if (userResponse === "") {
+          } else if (trimmedResponse === "") {
               setUserResponse("Type your answer!")
           } else {
             setUserTries(prevValue => prevValue -1)
@@ -156,7 +173,7 @@ function App() {
             playWrongSound();
           } 
         } else {
-            if (formatArray(targetExpression[0]).includes(formatString(userResponse)) || userResponse === "▲") {
+            if (formatArray(targetExpression[0]).includes(formatString(trimmedResponse)) || trimmedResponse === "▲") {
               setRightAnswer(true);
               setWrongAnswer(false);
               playCorrectSound();
@@ -164,17 +181,24 @@ function App() {
               if (expressionsAnswered != 0 && expressionsAnswered % 5 === 0) {
                 setNumberOfHints(prevVal => prevVal + 1)
               }
-              setUserResponse(`${targetExpression[1][0]} = ${targetExpression[0][0]}`);
+              if (spToEngMode) {
+                setUserResponse(targetExpression[1][0]);
+              } else {
+                setUserResponse(targetExpression[0][0]);
+              }
+              // This line underneath is the old way to show the answer, showing both the expression
+              // in Spanish and English. Sometimes it was too much text
+              //setUserResponse(`${targetExpression[1][0]} = ${targetExpression[0][0]}`);
               //Remove answered expression
               setRemainingExpressions(prevVal => prevVal.filter(expr => expr !== targetExpression));
               setQuestionAlreadyAnswered(true);
               
-            } else if (userTries === 1 && targetExpression[1][0] !== userResponse) {
+            } else if (userTries === 1 && targetExpression[1][0] !== trimmedResponse) {
               setGameOver(true);
               setUserTries(0);
               setUserResponse(`The answer was: "${targetExpression[0][0]}"`);
               playWrongSound();
-            } else if (userResponse === "") {
+            } else if (trimmedResponse === "") {
                 setUserResponse("Type your answer!")
             } else {
               setUserTries(prevValue => prevValue -1)
@@ -214,7 +238,6 @@ function App() {
         playCheeringSound();
       } 
     }
-    // countdown = secondsByUser; (commented by CLAUDE)
     if (!teacherMode) {
       // Focus the input element after setting the game
       // It was necessary to include this on a setTimeout to make sure it happened immediately after first click
@@ -259,7 +282,7 @@ function App() {
       }
       setRightAnswer(true);
       setUserResponse(`${targetExpression[0][0]} = ${targetExpression[1][0]}`);
-      setInput(`${targetExpression[0][0]} = ${targetExpression[1][0]}`); // This is the key addition - update the input that shows in teacher mode CLAUDE
+      setInput(`${targetExpression[0][0]} = ${targetExpression[1][0]}`); // This is the key addition - update the input that shows in teacher mode
       setGameIsOn(false);
   }
 
@@ -325,7 +348,7 @@ function App() {
   }
 
   // Add cleanup when component unmounts (add this useEffect):
-  // This is for the countdown (CLAUDE)
+  // useEffect for the countdown
     useEffect(() => {
       return () => {
         if (countdownInterval) {
@@ -400,7 +423,8 @@ function App() {
                 type="text"
                 value={userResponse}
                 onChange={(e) => {
-                    setUserResponse(e.target.value);
+                  if (!gameOver) {setUserResponse(e.target.value);}
+                    
                 }}
                 onKeyDown={(e) => {
                     if (e.key === 'Enter') {

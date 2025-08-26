@@ -186,12 +186,15 @@
       [["un gato"], ["a cat"]],
       [["un pez"], ["a fish"]],
       [["un ratón"], ["a mouse"]],
-      [["una serpiente"], ["a snake"]],
+      [["una serpiente"], ["a snake", "a serpent"]],
       [
         ["No tengo mascotas"],
         ["I don't have any pets", "I don't have pets", "I have no pets"]
       ],
-      [["¿Cómo es?"], ["What is it like?"]],
+      [
+        ["¿Cómo es?"],
+        ["What is it like?", "What is he like?", "What is she like?"]
+      ],
       [["¿Cómo son?"], ["What are they like?"]],
       [["blanco", "blanca"], ["white"]],
       [["amarillo", "amarilla"], ["yellow"]],
