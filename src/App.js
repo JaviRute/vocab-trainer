@@ -115,10 +115,11 @@ function App() {
 
   // FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------FUNCTIONS-------------
 
-  //These 2 next functions are used in handleCheck, to make sure user answer is not case sensitive, and 
-  //all instances of "'" are deleted, to make the game less frustrating
+  // These 2 next functions are used in handleCheck, to make sure user answer is not case sensitive, and 
+  // all instances of "'" are deleted, to make the game less frustrating
+  // We also delete empty spaces before and after the user entry, in case he entered some
   const formatString = (str) => {
-    str = str.replaceAll(/['’‘`]/g, "");
+    str = str.replaceAll(/['’‘`]/g, "").trim();
     return str.toLowerCase();
   }
 
@@ -128,18 +129,19 @@ function App() {
 
   const handleCheck = () => {
     if(!gameOver) {
-      const trimmedResponse = userResponse.trim();
       // Cheat to beat the game instantly
-      if (trimmedResponse === "▼" || trimmedResponse === "Javi es el mas guapo") {
+      if (userResponse === "▼" || userResponse === "Ere un papafrita") {
+        setRightAnswer(true);
+        setWrongAnswer(false);
         setGameOver(true);
         setUserResponse("All expressions answered, YOU WIN!");
         confettiRef.current.fire();
         playCheeringSound();
         setExpressionsAnswered(remainingExpressions.length)
       }
-      if(!questionAlreadyAnswered){
+      else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
-          if (formatArray(targetExpression[1]).includes(formatString(trimmedResponse)) || trimmedResponse === "▲") {
+          if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
             setRightAnswer(true);
             setWrongAnswer(false);
             playCorrectSound();
@@ -159,12 +161,12 @@ function App() {
             //Remove answered expression
             setRemainingExpressions(prevVal => prevVal.filter(expr => expr !== targetExpression));
             setQuestionAlreadyAnswered(true);            
-          } else if (userTries === 1 && targetExpression[0][0] !== trimmedResponse) {
+          } else if (userTries === 1 && targetExpression[0][0] !== userResponse) {
             setGameOver(true);
             setUserTries(0);
             setUserResponse(`The answer was: "${targetExpression[1][0]}"`);
             playWrongSound();
-          } else if (trimmedResponse === "") {
+          } else if (userResponse === "") {
               setUserResponse("Type your answer!")
           } else {
             setUserTries(prevValue => prevValue -1)
@@ -173,7 +175,7 @@ function App() {
             playWrongSound();
           } 
         } else {
-            if (formatArray(targetExpression[0]).includes(formatString(trimmedResponse)) || trimmedResponse === "▲") {
+            if (formatArray(targetExpression[0]).includes(formatString(userResponse)) || userResponse === "▲") {
               setRightAnswer(true);
               setWrongAnswer(false);
               playCorrectSound();
@@ -193,12 +195,12 @@ function App() {
               setRemainingExpressions(prevVal => prevVal.filter(expr => expr !== targetExpression));
               setQuestionAlreadyAnswered(true);
               
-            } else if (userTries === 1 && targetExpression[1][0] !== trimmedResponse) {
+            } else if (userTries === 1 && targetExpression[1][0] !== userResponse) {
               setGameOver(true);
               setUserTries(0);
               setUserResponse(`The answer was: "${targetExpression[0][0]}"`);
               playWrongSound();
-            } else if (trimmedResponse === "") {
+            } else if (userResponse === "") {
                 setUserResponse("Type your answer!")
             } else {
               setUserTries(prevValue => prevValue -1)
