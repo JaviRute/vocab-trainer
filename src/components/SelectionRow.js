@@ -28,9 +28,12 @@ export default function SelectionRow({ theme,
             {!theme && <>
                 {ks3Ks4 ? (<h2>Choose Theme</h2>) : (<h2>Choose Course</h2>)}
                 {ks3Ks4 &&<>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme1S)}>Theme 1</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme2S)}>Theme 2</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme3S)}>Theme 3</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme1S)}>Spanish Theme 1</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme2S)}>Spanish Theme 2</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme3S)}>Spanish Theme 3</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme1F)}>French Theme 1</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme2F)}>French Theme 2</p>
+                  <p className="theme-choice" onClick={() => chooseTheme(theme3F)}>French Theme 3</p>
                 </>}
                 {!ks3Ks4 &&<>
                   <p className="theme-choice" onClick={() => chooseTheme(year7S)}>Year 7: Viva 1</p>
