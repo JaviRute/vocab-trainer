@@ -29,6 +29,7 @@ import ConfettiCelebration from "./components/Confetti";
 import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
 import ks3SpanishData from './data/ks3-spanish-vocab.json'
+import kerboodleFrenchData from './data/kerboodle-french-vocab.json'
 
 
 //Sound files
@@ -46,12 +47,15 @@ function App() {
   const inputRef = useRef(null);
 
   //We take the data and split it by themes
-  const theme1 = kerboodleSpanishData["Theme 1"];
-  const theme2 = kerboodleSpanishData["Theme 2"];
-  const theme3 = kerboodleSpanishData["Theme 3"];
-  const year7 = ks3SpanishData["Year 7: Viva 1"];
-  const year8 = ks3SpanishData["Year 8: Viva 2"];
-  const year9 = ks3SpanishData["Year 9: Viva 3 Rojo"];
+  const theme1S = kerboodleSpanishData["Theme 1"];
+  const theme2S = kerboodleSpanishData["Theme 2"];
+  const theme3S = kerboodleSpanishData["Theme 3"];
+  const year7S = ks3SpanishData["Year 7: Viva 1"];
+  const year8S = ks3SpanishData["Year 8: Viva 2"];
+  const year9S = ks3SpanishData["Year 9: Viva 3 Rojo"];
+  const theme1F = kerboodleFrenchData["Theme 1"];
+  const theme2F = kerboodleFrenchData["Theme 2"];
+  const theme3F = kerboodleFrenchData["Theme 3"];
   let countdown;  
 
   // -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE -------STATE 
@@ -373,12 +377,15 @@ function App() {
         <SelectionRow 
           theme={theme} 
           lesson={lesson} 
-          theme1={theme1}
-          theme2={theme2}
-          theme3={theme3}
-          year7={year7}
-          year8={year8}
-          year9={year9}
+          theme1S={theme1S}
+          theme2S={theme2S}
+          theme3S={theme3S}
+          year7S={year7S}
+          year8S={year8S}
+          year9S={year9S}
+          theme1F={theme1F}
+          theme2F={theme2F}
+          theme3F={theme3F}
           ks3Ks4={ks3Ks4}
           chooseTheme={chooseTheme}
           chooseLesson={chooseLesson}

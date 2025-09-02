@@ -1,0 +1,3269 @@
+{
+  "Year 7: Studio 1": [
+    [
+      "1.1 Mon autoportrait",
+      [
+        ["les animaux", "animaux"],
+        ["animals", "the animals"]
+      ],
+      [
+        ["les araignées", "araignées"],
+        ["spiders", "the spiders"]
+      ],
+      [
+        ["la capoeira", "capoeira"],
+        ["a Brazilian dance", "capoeira"]
+      ],
+      [
+        ["les chats", "chats"],
+        ["cats", "the cats"]
+      ],
+      [
+        ["les chiens", "chiens"],
+        ["dogs", "the dogs"]
+      ],
+      [
+        ["le cinéma", "cinéma"],
+        ["cinema", "the cinema", "movies", "the movies"]
+      ],
+      [
+        ["les consoles de jeux", "consoles de jeux"],
+        [
+          "games consoles",
+          "game consoles",
+          "video game consoles",
+          "videogame consoles"
+        ]
+      ],
+      [
+        ["la danse", "danse"],
+        ["dancing", "dance"]
+      ],
+      [
+        ["le foot", "foot", "le football", "football"],
+        ["football", "soccer"]
+      ],
+      [
+        ["les gâteaux", "gâteaux"],
+        ["cakes", "the cakes"]
+      ],
+      [
+        ["le hard rock", "hard rock"],
+        ["hard rock", "rock music"]
+      ],
+      [["l'injustice", "injustice"], ["injustice"]],
+      [
+        ["les insectes", "insectes"],
+        ["insects", "the insects"]
+      ],
+      [
+        ["les jeux vidéo", "jeux vidéo"],
+        ["video games", "videogames"]
+      ],
+      [
+        ["les livres", "livres"],
+        ["books", "the books"]
+      ],
+      [["la musique", "musique"], ["music"]],
+      [
+        ["les mangas", "mangas"],
+        ["mangas", "the mangas", "comics", "comic books"]
+      ],
+      [
+        ["les maths", "maths", "les mathématiques", "mathématiques"],
+        ["maths", "math", "mathematics"]
+      ],
+      [
+        ["les pizzas", "pizzas"],
+        ["pizzas", "the pizzas"]
+      ],
+      [["la poésie", "poésie"], ["poetry"]],
+      [["j’aime", "j aime"], ["I like"]],
+      [
+        ["je n’aime pas", "je n aime pas"],
+        ["I don't like", "I do not like"]
+      ],
+      [
+        ["tu aimes", "tu aimes ...", "tu aimes ?"],
+        ["Do you like", "Do you like ... ?"]
+      ],
+      [
+        ["il aime", "elle aime"],
+        ["he likes", "she likes"]
+      ],
+      [
+        ["oui j’aime ça", "oui j aime ça", "oui j’aime ca", "oui j aime ca"],
+        ["Yes I like that", "Yes I do like that"]
+      ],
+      [
+        [
+          "non je n’aime pas ça",
+          "non je n aime pas ça",
+          "non je n’aime pas ca",
+          "non je n aime pas ca"
+        ],
+        ["No I don’t like that", "No I do not like that"]
+      ],
+      [["tu es d’accord", "tu es d accord"], ["Do you agree"]],
+      [["je suis d’accord", "je suis d accord"], ["I agree"]],
+      [
+        ["je ne suis pas d’accord", "je ne suis pas d accord"],
+        ["I don’t agree", "I do not agree"]
+      ],
+      [
+        ["c’est génial", "c est génial"],
+        ["It’s great", "It is great"]
+      ],
+      [
+        ["c’est cool", "c est cool"],
+        ["It’s cool", "It is cool"]
+      ],
+      [
+        ["c’est bien", "c est bien"],
+        ["It’s good", "It is good"]
+      ],
+      [
+        ["c’est ennuyeux", "c est ennuyeux"],
+        ["It’s boring", "It is boring"]
+      ],
+      [
+        ["c’est nul", "c est nul"],
+        ["It’s rubbish", "It is rubbish", "It’s bad"]
+      ],
+      [
+        ["c’est essentiel", "c est essentiel"],
+        ["It’s essential", "It is essential"]
+      ],
+      [
+        ["c’est important", "c est important"],
+        ["It’s important", "It is important"]
+      ],
+      [
+        ["ce n’est pas bien", "ce n est pas bien"],
+        ["It’s not good", "It is not good"]
+      ]
+    ],
+    ["1.2 Mon kit de survie"],
+    ["1.3 Comment je me vois"],
+    ["1.4 Et les autres?"],
+    [
+      "1.5 Il est hypercool!",
+      [["¿Tienes mascotas?"], ["Do you have pets?", "Do you have any pets?"]],
+      [["Tengo un perro", "Tengo una perra"], ["I have a dog"]],
+      [["un caballo"], ["a horse"]],
+      [["una cobaya", "un cobayo"], ["a guinea pig"]],
+      [["un conejo"], ["a rabbit"]],
+      [["un gato"], ["a cat"]],
+      [["un pez"], ["a fish"]],
+      [["un ratón"], ["a mouse"]],
+      [["una serpiente"], ["a snake", "a serpent"]],
+      [
+        ["No tengo mascotas"],
+        ["I don't have any pets", "I don't have pets", "I have no pets"]
+      ],
+      [
+        ["¿Cómo es?"],
+        ["What is it like?", "What is he like?", "What is she like?"]
+      ],
+      [["¿Cómo son?"], ["What are they like?"]],
+      [["blanco", "blanca"], ["white"]],
+      [["amarillo", "amarilla"], ["yellow"]],
+      [["negro", "negra"], ["black"]],
+      [["rojo", "roja"], ["red"]],
+      [["verde"], ["green"]],
+      [["gris"], ["grey"]],
+      [["marrón"], ["brown"]],
+      [["azul"], ["blue"]],
+      [["rosa"], ["pink"]],
+      [["naranja"], ["orange"]]
+    ],
+    [
+      "2.1 ¿Qué te gusta hacer?",
+      [
+        ["¿Qué te gusta hacer?"],
+        ["What do you like to do?", "What do you like doing?"]
+      ],
+      [["Me gusta"], ["I like"]],
+      [["Me gusta mucho"], ["I like a lot", "I really like"]],
+      [["No me gusta"], ["I don't like"]],
+      [["No me gusta nada"], ["I don't like at all", "I really don't like"]],
+      [["chatear"], ["to chat online"]],
+      [["escribir correos"], ["to write emails"]],
+      [["escuchar música"], ["to listen to music"]],
+      [
+        ["jugar a los videojuegos"],
+        ["to play videogames", "to play video games"]
+      ],
+      [["leer"], ["to read"]],
+      [
+        ["mandar SMS", "mandar mensajes"],
+        [
+          "to send text messages",
+          "to text",
+          "to send texts",
+          "to send messages"
+        ]
+      ],
+      [
+        ["navegar por Internet"],
+        ["to browse the internet", "to surf the net", "to go online"]
+      ],
+      [
+        ["salir con mis amigos"],
+        ["to go out with my friends", "to hang out with my friends"]
+      ],
+      [["ver la televisión"], ["to watch TV", "to watch television"]],
+      [["porque es"], ["because it is", "because it's"]],
+      [["porque no es"], ["because it is not", "because it's not"]],
+      [["interesante"], ["interesting"]],
+      [["guay"], ["cool"]],
+      [
+        ["divertido", "divertida"],
+        ["fun", "amusing"]
+      ],
+      [["estúpido", "estúpida"], ["stupid"]],
+      [["tonto", "tonta"], ["silly"]],
+      [["aburrido", "aburrida"], ["boring"]]
+    ],
+    [
+      "2.2 ¿Cantas karaoke?",
+      [
+        ["¿Qué haces en tu tiempo libre?"],
+        [
+          "What do you do in your free time?",
+          "What do you do in your spare time?"
+        ]
+      ],
+      [["bailo"], ["I dance"]],
+      [["bailas"], ["you dance"]],
+      [["canto karaoke"], ["I sing karaoke"]],
+      [["canta karaoke"], ["he sings karaoke", "she sings karaoke"]],
+      [
+        ["hablo con mis amigos"],
+        ["I talk with my friends", "I chat with my friends"]
+      ],
+      [["hablamos"], ["we talk"]],
+      [["monto en bici"], ["I ride my bike", "I cycle"]],
+      [["saco fotos"], ["I take photos", "I take pictures"]],
+      [["sacan fotos"], ["they take photos", "they take pictures"]],
+      [["toco la guitarra"], ["I play the guitar", "I play guitar"]],
+      [["a veces"], ["sometimes"]],
+      [["de vez en cuando"], ["from time to time", "every now and then"]],
+      [["nunca"], ["never"]],
+      [["todos los días"], ["every day", "daily", "everyday"]]
+    ],
+    [
+      "2.3 ¿Qué haces cuando llueve?",
+      [
+        ["¿Qué tiempo hace?"],
+        ["What's the weather like?", "What's the weather?"]
+      ],
+      [["hace calor"], ["it's hot", "it's warm"]],
+      [["hace frío"], ["it's cold"]],
+      [["hace sol"], ["it's sunny"]],
+      [
+        ["hace buen tiempo"],
+        ["it's nice weather", "it's good weather", "the weather is good"]
+      ],
+      [["llueve"], ["it's raining", "it rains"]],
+      [["nieva"], ["it's snowing", "it snows"]],
+      [["¿Qué haces cuando llueve?"], ["What do you do when it's raining?"]],
+      [["la primavera", "primavera"], ["spring"]],
+      [["el verano", "verano"], ["summer"]],
+      [
+        ["el otoño", "otoño"],
+        ["autumn", "fall"]
+      ],
+      [["el invierno", "invierno"], ["winter"]],
+      [["nunca"], ["never"]],
+      [["generalmente"], ["generally"]],
+      [["a veces"], ["sometimes"]]
+    ],
+    [
+      "2.4 ¿Qué deportes haces?",
+      [
+        ["¿Qué deportes haces?"],
+        ["What sports do you do?", "What sports do you play?"]
+      ],
+      [["Hago artes marciales"], ["I do martial arts"]],
+      [["Hago atletismo"], ["I do athletics", "I do track and field"]],
+      [
+        ["Hago equitación"],
+        [
+          "I do horse riding",
+          "I go horse riding",
+          "I do horseriding",
+          "I go horseriding"
+        ]
+      ],
+      [["Hago gimnasia"], ["I do gymnastics"]],
+      [["Hago natación"], ["I do swimming", "I go swimming"]],
+      [["Juego al baloncesto"], ["I play basketball"]],
+      [["Juego al fútbol"], ["I play football", "I play soccer"]],
+      [["Juego al tenis"], ["I play tennis"]],
+      [["Juego al voleibol"], ["I play volleyball"]],
+      [["Me gusta"], ["I like"]],
+      [["Me gusta mucho"], ["I really like", "I like a lot"]],
+      [
+        ["¡Me gusta muchísimo!"],
+        ["I really like it!", "I really, really like it!"]
+      ],
+      [["Me encanta"], ["I love it"]],
+      [["lunes"], ["Monday"]],
+      [["martes"], ["Tuesday"]],
+      [["miércoles"], ["Wednesday"]],
+      [["jueves"], ["Thursday"]],
+      [["viernes"], ["Friday"]],
+      [["sábado"], ["Saturday"]],
+      [["domingo"], ["Sunday"]],
+      [["los lunes"], ["on Mondays", "every Monday"]],
+      [["los martes"], ["on Tuesdays", "every Tuesday"]]
+    ],
+    [
+      "3.1 ¿Qué estudias?",
+      [["Estudio ciencias"], ["I study Science"]],
+      [["dibujo"], ["art"]],
+      [["educación física"], ["PE", "Physical Education"]],
+      [["español"], ["Spanish"]],
+      [["francés"], ["French"]],
+      [["historia"], ["history"]],
+      [["informática"], ["ICT", "IT", "Computing"]],
+      [["inglés"], ["English"]],
+      [["matemáticas"], ["maths", "math", "mathematics"]],
+      [["música"], ["music"]],
+      [["religión"], ["RE", "Religious Studies", "Religion", "RS"]],
+      [["teatro"], ["drama", "theatre", "theater"]],
+      [["tecnología"], ["technology", "DT", "design and technology"]],
+
+      [
+        ["¿Cuál es tu día favorito?"],
+        [
+          "What is your favourite day?",
+          "What's your favourite day?",
+          "What is your favorite day?",
+          "What's your favorite day?"
+        ]
+      ],
+      [
+        ["Mi día favorito es el martes"],
+        ["My favourite day is Tuesday", "My favorite day is Tuesday"]
+      ],
+      [["Los lunes estudio geografía"], ["On Mondays I study geography"]],
+      [["¿Por qué?"], ["Why?"]],
+      [["Porque"], ["Because"]],
+      [["por la mañana"], ["in the morning"]],
+      [["por la tarde"], ["in the afternoon"]],
+      [["estudiamos"], ["we study"]],
+      [["no estudio"], ["I don't study"]]
+    ],
+    [
+      "3.2 ¿Te gustan las ciencias?",
+      [["¿Te gusta el dibujo?"], ["Do you like art?", "Do you like drawing?"]],
+      [["me gusta el teatro"], ["I like drama"]],
+      [
+        ["me gusta mucho la música"],
+        ["I really like music", "I like music a lot"]
+      ],
+      [
+        ["no me gustan las matemáticas"],
+        ["I don't like Maths at all", "I really don't like Maths"]
+      ],
+      [["¿Te gustan las ciencias?"], ["Do you like science?"]],
+      [["Sí, me encantan las ciencias."], ["Yes, I love science."]],
+
+      [
+        ["El profesor es paciente", "La profesora es paciente"],
+        ["The teacher is patient"]
+      ],
+      [["aburrido", "aburrida"], ["boring"]],
+      [["difícil"], ["difficult", "hard"]],
+      [
+        ["divertido", "divertida"],
+        ["fun", "amusing"]
+      ],
+      [["fácil"], ["easy", "simple"]],
+      [["importante"], ["important"]],
+      [["interesante"], ["interesting"]],
+      [["práctico", "práctica"], ["practical"]],
+      [["útil"], ["useful"]],
+      [
+        ["raro", "rara"],
+        ["odd", "strange", "weird"]
+      ],
+      [
+        ["severo", "severa"],
+        ["strict", "severe"]
+      ]
+    ],
+    [
+      "3.3 ¿Qué hay en tu insti?",
+      [["¿Qué hay en tu insti?"], ["What is there in your school?"]],
+      [["En mi insti hay un gimnasio"], ["In my school there is a gym"]],
+      [["un campo de fútbol"], ["a football field"]],
+      [["un comedor"], ["a dining hall", "a canteen"]],
+      [["un patio"], ["a playground"]],
+      [["una biblioteca"], ["a library"]],
+      [
+        ["una clase de informática"],
+        ["an ICT room", "an IT room", "a computing room"]
+      ],
+      [["una piscina"], ["a swimming pool", "a pool"]],
+      [["unos laboratorios"], ["some laboratories", "some labs"]],
+      [["unas clases"], ["some classrooms"]],
+      [
+        ["No hay piscina"],
+        [
+          "There isn't a swimming pool",
+          "There isn't a pool",
+          "There is no swimming pool",
+          "There is no pool",
+          "There's no swimming pool",
+          "There's no pool"
+        ]
+      ],
+      [
+        [
+          "¿Cómo es tu insti?",
+          "¿Cómo es tu instituto?",
+          "¿Cómo es tu colegio?"
+        ],
+        ["What's your school like?"]
+      ],
+      [["Es antiguo"], ["It's old", "It is old"]],
+      [
+        ["bonito", "bonita"],
+        ["nice", "pretty"]
+      ],
+      [["bueno", "buena"], ["good"]],
+      [["feo", "fea"], ["ugly"]],
+      [["grande"], ["big", "large"]],
+      [["horrible"], ["horrible"]],
+      [["moderno", "moderna"], ["modern"]],
+      [
+        ["pequeño", "pequeña"],
+        ["small", "little"]
+      ]
+    ],
+    [
+      "3.4 Durante el recreo",
+      [["¿Qué haces durante el recreo?"], ["What do you do during break?"]],
+      [["Como un bocadillo"], ["I eat a sandwich"]],
+      [["unos caramelos"], ["some sweets"]],
+      [["chicle"], ["chewing gum"]],
+      [["una chocolatina"], ["a chocolate bar"]],
+      [["fruta"], ["fruit"]],
+      [["unas patatas fritas"], ["some crisps"]],
+      [["Bebo agua"], ["I drink water"]],
+      [["un refresco"], ["a fizzy drink", "a soft drink"]],
+      [["un zumo", "un jugo"], ["a juice"]],
+      [["Leo mis SMS", "Leo mis mensajes"], ["I read my text messages"]],
+      [["Escribo SMS", "Escribo mensajes"], ["I write text messages"]],
+      [
+        ["Nunca hago los deberes"],
+        [
+          "I never do homework",
+          "I never do my homework",
+          "I never do the homework"
+        ]
+      ],
+      [["normalmente"], ["normally"]],
+      [["a veces"], ["sometimes"]],
+      [["primero"], ["first"]],
+      [["luego"], ["then", "afterwards", "later"]]
+    ],
+    [
+      "4.1 ¿Cuántas personas hay en tu familia?",
+      [
+        ["¿Cuántas personas hay en tu familia?"],
+        ["How many people are there in your family?"]
+      ],
+      [
+        ["En mi familia hay cinco personas"],
+        [
+          "In my family there are five people",
+          "In my family there are 5 people"
+        ]
+      ],
+      [["mis padres"], ["my parents"]],
+      [["mi madre"], ["my mother"]],
+      [["mi padre"], ["my father"]],
+      [["mi abuelo"], ["my grandfather"]],
+      [["mi abuela"], ["my grandmother"]],
+      [["mi bisabuela"], ["my great-grandmother"]],
+      [["mi tío"], ["my uncle"]],
+      [["mi tía"], ["my aunt"]],
+      [["mis primos"], ["my cousins"]],
+      [
+        ["¿Cómo se llama tu madre?"],
+        [
+          "What is your mother called?",
+          "What's your mother called?",
+          "What's your mother's name?",
+          "What is your mother's name?",
+          "What's the name of your mother?"
+        ]
+      ],
+      [
+        ["Mi madre se llama Mary"],
+        ["My mother is called Mary", "My mother's name is Mary"]
+      ],
+      [
+        ["¿Cómo se llaman tus primos?"],
+        ["What are your cousins called?", "What are the names of your cousins?"]
+      ],
+      [
+        ["Mis primos se llaman Bill y Ted"],
+        ["My cousins are called Bill and Ted"]
+      ],
+      [["su hermano"], ["his brother", "her brother"]],
+      [["sus hermanos"], ["his brothers", "her brothers", "their brothers"]],
+      [["treinta"], ["thirty", "30"]],
+      [["cuarenta"], ["forty", "40"]],
+      [["cincuenta"], ["fifty", "50"]],
+      [["sesenta"], ["sixty", "60"]],
+      [["setenta"], ["seventy", "70"]],
+      [["ochenta"], ["eighty", "80"]],
+      [["noventa"], ["ninety", "90"]],
+      [["cien"], ["one hundred", "100"]]
+    ],
+    [
+      "4.2 ¿De qué color tienes los ojos?",
+      [["¿De qué color tienes los ojos?"], ["What colour are your eyes?"]],
+      [["Tengo los ojos marrones"], ["I have brown eyes"]],
+      [["Tengo los ojos azules"], ["I have blue eyes"]],
+      [["Tengo los ojos grises"], ["I have grey eyes", "I have gray eyes"]],
+      [["Tengo los ojos verdes"], ["I have green eyes"]],
+      [
+        ["Llevo gafas", "Tengo gafas"],
+        ["I wear glasses", "I have glasses"]
+      ],
+      [
+        ["¿Cómo tienes el pelo?"],
+        ["What's your hair like?", "What is your hair like?"]
+      ],
+      [["Tengo el pelo castaño"], ["I have brown hair"]],
+      [
+        ["Tengo el pelo largo y rizado"],
+        ["I have long curly hair", "I have long and curly hair"]
+      ],
+      [["negro"], ["black"]],
+      [["rubio"], ["blond", "blonde", "fair", "fair-haired"]],
+      [["azul"], ["blue"]],
+      [["liso"], ["straight"]],
+      [["rizado"], ["curly"]],
+      [["largo"], ["long"]],
+      [["corto"], ["short"]],
+      [["Soy pelirrojo", "Soy pelirroja"], ["I am a redhead."]],
+      [["Soy calvo", "Soy calva"], ["I am bald"]]
+    ],
+    [
+      "4.3 ¿Cómo es?",
+      [["¿Cómo es?"], ["What is he like?", "What is she like?"]],
+      [["Es delgado"], ["He is slim", "He is thin"]],
+      [["No es muy alta"], ["She isn't very tall", "She is not very tall"]],
+      [["alto", "alta"], ["tall"]],
+      [["bajo", "baja"], ["short"]],
+      [
+        ["delgado", "delgada"],
+        ["slim", "thin"]
+      ],
+      [["gordo", "gorda"], ["fat"]],
+      [
+        ["guapo", "guapa"],
+        ["good-looking", "handsome", "pretty"]
+      ],
+      [["inteligente"], ["intelligent", "clever", "smart"]],
+      [["joven"], ["young"]],
+      [["viejo", "vieja", "mayor"], ["old"]],
+      [["Tiene pecas"], ["He has freckles", "She has freckles"]],
+      [["Tiene barba"], ["He has a beard"]],
+      [["mis amigos"], ["my friends"]],
+      [["mi mejor amigo", "mi mejor amiga"], ["my best friend"]],
+      [
+        ["su mejor amigo", "su mejor amiga"],
+        ["his best friend", "her best friend"]
+      ]
+    ],
+    [
+      "4.4 ¿Cómo es tu casa o piso?",
+      [
+        ["¿Cómo es tu casa o tu piso?"],
+        ["What is your house like?", "What is your flat like?"]
+      ],
+      [
+        ["Vivo en un apartamento", "Vivo en un departamento"],
+        ["I live in an apartment"]
+      ],
+      [["una casa"], ["a house"]],
+      [["un piso"], ["a flat"]],
+      [["antiguo", "antigua"], ["old"]],
+      [
+        ["bonito", "bonita"],
+        ["nice", "pretty"]
+      ],
+      [["cómodo", "cómoda"], ["comfortable"]],
+      [["grande"], ["big", "large"]],
+      [["moderno", "moderna"], ["modern"]],
+      [["pequeño", "pequeña"], ["small"]],
+      [["¿Dónde está?"], ["Where is it?"]],
+      [
+        ["Está en el centro de la ciudad"],
+        [
+          "It is in the city centre",
+          "It's in the city centre",
+          "It is in the city center",
+          "It's in the city center"
+        ]
+      ],
+      [["el campo"], ["the countryside"]],
+      [["la costa"], ["the coast"]],
+      [["una ciudad"], ["a town", "a city"]],
+      [["el desierto"], ["the desert"]],
+      [["la montaña"], ["the mountains", "the mountain"]],
+      [["un pueblo"], ["a village"]],
+      [["el norte"], ["the north"]],
+      [["el sur"], ["the south"]],
+      [["el este"], ["the east"]],
+      [["el oeste"], ["the west"]],
+      [["el centro"], ["the centre", "downtown"]]
+    ],
+    [
+      "5.1 ¿Qué hay en tu ciudad?",
+      [
+        ["¿Qué hay en tu ciudad?"],
+        [
+          "What is there in your town?",
+          "What is there in your city?",
+          "What's there in your town?",
+          "What's there in your city?"
+        ]
+      ],
+      [["Hay un castillo"], ["There is a castle"]],
+      [["un centro comercial"], ["a shopping centre", "a shopping mall"]],
+      [["un estadio"], ["a stadium"]],
+      [["un mercado"], ["a market"]],
+      [["un museo"], ["a museum"]],
+      [["un parque"], ["a park"]],
+      [["una piscina"], ["a swimming pool"]],
+      [["una plaza"], ["a square"]],
+      [["un polideportivo"], ["a sports centre", "a sports complex"]],
+      [["un restaurante"], ["a restaurant"]],
+      [["una tienda"], ["a shop", "a store"]],
+      [["una universidad"], ["a university"]],
+      [["en mi barrio"], ["in my neighbourhood", "in my neighborhood"]],
+      [["mi ciudad"], ["my town", "my city"]],
+      [["mi pueblo"], ["my village", "my town"]],
+
+      [["No hay museo"], ["There isn't a museum"]],
+      [
+        ["No hay nada"],
+        [
+          "There's nothing",
+          "There is nothing",
+          "There isn't anything",
+          "There isn't anything to do"
+        ]
+      ],
+      [["unos museos"], ["some museums"]],
+      [["unas tiendas"], ["some shops"]],
+      [["muchos museos"], ["a lot of museums", "lots of museums"]],
+      [["muchas tiendas"], ["a lot of shops"]],
+
+      [
+        ["¿Te gusta vivir en tu ciudad?"],
+        ["Do you like living in your city?", "Do you like living in your town?"]
+      ],
+      [
+        ["Me gusta mucho vivir en Barcelona"],
+        [
+          "I like living in Barcelona a lot",
+          "I really like living in Barcelona"
+        ]
+      ],
+      [
+        ["No me gusta nada vivir en Bristol"],
+        [
+          "I don't like living in Bristol at all",
+          "I really don't like living in Bristol"
+        ]
+      ]
+    ],
+    [
+      "5.2 ¿Qué haces en tu ciudad?",
+      [
+        ["¿Qué hora es?"],
+        ["What time is it?", "What is the time?", "What's the time?"]
+      ],
+      [["Es la una"], ["It's one o'clock", "It's one"]],
+      [["Son las dos"], ["It's two o'clock", "It's two"]],
+      [["Es la una y cinco"], ["It's five past one"]],
+      [["Son las dos y diez"], ["It's ten past two"]],
+      [["Son las tres y cuarto"], ["It's quarter past three"]],
+      [["Son las cuatro y veinte"], ["It's twenty past four"]],
+      [["Son las cinco y veinticinco"], ["It's twenty-five past five"]],
+      [["Son las seis y media"], ["It's half past six"]],
+      [["Son las siete menos veinticinco"], ["It's twenty-five to seven"]],
+      [["Son las ocho menos veinte"], ["It's twenty to eight"]],
+      [["Son las nueve menos cuarto"], ["It's quarter to nine"]],
+      [["Son las diez menos diez"], ["It's ten to ten"]],
+      [["Son las once menos cinco"], ["It's five to eleven"]],
+      [["Son las doce"], ["It's twelve o'clock", "It's twelve"]],
+      [["¿A qué hora?"], ["At what time?", "What time?"]],
+      [["a la una"], ["at one o'clock", "at one"]],
+
+      [
+        ["¿Qué haces en la ciudad?"],
+        ["What do you do in town?", "What do you do in the city?"]
+      ],
+      [["Salgo con mis amigos"], ["I go out with my friends"]],
+      [["Voy al cine"], ["I go to the cinema", "I go to the movies"]],
+      [["a la bolera"], ["to the bowling alley"]],
+      [["a la playa"], ["to the beach"]],
+      [["Voy de compras"], ["I go shopping"]],
+      [["Voy de paseo"], ["I go for a walk"]],
+      [["No hago nada"], ["I don't do anything", "I do nothing"]]
+    ],
+    [
+      "5.3 En la cafetería",
+      [["Yo quiero", "Quiero"], ["I want"]],
+      [["bebidas"], ["drinks", "beverages"]],
+      [["un batido de chocolate"], ["a chocolate milkshake"]],
+      [["un batido de fresa"], ["a strawberry milkshake"]],
+      [["un café"], ["a coffee"]],
+      [["una Coca-Cola"], ["a Coca-Cola"]],
+      [["una Fanta limón"], ["a lemon Fanta"]],
+      [
+        ["un granizado de limón"],
+        ["a lemon slush", "a lemon slushy", "an iced lemon drink"]
+      ],
+      [["un té"], ["a tea"]],
+      [["una ración de jamón"], ["a portion of ham", "one portion of ham"]],
+      [["calamares"], ["squid", "calamari"]],
+      [["croquetas"], ["croquettes"]],
+      [["gambas"], ["prawns", "shrimp"]],
+      [
+        ["pan con tomate"],
+        [
+          "tomato bread",
+          "bread with tomato",
+          "bread with tomatoes",
+          "tomato on bread"
+        ]
+      ],
+      [["patatas bravas"], ["spicy potatoes", "patatas bravas"]],
+      [["tortilla"], ["Spanish omelette", "omelette"]],
+      [["¿Algo más?"], ["Anything else?"]],
+      [["Nada más"], ["Nothing else"]],
+      [["¿Y de beber?"], ["And to drink?"]],
+      [["Por favor"], ["Please"]],
+      [
+        ["¿Cuánto es?"],
+        ["How much is it?", "How much does it cost?", "How much?"]
+      ],
+      [
+        ["Son cinco euros setenta y cinco"],
+        ["That's five euros seventy-five", "It's five euros seventy-five"]
+      ],
+      [["Son diez euros"], ["That's ten euros", "It's ten euros"]]
+    ],
+    [
+      "5.4 ¿Qué vas a hacer?",
+      [["¿Qué vas a hacer?"], ["What are you going to do?"]],
+      [
+        ["Voy a salir con mis amigos"],
+        [
+          "I am going to go out with my friends",
+          "I'm going out with my friends"
+        ]
+      ],
+      [
+        ["Vas a ver la televisión"],
+        [
+          "You are going to watch TV",
+          "You are going to watch the television",
+          "You're going to watch TV",
+          "You're going to watch the television"
+        ]
+      ],
+      [
+        ["Va a ir de paseo"],
+        [
+          "He is going to go for a walk",
+          "She is going to go for a walk",
+          "He's going to go for a walk",
+          "She's going to go for a walk",
+          "He's going for a walk",
+          "She's going for a walk"
+        ]
+      ],
+      [
+        ["Vamos a jugar al voleibol"],
+        ["We are going to play volleyball", "We're going to play volleyball"]
+      ],
+      [
+        ["Vais a chatear"],
+        [
+          "You are going to chat",
+          "You are going to chat online",
+          "You're going to chat",
+          "You're going to chat online",
+          "You all are going to chat",
+          "You all are going to chat online"
+        ]
+      ],
+      [
+        ["Van a hacer los deberes"],
+        [
+          "They are going to do their homework",
+          "They're going to do their homework"
+        ]
+      ],
+
+      [["¿Cuándo?"], ["When?"]],
+      [["este fin de semana"], ["this weekend"]],
+      [["el sábado por la mañana"], ["on Saturday morning"]],
+      [
+        ["el domingo por la tarde"],
+        ["on Sunday afternoon", "on Sunday evening"]
+      ],
+      [["primero"], ["first"]],
+      [["luego"], ["then"]],
+      [["finalmente"], ["finally"]],
+      [
+        ["a las tres de la tarde"],
+        ["at three o'clock in the afternoon", "at three in the afternoon"]
+      ],
+      [["más tarde"], ["later"]],
+      [["un poco más tarde"], ["a little later", "a bit later"]]
+    ]
+  ],
+  "Year 8: Viva 2": [
+    [
+      "1.1 De vacaciones",
+      [
+        ["¿Adónde fuiste de vacaciones?"],
+        ["Where did you go on holiday?", "Where did you go on vacation?"]
+      ],
+      [["el año pasado"], ["last year"]],
+      [["el verano pasado"], ["last summer"]],
+      [["Fui a Escocia"], ["I went to Scotland"]],
+      [["Escocia"], ["Scotland"]],
+      [["España"], ["Spain"]],
+      [["Francia"], ["France"]],
+      [["Gales"], ["Wales"]],
+      [["Grecia"], ["Greece"]],
+      [["Inglaterra"], ["England"]],
+      [["Irlanda"], ["Ireland"]],
+      [["Italia"], ["Italy"]],
+      [["¿Con quién fuiste?"], ["Who did you go with?"]],
+      [["Fui con mi clase"], ["I went with my class"]],
+      [["¿Cómo fuiste?"], ["How did you get there?"]],
+      [["Fui en avión"], ["I went by plane"]],
+      [["Fuimos en coche"], ["We went by car"]],
+      [["autocar"], ["coach"]],
+      [["avión"], ["plane"]],
+      [["barco"], ["boat", "ferry"]],
+      [["tren"], ["train"]],
+      [
+        ["No fui de vacaciones"],
+        [
+          "I didn't go on holiday",
+          "I did not go on holiday",
+          "I didn't go on vacation",
+          "I did not go on vacation"
+        ]
+      ],
+      [["¡Qué bien!"], ["Great!", "How great!", "That's great!"]],
+      [["¡Qué bonito!"], ["How nice!", "How pretty!", "How beautiful!"]],
+      [
+        ["¡Qué divertido!"],
+        ["How fun!", "That was fun!", "What fun!", "How funny!"]
+      ],
+      [["¡Qué guay!"], ["How cool!", "Cool!"]],
+      [["¡Qué rico!"], ["How tasty!", "How delicious!"]],
+      [["¡Qué suerte!"], ["How lucky!", "What luck!"]],
+      [["¡Qué aburrido!"], ["How boring!"]],
+      [["¡Qué horror!"], ["How awful!", "How dreadful!", "How horrible!"]],
+      [["¡Qué lástima!"], ["What a shame!", "What a pity!"]],
+      [["¡Qué mal!"], ["How bad!", "That's bad!"]],
+      [["¡Qué rollo!"], ["How annoying!", "How boring!", "What a pain!"]]
+    ],
+    [
+      "1.2 ¿Qué hiciste?",
+      [
+        ["¿Qué hiciste en tus vacaciones de verano?"],
+        [
+          "What did you do on your summer holiday?",
+          "What did you do on your summer vacation?"
+        ]
+      ],
+      [["Bailé"], ["I danced"]],
+      [["Compré una camiseta"], ["I bought a T-shirt"]],
+      [
+        ["Descansé en la playa"],
+        ["I relaxed on the beach", "I rested on the beach"]
+      ],
+      [
+        ["Mandé SMS", "Mandé mensajes"],
+        ["I sent texts", "I sent text messages", "I texted"]
+      ],
+      [
+        ["Monté en bicicleta", "Monté en bici"],
+        ["I rode my bike", "I cycled"]
+      ],
+      [["Nadé en el mar"], ["I swam in the sea", "I went swimming in the sea"]],
+      [["Saqué fotos"], ["I took photos", "I took pictures"]],
+      [["Tomé el sol"], ["I sunbathed"]],
+      [["Visité monumentos"], ["I visited monuments", "I went sightseeing"]],
+      [
+        ["No nadé en el mar"],
+        [
+          "I didn't swim in the sea",
+          "I didn't go swimming in the sea",
+          "I did not swim in the sea"
+        ]
+      ],
+      [["luego"], ["then", "after that"]],
+      [["más tarde"], ["later", "a bit later"]],
+      [["después"], ["afterwards", "after that"]],
+      [["el primer día"], ["on the first day"]],
+      [["otro día"], ["another day", "on another day"]]
+    ],
+    [
+      "1.3 El último día",
+      [["¿Qué hiciste?"], ["What did you do?"]],
+      [
+        ["El último día de tus vacaciones"],
+        ["On the last day of your holiday", "The last day of your holiday"]
+      ],
+      [["Bebí una limonada"], ["I drank a lemonade", "I had a lemonade"]],
+      [["Comí paella"], ["I ate paella", "I had paella"]],
+      [
+        ["Conocí a un chico guapo"],
+        ["I met a cute boy", "I met a handsome boy"]
+      ],
+      [
+        ["Conocí a una chica guapa"],
+        ["I met a cute girl", "I met a pretty girl"]
+      ],
+      [
+        ["Escribí SMS", "Escribí mensajes"],
+        ["I wrote texts", "I wrote text messages", "I sent texts"]
+      ],
+      [["Salí con mi hermano"], ["I went out with my brother"]],
+      [["Salí con mi hermana"], ["I went out with my sister"]],
+      [["Vi un castillo interesante"], ["I saw an interesting castle"]],
+      [["el último día"], ["on the last day"]],
+      [["por la mañana"], ["in the morning"]],
+      [["por la tarde"], ["in the afternoon", "in the evening"]],
+      [
+        ["aprendí a hacer windsurf"],
+        [
+          "I learnt to windsurf",
+          "I learnt how to windsurf",
+          "I learnt to do windsurfing",
+          "I learnt how to do windsurfing",
+          "I learnt windsurfing"
+        ]
+      ],
+      [["visité Nueva York", "visité New York"], ["I visited New York"]]
+    ],
+    [
+      "1.4 ¿Cómo te fue?",
+      [["¿Cómo te fue?"], ["How was it?", "How did it go?"]],
+      [["Fue divertido", "Estuvo divertido"], ["It was fun"]],
+      [["Fue estupendo"], ["It was brilliant", "It was great"]],
+      [
+        ["Fue fenomenal"],
+        ["It was fantastic", "It was amazing", "It was great"]
+      ],
+      [
+        ["Fue flipante"],
+        ["It was awesome", "It was incredible", "It was amazing"]
+      ],
+      [["Fue genial"], ["It was great", "It was excellent"]],
+      [["Fue guay"], ["It was cool", "It was awesome"]],
+      [["Fue regular"], ["It was OK", "It was so-so", "It was so so"]],
+      [["Fue un desastre"], ["It was a disaster"]],
+      [["Fue horrible"], ["It was horrible", "It was awful"]],
+      [
+        ["Fue horroroso"],
+        ["It was terrible", "It was dreadful", "It was horrible"]
+      ],
+      [["Fue raro"], ["It was weird", "It was strange"]],
+      [["Me gustó"], ["I liked it"]],
+      [["Me encantó"], ["I loved it"]],
+      [["¿Por qué?"], ["Why?"]],
+      [["porque"], ["because"]],
+      [
+        ["Hizo buen tiempo"],
+        ["The weather was good", "It was nice weather", "It was good weather"]
+      ],
+      [
+        ["Comí algo malo y vomité"],
+        [
+          "I ate something bad and vomited",
+          "I ate something bad and threw up",
+          "I ate something bad and I vomited",
+          "I ate something bad and was sick"
+        ]
+      ],
+      [["Llovió"], ["It rained"]],
+      [["Perdí mi pasaporte"], ["I lost my passport"]],
+      [
+        ["Perdí mi móvil", "Perdí mi teléfono"],
+        ["I lost my mobile", "I lost my phone"]
+      ]
+    ],
+    [
+      "2.1 Mi vida, mi móvil",
+      [
+        ["¿Qué haces con tu móvil?", "¿Qué haces con tu teléfono?"],
+        ["What do you do with your mobile?", "What do you do with your phone?"]
+      ],
+      [
+        ["Chateo con mis amigos"],
+        ["I chat with my friends", "I message my friends"]
+      ],
+      [
+        ["Comparto mis vídeos favoritos"],
+        ["I share my favourite videos", "I share my favorite videos"]
+      ],
+      [
+        ["Descargo melodías", "Descargo tonos"],
+        ["I download ringtones", "I download tones"]
+      ],
+      [
+        ["Descargo aplicaciones"],
+        ["I download apps", "I download applications"]
+      ],
+      [["Hablo por Skype"], ["I talk on Skype", "I speak on Skype"]],
+      [["Juego"], ["I play", "I play games"]],
+      [
+        ["Leo mis SMS", "Leo mis mensajes"],
+        ["I read my texts", "I read my messages"]
+      ],
+      [
+        ["Mando SMS", "Mando mensajes"],
+        ["I send texts", "I send messages", "I text"]
+      ],
+      [
+        ["Saco fotos", "Tomo fotos"],
+        ["I take photos", "I take pictures"]
+      ],
+      [["Veo vídeos"], ["I watch videos"]],
+      [["Veo películas"], ["I watch films", "I watch movies"]],
+      [["¿Con qué frecuencia?"], ["How often?"]],
+      [["todos los días"], ["every day", "daily"]],
+      [["dos o tres veces a la semana"], ["two or three times a week"]],
+      [["a veces"], ["sometimes"]],
+      [["de vez en cuando"], ["from time to time", "every now and then"]],
+      [["nunca"], ["never"]]
+    ],
+    [
+      "2.2 ¿Qué tipo de música te gusta?",
+      [
+        ["¿Qué tipo de música te gusta?"],
+        [
+          "What type of music do you like?",
+          "What kind of music do you like?",
+          "What sort of music do you like?"
+        ]
+      ],
+      [
+        ["¿Qué tipo de música escuchas?"],
+        [
+          "What type of music do you listen to?",
+          "What kind of music do you listen to?",
+          "What sort of music do you listen to?"
+        ]
+      ],
+      [["Escucho rap"], ["I listen to rap"]],
+      [
+        ["Escucho la música de Pink Floyd"],
+        ["I listen to Pink Floyd's music", "I listen to Pink Floyd"]
+      ],
+      [
+        ["Escucho de todo", "Escucho un poco de todo"],
+        [
+          "I listen to everything",
+          "I listen to all kinds of music",
+          "I listen to a bit of everything",
+          "I listen to all sorts of music"
+        ]
+      ],
+      [["Me gusta la música electrónica"], ["I like electronic music"]],
+      [
+        ["Me gusta mucho la música clásica"],
+        ["I really like classical music", "I like classical music a lot"]
+      ],
+      [["Me encanta el rock"], ["I love rock", "I love rock music"]],
+      [["No me gusta el pop"], ["I don't like pop", "I don't like pop music"]],
+      [
+        ["No me gusta nada el R'n'B", "No me gusta nada el RnB"],
+        [
+          "I don't like R'n'B at all",
+          "I don't like RnB at all",
+          "I really don't like R'n'B",
+          "I really don't like RnB"
+        ]
+      ],
+
+      [["la letra"], ["the lyrics"]],
+      [["la melodía"], ["the tune", "the melody"]],
+      [["el ritmo"], ["the rhythm", "the beat"]],
+
+      [["porque es guay"], ["because it is cool", "because it's cool"]],
+      [["porque es triste"], ["because it is sad", "because it's sad"]],
+      [
+        ["porque es horrible"],
+        ["because it is horrible", "because it's horrible"]
+      ],
+      [["terrible"], ["terrible", "awful"]],
+
+      [
+        ["¿Te gusta la música de Iron Maiden?"],
+        [
+          "Do you like Iron Maiden's music?",
+          "Do you like the music of Iron Maiden?"
+        ]
+      ],
+      [
+        ["Me gusta la música de Radiohead"],
+        ["I like Radiohead's music", "I like the music of Radiohead"]
+      ],
+      [["mi canción favorita"], ["my favourite song", "my favorite song"]],
+      [["mi cantante favorito"], ["my favourite singer", "my favorite singer"]],
+      [["mi cantante favorita"], ["my favourite singer", "my favorite singer"]],
+      [
+        ["mi grupo favorito"],
+        [
+          "my favourite group",
+          "my favorite group",
+          "my favourite band",
+          "my favorite band"
+        ]
+      ],
+      [["En mi opinión"], ["In my opinion"]]
+    ],
+    [
+      "2.3 Prefiero las comedias",
+      [["Me gustan las comedias"], ["I like comedies"]],
+      [["un programa de música"], ["a music programme", "a music program"]],
+      [["un programa de deportes"], ["a sports programme", "a sports program"]],
+      [["un concurso"], ["a game show", "a quiz show"]],
+      [["un documental"], ["a documentary"]],
+      [["un reality", "un reality show"], ["a reality show"]],
+      [["una comedia"], ["a comedy"]],
+      [
+        ["una serie policiaca", "una serie de policías", "una serie policial"],
+        ["a police series", "a crime series", "a detective series"]
+      ],
+      [["una telenovela", "un culebrón"], ["a soap opera"]],
+      [["el telediario", "las noticias"], ["the news"]],
+      [
+        ["Los documentales son más interesantes que los concursos"],
+        [
+          "Documentaries are more interesting than game shows",
+          "Documentaries are more interesting than quiz shows"
+        ]
+      ],
+      [
+        [
+          "Las comedias son más divertidas que las telenovelas",
+          "Las comedias son más divertidas que los culebrones"
+        ],
+        [
+          "Comedies are more fun than soap operas",
+          "Comedies are funnier than soap operas"
+        ]
+      ],
+      [
+        ["divertido", "divertida"],
+        ["fun", "enjoyable"]
+      ],
+      [["informativo", "informativa"], ["informative"]],
+      [["interesante"], ["interesting"]],
+      [["aburrido", "aburrida"], ["boring"]],
+      [["emocionante"], ["exciting", "thrilling"]],
+      [["prefiero"], ["I prefer"]]
+    ],
+    [
+      "2.4 ¿Qué hiciste ayer?",
+      [
+        ["Bailé en mi cuarto", "Bailé en mi habitación"],
+        ["I danced in my room", "I danced in my bedroom"]
+      ],
+      [["Fui al cine"], ["I went to the cinema", "I went to the movies"]],
+      [["Hablé por Skype"], ["I talked on Skype", "I spoke on Skype"]],
+      [["Hice gimnasia"], ["I did gymnastics"]],
+      [["Hice kárate"], ["I did karate"]],
+      [
+        [
+          "Jugué en línea con mis amigos",
+          "Jugué en línea con mis amigas",
+          "Jugué online con mis amigos",
+          "Jugué online con mis amigas"
+        ],
+        ["I played online with my friends"]
+      ],
+      [["Jugué tres horas"], ["I played for three hours"]],
+      [
+        ["Monté en bici", "Monté en bicicleta"],
+        ["I rode my bike", "I cycled"]
+      ],
+      [["Vi una película"], ["I watched a film", "I watched a movie"]],
+      [
+        ["Salí con mis amigos", "Salí con mis amigas"],
+        ["I went out with my friends"]
+      ],
+      [
+        ["No hice los deberes"],
+        ["I did not do my homework", "I didn't do my homework"]
+      ],
+      [["ayer"], ["yesterday"]],
+      [["luego"], ["later", "then", "after that"]],
+      [["por la mañana"], ["in the morning"]],
+      [["por la tarde"], ["in the afternoon", "in the evening"]],
+      [["un poco más tarde"], ["a bit later", "a little later"]]
+    ],
+    [
+      "3.1 ¿Qué te gusta comer?",
+      [
+        ["¿Qué te gusta comer?"],
+        ["What do you like to eat?", "What do you like eating?"]
+      ],
+      [
+        ["¿Qué no te gusta beber?"],
+        [
+          "What do you not like to drink?",
+          "What don't you like to drink?",
+          "What don't you like drinking?",
+          "What do you not like drinking?"
+        ]
+      ],
+      [
+        ["Me gusta mucho", "Me gustan mucho"],
+        ["I really like", "I like a lot"]
+      ],
+      [["Me encantan", "Me encantan"], ["I love"]],
+      [
+        ["No me gusta nada", "No me gusta nada"],
+        ["I really don't like", "I don't like at all"]
+      ],
+      [["Odio"], ["I hate"]],
+      [["Prefiero"], ["I prefer"]],
+      [["el agua", "agua"], ["water"]],
+      [["el arroz", "arroz"], ["rice"]],
+      [["la carne", "carne"], ["meat"]],
+      [
+        ["los caramelos", "caramelos"],
+        ["sweets", "candy"]
+      ],
+      [["la fruta", "fruta"], ["fruit"]],
+      [
+        ["las hamburguesas", "hamburguesas"],
+        ["hamburgers", "burgers"]
+      ],
+      [["los huevos", "huevos"], ["eggs"]],
+      [["la leche", "leche"], ["milk"]],
+      [
+        ["el marisco", "marisco"],
+        ["seafood", "shellfish"]
+      ],
+      [["el pescado", "pescado"], ["fish"]],
+      [["el queso", "queso"], ["cheese"]],
+      [
+        ["las verduras", "los vegetales", "verduras", "vegetales"],
+        ["vegetables", "veggies", "greens"]
+      ]
+    ],
+    [
+      "3.2 ¿Qué desayunas?",
+      [
+        ["¿Qué desayunas?"],
+        ["What do you have for breakfast?", "What do you eat for breakfast?"]
+      ],
+      [
+        ["Desayuno cereales"],
+        [
+          "I have cereals for breakfast",
+          "I eat cereals for breakfast ",
+          "I have cereal for breakfast",
+          "I eat cereal for breakfast "
+        ]
+      ],
+      [["churros"], ["churros", "sweet fritters"]],
+      [["tostadas"], ["toast", "toasts"]],
+      [
+        ["yogur", "yogurt"],
+        ["yogurt", "yoghurt"]
+      ],
+      [["café"], ["coffee"]],
+      [["Cola Cao"], ["Cola Cao", "chocolate drink"]],
+      [["té"], ["tea"]],
+      [["zumo de naranja", "jugo de naranja"], ["orange juice"]],
+      [
+        ["No desayuno nada"],
+        [
+          "I don't have anything for breakfast",
+          "I do not have anything for breakfast",
+          "I have nothing for breakfast",
+          "I skip breakfast"
+        ]
+      ],
+
+      [
+        ["¿Qué comes?"],
+        ["What do you have for lunch?", "What do you eat for lunch?"]
+      ],
+      [
+        ["Como un bocadillo", "Como un sándwich"],
+        ["I eat a sandwich", "I eat a baguette"]
+      ],
+
+      [
+        ["¿Qué cenas?"],
+        ["What do you have for dinner?", "What do you eat for dinner?"]
+      ],
+      [
+        ["Ceno pollo con ensalada"],
+        [
+          "I have chicken with salad for dinner",
+          "I eat chicken with salad for dinner",
+          "For dinner I have chicken with salad",
+          "For dinner I eat chicken with salad"
+        ]
+      ],
+      [["patatas fritas"], ["chips", "fries", "French fries"]],
+
+      [
+        ["¿A qué hora desayunas?"],
+        [
+          "At what time do you have breakfast?",
+          "What time do you have breakfast?"
+        ]
+      ],
+      [
+        ["¿A qué hora comes?"],
+        ["At what time do you have lunch?", "What time do you have lunch?"]
+      ],
+      [
+        ["¿A qué hora cenas?"],
+        ["At what time do you have dinner?", "What time do you have dinner?"]
+      ],
+      [
+        ["Desayuno a las siete"],
+        [
+          "I have breakfast at 7",
+          "I have breakfast at 7 o'clock",
+          "I have breakfast at seven",
+          "I have breakfast at seven o'clock"
+        ]
+      ],
+      [
+        ["Como a las dos"],
+        [
+          "I have lunch at 2",
+          "I have lunch at 2 o'clock",
+          "I have lunch at two",
+          "I have lunch at two o'clock"
+        ]
+      ],
+      [
+        ["Ceno a las nueve"],
+        [
+          "I have dinner at 9",
+          "I have dinner at 9 o'clock",
+          "I have dinner at nine",
+          "I have dinner at nine o'clock"
+        ]
+      ]
+    ],
+    [
+      "3.3 En el restaurante",
+      [["buenos días"], ["good day", "good morning"]],
+      [
+        ["¿Qué va a tomar usted?", "¿Qué va a tomar?"],
+        ["What are you going to have?", "What will you have?"]
+      ],
+      [
+        ["¿Qué van a tomar ustedes?", "¿Qué van a tomar?"],
+        ["What are you going to have?", "What will you have?"]
+      ],
+      [
+        ["¿Y de segundo?"],
+        ["And for main course?", "And for the second course?"]
+      ],
+      [["¿Para beber?"], ["To drink?", "What would you like to drink?"]],
+      [["¿Algo más?"], ["Anything else?"]],
+      [
+        ["Voy a tomar la ensalada mixta", "Voy a pedir la ensalada mixta"],
+        [
+          "I'll have mixed salad",
+          "I'm going to have mixed salad",
+          "I'm going to order mixed salad"
+        ]
+      ],
+      [
+        ["de primer plato", "de primero"],
+        ["as a starter", "for starter"]
+      ],
+      [["de segundo plato", "de segundo"], ["for main course"]],
+      [["de postre"], ["for dessert"]],
+      [["Tengo hambre"], ["I am hungry", "I'm hungry"]],
+      [["Tengo sed"], ["I am thirsty", "I'm thirsty"]],
+      [["nada más"], ["nothing else"]],
+      [["La cuenta, por favor"], ["The bill, please", "The check, please"]],
+      [["los huevos fritos", "huevos fritos"], ["fried eggs"]],
+      [["la sopa", "sopa"], ["soup"]],
+      [["el pan", "pan"], ["bread"]],
+      [["las chuletas de cerdo", "chuletas de cerdo"], ["pork chops"]],
+      [
+        ["el filete", "filete"],
+        ["steak", "fillet"]
+      ],
+      [
+        ["el pollo con pimientos", "pollo con pimientos"],
+        ["chicken with peppers"]
+      ],
+      [
+        [
+          "la tortilla española",
+          "la tortilla de patatas",
+          "tortilla española",
+          "tortilla de patatas"
+        ],
+        ["Spanish omelette", "potato omelette"]
+      ],
+      [
+        ["el helado de chocolate", "helado de chocolate"],
+        ["chocolate ice cream"]
+      ],
+      [["el helado de fresa", "helado de fresa"], ["strawberry ice cream"]],
+      [["el helado de vainilla", "helado de vainilla"], ["vanilla ice cream"]],
+      [
+        [
+          "la tarta de queso",
+          "el pastel de queso",
+          "tarta de queso",
+          "pastel de queso"
+        ],
+        ["cheesecake"]
+      ]
+    ],
+    [
+      "3.4 ¿Qué vamos a comprar?",
+      [["¿Qué vas a traer?"], ["What are you going to bring?"]],
+      [["¿Qué vas a comprar?"], ["What are you going to buy?"]],
+      [["Voy a traer"], ["I am going to bring", "I'm going to bring"]],
+      [["quesadillas"], ["quesadillas"]],
+      [["limonada"], ["lemonade", "limeade"]],
+      [["Voy a comprar"], ["I am going to buy", "I'm going to buy"]],
+      [["una lechuga"], ["a lettuce"]],
+      [["un pimiento verde"], ["a green pepper", "a green bell pepper"]],
+      [["un pimiento rojo"], ["a red pepper", "a red bell pepper"]],
+      [["un aguacate", "una palta"], ["an avocado"]],
+      [
+        ["un kilo de tomates"],
+        ["a kilo of tomatoes", "a kilogram of tomatoes"]
+      ],
+      [
+        ["medio kilo de queso"],
+        ["half a kilo of cheese", "half a kilogram of cheese"]
+      ],
+      [
+        ["200 gramos de pollo", "doscientos gramos de pollo"],
+        [
+          "200 grams of chicken",
+          "200 grammes of chicken",
+          "two hundred grams of chicken",
+          "two hundred grammes of chicken"
+        ]
+      ],
+      [
+        ["un paquete de tortillas", "un paquete de wraps"],
+        [
+          "a packet of tortilla wraps",
+          "a package of tortilla wraps",
+          "a packet of tortillas"
+        ]
+      ],
+      [["una botella de limonada"], ["a bottle of lemonade"]]
+    ],
+    [
+      "3.6 ¿Y tu? ¿Qué opinas?",
+      [
+        ["¿Y tú?", "¿Y usted?"],
+        ["And you?", "What about you?"]
+      ],
+      [
+        ["¿Qué opinas?", "¿Qué piensas?"],
+        ["What do you think?", "What's your opinion?"]
+      ],
+      [
+        ["Pues...", "Pues nada..."],
+        ["Well...", "So..."]
+      ],
+      [
+        ["Depende...", "Eso depende..."],
+        ["It depends...", "That depends..."]
+      ],
+      [
+        ["No sé...", "Ni idea..."],
+        ["I don't know...", "No idea"]
+      ],
+      [
+        ["Eh...", "Ehm...", "Em..."],
+        ["Er...", "Um...", "Uh..."]
+      ],
+      [
+        ["A ver...", "Veamos..."],
+        ["Let's see...", "Well, let's see..."]
+      ],
+      [
+        ["Bueno...", "Bueno, pues..."],
+        ["Well...", "OK...", "Right..."]
+      ],
+      [
+        ["Vale...", "Está bien..."],
+        ["OK...", "Alright...", "Fine"]
+      ],
+
+      [
+        ["Lo siento, pero no entiendo", "Perdona, pero no entiendo"],
+        ["I'm sorry, but I don't understand", "Sorry, I don't understand"]
+      ],
+      [["¿Qué significa 'ventana'?"], ["What does 'ventana' mean?"]],
+      [
+        ["¿Puedes repetir?", "¿Puedes repetirlo?"],
+        ["Can you repeat?", "Can you repeat that?", "Can you say that again?"]
+      ],
+      [
+        ["¿Puedes hablar más despacio, por favor?"],
+        [
+          "Can you speak more slowly, please?",
+          "Could you speak more slowly, please?",
+          "Can you speak slower, please?",
+          "Could you speak slower, please?"
+        ]
+      ]
+    ],
+    [
+      "4.1 ¿Te gustaría ir al cine?",
+      [
+        ["¿Te gustaría ir al cine?"],
+        [
+          "Would you like to go to the cinema?",
+          "Would you like to go to the movies?"
+        ]
+      ],
+      [
+        ["¿Te gustaría ir a la bolera?"],
+        ["Would you like to go to the bowling alley?"]
+      ],
+      [["a la cafetería"], ["to the café", "to the coffee shop"]],
+      [
+        ["al centro comercial"],
+        ["to the shopping centre", "to the shopping mall"]
+      ],
+      [["al museo"], ["to the museum"]],
+      [["al parque"], ["to the park"]],
+      [["a la pista de hielo"], ["to the ice rink", "to go ice skating"]],
+      [["al polideportivo"], ["to the sports centre", "to the sports complex"]],
+
+      [
+        ["¿Te gustaría venir a mi casa?"],
+        ["Would you like to come to my house?", "Would you like to come over?"]
+      ],
+      [["De acuerdo"], ["All right", "Agreed", "OK"]],
+      [["Vale"], ["OK", "Fine", "Alright"]],
+      [["Muy bien"], ["Very good", "Great"]],
+      [["¡Genial!"], ["Great!", "Brilliant!", "Awesome!"]],
+      [
+        ["Sí, me gustaría mucho"],
+        [
+          "Yes, I would like that very much",
+          "Yes, I would like it very much",
+          "Yes, I'd like that very much",
+          "Yes, I'd like it very much"
+        ]
+      ],
+      [["¡Ni hablar!"], ["No way!", "Not at all!"]],
+      [
+        ["¡Ni en sueños!"],
+        ["Not a chance!", "No way!", "Not in your wildest dreams!"]
+      ],
+      [["No tengo ganas"], ["I don't feel like it", "I don't feel like going"]],
+      [["¡Qué aburrido!"], ["How boring!", "That's so boring"]],
+
+      [["¿Dónde quedamos?"], ["Where do we meet?", "Where shall we meet?"]],
+      [["al lado de la bolera"], ["next to the bowling alley"]],
+      [
+        ["delante de la cafetería"],
+        ["in front of the café", "outside the café"]
+      ],
+      [
+        ["detrás del centro comercial"],
+        ["behind the shopping centre", "behind the mall"]
+      ],
+      [["enfrente del polideportivo"], ["opposite the sports centre"]],
+      [["en tu casa"], ["at your house", "at your place"]],
+      [["¿A qué hora?"], ["At what time?", "What time?"]]
+    ],
+    [
+      "4.2 Lo siento, no puedo",
+      [
+        ["Lo siento, no puedo"],
+        ["I'm sorry, I can't", "I am sorry, I can't", "Sorry, I can't"]
+      ],
+      [
+        ["¿Quieres salir?"],
+        ["Do you want to go out?", "Do you want to hang out?"]
+      ],
+      [["¿Quieres salir conmigo?"], ["Do you want to go out with me?"]],
+      [["Tengo que hacer los deberes"], ["I have to do my homework"]],
+      [
+        ["cuidar a mi hermano", "cuidar de mi hermano"],
+        ["look after my brother", "take care of my brother"]
+      ],
+      [["lavarme el pelo"], ["wash my hair"]],
+      [
+        ["ordenar mi dormitorio", "ordenar mi cuarto", "ordenar mi habitación"],
+        ["tidy my room", "clean my room"]
+      ],
+      [
+        ["pasear al perro", "sacar al perro"],
+        ["walk the dog", "take the dog for a walk"]
+      ],
+      [["salir con mis padres"], ["go out with my parents"]],
+      [
+        ["No quiero"],
+        ["I don't want to", "I do not want to", "I don't feel like it"]
+      ],
+      [["No puedo"], ["I can't", "I cannot"]],
+      [
+        ["No tengo dinero"],
+        ["I don't have any money", "I do not have any money", "I have no money"]
+      ],
+      [
+        ["No puede salir"],
+        [
+          "He can't go out",
+          "She can't go out",
+          "He is not allowed to go out",
+          "She is not allowed to go out"
+        ]
+      ]
+    ],
+    [
+      "4.3 ¿Cómo te preparas?",
+      [
+        ["¿Cómo te preparas cuando sales de fiesta?"],
+        ["How do you get ready when you go to a party?"]
+      ],
+      [["Me baño"], ["I have a bath"]],
+      [["Me ducho"], ["I have a shower"]],
+      [["Me lavo la cara"], ["I wash my face"]],
+      [["Me lavo los dientes"], ["I brush my teeth"]],
+      [["Me visto"], ["I get dressed"]],
+      [["Me maquillo"], ["I put on make-up"]],
+      [["Me peino"], ["I comb my hair"]],
+      [["Me aliso el pelo"], ["I straighten my hair"]],
+      [["Me pongo gomina"], ["I put gel on my hair"]],
+      [["primero"], ["first", "firstly"]],
+      [["luego"], ["later", "then", "after that"]],
+      [["después"], ["afterwards", "after that"]],
+      [["generalmente"], ["generally", "normally"]]
+    ],
+    [
+      "4.4 ¿Qué vas a llevar?",
+      [
+        ["¿Qué llevas normalmente los fines de semana?"],
+        [
+          "What do you normally wear at weekends?",
+          "What do you normally wear at the weekends?"
+        ]
+      ],
+      [
+        ["Normalmente los fines de semana llevo unos vaqueros azules"],
+        [
+          "At weekends I normally wear some blue jeans",
+          "At the weekends I normally wear some blue jeans"
+        ]
+      ],
+      [["una camiseta"], ["a T-shirt", "a tee"]],
+      [
+        ["un jersey", "un suéter"],
+        ["a jumper", "a sweater"]
+      ],
+      [["una sudadera"], ["a sweatshirt", "a hoodie"]],
+      [["una falda"], ["a skirt"]],
+      [["un vestido"], ["a dress"]],
+      [["una gorra"], ["a cap", "a baseball cap"]],
+      [["unos pantalones"], ["trousers", "pants"]],
+      [["unas botas"], ["boots"]],
+      [["unos zapatos"], ["shoes", "dress shoes"]],
+      [
+        ["unas zapatillas de deporte", "unas deportivas"],
+        ["trainers", "sneakers", "sports shoes"]
+      ],
+      [
+        ["¿Vas a salir esta noche?"],
+        ["Are you going to go out tonight?", "Are you going out tonight?"]
+      ],
+      [
+        ["Voy a ir al cine"],
+        [
+          "I am going to go to the cinema",
+          "I'm going to the cinema",
+          "I am going to go to the movies",
+          "I'm going to the movies"
+        ]
+      ],
+      [
+        ["Voy a llevar una camisa amarilla"],
+        [
+          "I am going to wear a yellow shirt",
+          "I'm going to wear a yellow shirt"
+        ]
+      ],
+      [["blanco", "blanca"], ["white"]],
+      [["gris"], ["grey", "gray"]],
+      [["marrón"], ["brown"]],
+      [
+        ["morado", "morada", "violeta"],
+        ["purple", "violet"]
+      ],
+      [["naranja"], ["orange"]],
+      [["negro", "negra"], ["black"]],
+      [["rojo", "roja"], ["red"]],
+      [["rosa"], ["pink"]],
+      [["verde"], ["green"]],
+      [
+        ["de muchos colores", "multicolor"],
+        ["multi-coloured", "multicolored"]
+      ]
+    ],
+    [
+      "5.1 ¿Qué casa prefieres?",
+      [["¿Qué casa prefieres?"], ["Which house do you prefer?"]],
+      [["Esta casa es antigua"], ["This house is old"]],
+      [["Este piso es cómodo"], ["This flat is comfortable"]],
+      [
+        ["amplio", "amplia"],
+        ["spacious", "large"]
+      ],
+      [
+        ["bonito", "bonita"],
+        ["nice", "pretty", "beautiful"]
+      ],
+      [["enorme"], ["huge", "enormous"]],
+      [
+        ["feo", "fea"],
+        ["ugly", "unattractive"]
+      ],
+      [["grande"], ["big", "large"]],
+      [
+        ["maravilloso", "maravillosa"],
+        ["marvellous", "wonderful"]
+      ],
+      [["moderno", "moderna"], ["modern"]],
+      [
+        ["pequeño", "pequeña"],
+        ["small", "tiny"]
+      ],
+      [["La casa está en la montaña"], ["The house is in the mountains"]],
+      [
+        ["El piso está cerca de la playa"],
+        ["The flat is near the beach", "The flat is close to the beach"]
+      ],
+      [
+        ["en el centro"],
+        [
+          "in the centre",
+          "downtown",
+          "in the city centre",
+          "in the town centre"
+        ]
+      ],
+      [["La casa tiene una cocina"], ["The house has a kitchen"]],
+      [["un comedor"], ["a dining room"]],
+      [["un cuarto de baño", "un baño"], ["a bathroom"]],
+      [
+        ["un dormitorio", "una habitación", "un cuarto"],
+        ["a bedroom", "a room"]
+      ],
+      [
+        ["un salón", "una sala de estar"],
+        ["a living room", "a lounge"]
+      ],
+      [["una chimenea"], ["a fireplace"]],
+      [["un jacuzzi"], ["a hot tub", "a jacuzzi"]],
+      [["un jardín"], ["a garden", "a yard"]],
+      [["una piscina"], ["a swimming pool", "a pool"]],
+      [
+        ["una terraza", "un balcón"],
+        ["a balcony", "a terrace"]
+      ],
+      [["vistas al mar"], ["views of the sea", "sea views", "ocean views"]]
+    ],
+    [
+      "5.2 ¿Qué se puede hacer en...?",
+      [
+        ["¿Qué se puede hacer en Manchester?"],
+        ["What can you do in Manchester?", "What is there to do in Manchester?"]
+      ],
+      [
+        ["Se puede", "Se pueden"],
+        ["You can", "It is possible to"]
+      ],
+      [["hacer senderismo"], ["go hiking", "go trekking", "go walking"]],
+      [
+        ["hacer actividades náuticas", "hacer deportes acuáticos"],
+        ["do water sports", "do aquatic activities"]
+      ],
+      [["hacer artes marciales"], ["do martial arts"]],
+      [["ir a la bolera"], ["go bowling", "go to the bowling alley"]],
+      [["ir al cine"], ["go to the cinema", "go to the movies"]],
+      [["ir de compras"], ["go shopping"]],
+      [
+        ["ir de paseo en bicicleta", "montar en bici", "montar en bicicleta"],
+        ["go on a bike ride", "ride a bike", "go cycling"]
+      ],
+      [["ir a la playa"], ["go to the beach"]],
+      [["ir al restaurante"], ["go to the restaurant", "go to a restaurant"]],
+      [["jugar al golf"], ["play golf"]],
+      [["jugar al voleibol"], ["play volleyball"]],
+      [["jugar al tenis"], ["play tennis"]],
+      [["ver la catedral"], ["see the cathedral"]],
+      [["visitar un castillo"], ["visit a castle"]]
+    ],
+    [
+      "5.3 ¿Dónde está?",
+      [
+        ["¿Dónde está la catedral?"],
+        ["Where is the cathedral?", "Where's the cathedral?"]
+      ],
+      [
+        ["la estación de tren", "la estación"],
+        ["the railway station", "the train station"]
+      ],
+      [["el minigolf"], ["the minigolf", "the crazy golf"]],
+      [["el parque de atracciones"], ["the theme park", "the amusement park"]],
+      [["el parque acuático"], ["the water park"]],
+      [
+        ["la pista de karting", "el kartódromo"],
+        ["the go-kart track", "the karting track"]
+      ],
+      [["el zoo", "el zoológico"], ["the zoo"]],
+
+      [
+        ["Sigue todo recto", "Siga todo recto"],
+        ["Keep straight on", "Go straight ahead", "Carry straight on"]
+      ],
+      [["Dobla a la derecha", "Gira a la derecha"], ["Turn right"]],
+      [["Dobla a la izquierda", "Gira a la izquierda"], ["Turn left"]],
+      [["Toma la primera a la derecha"], ["Take the first on the right"]],
+      [["Toma la segunda a la izquierda"], ["Take the second on the left"]],
+      [["Cruza la plaza"], ["Cross the square"]],
+      [["Está a la derecha"], ["It's on the right"]],
+      [["Está a la izquierda"], ["It's on the left"]],
+      [["Está cerca"], ["It's nearby", "It's near", "It's close"]],
+      [["Está lejos"], ["It's far", "It's a long way"]]
+    ],
+    [
+      "5.4 Campamentos de verano",
+      [["Me gusta"], ["I like"]],
+      [["Me encanta"], ["I love"]],
+      [["Me gustaría mucho"], ["I would really like", "I would like a lot"]],
+      [["Me encantaría"], ["I would love"]],
+
+      [["ayer"], ["yesterday"]],
+      [["el fin de semana pasado"], ["last weekend"]],
+      [["el verano pasado"], ["last summer"]],
+      [["el año pasado"], ["last year"]],
+      [
+        ["hace dos años", "hace un par de años"],
+        ["two years ago", "a couple of years ago"]
+      ],
+      [["hoy"], ["today"]],
+      [["mañana"], ["tomorrow"]],
+      [["este fin de semana"], ["this weekend"]],
+      [["el verano que viene", "el próximo verano"], ["next summer"]],
+      [["el año que viene", "el próximo año"], ["next year"]]
+    ]
+  ],
+  "Year 9: Viva 3 Rojo": [
+    [
+      "1.1 Cosas que me molan",
+      [["¿Qué cosas te gustan?"], ["What things do you like?"]],
+      [
+        [
+          "¿Qué cosas te encantan?",
+          "¿Qué cosas te chiflan?",
+          "¿Qué cosas te flipan?",
+          "¿Qué cosas te molan?"
+        ],
+        ["What things do you love?"]
+      ],
+      [["Me gusta el cine"], ["I like the cinema", "I like the movies"]],
+      [["Me encanta el baile"], ["I love dance", "I love dancing"]],
+      [["Me chifla el deporte"], ["I love sports", "I love sport"]],
+      [["Me flipa el dibujo"], ["I love art", "I love drawing"]],
+      [["Me mola la moda"], ["I love fashion", "I love style"]],
+      [["No me gustan los lunes"], ["I don't like Mondays"]],
+      [
+        ["No me gustan nada los insectos"],
+        [
+          "I really don't like insects",
+          "I don't like insects at all",
+          "I really don't like bugs",
+          "I don't like bugs at all"
+        ]
+      ],
+
+      [["racismo", "el racismo"], ["racism"]],
+      [["naturaleza"], ["nature", "countryside"]],
+      [["violencia"], ["violence"]],
+      [["cómics"], ["comics", "graphic novels"]],
+      [["artes marciales"], ["martial arts"]],
+      [["injusticias"], ["injustice", "injustices", "unfairness"]],
+      [["tareas domésticas"], ["household chores", "housework"]],
+      [["En mi tiempo libre hago judo"], ["In my free time I do judo"]],
+      [["A veces hago natación"], ["Sometimes I go swimming"]],
+      [["Voy al parque muy a menudo"], ["I go to the park very often"]],
+      [
+        ["Voy al polideportivo dos veces a la semana"],
+        ["I go to the sports centre twice a week "],
+        ["I go to the sports center twice a week "]
+      ],
+      [["Voy de pesca casi todos los días"], ["I go fishing almost every day"]],
+      [
+        ["Soy miembro de un club"],
+        ["I am a member of a club", "I'm a member of a club"]
+      ],
+      [
+        ["Soy miembro de un equipo"],
+        ["I am a member of a team", "I'm a member of a team"]
+      ],
+      [["todo el tiempo"], ["all the time"]],
+      [["siempre"], ["always"]]
+    ],
+    [
+      "1.2 Mi semana",
+      [
+        ["¿Cómo organizas tu semana?"],
+        ["How do you organise your week?", "How do you organize your week?"]
+      ],
+
+      [["Bailo Zumba"], ["I dance Zumba"]],
+      [["Cocino para mi familia"], ["I cook for my family"]],
+      [["Escribo canciones"], ["I write songs"]],
+      [
+        ["Juego en mi consola"],
+        ["I play on my console console", "I play on my games console"]
+      ],
+      [["Leo revistas"], ["I read magazines"]],
+      [["Leo libros"], ["I read books"]],
+      [["Monto en bici"], ["I ride a bike", "I ride my bike", "I cycle"]],
+      [
+        ["Navego por Internet"],
+        [
+          "I surf the internet",
+          "I browse the internet",
+          "I go on the internet",
+          "I surf the net",
+          "I go online"
+        ]
+      ],
+      [
+        ["Preparo la cena"],
+        ["I prepare dinner", "I make dinner", "I cook dinner"]
+      ],
+      [["Saco fotos"], ["I take photos", "I take pictures"]],
+      [["Toco el teclado"], ["I play the keyboard"]],
+      [
+        ["Veo un partido de fútbol"],
+        [
+          "I watch a football game",
+          "I watch a football match",
+          "I watch a soccer game",
+          "I watch a soccer match"
+        ]
+      ],
+
+      [["¿Cuándo?"], ["When?"]],
+      [["después del instituto", "después del insti"], ["after school"]],
+      [["este fin de semana"], ["this weekend"]],
+      [["los fines de semana"], ["at weekends", "on weekends"]],
+      [["los lunes"], ["on Mondays"]],
+      [["los martes"], ["on Tuesdays"]],
+      [["los jueves por la tarde"], ["on Thursday afternoons"]],
+      [["mañana por la tarde"], ["tomorrow afternoon"]]
+    ],
+    [
+      "1.3 Cartelera de cine",
+      [
+        ["Voy a ver una película de aventuras"],
+        [
+          "I am going to see an adventure movie",
+          "I'm going to see an adventure movie",
+          "I am going to see an adventure film",
+          "I'm going to see an adventure film"
+        ]
+      ],
+      [["una película de acción"], ["an action film", "an action movie"]],
+      [
+        ["una película de animación"],
+        [
+          "an animated film",
+          "an animated movie",
+          "a cartoon",
+          "animated film",
+          "animated movie",
+          "cartoon"
+        ]
+      ],
+      [
+        ["una película de ciencia ficción"],
+        [
+          "a science fiction film",
+          "a science fiction movie",
+          "a sci-fi film",
+          "a sci-fi movie",
+          "science fiction film",
+          "science fiction movie",
+          "sci-fi film",
+          "sci-fi movie"
+        ]
+      ],
+      [["una película de fantasía"], ["a fantasy film", "a fantasy movie"]],
+      [
+        ["una película de superhéroes"],
+        ["a superhero film", "a superhero movie"]
+      ],
+      [["una película de terror"], ["a horror film", "a horror movie"]],
+      [["¿Vas a venir?"], ["Are you going to come?", "Are you coming?"]],
+      [
+        ["¿Vamos a ver una comedia?"],
+        ["Are we going to see a comedy?", "Shall we see a comedy?"]
+      ],
+      [["Claro que sí"], ["Of course", "Sure"]],
+      [["De acuerdo"], ["All right", "Okay", "OK"]],
+      [["Voy a ir"], ["I am going to go", "I'm going to go"]],
+      [["No voy a ir"], ["I am not going to go", "I'm not going to go"]],
+      [["No gracias"], ["No thanks", "No thank you"]],
+      [["¿Estás loco?", "¿Estás loca?"], ["Are you crazy?"]],
+      [["¡Ni en sueños!"], ["Not a chance!", "No way!", "In your dreams!"]],
+      [["¡Qué rollo!"], ["How boring!", "That's boring"]],
+
+      [
+        ["¿Qué tipo de películas te gustan?"],
+        ["What type of movies do you like?", "What type of films do you like?"]
+      ],
+      [["Me encantan las comedias"], ["I love comedies"]],
+      [
+        ["No me gustan las películas de terror"],
+        ["I don't like horror films", "I don't like horror movies"]
+      ],
+      [
+        ["Mi película favorita es"],
+        [
+          "My favourite film is",
+          "My favorite film is",
+          "My favourite movie is",
+          "My favorite movie is"
+        ]
+      ],
+      [
+        ["¿Qué tipo de película es?"],
+        ["What type of film is it?", "What type of movie is it?"]
+      ],
+      [["Es una comedia"], ["It is a comedy", "It's a comedy"]],
+      [["En mi opinión"], ["In my opinion"]],
+      [
+        ["Creo que", "Pienso que"],
+        ["I think that", "I think"]
+      ]
+    ],
+    [
+      "1.4 Un cumpleaños muy especial",
+      [["¿Cómo fue tu cumpleaños?"], ["How was your birthday?"]],
+      [
+        ["Celebré mi cumpleaños con mi familia"],
+        ["I celebrated my birthday with my family"]
+      ],
+      [
+        ["Celebré mi cumpleaños con mis amigos"],
+        ["I celebrated my birthday with my friends"]
+      ],
+      [["¿Qué hiciste?"], ["What did you do?"]],
+      [
+        ["Fui al parque de atracciones"],
+        ["I went to the theme park", "I went to the amusement park"]
+      ],
+      [["Fuimos a un restaurante"], ["We went to a restaurant"]],
+      [
+        ["Invité a mis amigos a pasar la noche en mi casa"],
+        [
+          "I invited my friends to sleep over at my house",
+          "I invited my friends to stay the night at my house",
+          "I invited my friends for a sleepover at my house"
+        ]
+      ],
+      [["Bebí refrescos"], ["I drank soft drinks", "I drank sodas"]],
+      [
+        ["Bebimos zumo de naranja", "Bebimos jugo de naranja"],
+        ["We drank orange juice"]
+      ],
+      [["Comí tarta de cumpleaños"], ["I ate birthday cake"]],
+      [["Comimos pizza"], ["We ate pizza"]],
+      [
+        ["Recibí muchos regalos"],
+        ["I received lots of presents", "I received many presents"]
+      ],
+      [["Fue alucinante"], ["It was amazing", "It was incredible"]],
+      [["Fue increíble"], ["It was amazing", "It was incredible"]]
+    ],
+    [
+      "2.1 Hotel Catástrofe",
+      [
+        ["Soy camarero"],
+        ["I am a waiter", "I'm a waiter", "I am a waitress", "I'm a waitress"]
+      ],
+      [
+        ["cocinero", "cocinera"],
+        ["a cook", "a chef"]
+      ],
+      [
+        ["dependiente", "dependienta"],
+        ["a shop assistant", "a sales assistant"]
+      ],
+      [["esteticista"], ["a beautician"]],
+      [["jardinero", "jardinera"], ["a gardener"]],
+      [["limpiador", "limpiadora"], ["a cleaner"]],
+      [["peluquero", "peluquera"], ["a hairdresser"]],
+      [["recepcionista"], ["a receptionist"]],
+
+      [["¿En qué consiste tu trabajo?"], ["What does your job involve?"]],
+      [
+        ["Tengo que cuidar las plantas"],
+        ["I have to look after the plants", "I have to take care of the plants"]
+      ],
+      [["contestar al teléfono"], ["to answer the phone"]],
+      [["ayudar a los clientes"], ["to help customers"]],
+      [
+        ["cortar el pelo a los clientes"],
+        ["to cut customers' hair", "to cut clients' hair"]
+      ],
+      [["hacer manícuras"], ["to do manicures"]],
+      [["limpiar habitaciones"], ["to clean rooms"]],
+      [
+        ["servir la comida en el restaurante"],
+        ["serve food in the restaurant"]
+      ],
+      [
+        ["vender productos en la tienda"],
+        ["sell products in the shop", "sell products in the store"]
+      ],
+      [["¿Te gusta tu trabajo?"], ["Do you like your job?"]],
+      [
+        ["Me gusta mi trabajo porque es estimulante"],
+        ["I like my job because it is stimulating"]
+      ],
+      [
+        ["No me gusta mi trabajo porque es repetitivo"],
+        [
+          "I don't like my job because it is repetitive",
+          "I do not like my job because it is repetitive"
+        ]
+      ],
+      [
+        ["No me gusta nada mi trabajo porque es estresante"],
+        [
+          "I don't like my job at all because it is stressful",
+          "I don't like my job at all because it's stressful"
+        ]
+      ],
+      [["monótono"], ["monotonous"]],
+      [["¿Cómo es tu jefe?"], ["What is your boss like?"]],
+      [
+        ["Mi jefe es muy educado", "Mi jefa es muy educada"],
+        ["My boss is very polite"]
+      ],
+      [["¿Cómo son los clientes?"], ["What are the customers like?"]],
+      [["Los clientes son exigentes"], ["The customers are demanding"]],
+      [["Los clientes son maleducados"], ["The customers are rude"]],
+      [["Mis compañeros son simpáticos"], ["My colleagues are nice"]]
+    ],
+    [
+      "2.2 ¿En qué te gustaría trabajar?",
+      [["¿Cómo eres?"], ["What are you like?"]],
+      [
+        ["En mi opinión, soy ambicioso", "En mi opinión, soy ambiciosa"],
+        ["In my opinion, I am ambitious", "In my opinion, I'm ambitious"]
+      ],
+      [
+        ["Creo que soy independiente", "Pienso que soy independiente"],
+        ["I think I am independent", "I think I'm independent"]
+      ],
+      [
+        ["Soy muy inteligente"],
+        ["I am very intelligent", "I'm very intelligent"]
+      ],
+      [["Soy bastante paciente"], ["I am quite patient", "I'm quite patient"]],
+      [["creativo", "creativa"], ["creative"]],
+      [
+        ["organizado", "organizada"],
+        ["organised", "organized"]
+      ],
+      [["práctico", "práctica"], ["practical"]],
+      [["responsable"], ["responsible"]],
+      [["serio", "seria"], ["serious"]],
+      [["trabajador", "trabajadora"], ["hard-working"]],
+      [
+        ["¿En qué te gustaría trabajar?"],
+        [
+          "What job would you like to do?",
+          "What would you like to work as?",
+          "What would you like to be?"
+        ]
+      ],
+      [
+        ["Me gustaría ser cantante"],
+        ["I would like to be a singer", "I'd like to be a singer"]
+      ],
+      [
+        ["Quiero ser diseñador", "Quiero ser diseñadora"],
+        ["I want to be a designer"]
+      ],
+      [["abogado", "abogada"], ["a lawyer"]],
+      [["enfermero", "enfermera"], ["a nurse"]],
+      [["mecánico", "mecánica"], ["a mechanic"]],
+      [["periodista"], ["a journalist", "a reporter"]],
+      [["policía"], ["a police officer", "a policeman", "a policewoman"]],
+      [["taxista"], ["a taxi driver"]],
+
+      [
+        ["Me gustaría trabajar con animales"],
+        ["I would like to work with animals", "I'd like to work with animals"]
+      ],
+      [
+        ["No me gustaría trabajar en una oficina"],
+        [
+          "I would not like to work in an office",
+          "I wouldn't like to work in an office"
+        ]
+      ],
+      [
+        [
+          "No me gustaría nada trabajar solo",
+          "No me gustaría nada trabajar sola"
+        ],
+        [
+          "I would not like to work alone at all",
+          "I wouldn't like to work alone at all",
+          "I really would not like to work alone",
+          "I really wouldn't like to work alone"
+        ]
+      ],
+      [
+        ["trabajar al aire libre"],
+        ["to work in the open air", "to work outdoors"]
+      ],
+      [["trabajar con niños"], ["to work with children"]],
+      [["trabajar en equipo"], ["to work in a team"]],
+      [["hacer un trabajo creativo"], ["to do a creative job"]],
+      [["hacer un trabajo manual"], ["to do a manual job"]]
+    ],
+    [
+      "2.3 ¿Cómo va a ser tu futuro?",
+      [
+        ["¿Cómo va a ser tu futuro?"],
+        [
+          "What is your future going to be like?",
+          "What's your future going to be like?"
+        ]
+      ],
+      [["En el futuro"], ["In the future"]],
+      [
+        ["Voy a ser famoso", "Voy a ser famosa"],
+        ["I am going to be famous", "I'm going to be famous"]
+      ],
+      [["ganar mucho dinero"], ["earn lots of money", "earn a lot of money"]],
+      [
+        ["hacer un trabajo interesante"],
+        ["to do an interesting job", "to have an interesting job"]
+      ],
+      [["ir a la universidad"], ["to go to university", "to go to college"]],
+      [
+        ["ser voluntario", "ser voluntaria"],
+        ["to be a volunteer", "to volunteer"]
+      ],
+      [["tener hijos"], ["to have children"]],
+      [["viajar mucho"], ["to travel a lot"]],
+      [["vivir en el extranjero"], ["to live abroad"]],
+      [
+        ["Va a ser interesante"],
+        ["It is going to be interesting", "It's going to be interesting"]
+      ],
+      [
+        ["Va a ser muy interesante"],
+        [
+          "It is going to be very interesting",
+          "It's going to be very interesting"
+        ]
+      ],
+      [
+        ["Mi trabajo va a ser increíble"],
+        [
+          "My job is going to be incredible",
+          "My job is going to be amazing",
+          "My job is going to be unbelievable"
+        ]
+      ]
+    ],
+    [
+      "2.4 ¿Cómo es un dia típico?",
+      [["Describe tu trabajo"], ["Describe your job"]],
+      [
+        ["¿En qué trabajas?"],
+        [
+          "What do you do for a living?",
+          "What is your job?",
+          "What do you work as?"
+        ]
+      ],
+      [
+        ["¿Por qué decidiste ser profesor?"],
+        [
+          "Why did you decide to be a teacher?",
+          "Why did you decide to become a teacher?"
+        ]
+      ],
+      [
+        [
+          "Me gusta mucho y por eso decidí ser abogado",
+          "Me gusta mucho y por eso decidí ser abogada"
+        ],
+        [
+          "I really like and so I decided to be a lawyer",
+          "I really like and so I decided to become a lawyer"
+        ]
+      ],
+      [
+        ["Estudié y me encantó"],
+        ["I studied and I loved it", "I studied it and I loved it"]
+      ],
+      [
+        ["¿Cómo es un día de trabajo típico?"],
+        [
+          "What is a typical working day like?",
+          "What is a typical day at work like?",
+          "What's a typical working day like?",
+          "What's a typical day at work like?"
+        ]
+      ],
+      [["Hablo con clientes"], ["I talk to customers", "I talk to clients"]],
+      [
+        ["Leo mi agenda"],
+        ["I read my diary", "I read my schedule", "I read my agenda"]
+      ],
+      [["Preparo mis cosas"], ["I prepare my things", "I prepare my stuff"]],
+      [["Trabajo con mi equipo"], ["I work with my team"]],
+      [["Voy a la oficina"], ["I go to the office"]],
+
+      [
+        ["¿Qué cualidades tienes que tener?"],
+        [
+          "What qualities do you have to have?",
+          "What qualities do you need to have?"
+        ]
+      ],
+      [["Tienes que ser"], ["You have to be"]],
+      [
+        ["En mi trabajo, los idiomas son muy importantes"],
+        ["In my job, languages are very important"]
+      ],
+      [
+        ["Hablo español, alemán e inglés"],
+        ["I speak Spanish, German and English"]
+      ],
+
+      [
+        ["¿Cuáles son tus ambiciones para el futuro?"],
+        ["What are your future ambitions?"]
+      ],
+      [
+        ["Voy a estudiar en Cambridge"],
+        ["I am going to study in Cambridge", "I'm going to study in Cambridge"]
+      ],
+      [
+        ["Voy a trabajar en Paris"],
+        ["I am going to work in Paris", "I'm going to work in Paris"]
+      ],
+      [["Va a ser guay"], ["It is going to be cool", "It's going to be cool"]],
+      [
+        ["Va a ser fenomenal"],
+        ["It is going to be fantastic", "It's going to be fantastic"]
+      ],
+      [
+        ["Va a ser flipante"],
+        ["It is going to be awesome", "It's going to be awesome"]
+      ]
+    ],
+    [
+      "3.1 ¿Llevas una vida sana?",
+      [["¿Llevas una dieta sana?"], ["Do you have a healthy diet?"]],
+      [["Llevo una dieta sana"], ["I have a healthy diet"]],
+      [["Me gusta el pan"], ["I like bread"]],
+      [["Me gusta bastante el pollo"], ["I quite like chicken"]],
+      [["Me gusta mucho la pizza"], ["I really like pizza"]],
+      [["Me gustan las galletas"], ["I like biscuits", "I like cookies"]],
+      [
+        ["No me gustan los pasteles"],
+        ["I don't like cakes", "I don't like pastries"]
+      ],
+      [
+        ["No me gusta nada el pescado"],
+        ["I really don't like fish", "I don't like fish at all"]
+      ],
+      [
+        ["arroz", "el arroz"],
+        ["rice", "the rice"]
+      ],
+      [
+        ["caramelos", "los caramelos"],
+        ["sweets", "candy"]
+      ],
+      [["Como huevos"], ["I eat eggs"]],
+      [
+        ["Comí verduras"],
+        ["I ate vegetables", "I ate veggies", "I ate greens"]
+      ],
+      [["Bebo agua"], ["I drink water"]],
+
+      [["¿Con qué frecuencia comes carne?"], ["How often do you eat meat?"]],
+      [["Lo como cada día", "La como cada día"], ["I eat it every day"]],
+      [
+        ["Los como muy a menudo", "Las como muy a menudo"],
+        ["I eat them very often"]
+      ],
+      [["tres veces al día"], ["three times a day"]],
+      [["todos los días"], ["every day"]],
+      [["dos veces a la semana"], ["twice a week"]],
+      [["los fines de semana"], ["at weekends", "on weekends"]],
+      [["una vez al mes"], ["once a month"]],
+      [["a veces"], ["sometimes"]],
+      [["de vez en cuando"], ["from time to time", "occasionally"]],
+      [["Nunca lo como", "Nunca la como"], ["I never eat it"]],
+      [
+        ["Casi nunca los como", "Casi nunca las como"],
+        ["I almost never eat them"]
+      ]
+    ],
+    [
+      "3.2 ¡Preparados, listos, ya!",
+      [
+        ["¿Qué haces para estar en forma?"],
+        [
+          "What do you do to keep fit?",
+          "What do you do to stay fit?",
+          "What do you do to keep in shape?",
+          "What do you do to stay in shape?"
+        ]
+      ],
+      [
+        ["Me gusta mucho hacer deporte"],
+        ["I really like doing sport", "I really like doing sports"]
+      ],
+      [["Hago artes marciales"], ["I do martial arts"]],
+      [["Hago atletismo"], ["I do athletics"]],
+      [["Hago footing"], ["I go jogging", "I jog"]],
+      [["Hago gimnasia"], ["I do gymnastics"]],
+      [["Hago natación"], ["I go swimming"]],
+      [["Juego al baloncesto"], ["I play basketball"]],
+      [["Juego al ping pong"], ["I play table tennis", "I play ping pong"]],
+      [["Juego al rugby"], ["I play rugby"]],
+      [["Juego al tenis"], ["I play tennis"]],
+      [["Juego al voleibol"], ["I play volleyball"]],
+      [
+        ["Juego a la pelota vasca"],
+        ["I play pelota", "I play Basque ball", "I play Basque pelota"]
+      ],
+      [["en el parque"], ["in the park"]],
+      [["en el gimnasio"], ["in the gym"]],
+      [
+        ["Voy al polideportivo"],
+        ["I go to the sports centre", "I go to the sports center"]
+      ],
+      [
+        ["Soy miembro de un club"],
+        [
+          "I am a member of a club",
+          "I'm a member of a club",
+          "I belong to a club"
+        ]
+      ],
+      [
+        ["Voy a clases de baile"],
+        [
+          "I go to dance classes",
+          "I go to dance lessons",
+          "I go to dance class"
+        ]
+      ],
+      [
+        ["Prefiero jugar al fútbol"],
+        ["I prefer playing football", "I prefer playing soccer"]
+      ],
+      [
+        ["Es mi deporte preferido"],
+        [
+          "It is my favourite sport",
+          "It's my favourite sport",
+          "It is my favorite sport",
+          "It's my favorite sport"
+        ]
+      ],
+      [["Empecé a jugar"], ["I started playing", "I began playing"]],
+      [
+        ["Empecé a los diez años"],
+        ["I started at the age of ten", "I started when I was ten"]
+      ],
+      [
+        ["Voy a empezar a jugar"],
+        ["I am going to start playing", "I'm going to start playing"]
+      ],
+      [
+        ["Voy a empezar a hacer"],
+        ["I am going to start doing", "I'm going to start doing"]
+      ]
+    ],
+    [
+      "3.3 ¿Cuál es tu rutina diaria?",
+      [["¿Cuál es tu rutina diaria?"], ["What is your daily routine?"]],
+      [["Me despierto"], ["I wake up"]],
+      [["Me despierto muy temprano"], ["I wake up very early"]],
+      [
+        ["Me despierto a las siete"],
+        ["I wake up at 7 o'clock", "I wake up at seven", "I wake up at 7"]
+      ],
+      [["Me levanto"], ["I get up"]],
+      [
+        ["Me levanto enseguida"],
+        ["I get up straight away", "I get up right away"]
+      ],
+      [
+        ["Me lavo los dientes"],
+        ["I brush my teeth", "I clean my teeth", "I wash my teeth"]
+      ],
+      [["Me ducho"], ["I shower", "I have a shower", "I take a shower"]],
+      [["Me visto"], ["I get dressed"]],
+      [["Me acuesto"], ["I go to bed"]],
+      [["Desayuno"], ["I have breakfast", "I eat breakfast"]],
+      [["Meriendo"], ["I have an afternoon snack", "I have a snack"]],
+      [["Ceno"], ["I have dinner", "I eat dinner"]],
+      [["Salgo"], ["I go out"]],
+      [
+        ["Salgo a correr"],
+        ["I go out running", "I go running", "I go for a run"]
+      ],
+      [["Corro"], ["I run"]],
+      [
+        ["Corro veinte kilómetros"],
+        [
+          "I run twenty kilometres",
+          "I run twenty kilometers",
+          "I run 20 kilometres",
+          "I run 20k"
+        ]
+      ],
+      [["Entreno"], ["I exercise", "I train", "I work out"]],
+      [
+        ["Voy al insti", "Voy al instituto", "Voy al colegio"],
+        ["I go to school"]
+      ],
+      [["Voy al trabajo"], ["I go to work"]],
+      [["Termino"], ["I finish"]],
+      [
+        ["Termino a las dos"],
+        ["I finish at two o'clock", "I finish at two", "I finish at 2"]
+      ],
+      [["Duermo"], ["I sleep"]],
+      [
+        ["Duermo ocho horas"],
+        ["I sleep for eight hours", "I sleep eight hours"]
+      ]
+    ],
+    [
+      "3.4 ¡Muévete!",
+      [
+        ["Para estar en forma"],
+        ["To keep fit", "To keep in shape", "To stay fit", "To stay in shape"]
+      ],
+      [["Se debe"], ["You should", "One should", "You must", "One must"]],
+      [
+        ["beber agua frecuentemente"],
+        ["to drink water frequently", "drink water frequently"]
+      ],
+      [
+        ["comer más fruta y verduras"],
+        ["to eat more fruit and vegetables", "eat more fruit and vegetables"]
+      ],
+      [
+        ["comer menos chocolate"],
+        ["to eat less chocolate", "eat less chocolate"]
+      ],
+      [["comer menos caramelos"], ["to eat fewer sweets", "eat fewer sweets"]],
+      [
+        ["dormir ocho horas al día"],
+        ["to sleep for eight hours a day", "sleep for eight hours a day"]
+      ],
+      [
+        ["entrenar una hora al día"],
+        [
+          "to train for one hour a day",
+          "to work out for one hour a day",
+          "to exercise for one hour a day",
+          "to train for an hour a day",
+          "to work out an one hour a day",
+          "to exercise an one hour a day",
+          "train for one hour a day",
+          "work out for one hour a day",
+          "exercise for one hour a day",
+          "train for an hour a day",
+          "work out an one hour a day",
+          "exercise an one hour a day"
+        ]
+      ],
+
+      [
+        ["No se debe"],
+        ["You should not", "One should not", "You must not", "One must not"]
+      ],
+      [["beber alcohol"], ["to drink alcohol", "drink alcohol"]],
+      [
+        ["beber muchos refrescos"],
+        [
+          "drink lots of soft drinks",
+          "drink many soft drinks",
+          "to drink lots of soft drinks",
+          "to drink many soft drinks"
+        ]
+      ],
+      [["comer comida basura"], ["eat junk food", "to eat junk food"]],
+      [["fumar"], ["to smoke", "smoke"]],
+
+      [
+        ["Soy adicto al chocolate", "Soy adicta al chocolate"],
+        ["I am addicted to chocolate", "I'm addicted to chocolate"]
+      ],
+      [["A partir de ahora"], ["From now on"]]
+    ],
+    [
+      "3.5 Me duele todo",
+      [["¿Qué tal estás?", "¿Qué tal?", "Cómo tal estás?"], ["How are you?"]],
+      [["¿Qué te duele?"], ["What hurts?"]],
+      [["¿Te duele el estómago?"], ["Does your stomach hurt?"]],
+      [["Me duele el brazo"], ["My arm hurts"]],
+      [["Me duele el estómago"], ["My stomach hurts"]],
+      [["Me duele el pie"], ["My foot hurts"]],
+      [["Me duele la cabeza"], ["My head hurts"]],
+      [["Me duele la espalda"], ["My back hurts"]],
+      [["Me duele la garganta"], ["My throat hurts"]],
+      [["Me duele la mano"], ["My hand hurts"]],
+      [["Me duele la pierna"], ["My leg hurts"]],
+      [["Me duelen los dientes"], ["My teeth hurt"]],
+      [["Me duelen los oídos"], ["My ears hurt", "I have earache"]],
+      [["Me duelen los ojos"], ["My eyes hurt"]],
+      [["Tengo catarro"], ["I have a cold"]],
+      [["Tengo náuseas"], ["I feel sick", "I feel nauseous"]],
+      [["Tengo quemaduras de sol"], ["I have sunburn"]],
+      [["Tengo tos"], ["I have a cough"]],
+      [
+        ["Estoy cansado", "Estoy cansada"],
+        ["I am tired", "I'm tired"]
+      ],
+      [
+        ["Estoy enfermo", "Estoy enferma"],
+        ["I am ill", "I'm ill", "I am sick", "I'm sick"]
+      ],
+      [["No me encuentro bien"], ["I don't feel well", "I do not feel well"]]
+    ],
+    [
+      "4.1 Mis derechos",
+      [
+        ["Tengo derecho a la educación"],
+        ["I have the right to education", "I am entitled to education"]
+      ],
+      [["al amor y a la familia"], ["to love and to family"]],
+      [["al juego"], ["to play"]],
+      [["a la libertad de expresión"], ["to freedom of expression"]],
+      [["a un medio ambiente sano"], ["to a healthy environment"]],
+      [["a vivir en armonía"], ["to live in harmony"]],
+      [
+        ["No puedo dar mi opinión"],
+        ["I cannot give my opinion", "I can't give my opinion"]
+      ],
+      [
+        ["jugar con mis hermanos"],
+        ["to play with my brothers", "to play with my siblings"]
+      ],
+      [
+        ["salir solo", "salir sola"],
+        ["to go out alone", "to go out on my own"]
+      ],
+      [["dormir"], ["to sleep"]],
+      [["respirar"], ["to breathe"]],
+      [["soy una chica"], ["I am a girl", "I'm a girl"]],
+      [["tengo que ganar dinero"], ["I have to earn money"]],
+      [
+        ["hay mucha violencia en mi ciudad"],
+        ["there is a lot of violence in my city"]
+      ],
+      [["mi padre grita mucho"], ["my dad shouts a lot"]],
+      [["tengo que trabajar"], ["I have to work"]],
+      [["el aire está contaminado"], ["the air is polluted"]],
+      [["No es justo"], ["It is not fair", "It isn't fair", "It is unfair"]],
+      [["Es inaceptable"], ["It is unacceptable"]],
+
+      [
+        ["Soy inglés", "Soy inglesa"],
+        ["I am Colombian", "I'm Colombian"]
+      ],
+      [["boliviano", "boliviana"], ["Bolivian"]],
+      [["colombiano", "colombiana"], ["Colombian"]],
+      [["mexicano", "mexicana"], ["Mexican"]],
+      [["norteamericano", "norteamericana"], ["North American"]],
+      [["español", "española"], ["Spanish"]],
+      [["paquistaní"], ["Pakistani"]]
+    ],
+    [
+      "4.2 El comercio justo",
+      [["El comercio justo"], ["Fair trade", "Fair trading"]],
+      [
+        ["Tiene diez años"],
+        [
+          "He is ten years old",
+          "She is ten years old",
+          "He is ten",
+          "She is ten"
+        ]
+      ],
+      [["Vive"], ["He lives", "She lives"]],
+      [["Viven"], ["They live"]],
+      [
+        ["con su familia"],
+        ["with his family", "with her family", "with their family"]
+      ],
+      [["en una plantación"], ["on a plantation", "on a farm", "on a field"]],
+      [["Trabaja"], ["He works", "She works"]],
+      [["Trabajan"], ["They work"]],
+      [["catorce horas al día"], ["fourteen hours a day", "14 hours a day"]],
+      [["seis días a la semana"], ["six days a week", "6 days a week"]],
+      [
+        ["para un patrón", "para un jefe"],
+        ["for an employer", "for a boss"]
+      ],
+      [["para una cooperativa"], ["for a cooperative", "for a co-op"]],
+      [["Gana"], ["He earns", "She earns", "He makes", "She makes"]],
+      [["Ganan"], ["They earn", "They make"]],
+      [
+        ["treinta euros al mes"],
+        [
+          "thirty euros a month",
+          "30 euros a month",
+          "thirty euros per month",
+          "30 euros per month"
+        ]
+      ]
+    ],
+    [
+      "4.3 Reciclamos",
+      [
+        ["¿Qué se debería hacer para proteger el medio ambiente?"],
+        [
+          "What should you do to protect the environment?",
+          "What should we do to protect the environment?"
+        ]
+      ],
+      [
+        ["Para proteger el medio ambiente"],
+        ["In order to protect the environment", "To protect the environment"]
+      ],
+      [["Se debería"], ["You should", "We should", "One should"]],
+      [
+        ["ahorrar energía en casa"],
+        ["to save energy at home", "save energy at home"]
+      ],
+      [
+        ["apagar la luz"],
+        [
+          "to turn off the light",
+          "turn off the light",
+          "turn off the lights",
+          "to turn off the lights",
+          "switch off the light",
+          "to switch off the light",
+          "switch off the lights",
+          "to switch off the lights"
+        ]
+      ],
+      [["cerrar el grifo"], ["turn off the tap", "to turn off the tap"]],
+      [["conservar el agua"], ["save water", "to save water"]],
+      [
+        ["desenchufar los aparatos eléctricos"],
+        [
+          "to unplug electrical devices",
+          "to unplug appliances",
+          "unplug electrical devices",
+          "unplug appliances"
+        ]
+      ],
+      [
+        ["ducharse en vez de bañarse"],
+        [
+          "to have a shower instead of a bath",
+          "have a shower instead of a bath"
+        ]
+      ],
+      [
+        ["ir en bici", "ir en bicicleta"],
+        ["to go by bike", "go by bike"]
+      ],
+      [["reciclar el papel"], ["to recycle paper", "recycle paper"]],
+      [["reciclar el plástico"], ["to recycle plastic", "recycle plastic"]],
+      [["reciclar el vidrio"], ["to recycle glass", "recycle glass"]],
+      [
+        ["usar transporte público"],
+        ["to use public transport", "use public transport"]
+      ],
+      [
+        ["No se debería"],
+        ["You shouldn't", "We shouldn't", "You should not", "We should not"]
+      ],
+      [["malgastar el agua"], ["to waste water", "waste water"]],
+      [
+        ["tirar la basura al suelo"],
+        [
+          "to throw rubbish on the ground",
+          "to throw trash on the ground",
+          "to throw rubbish on the floor",
+          "to throw trash on the floor",
+          "throw rubbish on the ground",
+          "throw trash on the ground",
+          "throw rubbish on the floor",
+          "throw trash on the floor"
+        ]
+      ],
+      [["usar bolsas de plástico"], ["to use plastic bags", "use plastic bags"]]
+    ],
+    [
+      "4.4 Mi ciudad",
+      [["Mi ciudad"], ["My town", "My city"]],
+      [
+        ["¿Cómo era tu ciudad antes?", "¿Cómo era tu pueblo antes?"],
+        ["What was your town like before?", "What was your city like before?"]
+      ],
+      [["Antes"], ["Before", "In the past"]],
+      [["Antes"], ["Before"]],
+      [
+        ["era bastante aburrido", "era bastante aburrida"],
+        ["it used to be quite boring", "it was quite boring"]
+      ],
+      [
+        ["era muy peligroso", "era muy peligrosa"],
+        ["it used to be very dangerous", "it was very dangerous"]
+      ],
+      [
+        ["estaba sucio", "estaba sucia"],
+        ["it used to be dirty", "it was dirty"]
+      ],
+      [
+        ["había mucha basura"],
+        [
+          "there used to be a lot of rubbish",
+          "there used to be a lot of trash",
+          "there was a lot of rubbish",
+          "there was a lot of trash",
+          "there used to be lots of rubbish",
+          "there used to be lots of trash",
+          "there was lots of rubbish",
+          "there was lots of trash"
+        ]
+      ],
+      [
+        ["había mucha contaminación"],
+        [
+          "there used to be a lot of pollution",
+          "there was a lot of pollution",
+          "there used to be lots of pollution",
+          "there was lots of pollution"
+        ]
+      ],
+      [
+        ["había mucha violencia"],
+        [
+          "there used to be a lot of violence",
+          "there was a lot of violence",
+          "there used to be lots of violence",
+          "there was lots of violence"
+        ]
+      ],
+      [
+        ["no había nada para los jóvenes"],
+        [
+          "there didn't use to be anything for young people",
+          "there was nothing for young people"
+        ]
+      ],
+      [
+        ["no había medios de transporte público"],
+        [
+          "there didn't use to be means of public transport",
+          "there was no public transport"
+        ]
+      ],
+
+      [["¿Cómo es ahora?"], ["What is it like now?"]],
+      [["Ahora"], ["Now"]],
+      [["está limpia"], ["it is clean", "it's clean"]],
+      [
+        ["hay menos basura"],
+        [
+          "there is less rubbish",
+          "there is less trash",
+          "there's less rubbish",
+          "there's less trash"
+        ]
+      ],
+      [
+        ["hay menos contaminación"],
+        ["there is less pollution", "there's less pollution"]
+      ],
+      [
+        ["hay parques y espacios públicos muy bonitos"],
+        [
+          "there are very nice parks and public spaces",
+          "there are very pretty parks and public spaces"
+        ]
+      ],
+      [
+        ["hay una red de transporte muy buena"],
+        [
+          "there is a very good transport network",
+          "there's a very good transport network"
+        ]
+      ],
+      [
+        ["hay muchas cosas para los jóvenes"],
+        ["there are lots of things for young people"]
+      ],
+      [
+        ["no tiene barrios peligrosos"],
+        [
+          "it doesn't have dangerous neighbourhoods",
+          "it doesn't have dangerous neighborhoods",
+          "there are no dangerous neighbourhoods",
+          "there are no dangerous neighborhoods"
+        ]
+      ]
+    ],
+    [
+      "5.1 Mucho gusto",
+      [
+        ["Te presento a Antonio"],
+        ["Let me introduce you to Antonio", "This is Antonio"]
+      ],
+      [["Este es mi padre"], ["This is my father", "Here's my father"]],
+      [["Esta es mi madre"], ["This is my mother", "Here's my mother"]],
+      [
+        ["Estos son mis hermanos"],
+        ["These are my brothers", "These are my siblings"]
+      ],
+      [
+        ["Encantado", "Encantada", "Mucho gusto", "Un placer"],
+        [
+          "Pleased to meet you",
+          "Nice to meet you",
+          "It's a pleasure",
+          "It is a pleasure"
+        ]
+      ],
+      [
+        ["¿Qué tal fue el viaje?"],
+        ["How was the journey?", "How was the trip?"]
+      ],
+      [["¿Tienes hambre?"], ["Are you hungry?"]],
+      [["¿Tienes sed?"], ["Are you thirsty?"]],
+      [["¿Tienes sueño?"], ["Are you sleepy?"]],
+      [["Tengo hambre"], ["I am hungry", "I'm hungry"]],
+      [["No tengo hambre"], ["I am not hungry", "I'm not hungry"]],
+      [["Tengo sed"], ["I am thirsty", "I'm thirsty"]],
+      [["No tengo sed"], ["I am not thirsty", "I'm not thirsty"]],
+      [["Tengo sueño"], ["I am sleepy", "I'm sleepy", "I feel sleepy"]],
+      [
+        ["No tengo sueño"],
+        ["I am not sleepy", "I'm not sleepy", "I don't feel sleepy"]
+      ],
+
+      [
+        ["Quiero ducharme", "Me quiero duchar"],
+        ["I want to have a shower", "I want to shower"]
+      ],
+      [
+        ["¿Puedo acostarme?", "¿Me puedo acostar?"],
+        ["Can I go to bed?", "May I go to bed?"]
+      ],
+      [
+        ["mandar un SMS", "mandar un mensaje", "enviar un mensaje"],
+        ["to send a text", "to send a message"]
+      ],
+      [
+        ["ver la tele", "ver la televisión"],
+        ["to watch television", "to watch TV"]
+      ],
+      [
+        ["un ratito", "un rato"],
+        ["for a little while", "for a while"]
+      ],
+
+      [
+        ["¿Quieres acostarte?", "¿Te quieres acostar?"],
+        ["Do you want to go to bed?"]
+      ],
+      [
+        ["¿Quieres ducharte?", "¿Te quieres duchar?"],
+        ["Do you want to have a shower?", "Do you want to shower?"]
+      ],
+      [["beber algo"], ["to drink something", "to have a drink"]],
+      [["comer algo"], ["to eat something", "to have something to eat"]]
+    ],
+    [
+      "5.2 La caza del tesoro",
+      [["Una aventura en Madrid"], ["An adventure in Madrid"]],
+      [
+        ["¿Qué vamos a hacer?"],
+        ["What are we going to do?", "What shall we do?"]
+      ],
+      [
+        ["Vamos a hacer una caza del tesoro"],
+        [
+          "We are going to go on a treasure hunt",
+          "We are going to do a treasure hunt",
+          "We are going on a treasure hunt",
+          "We're going to go on a treasure hunt",
+          "We're going to do a treasure hunt",
+          "We're going on a treasure hunt"
+        ]
+      ],
+      [
+        ["Hay que"],
+        ["You have to", "We have to", "One has to", "It is necessary to"]
+      ],
+      [["Tenemos que"], ["We have to", "We must"]],
+      [
+        ["buscar un perro"],
+        ["to find a dog", "find a dog", "to look for a dog", "look for a dog"]
+      ],
+      [
+        ["coger el teleférico", "tomar el teleférico"],
+        ["to take the cable car", "take the cable car"]
+      ],
+      [["comer churros"], ["to eat churros", "eat churros"]],
+      [["comprar una postal"], ["to buy a postcard", "buy a postcard"]],
+      [["dibujar el león"], ["to draw the lion", "draw the lion"]],
+      [
+        ["guardar la entrada"],
+        [
+          "to keep the ticket",
+          "keep the ticket",
+          "to save the ticket",
+          "save the ticket"
+        ]
+      ],
+      [
+        ["ir a la churrería"],
+        ["to go to the churros shop", "go to the churros shop"]
+      ],
+      [
+        ["ir al estadio Santiago Bernabéu"],
+        [
+          "to go to Santiago Bernabéu Stadium",
+          "go to Santiago Bernabéu Stadium"
+        ]
+      ],
+      [
+        ["ir al parque del Retiro"],
+        ["to go to Retiro Park", "go to Retiro Park"]
+      ],
+      [["sacar fotos"], ["to take photos", "take photos"]],
+      [["ver un cuadro"], ["to see a painting", "see a painting"]],
+      [
+        [
+          "¡Lo vamos a pasar guay!",
+          "¡Lo vamos a pasar fenomenal!",
+          "¡Lo vamos a pasar bomba!"
+        ],
+        [
+          "We are going to have a blast",
+          "We are going to have a brilliant time",
+          "We are going to have an awesome time",
+          "We are going to have a great time",
+          "We're going to have a blast",
+          "We're going to have a brilliant time",
+          "We're going to have an awesome time",
+          "We're going to have a great time"
+        ]
+      ],
+      [["Vamos a visitar"], ["We are going to visit", "We're going to visit"]],
+      [["Vamos a ver"], ["We are going to see", "We're going to see"]],
+      [
+        ["el parque más grande de la ciudad"],
+        ["the biggest park in the city", "the largest park in the city"]
+      ],
+      [
+        ["la tienda más famosa de Madrid"],
+        ["the most famous shop in Madrid", "the most famous store in Madrid"]
+      ],
+      [["los museos más espectaculares"], ["the most spectacular museums"]],
+      [["las tiendas más antiguas"], ["the oldest shops"]]
+    ],
+    [
+      "5.3 En la tienda de recuerdos",
+      [["En la tienda de recuerdos"], ["In the souvenir shop"]],
+      [["¿Qué vas a comprar?"], ["What are you going to buy?"]],
+      [
+        ["Quiero comprar algo para mi madre"],
+        ["I want to buy something for my mother"]
+      ],
+      [
+        ["Voy a comprar un collar"],
+        ["I am going to buy a necklace", "I'm going to buy a necklace"]
+      ],
+      [["un imán"], ["a magnet"]],
+      [["un llavero"], ["a key ring", "a keychain"]],
+      [["una camiseta"], ["a T-shirt"]],
+      [["una figurita"], ["a figurine", "a little figure"]],
+      [["una taza"], ["a cup", "a mug"]],
+      [["unos pendientes"], ["earrings"]],
+      [["unas castañuelas"], ["castanets"]],
+      [["turrón"], ["nougat", "Spanish nougat"]],
+
+      [
+        ["El imán es más barato que la taza"],
+        ["The magnet is cheaper than the cup"]
+      ],
+      [
+        ["La camiseta es menos cara que el turrón"],
+        [
+          "The T-shirt is less expensive than the nougat",
+          "The T-shirt is cheaper than the nougat"
+        ]
+      ],
+      [
+        ["Los pendientes son más bonitos que el collar"],
+        [
+          "The earrings are nicer than the necklace",
+          "The earrings are prettier than the necklace"
+        ]
+      ],
+      [
+        ["Las castañuelas son menos prácticas que el llavero"],
+        ["The castanets are less practical than the key ring"]
+      ],
+
+      [
+        ["¿En qué puedo ayudarle?"],
+        ["How can I help you?", "May I help you?", "How may I help you?"]
+      ],
+      [
+        ["¿Qué busca usted?", "¿Qué buscan ustedes?"],
+        [
+          "What are you looking for?",
+          "What do you want?",
+          "What would you like?"
+        ]
+      ],
+      [["¿Cuánto es?"], ["How much is it?", "How much does it cost?"]],
+      [
+        ["Son diez euros"],
+        ["It is ten euros", "It's ten euros", "It is 10 euros", "It's 10 euros"]
+      ],
+      [
+        ["Me lo llevo", "Me la llevo"],
+        ["I'll take it", "I'm going to take it", "I'm taking it"]
+      ],
+      [
+        ["Me los llevo", "Me las llevo"],
+        ["I'll take them", "I'm going to take them", "I'm taking them"]
+      ]
+    ],
+    [
+      "5.4 ¿Qué visitarás mañana?",
+      [["¿Qué visitarás mañana?"], ["What will you visit tomorrow?"]],
+      [
+        ["Cogeré el teleférico", "Tomaré el teleférico"],
+        [
+          "I will take the cable car",
+          "I will ride the cable car",
+          "I'll take the cable car",
+          "I'll ride the cable car"
+        ]
+      ],
+      [["Comeré pescado"], ["I will eat fish", "I'll eat fish"]],
+      [["Compraré recuerdos"], ["I will buy souvenirs", "I'll buy souvenirs"]],
+      [
+        ["Daré una vuelta por el Rastro", "Daré un paseo por el Rastro"],
+        [
+          "I will go for a walk around the Rastro",
+          "I will stroll around the Rastro",
+          "I'll go for a walk around the Rastro",
+          "I'll stroll around the Rastro"
+        ]
+      ],
+      [
+        ["Haré muchas cosas"],
+        [
+          "I will do lots of things",
+          "I will do many things",
+          "I'll do lots of things",
+          "I'll do many things"
+        ]
+      ],
+      [["Iré a un restaurante"], ["I will go to a restaurant"]],
+      [
+        ["Sacaré fotos", "Tomaré fotos"],
+        [
+          "I will take photos",
+          "I will take pictures",
+          "I'll take photos",
+          "I'll take pictures"
+        ]
+      ],
+      [["Tomaré el sol"], ["I will sunbathe", "I'll sunbathe"]],
+      [
+        ["Visitaré el Museo del Prado"],
+        ["I will visit the Prado Museum", "I will visit the Museo del Prado"]
+      ],
+      [
+        ["Si hace buen tiempo"],
+        [
+          "If it's good weather",
+          "If it is good weather",
+          "If the weather is good"
+        ]
+      ],
+      [
+        ["hace mal tiempo"],
+        ["it's bad weather", "it is bad weather", "the weather is bad"]
+      ],
+      [["hace frío"], ["it's cold", "it is cold"]],
+      [["hace sol"], ["it's sunny", "it is sunny", "the sun is shining"]],
+      [["hace viento"], ["it's windy", "it is windy"]],
+      [["llueve"], ["it's raining", "it rains", "it is raining"]]
+    ]
+  ]
+}
