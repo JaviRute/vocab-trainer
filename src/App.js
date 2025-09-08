@@ -143,7 +143,11 @@ function App() {
         playCheeringSound();
         setExpressionsAnswered(remainingExpressions.length)
       }
-      else if (!questionAlreadyAnswered){
+      else if (userResponse === "Print vocab list") {
+        for (let i = 0; i < remainingExpressions.length; i++) {
+          console.log(`${i}. ${remainingExpressions[i]}`);
+       } 
+      } else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
           if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
             setRightAnswer(true);
@@ -315,10 +319,12 @@ function App() {
   const restartThemeSelection = () => {
     setTheme('');
     setLesson('');
+    setShowHint(false);
   }
 
   const restartLessonSelection = () => {
     setLesson('');
+    setShowHint(false);
   }
 
   const handleHint = () => {

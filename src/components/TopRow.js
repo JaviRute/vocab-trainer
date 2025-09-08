@@ -8,7 +8,7 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
     <div >
       <div className='top-row'>
         <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
-        <h1 className="title">Spanish vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}</h1>
+        <h1 className="title">MFL vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}</h1>
         <button 
             className='top-button'
             onClick={toggleTeacherMode}>
