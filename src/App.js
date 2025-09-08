@@ -145,7 +145,7 @@ function App() {
       }
       else if (userResponse === "Print vocab list") {
         for (let i = 0; i < remainingExpressions.length; i++) {
-          console.log(`${i}. ${remainingExpressions[i]}`);
+          console.log(`${i + 1}. ${remainingExpressions[i]}`);
        } 
       } else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {

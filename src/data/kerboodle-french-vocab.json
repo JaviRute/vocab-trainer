@@ -317,6 +317,7 @@
         ["meeting", "the meeting", "appointment", "the appointment"]
       ],
       [["sensible"], ["sensitive"]],
+      [["faire les courses"], ["to do the shopping"]],
       [["seul", "seule"], ["alone"]]
     ],
     [
@@ -2240,263 +2241,101 @@
     [
       "7.1G Le temps pendant les vacances",
       [["à l'étranger"], ["abroad"]],
-      [["acceptable"], ["acceptable"]],
-      [["acheter"], ["to buy"]],
-      [["agréable"], ["pleasant", "nice"]],
-      [["aller en vacances"], ["to go on holidays"]],
+      [["aller en vacances"], ["to go on holidays", "to go on vacations"]],
       [["au marché"], ["at the market"]],
       [["au musée"], ["at the museum"]],
-      [["c'est"], ["it is"]],
-      [["changeable"], ["changeable"]],
-      [["comme"], ["such as", "like", "since"]],
       [["coûter"], ["to cost"]],
       [["dans la nature"], ["in nature"]],
       [["en famille"], ["as a family"]],
       [["en général"], ["in general"]],
       [["en plus"], ["in addition"]],
-      [["ensemble"], ["together"]],
-      [["idéal", "idéale"], ["ideal"]],
       [["il fait mauvais"], ["it is bad weather"]],
       [["il pleut"], ["it is raining"]],
       [["il y a du brouillard"], ["it is foggy"]],
       [["il y a du vent"], ["it is windy"]],
-      [["ma sœur"], ["my sister"]],
-      [["mangeable"], ["edible"]],
       [["le manque", "le manque de"], ["lack of"]],
-      [["non"], ["not"]],
-      [["ou"], ["or"]],
       [["par contre"], ["on the other hand"]],
       [["le parc national"], ["national park"]],
       [["parfois"], ["sometimes"]],
       [["le pays"], ["country"]],
       [["pendant"], ["during"]],
       [["pendant les vacances"], ["during the holiday"]],
-      [["penser que"], ["to think that"]],
-      [["le père"], ["father"]],
       [["pour les vacances"], ["for the holidays"]],
-      [["préférable"], ["preferable"]],
-      [["le Québec"], ["Quebec"]],
-      [["sain", "saine"], ["healthy"]],
       [["la semaine"], ["week"]],
       [["les sites historiques"], ["historical sites"]],
       [["les toilettes"], ["toilet"]],
-      [["très"], ["very"]],
-      [["variable"], ["varied"]],
-      [["voir"], ["to see"]],
-      [["vraiment"], ["really"]]
+      [["variable"], ["varied"]]
     ],
     [
       "7.1FLes îles francophones",
-      [
-        ["l'âge", "l'age"],
-        ["age", "the age"]
-      ],
-      [
-        ["l'an", "l'année"],
-        ["year", "the year"]
-      ],
-      [["apprendre"], ["to learn"]],
-      [["aujourd'hui"], ["today"]],
-      [["autre"], ["other"]],
-      [["bien"], ["good", "well"]],
-      [["bonjour"], ["good morning", "good afternoon"]],
-      [["calme"], ["calm", "quiet"]],
       [["les Caraïbes"], ["Caribbean"]],
-      [
-        ["ce", "cet", "cette", "ces"],
-        ["this", "these"]
-      ],
-      [
-        ["chaud", "chaude"],
-        ["hot", "warm"]
-      ],
-      [["cher", "chère"], ["expensive"]],
-      [["comme"], ["such as", "like", "since"]],
-      [["comment"], ["how"]],
       [["la Corse"], ["Corsica"]],
       [["la côte"], ["coast"]],
-      [
-        ["différent", "différente"],
-        ["different", "different from"]
-      ],
-      [["dix"], ["ten"]],
       [["en hiver"], ["in winter"]],
-      [["entre"], ["between"]],
       [["espérer que"], ["to hope that"]],
       [["être situé"], ["to be situated"]],
-      [["l'euro"], ["euro", "the euro"]],
-      [["l'expérience"], ["experience", "the experience"]],
       [["faire des promenades"], ["to go for walks"]],
       [["la forêt"], ["forest", "wood"]],
       [["frais", "fraîche"], ["fresh"]],
       [["la frontière"], ["border", "the border"]],
       [["le gâteau"], ["cake", "the cake"]],
-      [["'histoire"], ["history", "story", "the history", "the story"]],
       [["l'hiver"], ["winter", "the winter"]],
       [["il faisait froid"], ["it was cold"]],
       [["il faisait beau"], ["it was nice weather"]],
       [["il y avait"], ["there was", "there were"]],
       [["il y avait du vent"], ["it was windy"]],
       [["l'île"], ["island", "the island"]],
-      [["intéressant", "intéressante"], ["interesting"]],
-      [["l'invitation"], ["invitation", "the invitation"]],
-      [
-        ["le jeune", "la jeune"],
-        ["young person", "the young person"]
-      ],
-      [["jeune"], ["young"]],
-      [["là"], ["there"]],
-      [["là-bas"], ["over there"]],
-      [["local", "locale"], ["local"]],
-      [["long", "longue"], ["long"]],
       [["le nord"], ["north", "the north"]],
-      [["nouveau", "nouvelle"], ["new"]],
       [["la Nouvelle-Calédonie"], ["New Caledonia"]],
       [["l'océan Atlantique"], ["Atlantic ocean", "the Atlantic ocean"]],
       [["l'océan Indien"], ["Indian ocean", "the Indian ocean"]],
       [["l'océan Pacifique"], ["Pacific ocean", "the Pacific ocean"]],
-      [["par contre"], ["on the other hand"]],
       [["le parc naturel"], ["natural park", "the natural park"]],
-      [["parfait", "parfait"], ["perfect"]],
-      [["parfois"], ["sometimes"]],
-      [["pendant"], ["during"]],
-      [["plusieurs"], ["several"]],
-      [["le podcast"], ["podcast", "the podcast"]],
       [["populaire"], ["popular"]],
-      [["préparer"], ["to prepare"]],
-      [
-        ["quel", "quelle"],
-        ["what", "which"]
-      ],
-      [["raconter"], ["to tell"]],
-      [["la religion"], ["religion", "the religion"]],
-      [["retourner"], ["to go back", "to return"]],
-      [["souvent"], ["often"]],
-      [["traditionnel", "traditionnelle"], ["traditional"]],
-      [["très"], ["very"]],
-      [["trouver"], ["to find"]],
-      [["vivre"], ["to live"]],
-      [["vrai"], ["true", "real"]],
-      [["vraiment"], ["really"]]
+      [["souvent"], ["often"]]
     ],
     [
       "7.1H Mon blog de voyage",
       [["abandonner"], ["to abandon", "to give up"]],
-      [["acheter"], ["to buy"]],
-      [["l'agriculture"], ["agriculture"]],
       [["l'année sabbatique"], ["gap year"]],
-      [["après"], ["after"]],
       [["arriver à"], ["to succeed in"]],
       [["l'Asie"], ["Asia"]],
       [["l'Australie"], ["Australia"]],
-      [["aussi"], ["also"]],
-      [["autre"], ["other"]],
-      [["avant de"], ["before"]],
-      [["l'aventure"], ["adventure"]],
-      [["le blog"], ["blog"]],
-      [["le centre"], ["centre"]],
-      [["chercher"], ["to look for"]],
       [["communiquer"], ["to communicate"]],
-      [["comprendre"], ["to understand"]],
       [["contribuer à"], ["to contribute to"]],
-      [["découvrir"], ["to discover", "to find out"]],
-      [["depuis"], ["since"]],
-      [["la destination"], ["destination"]],
-      [["le détail"], ["detail"]],
-      [["direct"], ["direct"]],
-      [["donner"], ["to give"]],
-      [["écrire"], ["to write"]],
       [["en même temps"], ["at the same time"]],
-      [["ensemble"], ["together"]],
-      [["les études"], ["studies"]],
       [["évidemment"], ["evidently", "obviously"]],
-      [["l'examen"], ["exam"]],
       [["faire la découverte"], ["to discover"]],
       [["la ferme"], ["farm"]],
-      [["le festival"], ["festival"]],
-      [["gagner"], ["to win", "to earn"]],
-      [["l'habitant"], ["inhabitant"]],
-      [["l'habitante"], ["inhabitant"]],
-      [["l'identité"], ["identity"]],
-      [["important"], ["important"]],
-      [["importante"], ["important"]],
-      [["indépendant"], ["independent"]],
-      [["indépendante"], ["independent"]],
       [["insolite"], ["unusual"]],
-      [["international"], ["international"]],
-      [["internationale"], ["international"]],
       [["la langue"], ["language"]],
       [["loger"], ["to stay"]],
-      [["leur"], ["to them", "their"]],
-      [["leurs"], ["to them", "their"]],
-      [["le mois"], ["month"]],
-      [["le monde"], ["world"]],
-      [["le musicien"], ["musician"]],
-      [["la musicienne"], ["musician"]],
-      [["l'objectif"], ["objective"]],
-      [["offrir"], ["to offer", "to give"]],
-      [["organiser"], ["to organise"]],
       [["l'ouest"], ["west"]],
       [["partout"], ["everywhere"]],
-      [["la passion"], ["passion"]],
       [["le paysage"], ["scenery"]],
       [["se perdre"], ["to lose oneself", "to get lost"]],
-      [["la personne"], ["person"]],
-      [["les personnes"], ["people"]],
-      [["la photographie"], ["photography"]],
-      [["proche"], ["near"]],
-      [["profiter de"], ["to enjoy"]],
-      [["le projet"], ["project"]],
-      [["le quartier"], ["area", "neighbourhood"]],
-      [["se relaxer"], ["to relax"]],
       [["rencontrer"], ["to meet"]],
-      [["rester"], ["to stay"]],
-      [["rêver"], ["to dream"]],
       [["le sac à dos"], ["rucksack"]],
       [["le séjour"], ["stay"]],
-      [["le temple"], ["temple"]],
-      [["le Togo"], ["Togo"]],
       [["traverser"], ["to cross"]],
-      [["l'université"], ["university"]],
-      [["le Vietnam"], ["Vietnam"]],
       [["vif"], ["lively"]],
       [["vive"], ["lively"]],
-      [["le village"], ["village"]],
-      [["vivant"], ["lively"]],
-      [["vivante"], ["lively"]],
-      [["y"], ["there"]]
+      [["vivant", "vivante"], ["lively"]]
     ],
     [
       "7.2G Mes visites de touriste",
       [["Alger"], ["Algiers"]],
       [["l'Algérie", "Algérie"], ["Algeria"]],
-      [["amusant"], ["amusing", "fun", "funny", "enjoyable"]],
-      [["amusante"], ["amusing", "fun", "funny", "enjoyable"]],
       [["l'année dernière", "année dernière"], ["last year"]],
-      [["au"], ["at the", "to the"]],
       [
         ["le bâtiment", "bâtiment"],
         ["building", "the building"]
       ],
-      [["beau"], ["beautiful"]],
-      [["belle"], ["beautiful"]],
       [["la Belgique", "Belgique"], ["Belgium"]],
       [["boire"], ["to drink"]],
       [
         ["la boisson", "boisson"],
         ["drink", "the drink", "beverage", "the beverage"]
-      ],
-      [["c'est"], ["it is"]],
-      [
-        ["le café", "café"],
-        [
-          "coffee",
-          "the coffee",
-          "coffee shop",
-          "the coffee shop",
-          "cafe",
-          "the cafe"
-        ]
       ],
       [
         ["le camping", "camping"],
@@ -2506,14 +2345,7 @@
         ["le château", "château"],
         ["castle", "the castle"]
       ],
-      [["de"], ["of", "from"]],
-      [["dernier"], ["last"]],
-      [["dernière"], ["last"]],
       [["descendre"], ["to go down", "to descend", "to get off"]],
-      [["du"], ["some", "of the"]],
-      [["de la"], ["some", "of the"]],
-      [["des"], ["some", "of the"]],
-      [["de l'"], ["some", "of the"]],
       [
         ["l'église", "église"],
         ["church", "the church"]
@@ -2533,13 +2365,6 @@
         ["train station", "the train station"]
       ],
       [
-        ["les gens", "gens"],
-        ["people", "the people"]
-      ],
-      [["hier"], ["yesterday"]],
-      [["joli"], ["pretty"]],
-      [["jolie"], ["pretty"]],
-      [
         ["le métro", "métro"],
         [
           "underground",
@@ -2550,13 +2375,6 @@
           "the metro"
         ]
       ],
-      [
-        ["le mois", "mois"],
-        ["month", "the month"]
-      ],
-      [["mon"], ["my"]],
-      [["ma"], ["my"]],
-      [["mes"], ["my"]],
       [["monter"], ["to go up", "to climb", "to get on"]],
       [
         ["la mosquée", "mosquée"],
@@ -2570,8 +2388,6 @@
         ["la place", "place"],
         ["square", "the square", "place", "the place"]
       ],
-      [["quelque"], ["a few", "some"]],
-      [["quelques"], ["a few", "some"]],
       [
         ["la station", "station"],
         ["station", "the station"]
@@ -2581,20 +2397,13 @@
         ["tower", "the tower"]
       ],
       [["traverser"], ["to cross"]],
-      [["venir"], ["to come"]],
       [
         ["la vue", "vue"],
         ["view", "the view", "sight", "the sight"]
-      ],
-      [
-        ["le week-end", "week-end"],
-        ["weekend", "the weekend"]
       ]
     ],
     [
       "7.2F Vacances de rêve",
-      [["à bientôt"], ["see you soon"]],
-      [["arriver"], ["to arrive"]],
       [
         ["Belgique", "la Belgique"],
         ["Belgium", "the Belgium"]
@@ -2613,11 +2422,6 @@
       [["froid", "froide"], ["cold"]],
       [["génial", "géniale"], ["great"]],
       [["il faisait mauvais"], ["it was bad weather"]],
-      [["jusque"], ["until"]],
-      [
-        ["livre", "le livre"],
-        ["book", "the book"]
-      ],
       [
         ["logement", "le logement"],
         ["accommodation", "the accommodation"]
@@ -2630,14 +2434,6 @@
       ],
       [["oublier"], ["to forget"]],
       [
-        ["parents", "le parent", "les parents"],
-        ["parent", "parents", "the parent", "the parents"]
-      ],
-      [
-        ["père", "le père"],
-        ["father", "the father"]
-      ],
-      [
         ["portable", "le portable"],
         ["mobile phone", "the mobile phone"]
       ],
@@ -2647,19 +2443,10 @@
       [["sortir"], ["to go out"]],
       [["réserver"], ["to book"]],
       [
-        ["rêve", "le rêve"],
-        ["dream", "the dream"]
-      ],
-      [["sans"], ["without"]],
-      [
         ["sud", "le sud"],
         ["south", "the south"]
       ],
       [["sympa"], ["nice"]],
-      [
-        ["synagogue", "la synagogue"],
-        ["synagogue", "the synagogue"]
-      ],
       [["tard"], ["late"]],
       [["tous les jours"], ["every day"]],
       [["vite"], ["quick", "fast", "quickly"]]
@@ -2676,13 +2463,7 @@
         ["ambiance", "l'ambiance"],
         ["atmosphere", "the atmosphere"]
       ],
-      [["beau", "bel", "belle"], ["beautiful"]],
-      [["central", "centrale"], ["central"]],
       [["célèbré", "célèbrée"], ["celebrated"]],
-      [
-        ["chef", "le chef", "chef de cuisine", "le chef de cuisine"],
-        ["chef", "the chef"]
-      ],
       [["choisir"], ["to choose"]],
       [["classique"], ["classic"]],
       [
@@ -2695,11 +2476,6 @@
         ["lunch", "the lunch"]
       ],
       [["devenir"], ["to become"]],
-      [["donc"], ["so"]],
-      [
-        ["empire", "l'empire"],
-        ["empire", "the empire"]
-      ],
       [
         ["endroit", "l'endroit"],
         ["place", "the place"]
@@ -2708,7 +2484,6 @@
         ["esclavage", "l'esclavage"],
         ["slavery", "the slavery"]
       ],
-      [["par"], ["by"]],
       [
         ["partie", "la partie"],
         ["part", "the part"]
@@ -2718,18 +2493,11 @@
         ["dish", "the dish"]
       ],
       [["portugais", "portugaise"], ["Portuguese"]],
-      [["présenter"], ["to present"]],
-      [["prochain", "prochaine"], ["next"]],
-      [["que"], ["that"]],
       [
         ["réputation", "la réputation"],
         ["reputation", "the reputation"]
       ],
       [["scolaire"], ["school"]],
-      [
-        ["Sénégal", "le Sénégal"],
-        ["Senegal", "the Senegal"]
-      ],
       [["sénégalais", "sénégalaise"], ["Senegalese"]],
       [
         ["siècle", "le siècle"],
@@ -2745,17 +2513,6 @@
         ["touriste", "le touriste", "la touriste"],
         ["tourist", "the tourist"]
       ],
-      [["tout", "toute"], ["each"]],
-      [
-        ["tradition", "la tradition"],
-        ["tradition", "the tradition"]
-      ],
-      [["unique"], ["unique"]],
-      [
-        ["vêtement", "les vêtements"],
-        ["clothes", "the clothes"]
-      ],
-      [["voir"], ["to see"]],
       [
         ["vol", "le vol"],
         ["flight", "the flight"]
@@ -2778,12 +2535,7 @@
       ],
       [["chatter"], ["to chat"]],
       [["choisir"], ["to choose"]],
-      [
-        ["cinéma", "le cinéma"],
-        ["cinema", "the cinema"]
-      ],
       [["communiquer"], ["to communicate"]],
-      [["connaître"], ["to know", "to be familiar with"]],
       [
         ["copain", "le copain"],
         ["friend, boyfriend", "the friend, the boyfriend"]
@@ -2792,7 +2544,6 @@
         ["copine", "la copine"],
         ["friend, girlfriend", "the friend, the girlfriend"]
       ],
-      [["de plus"], ["in addition"]],
       [["de temps en temps"], ["from time to time"]],
       [["en streaming"], ["streamed"]],
       [["envoyer"], ["to send"]],
@@ -2832,10 +2583,6 @@
       [
         ["vêtement", "les vêtements"],
         ["clothes", "the clothes"]
-      ],
-      [
-        ["vidéo", "le vidéo"],
-        ["video", "the video"]
       ]
     ],
     [
@@ -2852,68 +2599,51 @@
       [["de plus"], ["besides", "moreover"]],
       [["devoir"], ["to have to"]],
       [
-        ["du", "de la", "des", "de l'"],
-        ["some", "of the"]
-      ],
-      [["facile"], ["easy"]],
-      [
         ["façon", "la façon"],
         ["way", "the way", "manner", "the manner"]
       ],
       [["faire des progrès"], ["to make progress"]],
-      [["hier"], ["yesterday"]],
       [
         ["jeu vidéo", "le jeu vidéo"],
         ["video game", "the video game"]
       ],
-      [["maintenant"], ["now"]],
-      [["mais"], ["but"]],
       [["mondial", "mondiale"], ["global"]],
-      [["ne ... jamais"], ["never"]],
       [
         ["ordinateur portable", "l'ordinateur portable"],
         ["laptop", "the laptop"]
       ],
-      [["présent", "présente"], ["present"]],
       [["seulement"], ["only"]],
-      [
-        ["smartphone", "le smartphone"],
-        ["smartphone", "the smartphone"]
-      ],
       [
         ["société", "la société"],
         ["society", "the society"]
-      ],
-      [
-        ["téléphone", "le téléphone"],
-        ["phone", "the phone"]
       ],
       [["toujours"], ["always"]],
       [["tout d'abord"], ["first of all"]],
       [
         ["vie quotidienne", "la vie quotidienne"],
         ["daily life", "the daily life"]
-      ]
+      ],
+      [["communiquer plus facilement"], ["to communicate more easily"]],
+      [["faire attention à"], ["to pay attention to"]],
+      [["se développer rapidement"], ["to develop quickly"]],
+      [["les nouvelles technologies"], ["new technologies"]],
+      [["passer du temps en ligne"], ["to spend time online"]],
+      [
+        ["n'aimer pas utiliser Internet trop souvent"],
+        ["not to like using the Internet too often"]
+      ],
+      [
+        ["regarder des films en ligne"],
+        ["to watch films online", "to watch movies online"]
+      ],
+      [["les achats en ligne"], ["online shopping"]],
+      [["ce n'est pas cher"], ["it is not expensive", "it's not expensive"]],
+      [["télécharger de la musique"], ["to download music"]]
     ],
     [
       "8.1H Ma vie dans le monde numérique",
-      [["à mon avis"], ["in my opinion"]],
-      [["adopter"], ["to adopt"]],
-      [["alors"], ["so", "therefore"]],
-      [["améliorer"], ["to improve"]],
-      [["appeler"], ["to call"]],
       [["s'arrêter"], ["to stop oneself"]],
-      [
-        ["article", "l'article"],
-        ["article", "the article"]
-      ],
-      [["au début"], ["at the beginning"]],
       [["augmenter"], ["to increase"]],
-      [["aussi ... que"], ["as ... as"]],
-      [
-        ["avis", "l'avis"],
-        ["opinion", "the opinion"]
-      ],
       [["cliquer"], ["to click"]],
       [["commencer"], ["to start"]],
       [
@@ -2922,34 +2652,14 @@
       ],
       [["compliqué", "compliquée"], ["complicated"]],
       [
-        ["connaissance", "la connaissance"],
-        ["knowledge", "the knowledge"]
-      ],
-      [
         ["contenu", "le contenu"],
         ["content", "the content"]
-      ],
-      [["créer"], ["to create"]],
-      [["croire que"], ["to believe that"]],
-      [["de temps en temps"], ["from time to time"]],
-      [
-        ["dialogue", "le dialogue"],
-        ["dialogue", "the dialogue"]
-      ],
-      [
-        ["discussion", "la discussion"],
-        ["discussion", "the discussion"]
       ],
       [["discuter"], ["to discuss"]],
       [["divers"], ["varied"]],
       [["durable"], ["sustainable"]],
-      [
-        ["environnement", "l'environnement"],
-        ["environment", "the environment"]
-      ],
       [["faire de la publicité"], ["to advertise"]],
       [["haut"], ["high"]],
-      [["moderne"], ["modern"]],
       [
         ["Je ne mange rien"],
         ["I eat nothing", "I don't eat anything", "I do not eat anything"]
@@ -2958,30 +2668,10 @@
         ["Je ne vois personne"],
         ["I see nobody", "I don't see anybody", "I do not see anybody"]
       ],
-      [
-        ["nombre", "le nombre"],
-        ["number", "the number"]
-      ],
       [["numérique"], ["digital"]],
       [
         ["outil", "l'outil"],
         ["tool", "the tool"]
-      ],
-      [
-        ["personne", "la personne"],
-        ["person", "the person"]
-      ],
-      [
-        ["produit", "le produit"],
-        ["product", "the product"]
-      ],
-      [
-        ["profil", "le profil"],
-        ["profile", "the profile"]
-      ],
-      [
-        ["public", "le public"],
-        ["public", "the public"]
       ],
       [
         ["publicité", "la publicité"],
@@ -2991,19 +2681,11 @@
         ["puissant", "puissante"],
         ["powerful", "strong"]
       ],
-      [["quelle joie!"], ["what a joy!"]],
-      [["quelques"], ["some", "a few"]],
-      [["qui"], ["who"]],
       [["réagir"], ["to react"]],
       [["recevoir"], ["to receive"]],
       [["régulier"], ["regular"]],
       [["respecter"], ["to respect"]],
       [["savoir"], ["to know"]],
-      [
-        ["semaine", "la semaine"],
-        ["week", "the week"]
-      ],
-      [["suivre"], ["to follow"]],
       [["tchatter"], ["to chat"]],
       [
         ["vie", "la vie"],
@@ -3012,15 +2694,8 @@
     ],
     [
       "8.2G Ton portable, ta vie",
-      [["avant"], ["before"]],
-      [["clair", "claire"], ["clear"]],
-      [["complet", "complète"], ["complete"]],
       [["découvrir"], ["to discover"]],
       [["disponible"], ["available"]],
-      [
-        ["école", "l'école"],
-        ["school", "the school"]
-      ],
       [["en bonne santé"], ["in good health"]],
       [["expliquer"], ["to explain"]],
       [["faire la fête"], ["to party", "to celebrate"]],
@@ -3035,26 +2710,36 @@
         ["mode de vie", "la mode de vie"],
         ["way of life", "the way of life", "lifestyle", "the lifestyle"]
       ],
-      [["penser"], ["to think"]],
       [
         ["recherches", "les recherches"],
         ["research", "the research"]
       ],
       [["recycler"], ["to recycle"]],
       [
-        ["région", "la région"],
-        ["region", "the region"]
-      ],
-      [
-        ["sport", "le sport"],
-        ["sport", "the sport"]
-      ],
-      [
         ["tablette", "la tablette"],
         ["tablet", "the tablet", "computer tablet", "the computer tablet"]
       ],
       [["tchatter"], ["to chat"]],
-      [["tout", "toute", "tous", "toutes"], ["all"]]
+      [
+        ["un portable", "le portable"],
+        ["mobile phone", "the mobile phone"]
+      ],
+      [["un nouveau portable"], ["a new phone"]],
+      [
+        ["une appli", "l'appli"],
+        ["app", "the app"]
+      ],
+      [["un message"], ["message", "the message"]],
+      [
+        ["un texto", "le texto"],
+        ["text message", "the text message"]
+      ],
+      [["avant de dormir"], ["before sleeping", "before going to sleep"]],
+      [["télécharger"], ["to download"]],
+      [["utiliser"], ["to use"]],
+      [["c'est génial"], ["it's great", "it is great"]],
+      [["écouter de la musique"], ["to listen to music"]],
+      [["jouer à des jeux vidéo"], ["to play video games"]]
     ],
     [
       "8.2F J'utilise la technologie!",
@@ -3068,8 +2753,6 @@
         ["chanson", "la chanson"],
         ["song", "the song"]
       ],
-      [["complet", "complète"], ["complete"]],
-      [["cool"], ["cool"]],
       [
         ["dépendance", "la dépendance"],
         ["addiction", "the addiction"]
@@ -3078,13 +2761,10 @@
       [["enregistrer"], ["to record"]],
       [["envoyer"], ["to send"]],
       [["faire attention à"], ["to be careful of", "to pay attention to"]],
-      [["impossible"], ["impossible"]],
-      [["inaccessible"], ["inaccessible"]],
       [
         ["inactivité", "l'inactivité"],
         ["inactivity", "the inactivity"]
       ],
-      [["incomplet", "incomplète"], ["incomplete"]],
       [
         ["indépendance", "l'indépendance"],
         ["independence", "the independence"]
@@ -3100,70 +2780,38 @@
       [
         ["technologie", "la technologie"],
         ["technology", "the technology"]
-      ]
+      ],
+      [["mes parents disent que"], ["my parents say that"]],
+      [["passer du temps en ligne"], ["to spend time online"]],
+      [["répondre à des messages"], ["to reply to messages"]],
+      [["trop de temps"], ["too much time"]],
+      [["utiliser un portable"], ["to use a mobile phone"]],
+      [["ce n'est pas juste"], ["it's not fair"]],
+      [["il est accessible"], ["it is accessible"]],
+      [["aider avec les devoirs"], ["to help with homework"]]
     ],
     [
       "8.2H Attention aux dangers en ligne!",
-      [["à qui"], ["to whom"]],
       [
         ["achat", "l'achat"],
         ["purchase", "the purchase"]
       ],
-      [
-        ["adresse", "l'adresse"],
-        ["address", "the address"]
-      ],
-      [["âgé", "âgée"], ["elderly"]],
-      [
-        ["année dernière", "l'année dernière"],
-        ["last year", "the last year"]
-      ],
       [["attaquer"], ["to attack"]],
-      [["attentif", "attentive"], ["attentive"]],
-      [
-        ["attention", "l'attention"],
-        ["attention", "the attention"]
-      ],
-      [["aussi bien que"], ["as well as"]],
       [["bancaire"], ["banking"]],
-      [["connaître"], ["to know", "to be familiar with"]],
-      [
-        ["courant", "courante"],
-        ["ordinary", "habitual"]
-      ],
-      [["d'origine"], ["of origin"]],
       [
         ["détail personnel", "le détail personnel"],
         ["personal detail", "the personal detail", "information"]
       ],
-      [
-        ["document", "le document"],
-        ["document", "the document"]
-      ],
-      [["également"], ["equally", "as well", "too", "also"]],
-      [["en effet"], ["indeed"]],
       [["en toute sécurité"], ["safely"]],
-      [["ensuite"], ["next"]],
-      [["essayer de"], ["to try"]],
-      [["étrange"], ["strange"]],
-      [["être victime de"], ["to be victim of"]],
+      [["être victime de"], ["to be victim of", "to be a victim of"]],
       [["éviter"], ["to avoid"]],
-      [["exister"], ["to exist"]],
-      [
-        ["expert", "experte", "l'expert", "l'experte"],
-        ["expert", "the expert"]
-      ],
-      [["facilement"], ["easily"]],
       [["faciliter"], ["to make easier", "to facilitate"]],
       [["faire des recherches"], ["to do research"]],
-      [["fort", "forte"], ["strong"]],
       [
         ["fraude", "la fraude"],
         ["fraud", "the fraud"]
       ],
       [["il est essentiel de"], ["it is essential to"]],
-      [["il est facile de"], ["it is easy to"]],
-      [["il faut"], ["it is necessary to"]],
       [
         ["information personnelle", "l'information personnelle"],
         ["personal detail", "the personal detail", "information"]
@@ -3174,53 +2822,23 @@
         ["lien", "le lien"],
         ["link", "the link"]
       ],
-      [
-        ["main", "la main"],
-        ["hand", "the hand"]
-      ],
       [["malheureusement"], ["unfortunately"]],
       [
         ["mot de passe", "le mot de passe"],
         ["password", "the password"]
       ],
-      [["négatif", "négative"], ["negative"]],
-      [["nombreux", "nombreuses"], ["numerous"]],
-      [["notre", "nos"], ["our"]],
-      [["perdre"], ["to lose"]],
-      [
-        ["personne", "la personne"],
-        ["person", "the person"]
-      ],
-      [["personnel", "personnelle"], ["personal"]],
       [
         ["pirate informatique", "le pirate informatique"],
         ["hacker", "the hacker"]
       ],
-      [["positif", "positive"], ["positive"]],
       [
         ["possibilité", "la possibilité"],
         ["possibility", "the possibility"]
       ],
       [["se protéger"], ["to protect oneself"]],
-      [["quelque chose"], ["something"]],
       [["quotidien", "quotidienne"], ["daily"]],
       [["réaliser que"], ["to realise that"]],
-      [
-        ["réponse", "la réponse"],
-        ["answer", "the answer", "response", "the response"]
-      ],
-      [
-        ["risque", "le risque"],
-        ["risk", "the risk"]
-      ],
-      [["simplement"], ["simply"]],
-      [["sûr"], ["safe"]],
-      [["utiliser"], ["to use"]],
       [["vigilant"], ["careful"]],
-      [
-        ["virus", "le virus"],
-        ["virus", "the virus"]
-      ],
       [
         ["vol d'identité", "le vol d'identité"],
         ["identity theft", "the identity theft"]
@@ -3244,10 +2862,6 @@
       ],
       [["éviter", "éviter de"], ["to avoid"]],
       [["faire du recyclage"], ["to do recycling", "to recycle"]],
-      [
-        ["jambon", "le jambon"],
-        ["ham", "the ham"]
-      ],
       [["menacer"], ["to threaten"]],
       [
         ["niveau", "le niveau"],
@@ -3265,34 +2879,23 @@
         ["warming", "the warming"]
       ],
       [
-        ["transport", "le transport"],
-        ["transport", "the transport"]
-      ],
-      [
         ["trottinette", "la trottinette"],
         ["scooter", "the scooter"]
       ],
       [["végétarien", "végétarienne"], ["vegetarian"]],
-      [
-        ["vert", "verte"],
-        ["green", "eco-friendly"]
-      ]
+      [["protéger la planète"], ["to protect the planet"]],
+      [["produits locaux"], ["local products"]],
+      [["produits de saison"], ["seasonal products"]],
+      [["transports verts"], ["green transport"]],
+      [["prendre le bus"], ["to take the bus"]],
+      [["prendre le vélo"], ["to go by bike"]],
+      [["acheter des produits durables"], ["to buy sustainable products"]]
     ],
     [
       "9.1F Sauvons la planète!",
-      [["alors"], ["so", "well", "then"]],
       [
         ["arbre", "l'arbre"],
         ["tree", "the tree"]
-      ],
-      [["certain", "certaine", "certains", "certaines"], ["some"]],
-      [
-        ["choix", "le choix"],
-        ["choice", "the choice"]
-      ],
-      [
-        ["chose", "la chose"],
-        ["thing", "the thing"]
       ],
       [
         ["climat", "le climat"],
@@ -3301,62 +2904,31 @@
       [["couper"], ["to cut"]],
       [["créer"], ["to create"]],
       [
-        ["date", "la date"],
-        ["date", "the date"]
-      ],
-      [["devenir"], ["to become"]],
-      [["donner"], ["to give"]],
-      [
         ["douche", "la douche"],
         ["shower", "the shower"]
-      ],
-      [
-        ["droit", "le droit"],
-        ["right", "the right"]
       ],
       [
         ["énergie", "l'énergie"],
         ["energy", "the energy"]
       ],
       [["encourager"], ["to encourage"]],
-      [
-        ["expert", "experte", "l'expert", "l'experte"],
-        ["expert", "the expert"]
-      ],
       [["fabriquer"], ["to make"]],
       [["faire une différence"], ["to make a difference"]],
-      [
-        ["futur", "le futur"],
-        ["future", "the future"]
-      ],
       [
         ["génération", "la génération"],
         ["generation", "the generation"]
       ],
       [["inquiétant", "inquiétante"], ["worrying"]],
       [
-        ["journée", "la journée"],
-        ["day", "the day"]
-      ],
-      [["se laver"], ["to wash"]],
-      [["même si"], ["even if"]],
-      [
-        ["mode", "la mode"],
-        ["fashion", "the fashion"]
-      ],
-      [
         ["moyen de vivre", "le moyen de vivre"],
         ["way of living", "the way of living"]
       ],
       [["naturel", "naturelle"], ["natural"]],
-      [["novembre"], ["November"]],
       [
         ["oxygène", "l'oxygène"],
         ["oxygen", "the oxygen"]
       ],
-      [["par exemple"], ["for example"]],
       [["planter"], ["to plant"]],
-      [["premier", "première"], ["first"]],
       [
         ["produit ménager", "le produit ménager"],
         ["household product", "the household product"]
@@ -3369,12 +2941,7 @@
         ["ressource", "la ressource"],
         ["resource", "the resource"]
       ],
-      [
-        ["savon", "le savon"],
-        ["soap", "the soap"]
-      ],
       [["scientifique"], ["scientific"]],
-      [["selon"], ["according to"]],
       [
         ["soleil", "le soleil"],
         ["sun", "the sun"]
@@ -3387,7 +2954,6 @@
         ["Terre", "la Terre"],
         ["Earth", "the Earth"]
       ],
-      [["végan", "végane"], ["vegan"]],
       [
         ["véganisme", "le véganisme"],
         ["veganism", "the veganism"]
@@ -3403,43 +2969,27 @@
     ],
     [
       "9.1H L'environnement local",
-      [
-        ["air", "l'air"],
-        ["air", "the air"]
-      ],
       [["avoir le droit"], ["to have the right"]],
       [
         ["banlieue", "la banlieue"],
         ["suburbs", "the suburbs"]
       ],
-      [["cela"], ["it", "this", "that"]],
       [
         ["centre de recyclage", "le centre de recyclage"],
         ["recycling centre", "the recycling centre"]
       ],
       [["circuler"], ["to circulate"]],
-      [["commun"], ["common"]],
       [["construire"], ["to build"]],
       [
         ["déchet", "les déchets"],
         ["rubbish", "the rubbish"]
       ],
-      [["dommage!"], ["what a shame!"]],
       [
         ["durabilité", "la durabilité"],
         ["sustainability", "the sustainability"]
       ],
-      [
-        ["économie", "l'économie"],
-        ["economy", "the economy"]
-      ],
       [["encourager"], ["to encourage"]],
-      [
-        ["expliquer", "expliquer que"],
-        ["to explain", "to explain that"]
-      ],
       [["faire du recyclage"], ["to do recycling", "to recycle"]],
-      [["finir"], ["to finish"]],
       [
         ["gaz", "le gaz"],
         ["gas", "the gas"]
@@ -3448,20 +2998,7 @@
         ["gestion", "la gestion"],
         ["management", "the management"]
       ],
-      [["loin"], ["far"]],
-      [
-        ["manque", "le manque"],
-        ["lack of", "the lack of"]
-      ],
       [["ménager"], ["household"]],
-      [
-        ["métro", "le métro"],
-        ["underground", "the underground"]
-      ],
-      [
-        ["modèle", "le modèle"],
-        ["model", "the model"]
-      ],
       [
         ["Je n'ai ni frère ni sœur"],
         [
@@ -3474,10 +3011,6 @@
         ["I haven't finished yet", "I have not finished yet"]
       ],
       [["Je n'ai que deux euros"], ["I only have two euros"]],
-      [
-        ["papier", "le papier"],
-        ["paper", "the paper"]
-      ],
       [["permettre de"], ["to allow"]],
       [
         ["piste cyclable", "la piste cyclable"],
@@ -3486,13 +3019,7 @@
       [["polluer"], ["to pollute"]],
       [["principal", "principale"], ["main"]],
       [["produire"], ["to produce"]],
-      [
-        ["programme", "le programme"],
-        ["programme", "the programme"]
-      ],
-      [["récent", "récente"], ["recent"]],
       [["réussir à"], ["to succeed in"]],
-      [["recycler"], ["to recycle"]],
       [
         ["réseau", "le réseau"],
         ["network", "the network"]
@@ -3505,77 +3032,56 @@
         ["tonne", "la tonne"],
         ["ton", "the ton"]
       ],
-      [["transformer"], ["to transform"]],
       [["trier"], ["to sort"]]
     ],
     [
       "9.2G Une visite chez mon ami",
-      [
-        ["après-midi", "l'après-midi"],
-        ["afternoon", "the afternoon"]
-      ],
-      [["au", "aux"], ["to the"]],
-      [
-        ["barbecue", "le barbecue"],
-        ["barbecue", "the barbecue", "BBQ"]
-      ],
-      [["bon", "bonne"], ["good"]],
-      [
-        ["dimanche", "le dimanche"],
-        ["Sunday", "the Sunday"]
-      ],
-      [["discuter"], ["to discuss", "to talk"]],
-      [
-        ["espace", "l'espace"],
-        ["space", "the space"]
-      ],
       [["faire un gâteau"], ["to bake", "to make a cake"]],
-      [["fatigué", "fatiguée"], ["tired"]],
       [
         ["fleur", "la fleur"],
         ["flower", "the flower"]
       ],
       [
-        ["foot", "le foot"],
-        ["football", "the football"]
-      ],
-      [["il n'y a pas de"], ["there is no", "there are no"]],
-      [
         ["lit", "le lit"],
         ["bed", "the bed"]
       ],
-      [
-        ["mère", "la mère"],
-        ["mother", "the mother"]
-      ],
-      [["mettre"], ["to put on", "to put on"]],
-      [
-        ["midi", "le midi"],
-        ["midday", "the midday"]
-      ],
-      [
-        ["popcorn", "le popcorn"],
-        ["popcorn", "the popcorn"]
-      ],
-      [["préféré", "préférée"], ["favourite"]],
-      [["puis"], ["then"]],
       [["rentrer"], ["to go back", "to go home"]],
+      [["jusqu'à dimanche"], ["until Sunday"]],
       [
-        ["son", "sa", "ses"],
-        ["his", "her"]
+        ["salle de bains", "la salle de bains"],
+        ["bathroom", "the bathroom"]
       ],
       [
-        ["vendredi", "le vendredi"],
-        ["Friday", "the Friday"]
+        ["salle à manger", "la salle à manger"],
+        ["dining room", "the dining room"]
       ],
       [
-        ["week-end dernier", "le week-end dernier"],
-        ["last weekend", "the last weekend"]
-      ]
+        ["salon", "le salon"],
+        ["living room", "the living room"]
+      ],
+      [
+        ["chambre", "la chambre"],
+        ["bedroom", "the bedroom"]
+      ],
+      [["trop petit"], ["too small"]],
+      [["grand", "grande"], ["big"]],
+      [["ancien", "ancienne"], ["old"]],
+      [["il y a trop d'espace"], ["there is too much space"]],
+      [["il n'y avait pas d'arbres"], ["there weren't any trees"]],
+      [["regarder un film"], ["to watch a film"]],
+      [["préparer un repas"], ["to prepare a meal"]],
+      [["jouer au foot dans le jardin"], ["to play football in the garden"]],
+      [["mettre trop de chocolat"], ["to put in too much chocolate"]],
+      [["prendre un bain"], ["to have a bath"]],
+      [["il y a beaucoup de fleurs"], ["there are lots of flowers"]],
+      [["ma chambre est tranquille"], ["my bedroom is quiet"]],
+      [["je me suis amusé", "je me suis amusée"], ["I had fun"]],
+      [["préparer un gâteau ensemble"], ["to bake a cake together"]],
+      [["il y a un jardin"], ["there is a garden"]],
+      [["inviter des amis"], ["to invite friends"]]
     ],
     [
       "9.2F Un guide de ma ville",
-      [["août"], ["August"]],
       [["avoir faim"], ["to be hungry"]],
       [["avoir le temps"], ["to have time"]],
       [["beaucoup à faire"], ["a lot to do"]],
@@ -3585,16 +3091,11 @@
         ["citadel", "the citadel"]
       ],
       [["confortable"], ["comfortable"]],
-      [
-        ["couleur", "la couleur"],
-        ["colour", "the colour"]
-      ],
       [["délicieux", "délicieuse"], ["delicious"]],
       [
         ["Dordogne", "la Dordogne"],
         ["Dordogne", "the Dordogne"]
       ],
-      [["en été"], ["in summer"]],
       [["en général"], ["in general"]],
       [["environ"], ["about", "thereabouts"]],
       [
@@ -3605,7 +3106,6 @@
       [["faire les magasins"], ["to go shopping"]],
       [["idéal", "idéale"], ["ideal"]],
       [["joli", "jolie"], ["pretty"]],
-      [["juillet"], ["July"]],
       [["médiéval", "médiévale"], ["medieval"]],
       [["penser de"], ["to think of"]],
       [
@@ -3614,10 +3114,6 @@
       ],
       [["quatorzième"], ["fourteenth"]],
       [["recommander"], ["to recommend"]],
-      [
-        ["région", "la région"],
-        ["region", "the region"]
-      ],
       [["rien à faire"], ["nothing to do"]],
       [["seul", "seule"], ["the only"]],
       [
@@ -3633,24 +3129,15 @@
     [
       "9.2H Ma ville idéale",
       [["à la campagne"], ["in the countryside"]],
-      [["actuel", "actuelle"], ["current"]],
       [
         ["air frais", "l'air frais"],
         ["fresh air", "the fresh air"]
-      ],
-      [["apprécier de"], ["to appreciate to"]],
-      [
-        ["bruit", "le bruit"],
-        ["noise", "the noise"]
       ],
       [
         ["circulation", "la circulation"],
         ["traffic", "the traffic"]
       ],
-      [["dire"], ["to say", "to tell"]],
       [["donner sur"], ["to overlook", "to give onto"]],
-      [["en ville"], ["in town"]],
-      [["entendre"], ["to hear"]],
       [["être au soleil"], ["to be in the sun"]],
       [["faire du bruit"], ["to make noise"]],
       [
@@ -3668,33 +3155,24 @@
         ]
       ],
       [["la plupart du temps"], ["most of the time"]],
-      [["nager"], ["to swim", "to go swimming"]],
-      [
-        ["nuit", "la nuit"],
-        ["night", "the night"]
-      ],
-      [["pareil", "pareille"], ["same"]],
       [["pas loin de"], ["not far from"]],
-      [
-        ["penser", "penser que"],
-        ["to think", "to think that"]
-      ],
       [["peut-être"], ["maybe"]],
       [["plein de"], ["lots of", "full of"]],
-      [["plus tard"], ["later"]],
-      [["plutôt"], ["rather"]],
-      [["rapidement"], ["quickly"]],
       [["rester en forme"], ["to stay fit"]],
-      [["tout petit", "toute petite"], ["very small"]],
-      [["tranquille"], ["quiet"]],
       [
         ["tranquillité", "la tranquillité"],
         ["tranquillity", "the tranquillity"]
       ],
-      [
-        ["transport", "le transport"],
-        ["transport", "the transport"]
-      ]
+      [["j'habiterais"], ["I would live"]],
+      [["je préférerais quitter"], ["I would prefer to leave"]],
+      [["j'adorerais vivre"], ["I would love to live"]],
+      [["j'achèterais une maison"], ["I would buy a house"]],
+      [["il y a trop de circulation"], ["there is too much traffic"]],
+      [["c'est trop bruyant"], ["it's too noisy"]],
+      [["c'est ennuyeux"], ["it's boring"]],
+      [["je nagerais tous les jours"], ["I would swim every day"]],
+      [["pour me relaxer"], ["to relax"]],
+      [["un grand jardin"], ["a big garden"]]
     ]
   ]
 }
