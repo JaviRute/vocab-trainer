@@ -1,12 +1,17 @@
 import React from 'react'
 
-export default function SelectionRow({ theme, 
+export default function SelectionRow({  language,
+                                        setLanguage,
+                                        theme, 
                                         theme1S, 
                                         theme2S, 
                                         theme3S, 
                                         year7S,
                                         year8S,
-                                        year9S,
+                                        year9S, 
+                                        year7F, 
+                                        year8F, 
+                                        year9F,
                                         theme1F, 
                                         theme2F, 
                                         theme3F, 
@@ -25,32 +30,61 @@ export default function SelectionRow({ theme,
     <div className='selection-row'>
 
         <div className='theme-list'>
-            {!theme && <>
-                {ks3Ks4 ? (<h2>Choose Theme</h2>) : (<h2>Choose Course</h2>)}
-                {ks3Ks4 &&<>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme1S)}>Spanish Theme 1</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme2S)}>Spanish Theme 2</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme3S)}>Spanish Theme 3</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme1F)}>French Theme 1</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme2F)}>French Theme 2</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(theme3F)}>French Theme 3</p>
-                </>}
-                {!ks3Ks4 &&<>
-                  <p className="theme-choice" onClick={() => chooseTheme(year7S)}>Year 7: Viva 1</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(year8S)}>Year 8: Viva 2</p>
-                  <p className="theme-choice" onClick={() => chooseTheme(year9S)}>Year 9: Viva 3 Rojo</p>
+              {!language && 
+                <div>
+                  <h2>Choose Language</h2>
+                  <p className="theme-choice" onClick={() => setLanguage("French")}>French</p>
+                  <p className="theme-choice" onClick={() => setLanguage("Spanish")}>Spanish</p>
+                </div>
+              
+              }
+                {language && !theme && <>
+                    {ks3Ks4 ? (<h2>Choose Theme</h2>) : (<h2>Choose Course</h2>)}
+                    {ks3Ks4 &&<>
+                        {language === "Spanish" && <>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme1S)}>Spanish Theme 1</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme2S)}>Spanish Theme 2</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme3S)}>Spanish Theme 3</p>
+                        </>}
+                        {language === "French" && <>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme1F)}>French Theme 1</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme2F)}>French Theme 2</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(theme3F)}>French Theme 3</p>
+                          </>}
+                    </>}
+                    {!ks3Ks4 &&<>
+
+                        {language === "Spanish" && <>
+                          <p className="theme-choice" onClick={() => chooseTheme(year7S)}>Year 7: Viva 1</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(year8S)}>Year 8: Viva 2</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(year9S)}>Year 9: Viva 3 Rojo</p>
+                        </>}
+                        
+                        {language === "French" && <>
+                          <p className="theme-choice" onClick={() => chooseTheme(year7F)}>Year 7: Dynamo 1</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(year8F)}>Year 8: Dynamo 2</p>
+                          <p className="theme-choice" onClick={() => chooseTheme(year9F)}>Year 9: Dynamo 3</p>
+                        </>}
+                    </>}
                 </>}
 
-            </>}
-            {theme && <>
-                { ks3Ks4 ? (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Theme</h2>) :
-                 (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Course</h2>)}
-                {theme === theme1S && <p>Theme 1</p>}
-                {theme === theme2S && <p>Theme 2</p>}
-                {theme === theme3S && <p>Theme 3</p>}
+            {language && theme && <>
+                { ks3Ks4 ? 
+                  (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Theme</h2>) :
+                  (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Course</h2>)
+                  }
+                {theme === theme1S && <p>Kerboodle Theme 1</p>}
+                {theme === theme2S && <p>Kerboodle Theme 2</p>}
+                {theme === theme3S && <p>Kerboodle Theme 3</p>}
+                {theme === theme1F && <p>Kerboodle Theme 1</p>}
+                {theme === theme2F && <p>Kerboodle Theme 2</p>}
+                {theme === theme3F && <p>Kerboodle Theme 3</p>}
                 {theme === year7S && <p>Year 7: Viva 1</p>}
                 {theme === year8S && <p>Year 8: Viva 2</p>}
                 {theme === year9S && <p>Year 9: Viva 3 Rojo</p>}
+                {theme === year7F && <p>Year 7: Dynamo 1</p>}
+                {theme === year8F && <p>Year 8: Dynamo 2</p>}
+                {theme === year9F && <p>Year 9: Dynamo 3</p>}
             </>}
           </div>
 

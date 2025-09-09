@@ -30,6 +30,7 @@ import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
 import ks3SpanishData from './data/ks3-spanish-vocab.json'
 import kerboodleFrenchData from './data/kerboodle-french-vocab.json'
+import ks3FrenchData from './data/ks3-french-vocab.json'
 
 
 //Sound files
@@ -47,12 +48,15 @@ function App() {
   const inputRef = useRef(null);
 
   //We take the data and split it by themes
-  const theme1S = kerboodleSpanishData["Theme 1"];
-  const theme2S = kerboodleSpanishData["Theme 2"];
-  const theme3S = kerboodleSpanishData["Theme 3"];
   const year7S = ks3SpanishData["Year 7: Viva 1"];
   const year8S = ks3SpanishData["Year 8: Viva 2"];
   const year9S = ks3SpanishData["Year 9: Viva 3 Rojo"];
+  const year7F = ks3FrenchData["Year 7: Dynamo 1"];
+  const year8F = ks3FrenchData["Year 8: Dynamo 2"];
+  const year9F = ks3FrenchData["Year 9: Dynamo 3"];
+  const theme1S = kerboodleSpanishData["Theme 1"];
+  const theme2S = kerboodleSpanishData["Theme 2"];
+  const theme3S = kerboodleSpanishData["Theme 3"];
   const theme1F = kerboodleFrenchData["Theme 1"];
   const theme2F = kerboodleFrenchData["Theme 2"];
   const theme3F = kerboodleFrenchData["Theme 3"];
@@ -93,6 +97,7 @@ function App() {
   const [rightAnswer, setRightAnswer] = useState(false);
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
+  const [language, setLanguage] = useState("");
   const [theme, setTheme] = useState("");
   const [lesson, setLesson] = useState("");
 
@@ -145,7 +150,7 @@ function App() {
       }
       else if (userResponse === "Print vocab list") {
         for (let i = 0; i < remainingExpressions.length; i++) {
-          console.log(`${i + 1}. ${remainingExpressions[i]}`);
+          console.log(`${i + 1}. ${remainingExpressions[i][0]} → ${remainingExpressions[i][1]}`);
        } 
       } else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
@@ -340,6 +345,21 @@ function App() {
     }   
   }
 
+  // Function to change between French and Spanish language when clicking on the H1
+  const toggleLanguage = () => {
+    setLanguage(prev => {
+      if (prev === "Spanish") return "French";
+      if (prev === "French") return "Spanish";
+      return prev;
+    });
+    setLabelsOn(false);
+    setInputOn(false);
+    setGameIsOn(false);
+    setGameOver(true);
+    setTheme("");
+    setLesson("");
+  }
+
   // UseEffect to call handlePlay() when lesson changes
   // This is necessary because the state does not update immediately after choosing the lesson
   useEffect(() => {
@@ -378,9 +398,11 @@ function App() {
   return (
     <div className="App">
       <div className='framework'>
-        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode} ks3Ks4={ks3Ks4} setKs3Ks4={setKs3Ks4}/>
+        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode} ks3Ks4={ks3Ks4} setKs3Ks4={setKs3Ks4} language={language} toggleLanguage={toggleLanguage}/>
 
         <SelectionRow 
+          language={language}
+          setLanguage={setLanguage}
           theme={theme} 
           lesson={lesson} 
           theme1S={theme1S}
@@ -389,6 +411,9 @@ function App() {
           year7S={year7S}
           year8S={year8S}
           year9S={year9S}
+          year7F={year7F}
+          year8F={year8F}
+          year9F={year9F}
           theme1F={theme1F}
           theme2F={theme2F}
           theme3F={theme3F}
@@ -477,10 +502,11 @@ function App() {
             SetSeconds={SetSeconds}
 
             />
-            {/* I am commenting Special characters until I make a mode to answer expressions in Spanish */}
+
           {!spToEngMode && !teacherMode && <SpecialCharactersSp 
             handleSpecialCharacter={handleSpecialCharacter}
             setUserResponse={setUserResponse}
+            language={language}
             />}
         </>}
 

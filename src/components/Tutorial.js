@@ -7,13 +7,15 @@ export default function Tutorial(props) {
       <div className='modal'>
         <h3>Welcome to the GCSE Spanish Vocab Trainer!</h3>
 
-        <h4>Spanish to English OR English to Spanish</h4>
-        <p>You can choose in which way to translate.</p>
+        <h4>Initial selections</h4>
+        <p>Choose your language, either French or Spanish.</p>
+        <p>Choose betweem KS3 or KS (set by default to KS4).</p>
+        <p>You can also choose in which way to translate, from target language to English or viceversa.</p>
 
         <h4>Choose Theme and Lesson</h4>
         <p>Select the set of expressions you want to practise. You'll have 3 attempts to solve each!</p>
         <p>Type your answer and click on "Check".</p> 
-        <p>Click on "Play" to see the next expression to translate.</p>
+        <p>Click on "Next" to see the next expression to translate.</p>
 
         <h4>Hints</h4>
         <p>Stuck? Click <strong>Hint</strong> to reveal the first letter of each word from the expression, plus the number of letters it contains.</p>

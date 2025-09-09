@@ -1,14 +1,22 @@
 import React from 'react';
 import SpanishFlag from '../assets/spanish-flag.svg';
+import FrenchFlag from '../assets/french-flag.svg';
 import BritishFlag from '../assets/british-flag.svg';
 import Arrow from '../assets/arrow.svg';
 
-export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4}) {
+export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4, language, toggleLanguage}) {
+
+
+
   return (
     <div >
       <div className='top-row'>
         <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
-        <h1 className="title">MFL vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}</h1>
+        <h1 
+          className="title restart-selection" 
+          onClick={toggleLanguage}>
+          {language || "MFL"} vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}
+          </h1>
         <button 
             className='top-button'
             onClick={toggleTeacherMode}>
@@ -16,7 +24,7 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
         </button>
       </div>
 
-      <div className='options-container'>
+      {language && <div className='options-container'>
             <div className='ks-container' onClick={() => {
                             setKs3Ks4(prevVal => !prevVal);
                             restartThemeSelection()}
@@ -33,7 +41,11 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
                     }>
                     {spToEngMode ? (
                       <>
-                        <img src={SpanishFlag} alt="Spanish" className='flag' />
+                        <img 
+                          src={language === "French" ? FrenchFlag : SpanishFlag} 
+                          alt={language === "French" ? "French" : "Spanish"} 
+                          className="flag" 
+                        />
                         <img src={Arrow} alt="to" className='arrow' />
                         <img src={BritishFlag} alt="English" className='flag' />
                       </>
@@ -41,11 +53,15 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
                       <>
                         <img src={BritishFlag} alt="English" className='flag' />
                         <img src={Arrow} alt="to" className='arrow' />
-                        <img src={SpanishFlag} alt="Spanish" className='flag' />
+                        <img 
+                            src={language === "French" ? FrenchFlag : SpanishFlag} 
+                            alt={language === "French" ? "French" : "Spanish"} 
+                            className="flag" 
+                          />
                       </>
                     )}
                   </div>
-      </div>
+      </div>}
       
 
     </div>
