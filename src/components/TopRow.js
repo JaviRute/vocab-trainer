@@ -11,17 +11,26 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
   return (
     <div >
       <div className='top-row'>
-        <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
-        <h1 
-          className="title restart-selection" 
-          onClick={toggleLanguage}>
-          {language || "MFL"} vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}
+
+        <div className='title-container'>
+          <h1 
+            className="title restart-selection" 
+            onClick={toggleLanguage}>
+            {language || "MFL"} vocab trainer: {teacherMode ? "Teacher Mode" : "Student Mode"}
           </h1>
-        <button 
-            className='top-button'
-            onClick={toggleTeacherMode}>
-            <span className="material-symbols-outlined">person_raised_hand</span>
-        </button>
+        </div>
+
+
+        <div className='top-button-selection'>
+            <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
+            <button className='top-button'><span class="material-symbols-outlined">account_circle</span></button>
+            <button 
+                className='top-button'
+                onClick={toggleTeacherMode}>
+                <span className="material-symbols-outlined">person_raised_hand</span>
+            </button>
+        </div>
+
       </div>
 
       {language && <div className='options-container'>

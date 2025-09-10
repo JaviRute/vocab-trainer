@@ -58,16 +58,29 @@ img {
 
  /*------------TOP-ROW----------------------------*/
 
+  .top-row {
+    margin-top: 0.5rem;
+    padding: 0 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+ .title-container {
+  display: flex;
+  justify-content: flex-start;
+  
+ }
  .title {
   font-size: 1.8rem;
  }
 
- .top-row {
-  margin-top: 0.5rem;
+ .top-button-selection {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: flex-end;
+  gap: 0;
  }
 
 .options-container {
@@ -388,7 +401,7 @@ img {
 .top-button {
   width: 40px;
   height: 40px;
-  margin: 1vw;
+  margin: 0.3vw;
   border-radius: 33%;
 }
 

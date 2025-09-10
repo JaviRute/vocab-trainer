@@ -79,7 +79,7 @@ function App() {
   const [remainingExpressions, setRemainingExpressions] = useState([]);
   const [spToEngMode, setSpToEngMode] = useState(true);
   // Leave it as true for having KS4 vocab by default. False for using KS3 vocab
-  const [ks3Ks4, setKs3Ks4] = useState(true);
+  const [ks3Ks4, setKs3Ks4] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
 
   // sets whether the labels and input appear or not
@@ -97,9 +97,14 @@ function App() {
   const [rightAnswer, setRightAnswer] = useState(false);
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
-  const [language, setLanguage] = useState("");
+  const [language, setLanguage] = useState("French");
   const [theme, setTheme] = useState("");
   const [lesson, setLesson] = useState("");
+
+  // User information
+  const [userName, setUserName] = useState("");
+  const [classCode, setClassCode] = useState("");
+  const [schoolName, setSchoolName] = useState("");
 
 
   // Sound-----------Sound---------------Sound----------------Sound---------------Sound--------------Sound---------
