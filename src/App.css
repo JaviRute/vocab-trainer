@@ -157,6 +157,42 @@ img {
   background-color: #ff0b55;
 }
 
+/*----------------TOOLTIP-----------------------------*/
+
+.top-button, .ks-container, .flag-container {
+  position: relative;
+  /* anchor for the tooltip */
+}
+
+
+
+.top-button .tooltiptext, .ks-container .tooltiptext, .flag-container .tooltiptext{
+  visibility: hidden;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  white-space: nowrap;
+
+  /* position above the button */
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+  z-index: 999;
+}
+
+.top-button:hover .tooltiptext, .ks-container:hover .tooltiptext,  .flag-container:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
  /*---------------- SELECTION ROW-----------------------*/
 
  .selection-row {
@@ -587,6 +623,39 @@ img {
   font-style: normal;
   text-decoration: underline;
 }
+
+/*----------------FOOTER-----------------------*/
+
+.footer-message {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: #191b1b;
+  /* same as your app or slightly darker */
+  color: #fff;
+  padding: 8px;
+  font-size: 14px;
+  z-index: 900;
+}
+
+.footer-message a {
+  color: #6039cc;
+  /* matches your app vibe */
+  text-decoration: none;
+  margin: 0 6px;
+}
+
+.footer-message a:hover {
+  text-decoration: underline;
+}
+
+.footer-separator {
+  color: #6039cc;
+}
+
+
 
 /* ---------------------- Responsiveness ---------------------*/
 

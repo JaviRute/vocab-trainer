@@ -184,7 +184,6 @@ function App() {
             // in Spanish and English. Sometimes it was too much text
             //setUserResponse(`${targetExpression[1][0]} = ${targetExpression[0][0]}`);
             //Remove answered expression
-            //Remove answered expression
             setRemainingExpressions(prevVal => prevVal.filter(expr => expr !== targetExpression));
             setQuestionAlreadyAnswered(true);            
           } else if (userTries === 1 && targetExpression[0][0] !== userResponse) {
@@ -559,6 +558,24 @@ function App() {
         {showUserInfo &&
           <UserInfo handleUserInfo={handleUserInfo} userName={userName} setUserName={setUserName} classCode={classCode} setClassCode={setClassCode} schoolName={schoolName} setSchoolName={setSchoolName} showUserInfo={showUserInfo} setShowUserInfo={setShowUserInfo}/>
         }
+
+        <div className="footer-message">
+          <a
+            href="https://www.tes.com/en-ca/member/JaviRodriguez"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            My teaching resources
+          </a>
+          <span className="footer-separator"> · </span>
+          <a
+            href="https://verbstrainer.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Try my Spanish & French Verbs Trainer
+          </a>
+        </div>
 
     </div>
   );

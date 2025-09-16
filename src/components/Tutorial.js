@@ -9,7 +9,7 @@ export default function Tutorial(props) {
 
         <h4>Initial selections</h4>
         <p>Choose your language, either French or Spanish.</p>
-        <p>Choose betweem KS3 or KS (set by default to KS4).</p>
+        <p>Choose betweem KS3 or KS4 (set by default to KS4).</p>
         <p>You can also choose in which way to translate, from target language to English or viceversa.</p>
 
         <h4>Choose Theme and Lesson</h4>
@@ -23,10 +23,14 @@ export default function Tutorial(props) {
 
         <h4>Student Mode VS Teacher Mode</h4>
         <p>Use the button in the top-right corner to switch between modes:</p>
+
         <div className='li-container'>
           <li><strong>Teacher Mode</strong>: Set a countdown timer so students can write their answers on mini-whiteboards. Reveal the correct translation afterwards by clicking on <strong>Show Answer</strong>—no typing needed.</li> 
           <li><strong>Student Mode</strong>: For independent practice. Students type their answers and check them directly.</li>
         </div>
+
+        <h4>Enter your data (optional)</h4>
+        <p>Did your teacher ask you to complete this as homework? Enter your data, complete the assignment and at the end you will see a message displaying your progress today. Take a snapshot of this message and send it to your teacher!</p>
 
 
       </div>

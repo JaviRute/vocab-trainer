@@ -22,12 +22,19 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
 
 
         <div className='top-button-selection'>
-            <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
-            <button className='top-button' onClick={handleUserInfo}><span class="material-symbols-outlined">account_circle</span></button>
+            <button className='top-button' onClick={handleTutorial}>
+              <span className="material-symbols-outlined">help</span>
+              <span className="tooltiptext">Instructions</span>
+            </button>
+            <button className='top-button' onClick={handleUserInfo}>
+              <span class="material-symbols-outlined">account_circle</span>
+              <span className="tooltiptext">Enter your data</span>
+            </button>
             <button 
                 className='top-button'
                 onClick={toggleTeacherMode}>
                 <span className="material-symbols-outlined">person_raised_hand</span>
+                <span className="tooltiptext">Toggle between Student and Teacher modes</span>
             </button>
         </div>
 
@@ -41,6 +48,7 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
                           <h3 className={ks3Ks4 ? 'ks-hidden' : ''} >KS3</h3>
                           <h3 className='ks-hidden'>/</h3>
                           <h3 className={ks3Ks4 ? '' : 'ks-hidden'} >KS4</h3>
+                          <span className="tooltiptext">Toggle between KS3 and KS4 courses</span>
                   </div>
 
 
@@ -57,6 +65,7 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
                         />
                         <img src={Arrow} alt="to" className='arrow' />
                         <img src={BritishFlag} alt="English" className='flag' />
+                        <span className="tooltiptext">Translate from {language} to English or from English into {language}</span>
                       </>
                     ) : (
                       <>
@@ -65,8 +74,8 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
                         <img 
                             src={language === "French" ? FrenchFlag : SpanishFlag} 
                             alt={language === "French" ? "French" : "Spanish"} 
-                            className="flag" 
-                          />
+                            className="flag"/>
+                        <span className="tooltiptext">Translate from {language} to English or from English into {language}</span>
                       </>
                     )}
                   </div>
