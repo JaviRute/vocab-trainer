@@ -3,8 +3,7 @@
     [
       "1.1 ¿Cómo te llamas?",
       [["Hola"], ["Hello", "Hi"]],
-      [["¿Qué tal?"], ["How are you?"]],
-      [["¿Cómo estás?"], ["How are you?"]],
+      [["¿Qué tal?", "¿Cómo estás?"], ["How are you?"]],
       [["gracias"], ["thanks", "thank you"]],
       [["bien"], ["fine", "good"]],
       [["fenomenal"], ["great"]],
@@ -23,19 +22,7 @@
       [["Hasta luego"], ["See you later"]],
       [["Adiós"], ["Goodbye", "Bye"]],
       [["un chico"], ["a boy"]],
-      [["una chica"], ["a girl"]],
-      [["el tigre"], ["the tiger"]],
-      [["los camellos"], ["the camels"]],
-      [["la cebra"], ["the zebra"]],
-      [["las vacas"], ["the cows"]],
-      [["El perro se llama Toby"], ["The dog is called Toby"]],
-      [
-        ["¡Hola! ¿Cómo te llamas?"],
-        ["Hello! What's your name?", "Hello! What is your name?"]
-      ],
-      [["Buenos días"], ["Good morning"]],
-      [["Buenas tardes"], ["Good afternoon", "Good evening"]],
-      [["Buenas noches"], ["Good night", "Goodnight"]]
+      [["una chica"], ["a girl"]]
     ],
     [
       "1.2 Mi tiempo libre",
@@ -885,59 +872,43 @@
       "1.1 De vacaciones",
       [
         ["¿Adónde fuiste de vacaciones?"],
-        [
-          "Where did you go on holiday?",
-          "Where did you go on holidays?",
-          "Where did you go on vacation?"
-        ]
+        ["Where did you go on holiday?", "Where did you go on vacation?"]
       ],
-      [
-        ["El año pasado fui a Escocia en autocar"],
-        ["Last year I went to Scotland by coach"]
-      ],
-      [
-        [
-          "El verano pasado fui a España solo",
-          "El verano pasado fui a España sola"
-        ],
-        [
-          "Last summer I went to Spain on my own",
-          "Last summer I went to Spain alone"
-        ]
-      ],
-      [["El año pasado fuimos a Francia"], ["Last year we went to France"]],
-      [["El verano pasado fuimos a Grecia"], ["Last summer we went to Greece"]],
-      [["Fuimos en coche a Gales"], ["We went by car to Wales"]],
+      [["el año pasado"], ["last year"]],
+      [["el verano pasado"], ["last summer"]],
+      [["Fui a Escocia"], ["I went to Scotland"]],
+      [["Escocia"], ["Scotland"]],
+      [["España"], ["Spain"]],
+      [["Francia"], ["France"]],
+      [["Gales"], ["Wales"]],
+      [["Grecia"], ["Greece"]],
       [["Inglaterra"], ["England"]],
       [["Irlanda"], ["Ireland"]],
+      [["Italia"], ["Italy"]],
       [["¿Con quién fuiste?"], ["Who did you go with?"]],
       [["Fui con mi clase"], ["I went with my class"]],
-      [["¿Cómo fuiste?"], ["How did you get there?", "How did you go?"]],
-      [
-        ["Fui en avión y en tren"],
-        ["I went by plane and train", "I went by plane and by train"]
-      ],
-      [
-        ["Fui con mi familia a Italia en barco"],
-        [
-          "I went with my family to Italy by boat",
-          "I went with my family to Italy by ferry"
-        ]
-      ],
+      [["¿Cómo fuiste?"], ["How did you get there?"]],
+      [["Fui en avión"], ["I went by plane"]],
+      [["Fuimos en coche"], ["We went by car"]],
+      [["autocar"], ["coach"]],
+      [["avión"], ["plane"]],
+      [["barco"], ["boat", "ferry"]],
+      [["tren"], ["train"]],
       [
         ["No fui de vacaciones"],
         [
           "I didn't go on holiday",
           "I did not go on holiday",
-          "I didn't go on holidays",
-          "I did not go on holidays",
           "I didn't go on vacation",
           "I did not go on vacation"
         ]
       ],
-      [["¡Qué bien!"], ["How great!", "How good!"]],
+      [["¡Qué bien!"], ["Great!", "How great!", "That's great!"]],
       [["¡Qué bonito!"], ["How nice!", "How pretty!", "How beautiful!"]],
-      [["¡Qué divertido!"], ["How fun!", "How amusing!", "How funny!"]],
+      [
+        ["¡Qué divertido!"],
+        ["How fun!", "That was fun!", "What fun!", "How funny!"]
+      ],
       [["¡Qué guay!"], ["How cool!", "Cool!"]],
       [["¡Qué rico!"], ["How tasty!", "How delicious!"]],
       [["¡Qué suerte!"], ["How lucky!", "What luck!"]],

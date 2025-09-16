@@ -1929,39 +1929,107 @@
       "9.1F Mi pueblo y mi ciudad",
       [["al lado de"], ["next to", "at the side of", "beside"]],
       [
-        ["baño", "cuarto de baño"],
+        ["cuarto de baño", "baño"],
         ["bathroom", "toilet"]
       ],
-      [["bosque"], ["wood", "forest"]],
-      [["campo"], ["field", "couontry", "countryside"]],
-      [["centro comercial"], ["shopping centre", "mall"]],
-      [["cielo"], ["sky", "heaven"]],
+      [
+        ["El bosque está al oeste del castillo"],
+        [
+          "The forest is to the West of the castle",
+          "The forest is West of the castle",
+          "The wood is to the West of the castle",
+          "The wood is West of the castle",
+          "The woods are to the West of the castle",
+          "The woods are West of the castle"
+        ]
+      ],
+      [
+        ["al norte del campo"],
+        [
+          "To the North of the field",
+          "To the North of the country",
+          "To the North of the countryside",
+          "North of the field",
+          "North of the country",
+          "North of the countryside"
+        ]
+      ],
       [["clima"], ["climate", "weather"]],
-      [["delante de"], ["in front of"]],
-      [["detrás de"], ["behind"]],
       [["encima de"], ["on top of", "above"]],
       [["estación"], ["station", "season"]],
-      [["fábrica"], ["factory"]],
+      [["¿Dónde está la fábrica?"], ["Where is the factory?"]],
       [["faltar"], ["to be lacking", "to be short of", "to lack", "to miss"]],
       [["veinte grados"], ["twenty degrees", "20 degrees"]],
-      [["imposible"], ["impossible"]],
-      [["lejos de"], ["far from"]],
-      [["llegar"], ["to arrive", "to get to"]],
-      [["mezquita"], ["mosque"]],
-      [["nieve"], ["snow"]],
+      [["Siempre tenemos cielos grises"], ["We always have grey skies"]],
       [
-        ["parque de atracciones", "parque temático"],
-        ["theme park", "amusement park"]
+        ["Llueve todo el tiempo"],
+        ["It rains all of the time", "It rains all the time"]
       ],
-
       [
-        ["plaza de toros"],
-        ["bull ring", "bullring", "bullfighting arena", "bullfighting ring"]
+        ["La mezquita está cerca del centro comercial"],
+        [
+          "The mosque is near the shopping centre",
+          "The mosque is close to the shopping centre"
+        ]
       ],
-      [["plaza mayor"], ["main square", "town square"]],
-      [["puente"], ["bridge"]],
-      [["puerto"], ["port", "harbour", "harbor"]],
-      [["servicios"], ["toilets", "services"]]
+      [
+        [
+          "El parque de atracciones está lejos de la ciudad",
+          "El parque temático está lejos de la ciudad"
+        ],
+        [
+          "The theme park is far from the city",
+          "The amusement park is far from the city"
+        ]
+      ],
+      [
+        ["delante de la plaza mayor"],
+        ["in front of the main square", "in front of the town square"]
+      ],
+      [
+        ["El coche está debajo del puente"],
+        ["The car is underneath the bridge", "The car is under the bridge"]
+      ],
+      [
+        ["La plaza de toros está detrás del puerto"],
+        [
+          "The bullring is behind the port",
+          "The bullring is behind the  harbour",
+          "The bullring is behind the harbor",
+          "The bull ring is behind the port",
+          "The bull ring is behind the  harbour",
+          "The bull ring is behind the harbor"
+        ]
+      ],
+      [["servicios"], ["toilets", "services"]],
+      [["Está nevando"], ["It's snowing", "It is snowing"]],
+      [["Hace frío"], ["It's cold", "It is cold"]],
+      [["Aquí llueve a menudo"], ["Here it rains often"]],
+      [
+        ["Hace fresco"],
+        ["It's cool", "It is cool", "It's chilly", "It is chilly"]
+      ],
+      [
+        ["En mi pueblo hace mal tiempo"],
+        [
+          "In my town there's bad weather",
+          "In my town there's bad weather",
+          "The weather is bad in my town",
+          "The weather's bad in my town",
+          "In my town the weather is bad",
+          "In my town the weather's bad"
+        ]
+      ],
+      [["Hace sol"], ["It's sunny", "It is sunny"]],
+      [
+        ["¿Qué tiempo hace?"],
+        [
+          "What's the weather like?",
+          "What is the weather like?",
+          "What's the weather?",
+          "What is the weather?"
+        ]
+      ]
     ],
     [
       "9.1H Lo bueno y lo malo de mi región",
