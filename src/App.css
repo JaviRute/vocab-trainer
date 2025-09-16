@@ -56,6 +56,7 @@ img {
    padding: 0;
  }
 
+
  /*------------TOP-ROW----------------------------*/
 
   .top-row {
@@ -472,8 +473,120 @@ img {
 }
 
 
+/*--------CELEBRATION MODAL-----------------*/
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1500;
+  /* below confetti, above app */
+}
+
+.user-modal {
+  background: #fff;
+  color: #000;
+  backdrop-filter: blur(10px);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .12);
+  width: 33%;
+  max-width: 500px;
+  z-index: 1600;
+  width: 33%;
+  position: relative;
+  padding: 2rem;
+  border-radius: 12px;
+  background: linear-gradient(270deg, #7c2641, #D91656, #5758B4, #ED4542, #EB5B00, #FFB200);
+  background-size: 800% 800%;
+  animation: backgroundFlow 12s ease infinite;
+}
+
+@keyframes backgroundFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.user-modal p {
+  margin: 0.5rem;
+}
+
+.field-row {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  margin-bottom: 0.8rem;
+}
+
+.field-label {
+  width: 120px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.user-info {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1.5px solid #e5e7eb;
+  border-radius: 12px;
+  outline: 0;
+  transition: box-shadow .2s, border-color .2s;
+}
+
+.user-info:focus {
+  border-color: #811336;
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, .15);
+}
 
 
+.field-row {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+}
+
+.field-inputs {
+    flex: 1;
+      min-width: 0;
+      display: flex;
+}
+
+.field-hint {
+  position: absolute;
+  left: 12px;
+  top: 100%;
+  margin-top: 6px;
+  font-size: .85rem;
+  opacity: .7;
+}
+
+.privacy-note {
+  margin-top: 8px;
+  text-align: center;
+  font-size: .95rem;
+  line-height: 1.35;
+  color: #374151;
+}
+
+.privacy-note strong {
+  font-weight: 700;
+}
+
+.privacy-note em {
+  font-style: normal;
+  text-decoration: underline;
+}
 
 /* ---------------------- Responsiveness ---------------------*/
 
@@ -495,6 +608,15 @@ img {
     max-width: 95vw;
   }
 
+  .top-button {
+    margin: 0.2vw;
+    width: 36px;
+    height: 36px;
+    min-width: unset;
+    min-height: unset;
+  }
+
+
   h1 {
     font-size: 1.5rem;
   }
@@ -511,6 +633,28 @@ img {
   .seconds-button {
     width: 22%;
     font-size: 16px;
+  }
+
+  .user-modal {
+    width: 66%;
+  }
+
+  .field-row {
+    flex-direction: column;
+    /* label on top, input below */
+    align-items: stretch;
+    gap: .5rem;
+  }
+
+  .field-label {
+    width: 100%;
+    /* remove fixed 120px */
+    margin: 0;
+    text-align: left;
+  }
+
+  .field-inputs {
+    width: 100%;
   }
 
 }
@@ -592,6 +736,10 @@ img {
     margin: auto 0;
     height: 1.5rem;
     color: red
+  }
+
+  .user-modal {
+    width: 85%;
   }
 
 }

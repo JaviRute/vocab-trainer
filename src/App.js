@@ -25,6 +25,8 @@ import Hint from './components/Hint';
 import SelectionRow from './components/SelectionRow';
 import Tutorial from './components/Tutorial';
 import ConfettiCelebration from "./components/Confetti";
+import ConfettiModal from './components/ConfettiModal';
+import UserInfo from './components/UserInfo'
 
 import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
@@ -78,6 +80,10 @@ function App() {
   const [expressionsAnswered, setExpressionsAnswered] = useState(0);
   const [remainingExpressions, setRemainingExpressions] = useState([]);
   const [spToEngMode, setSpToEngMode] = useState(true);
+
+  //Confetti
+  const [completedAt, setCompletedAt] = useState(null);
+  const [shouldCelebrate, setShouldCelebrate] = useState(false);
   // Leave it as true for having KS4 vocab by default. False for using KS3 vocab
   const [ks3Ks4, setKs3Ks4] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
@@ -97,7 +103,7 @@ function App() {
   const [rightAnswer, setRightAnswer] = useState(false);
   const [wrongAnswer, setWrongAnswer] = useState(false);
 
-  const [language, setLanguage] = useState("French");
+  const [language, setLanguage] = useState("");
   const [theme, setTheme] = useState("");
   const [lesson, setLesson] = useState("");
 
@@ -105,6 +111,7 @@ function App() {
   const [userName, setUserName] = useState("");
   const [classCode, setClassCode] = useState("");
   const [schoolName, setSchoolName] = useState("");
+  const [showUserInfo, setShowUserInfo] = useState(false);
 
 
   // Sound-----------Sound---------------Sound----------------Sound---------------Sound--------------Sound---------
@@ -151,7 +158,8 @@ function App() {
         setUserResponse("All expressions answered, YOU WIN!");
         confettiRef.current.fire();
         playCheeringSound();
-        setExpressionsAnswered(remainingExpressions.length)
+        setExpressionsAnswered(remainingExpressions.length);
+        setShouldCelebrate(true);
       }
       else if (userResponse === "Print vocab list") {
         for (let i = 0; i < remainingExpressions.length; i++) {
@@ -256,6 +264,8 @@ function App() {
         setUserResponse("All expressions answered, YOU WIN!");
         confettiRef.current.fire();
         playCheeringSound();
+        setExpressionsAnswered(remainingExpressions.length);
+        setShouldCelebrate(true);
       } 
     }
     if (!teacherMode) {
@@ -398,12 +408,40 @@ function App() {
   const handleTutorial = () => {
       setShowTutorial(prevValue => !prevValue)
   }
+
+  // Switches the value of showUserInfo true/false
+  const handleUserInfo = () => {
+      setShowUserInfo(prevValue => !prevValue)
+  }
+
+  // This function gets hold of the time at the exact completion time
+  function handleComplete() {
+    setCompletedAt(new Date());
+    setShouldCelebrate(true);
+  }
   
 
   return (
     <div className="App">
       <div className='framework'>
-        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode} ks3Ks4={ks3Ks4} setKs3Ks4={setKs3Ks4} language={language} toggleLanguage={toggleLanguage}/>
+
+        {shouldCelebrate && 
+          <ConfettiModal   
+                shouldCelebrate={shouldCelebrate}
+                onClose={() => setShouldCelebrate(false)}
+                userName={userName}
+                classCode={classCode}
+                schoolName={schoolName}
+                lesson={lesson}
+                language={language}
+                completedAt={completedAt} 
+                spToEngMode={spToEngMode}
+                />
+        }
+
+        <ConfettiCelebration ref={confettiRef} />
+
+        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode} ks3Ks4={ks3Ks4} setKs3Ks4={setKs3Ks4} language={language} toggleLanguage={toggleLanguage} handleUserInfo={handleUserInfo}/>
 
         <SelectionRow 
           language={language}
@@ -485,10 +523,9 @@ function App() {
         }
 
       </div>
+     
 
-      <ConfettiCelebration ref={confettiRef} />
-
-        {theme && lesson && 
+        {theme && lesson && !shouldCelebrate &&
         <>
           <Buttons 
             userResponse={userResponse} 
@@ -517,6 +554,10 @@ function App() {
 
         {showTutorial &&
           <Tutorial handleTutorial={handleTutorial}/>
+        }
+
+        {showUserInfo &&
+          <UserInfo handleUserInfo={handleUserInfo} userName={userName} setUserName={setUserName} classCode={classCode} setClassCode={setClassCode} schoolName={schoolName} setSchoolName={setSchoolName} showUserInfo={showUserInfo} setShowUserInfo={setShowUserInfo}/>
         }
 
     </div>

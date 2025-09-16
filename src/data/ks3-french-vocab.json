@@ -481,7 +481,9 @@
           "I am looking for a friend born in November",
           "I'm looking for a friend born in November"
         ]
-      ]
+      ],
+      ["Je suis né en mai.", "Je suis née en mai."],
+      ["I was born in May"]
     ],
     [
       "2.0 Point de départ",
@@ -501,7 +503,6 @@
       [["violet", "violette"], ["purple"]],
       [["un cercle"], ["a circle"]],
       [["un demi-cercle"], ["a semicircle", "a semi-circle"]],
-      [["un triangle"], ["a triangle"]],
       [["à gauche"], ["to the left", "on the left"]],
       [["à droite"], ["to the right", "on the right"]],
       [["au centre"], ["at the centre", "in the middle"]],

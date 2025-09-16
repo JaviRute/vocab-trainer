@@ -4,7 +4,7 @@ import FrenchFlag from '../assets/french-flag.svg';
 import BritishFlag from '../assets/british-flag.svg';
 import Arrow from '../assets/arrow.svg';
 
-export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4, language, toggleLanguage}) {
+export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4, language, toggleLanguage, handleUserInfo}) {
 
 
 
@@ -23,7 +23,7 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
 
         <div className='top-button-selection'>
             <button className='top-button' onClick={handleTutorial}><span className="material-symbols-outlined">help</span></button>
-            <button className='top-button'><span class="material-symbols-outlined">account_circle</span></button>
+            <button className='top-button' onClick={handleUserInfo}><span class="material-symbols-outlined">account_circle</span></button>
             <button 
                 className='top-button'
                 onClick={toggleTeacherMode}>
