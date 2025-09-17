@@ -40,6 +40,17 @@
     [
       "1.2 Mi tiempo libre",
       [
+        ["¿Dónde vives y qué tipo de persona eres?"],
+        [
+          "Where do you live and what kind of person are you?",
+          "Where do you live and what type of person are you?"
+        ]
+      ],
+      [
+        ["¿Qué tipo de persona eres?"],
+        ["What kind of person are you?", "What type of person are you?"]
+      ],
+      [
         ["Soy divertido", "Soy divertida"],
         ["I am fun", "I am amusing", "I'm amusing", "I'm fun"]
       ],
@@ -47,11 +58,14 @@
         ["estupendo", "estupenda"],
         ["brilliant", "great"]
       ],
-      [["fenomenal"], ["fantastic"]],
+      [["fenomenal"], ["fantastic", "great"]],
       [["generoso", "generosa"], ["generous"]],
-      [["genial"], ["great"]],
-      [["guay"], ["cool"]],
-      [["listo", "lista"], ["clever"]],
+      [["Shakira es genial"], ["Shakira is great"]],
+      [["Rafa Nadal es guay"], ["Rafa Nadal is cool"]],
+      [
+        ["listo", "lista"],
+        ["clever", "smart"]
+      ],
       [["serio", "seria"], ["serious"]],
       [
         ["simpático", "simpática"],
@@ -74,7 +88,55 @@
       [["Mi héroe es Michael Jordan"], ["My hero is Michael Jordan"]],
       [["el fútbol", "fútbol"], ["football"]],
       [["la música", "música"], ["music"]],
-      [["el tenis", "tenis"], ["tennis"]]
+      [["Mi pasión es el tenis"], ["My passion is tennis"]],
+      [["Vivo en Barcelona"], ["I live in Barcelona"]],
+      [
+        ["No es verdad"],
+        [
+          "It isn't true",
+          "It is not true",
+          "That isn't true",
+          "That's not true",
+          "It isn't right",
+          "It is not right",
+          "That isn't right",
+          "That's not right"
+        ]
+      ],
+      [
+        ["Soy listo pero no soy serio"],
+        [
+          "I'm clever but I'm not serious",
+          "I am clever but Iam not serious",
+          "I'm smart but I'm not serious",
+          "I am smart but I am not serious"
+        ]
+      ],
+      [
+        [
+          "Soy simpático y también generoso",
+          "Soy simpática y también generosa"
+        ],
+        [
+          "I'm nice and also generous",
+          "I am nice and also generous",
+          "I'm kind and also generous",
+          "I am kind and also generous",
+          "I'm nice and generous too",
+          "I am nice and generous too",
+          "I'm kind and generous too",
+          "I am kind and generous too"
+        ]
+      ],
+      [
+        ["Es tranquilo y tímido"],
+        [
+          "He's quiet and shy",
+          "He is quiet and shy",
+          "He's calm and shy",
+          "He is calm and shy"
+        ]
+      ]
     ],
     [
       "1.3 ¿Tienes hermanos?",
@@ -1982,10 +2044,10 @@
         ]
       ],
 
-      [["racismo", "el racismo"], ["racism"]],
-      [["naturaleza"], ["nature", "countryside"]],
+      [["Odio el racismo"], ["I hate racism"]],
+      [["Me gusta la naturaleza"], ["I like nature", "I like the countryside"]],
       [["violencia"], ["violence"]],
-      [["cómics"], ["comics", "graphic novels"]],
+      [["Leo cómics"], ["I read comics", "I read graphic novels"]],
       [["artes marciales"], ["martial arts"]],
       [["injusticias"], ["injustice", "injustices", "unfairness"]],
       [["tareas domésticas"], ["household chores", "housework"]],
@@ -2202,7 +2264,18 @@
       [["esteticista"], ["a beautician"]],
       [["jardinero", "jardinera"], ["a gardener"]],
       [["limpiador", "limpiadora"], ["a cleaner"]],
-      [["peluquero", "peluquera"], ["a hairdresser"]],
+      [
+        [
+          "Soy peluquero y tengo que cortar el pelo a los clientes",
+          "Soy peluquera y tengo que cortar el pelo a los clientes"
+        ],
+        [
+          "I'm a hairdresser and I have to cut customers' hair",
+          "I am a hairdresser and I have to cut customers' hair",
+          "I'm a hairdresser and I have to cut clients' hair",
+          "I am a hairdresser and I have to cut clients' hair"
+        ]
+      ],
       [["recepcionista"], ["a receptionist"]],
 
       [["¿En qué consiste tu trabajo?"], ["What does your job involve?"]],
@@ -2210,11 +2283,14 @@
         ["Tengo que cuidar las plantas"],
         ["I have to look after the plants", "I have to take care of the plants"]
       ],
-      [["contestar al teléfono"], ["to answer the phone"]],
-      [["ayudar a los clientes"], ["to help customers"]],
       [
-        ["cortar el pelo a los clientes"],
-        ["to cut customers' hair", "to cut clients' hair"]
+        ["Tengo que contestar al teléfono y ayudar a los clientes"],
+        [
+          "I have to to answer the phone and help customers",
+          "I have to to answer the phone and help clients",
+          "I have to to answer the phone and help the customers",
+          "I have to to answer the phone and help the clients"
+        ]
       ],
       [["hacer manícuras"], ["to do manicures"]],
       [["limpiar habitaciones"], ["to clean rooms"]],
@@ -2245,8 +2321,7 @@
           "I don't like my job at all because it's stressful"
         ]
       ],
-      [["monótono"], ["monotonous"]],
-      [["¿Cómo es tu jefe?"], ["What is your boss like?"]],
+      [["¿Cómo es tu jefe?"], ["What is your boss like?", "How is your boss?"]],
       [
         ["Mi jefe es muy educado", "Mi jefa es muy educada"],
         ["My boss is very polite"]

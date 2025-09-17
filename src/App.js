@@ -161,10 +161,11 @@ function App() {
         setExpressionsAnswered(remainingExpressions.length);
         setShouldCelebrate(true);
       }
-      else if (userResponse === "Print vocab list") {
+      else if (userResponse === "Print vocab") {
         for (let i = 0; i < remainingExpressions.length; i++) {
           console.log(`${i + 1}. ${remainingExpressions[i][0]} → ${remainingExpressions[i][1]}`);
        } 
+       setUserResponse("¡A sus órdenes!");
       } else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
           if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
@@ -573,7 +574,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Try my Spanish & French Verbs Trainer
+            Try my MFL Verbs Trainer
           </a>
         </div>
 

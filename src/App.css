@@ -14,6 +14,7 @@ body {
 
 body {
   line-height: 1.5;
+  color: #191b1b;
 }
 
 a {
@@ -518,8 +519,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 1500;
-  /* below confetti, above app */
+  z-index: 1500;  /* so this is below confetti, above app */
 }
 
 .user-modal {
@@ -808,7 +808,17 @@ img {
   }
 
   .user-modal {
-    width: 85%;
+    width: 95%;
+    max-width: 350px;
+  }
+
+
+  .footer-message {
+
+    width: 80%;
+    padding: 8px;
+    font-size: 10px;
+    z-index: 900;
   }
 
 }

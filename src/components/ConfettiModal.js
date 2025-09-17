@@ -23,7 +23,7 @@ export default function ConfettiModal({
     <div className="modal-backdrop" onClick={onClose} role="dialog" aria-modal="true">
       <div className="user-modal" >
         <h2>
-          ¡Enhorabuena
+          {language === "Spanish" ? "¡Enhorabuena" : "Félicitations"}
           {userName && ` ${userName}`}
           {classCode && ` (${classCode})`}
           {schoolName && `, from ${schoolName}`}!
