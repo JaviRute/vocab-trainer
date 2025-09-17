@@ -1,4 +1,5 @@
 import React from "react";
+import CertificatePDFButton from "./CertificatePDFButton";
 
 export default function ConfettiModal({
   shouldCelebrate = false,
@@ -20,8 +21,8 @@ export default function ConfettiModal({
   const dateStr = ts.toLocaleDateString("en-GB", { day: "2-digit", month: "2-digit", year: "numeric" });
 
   return (
-    <div className="modal-backdrop" onClick={onClose} role="dialog" aria-modal="true">
-      <div className="user-modal" >
+    <div className="modal-backdrop" role="dialog" aria-modal="true">
+      <div className="user-modal" onClick={(e) => e.stopPropagation()}>
         <h2>
           {language === "Spanish" ? "¡Enhorabuena" : "Félicitations"}
           {userName && ` ${userName}`}
@@ -41,8 +42,18 @@ export default function ConfettiModal({
         }
 
         <div className="modal-actions" style={{ display: "flex", gap: 8, justifyContent: "center", marginTop: 12 }}>
-          <button type="button" className="main-button" onClick={onPlayAgain}>Close</button>
+          <CertificatePDFButton
+            userName={userName}
+            classCode={classCode}
+            schoolName={schoolName}
+            lesson={lesson}
+            language={language}
+            spToEngMode={spToEngMode}
+            completedAt={completedAt}
+          />
+          <button type="button" className="main-button" onClick={onClose}>Close</button>
         </div>
+
       </div>
     </div>
   );

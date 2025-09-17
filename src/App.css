@@ -372,6 +372,11 @@ img {
   justify-content: center;
 }
 
+.big-text-button {
+  width: 25%;
+  min-width: 60px;
+}
+
 .seconds-button {
   display: flex;
   justify-content: space-around;
@@ -704,6 +709,11 @@ img {
     font-size: 16px;
   }
 
+    .big-text-button {
+      width: 24%;
+      min-width: 40px;
+    }
+
   .user-modal {
     width: 66%;
   }
@@ -799,6 +809,10 @@ img {
     width: 28%;
     font-size: 15px;
   }
+
+    .big-text-button {
+      width: 35%;
+    }
 
   .small-button {
     font-size: 8px;

@@ -244,6 +244,13 @@ h4 {
         width: fit-content;
 
     }
+
+    .modal-backdrop {
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 1vh;
+
+    }
 }
 
 @media (max-width: 370px) {

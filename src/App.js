@@ -1,7 +1,7 @@
 //TTD
+//* mejorar visibilidad modales en modo telefono
+//* avisar al estudiante si esta a punto de terminar y no ha metido su nombre, classcode, colegio
 //* change favicon
-//* Hacer otra app de frances GCSE
-//* Hacer otra app de frances KS3
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
 //* Integrar con verbstrainer
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
@@ -165,7 +165,7 @@ function App() {
         for (let i = 0; i < remainingExpressions.length; i++) {
           console.log(`${i + 1}. ${remainingExpressions[i][0]} → ${remainingExpressions[i][1]}`);
        } 
-       setUserResponse("¡A sus órdenes!");
+       setUserResponse("¡A sus tiránicas órdenes!");
       } else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
           if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
@@ -340,11 +340,19 @@ function App() {
     setTheme('');
     setLesson('');
     setShowHint(false);
+    setLabelsOn(false);
+    setInputOn(false);
+    setGameIsOn(false);
+    setGameOver(true);
   }
 
   const restartLessonSelection = () => {
     setLesson('');
     setShowHint(false);
+    setLabelsOn(false);
+    setInputOn(false);
+    setGameIsOn(false);
+    setGameOver(true);
   }
 
   const handleHint = () => {

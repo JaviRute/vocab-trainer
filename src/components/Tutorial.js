@@ -30,7 +30,7 @@ export default function Tutorial(props) {
         </div>
 
         <h4>Enter your data (optional)</h4>
-        <p>Did your teacher ask you to complete this as homework? Enter your data, complete the assignment and at the end you will see a message displaying your progress today. Take a snapshot of this message and send it to your teacher!</p>
+        <p>Did your teacher ask you to complete this as homework? Enter your data, complete the assignment and at the end you will see a message displaying your progress today. Download the PDF certificate and send it to your teacher!</p>
 
 
       </div>
