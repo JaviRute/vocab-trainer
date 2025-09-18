@@ -2874,7 +2874,917 @@
     ]
   ],
   "Year 8: Dynamo 2": [
-    ["Vocab coming soon!", [["Vocab coming soon", "asdfghjk"]]]
+    [
+      "1.0 Point de départ",
+      [
+        ["J'habite en Angleterre", "Je vis en Angleterre"],
+        ["I live in England", "I reside in England"]
+      ],
+      [
+        ["J'habite au pays de Galles", "Je vis au pays de Galles"],
+        ["I live in Wales", "I reside in Wales"]
+      ],
+      [
+        [
+          "Nous avons une semaine de vacances",
+          "On a une semaine de vacances",
+          "Nous avons 1 semaine de vacances"
+        ],
+        [
+          "We have a week of holiday",
+          "We've got a week of holiday",
+          "We have one week of holiday",
+          "We've got a week off"
+        ]
+      ],
+      [
+        ["J'ai deux semaines de vacances", "J'ai 2 semaines de vacances"],
+        [
+          "I have two weeks of holiday",
+          "I've got two weeks of holiday",
+          "I have a fortnight of holiday",
+          "I've got a fortnight of holiday"
+        ]
+      ],
+      [
+        ["en janvier", "au mois de janvier"],
+        ["in January", "in Jan", "in Jan."]
+      ],
+      [
+        ["en février", "au mois de février"],
+        ["in February", "in Feb", "in Feb."]
+      ],
+      [
+        ["à Noël", "pendant Noël", "pour Noël"],
+        ["at Christmas", "over Christmas", "for Christmas"]
+      ],
+      [
+        ["à Pâques", "pendant Pâques"],
+        ["at Easter", "over Easter", "for Easter"]
+      ],
+      [
+        ["Je suis en vacances"],
+        [
+          "I am on holiday",
+          "I'm on holiday",
+          "I am on vacation",
+          "I'm on vacation"
+        ]
+      ],
+      [
+        ["au bord de la mer", "à la mer"],
+        ["at the seaside", "by the sea", "at the beach"]
+      ],
+      [
+        ["à la montagne", "en montagne"],
+        ["in the mountains", "at the mountains"]
+      ],
+      [["à la campagne"], ["in the countryside", "in the country"]],
+      [
+        ["en colo", "en colonie de vacances"],
+        ["at a holiday camp", "in a holiday camp", "at a summer camp"]
+      ],
+      [
+        ["chez mes grands-parents"],
+        [
+          "at my grandparents' home",
+          "at my grandparents' house",
+          "at my grandparents"
+        ]
+      ],
+      [["C'est sympa"], ["It is nice", "It's nice", "It's cool", "It is cool"]],
+      [
+        ["Je suis à la montagne avec mes parents"],
+        [
+          "I am in the mountains with my parents",
+          "I'm in the mountains with my parents",
+          "I am at the mountains with my parents",
+          "I'm at the mountains with my parents"
+        ]
+      ],
+      [
+        ["Nous sommes au bord de la mer avec nos amis"],
+        [
+          "We are at the seaside with our friends",
+          "We're at the seaside with our friends",
+          "We are by the sea with our friends",
+          "We're by the sea with our friends"
+        ]
+      ],
+      [
+        [
+          "Je suis en colo avec mes copains; c'est marrant",
+          "Je suis en colonie de vacances avec mes copains; c'est marrant"
+        ],
+        [
+          "I am at a holiday camp with my friends; it's funny",
+          "I'm at a holiday camp with my friends; it's funny",
+          "I am at a summer camp with my friends; it's fun",
+          "I'm at a summer camp with my friends; it's fun"
+        ]
+      ],
+      [
+        ["Je suis chez mes grands-parents; c'est très sympa"],
+        [
+          "I am at my grandparents' house; it's very nice",
+          "I'm at my grandparents' house; it's very nice"
+        ]
+      ],
+      [
+        ["Nous sommes à la campagne et c'est un peu ennuyeux"],
+        [
+          "We are in the countryside and it is a bit boring",
+          "We're in the countryside and it's a bit boring"
+        ]
+      ],
+      [
+        [
+          "J'ai une semaine de vacances en janvier",
+          "J'ai 1 semaine de vacances en janvier"
+        ],
+        [
+          "I have a week of holiday in January",
+          "I've got a week of holiday in January"
+        ]
+      ],
+      [
+        [
+          "Nous avons deux semaines de vacances en février",
+          "On a deux semaines de vacances en février",
+          "Nous avons 2 semaines de vacances en février"
+        ],
+        [
+          "We have two weeks of holiday in February",
+          "We've got two weeks of holiday in February",
+          "We have a fortnight of holiday in February",
+          "We've got a fortnight in February"
+        ]
+      ],
+
+      [
+        ["Je suis au bord de la mer avec ma famille"],
+        [
+          "I am by the sea with my family",
+          "I'm by the sea with my family",
+          "I am at the seaside with my family"
+        ]
+      ],
+
+      [
+        ["Je suis chez mes grands-parents avec mon père; c'est nul"],
+        [
+          "I am at my grandparents' with my dad; it is rubbish",
+          "I'm at my grandparents' with my dad; it's rubbish",
+          "it's rubbish"
+        ]
+      ],
+      [
+        ["Il pleut tout le temps et c'est très ennuyeux"],
+        [
+          "It rains all the time and it is very boring",
+          "It rains all the time and it's very boring"
+        ]
+      ]
+    ],
+    [
+      "1.1 Tu as passé de bonnes vacances?",
+      [["J'ai joué au tennis"], ["I played tennis"]],
+      [["J'ai mangé des glaces"], ["I ate ice cream", "I ate ice creams"]],
+      [
+        ["J'ai retrouvé mes amis"],
+        ["I met up with my friends", "I met my friends", "I saw my friends"]
+      ],
+      [["J'ai écouté de la musique"], ["I listened to music"]],
+      [
+        ["J'ai acheté des baskets"],
+        ["I bought some trainers", "I bought trainers", "I bought sneakers"]
+      ],
+      [
+        ["J'ai regardé des clips vidéo", "J'ai regardé des vidéos"],
+        ["I watched video clips", "I watched videos"]
+      ],
+      [["J'ai nagé dans la mer"], ["I swam in the sea", "I swam in the ocean"]],
+      [
+        ["J'ai traîné à la maison", "J'ai traîné chez moi"],
+        [
+          "I hung around the house",
+          "I hung around at home",
+          "I lazed around at home"
+        ]
+      ],
+      [
+        ["Pendant les vacances, j'ai joué au foot"],
+        [
+          "During the holidays, I played football",
+          "During the holidays, I played soccer"
+        ]
+      ],
+      [
+        ["Pendant les vacances, j'ai nagé dans la piscine"],
+        ["During the holidays, I swam in the pool"]
+      ],
+      [
+        ["J'ai regardé un film à la télé"],
+        ["I watched a film on TV", "I watched a movie on TV"]
+      ],
+      [
+        ["J'ai préparé des pizzas avec mes amis"],
+        ["I prepared pizzas with my friends", "I made pizzas with my friends"]
+      ],
+      [["J'ai chanté et j'ai dansé"], ["I sang and I danced"]],
+      [["J'ai crié youpi"], ["I shouted hooray", "I shouted woohoo"]],
+      [
+        ["J'ai invité mes amis chez moi"],
+        ["I invited my friends to my house", "I invited my friends round"]
+      ],
+      [
+        ["J'ai bricolé avec mon copain"],
+        ["I did DIY with my friend", "I tinkered with my friend"]
+      ],
+      [
+        ["J'ai rigolé avec mes copains"],
+        ["I laughed with my friends", "I had a laugh with my friends"]
+      ],
+      [["J'ai lu un BD"], ["I read a comic", "I read a comic book"]],
+      [["J'ai dormi beaucoup"], ["I slept a lot"]],
+      [
+        ["J'ai passé la journée avec mes amis"],
+        ["I spent the day with my friends"]
+      ],
+      [
+        ["J'ai organisé des activités"],
+        ["I organised activities", "I organized activities"]
+      ],
+      [["J'ai fait du shopping"], ["I did some shopping", "I went shopping"]],
+      [["J'ai nagé avec mes cousins"], ["I swam with my cousins"]],
+      [
+        ["J'ai regardé un match de foot"],
+        ["I watched a football match", "I watched a soccer match"]
+      ],
+      [
+        ["J'ai mangé une pizza délicieuse"],
+        ["I ate a delicious pizza", "I had a delicious pizza"]
+      ]
+    ],
+    [
+      "1.2 Qu'est-ce que tu as fait?",
+      [
+        ["Qu'est-ce que tu as fait pendant les vacances?"],
+        [
+          "What did you do during the holidays?",
+          "What did you do during the vacations?",
+          "What have you done during the holidays?",
+          "What have you done during the vacations?"
+        ]
+      ],
+      [["J'ai visité un parc d'attractions"], ["I visited a theme park"]],
+      [
+        ["J'ai bu un coca au café"],
+        ["I drank a cola in the café", "I drank a coke in the café"]
+      ],
+      [
+        ["J'ai pris beaucoup de photos"],
+        ["I took lots of photos", "I took many photos"]
+      ],
+      [["J'ai vu un spectacle"], ["I saw a show"]],
+      [["J'ai fait une balade en bateau"], ["I went on a boat ride"]],
+      [["J'ai vu mes personnages préférés"], ["I saw my favourite characters"]],
+      [["J'ai fait tous les manèges"], ["I went on all the rides"]],
+      [["d'abord"], ["first of all"]],
+      [["ensuite", "puis"], ["then"]],
+      [["après"], ["after", "afterwards"]],
+      [["finalement"], ["finally"]],
+      [
+        ["C'était fantastique", "C'était génial", "C'était super"],
+        ["It was fantastic", "It was great", "It was brilliant"]
+      ],
+      [
+        ["C'était amusant", "C'était marrant", "C'était sympa"],
+        ["It was fun", "It was funny", "It was nice"]
+      ],
+      [["C'était intéressant"], ["It was interesting"]],
+      [["C'était ennuyeux"], ["It was boring"]],
+      [["C'était nul"], ["It was rubbish"]],
+      [["Ce n'était pas mal"], ["It wasn't bad"]],
+      [
+        ["J'ai mangé un hamburger-frites"],
+        ["I ate a burger and chips", "I ate a hamburger and fries"]
+      ],
+      [
+        ["J'ai vu un film au cinéma"],
+        ["I saw a film at the cinema", "I saw a movie at the cinema"]
+      ],
+      [
+        ["J'ai pris des selfies avec mes copains"],
+        ["I took selfies with my friends"]
+      ],
+      [
+        ["J'ai fait une balade au bord de la rivière"],
+        ["I went on a boat ride on the river"]
+      ],
+      [["J'ai bu une limonade"], ["I drank a lemonade"]],
+      [["J'ai visité Futuroscope"], ["I visited Futuroscope"]],
+      [
+        ["J'ai fait un tour de montagnes russes"],
+        ["I went on a rollercoaster ride"]
+      ]
+    ],
+    [
+      "1.3 Tu es allé(e) où?",
+      [
+        ["Tu es allé où en vacances?", "Tu es allée où en vacances?"],
+        ["Where did you go on holiday?"]
+      ],
+      [
+        [
+          "Tu es allé en vacances avec qui?",
+          "Tu es allée en vacances avec qui?"
+        ],
+        ["Who did you go on holiday with?"]
+      ],
+      [
+        [
+          "Je suis allé en vacances avec ma famille",
+          "Je suis allée en vacances avec ma famille"
+        ],
+        ["I went on holiday with my family"]
+      ],
+      [["avec mes copains"], ["with my friends"]],
+      [
+        ["On est allés en Espagne", "Nous sommes allés en Espagne"],
+        ["We went to Spain"]
+      ],
+      [
+        ["On est allées en Grèce", "Nous sommes allées en Grèce"],
+        ["We went to Greece"]
+      ],
+      [
+        ["On est allés au Maroc", "Nous sommes allés au Maroc"],
+        ["We went to Morocco"]
+      ],
+      [
+        ["On est allés aux États-Unis", "Nous sommes allés aux États-Unis"],
+        ["We went to the USA", "We went to America"]
+      ],
+      [["Tu as voyagé comment?"], ["How did you travel?"]],
+      [
+        ["J'ai voyagé en avion"],
+        ["I travelled by plane", "I traveled by plane"]
+      ],
+      [
+        ["J'ai voyagé en bateau"],
+        ["I travelled by boat", "I traveled by boat"]
+      ],
+      [["en car"], ["by coach"]],
+      [["en train"], ["by train"]],
+      [["en voiture"], ["by car"]],
+      [
+        ["Nous avons voyagé en avion"],
+        ["We travelled by plane", "We traveled by plane"]
+      ],
+      [
+        [
+          "Je suis allé en vacances avec ma sœur en Grèce",
+          "Je suis allée en vacances avec ma sœur en Grèce"
+        ],
+        ["I went on holiday with my sister in Greece"]
+      ],
+      [
+        [
+          "Je suis allé en vacances avec mes parents",
+          "Je suis allée en vacances avec mes parents"
+        ],
+        ["I went on holiday with my parents"]
+      ],
+      [
+        [
+          "Je suis allé au Maroc avec ma sœur",
+          "Je suis allée au Maroc avec ma sœur"
+        ],
+        ["I went to Morocco with my sister"]
+      ],
+      [
+        ["Je suis allé aux États-Unis", "Je suis allée aux États-Unis"],
+        ["I went to the USA", "I went to America"]
+      ],
+      [
+        [
+          "Nous sommes allés en France en train",
+          "Nous sommes allées en France en train"
+        ],
+        ["We went to France by train"]
+      ],
+      [
+        ["Je suis allé à Athènes en avion", "Je suis allée à Athènes en avion"],
+        ["I went to Athens by plane"]
+      ],
+      [
+        ["Nous avons voyagé en bateau sur la rivière"],
+        [
+          "We travelled by boat on the river",
+          "We traveled by boat on the river"
+        ]
+      ],
+      [
+        [
+          "Je suis allé à New York avec ma famille",
+          "Je suis allée à New York avec ma famille"
+        ],
+        ["I went to New York with my family"]
+      ],
+      [["C'était intéressant"], ["It was interesting"]],
+      [
+        ["C'était fantastique"],
+        ["It was fantastic", "It was great", "It was brilliant"]
+      ]
+    ],
+    [
+      "1.4 Quel désastre!",
+      [["J'ai oublié mon passeport"], ["I forgot my passport"]],
+      [["J'ai cassé mon portable"], ["I broke my phone"]],
+      [["J'ai perdu mon porte-monnaie"], ["I lost my purse"]],
+      [["J'ai choisi le poisson"], ["I chose the fish"]],
+      [["J'ai beaucoup vomi"], ["I vomited a lot"]],
+      [
+        ["Je suis tombé sur la plage", "Je suis tombée sur la plage"],
+        ["I fell over on the beach"]
+      ],
+      [["Je suis resté au lit", "Je suis restée au lit"], ["I stayed in bed"]],
+      [["On a raté l'avion"], ["We missed the plane"]],
+      [
+        ["On est arrivés en retard", "On est arrivées en retard"],
+        ["We arrived late"]
+      ],
+      [
+        ["Je n'ai pas acheté de souvenirs"],
+        ["I didn't buy any souvenirs", "I did not buy any souvenirs"]
+      ],
+      [["Je n'ai pas pris de photos"], ["I didn't take any photos"]],
+      [["Je ne suis pas sorti", "Je ne suis pas sortie"], ["I didn't go out"]],
+      [["Quel désastre!"], ["What a disaster!"]],
+      [["Quelle horreur!"], ["How horrible!", "What a horror!"]],
+      [
+        [
+          "Je suis tombé sur la plage et j'ai cassé mon portable",
+          "Je suis tombée sur la plage et j'ai cassé mon portable"
+        ],
+        ["I fell on the beach and I broke my phone"]
+      ],
+      [
+        [
+          "Nous avons visité un parc d'attractions mais j'ai perdu mon porte-monnaie"
+        ],
+        ["We visited a theme park but I lost my purse"]
+      ],
+      [
+        ["J'ai choisi le poisson au restaurant et après j'ai vomi"],
+        ["I chose the fish at the restaurant and afterwards I vomited"]
+      ],
+      [
+        ["Je n'ai pas nagé dans la mer parce qu'il y avait des méduses"],
+        [
+          "I didn't swim in the sea because there were jellyfish",
+          "I did not swim in the sea because there were jellyfish"
+        ]
+      ],
+      [
+        ["Je n'ai pas joué en ligne parce que l'hôtel était nul"],
+        ["I didn't play online because the hotel was rubbish"]
+      ],
+      [
+        ["Je n'ai pas acheté de souvenirs parce que c'était trop cher"],
+        ["I didn't buy any souvenirs because it was too expensive"]
+      ],
+      [
+        ["Je n'ai pas pris de photos parce que j'ai perdu mon portable"],
+        ["I didn't take any photos because I lost my phone"]
+      ],
+      [
+        [
+          "Nous ne sommes pas allés au parc d'attractions parce qu'on a raté le bus"
+        ],
+        [
+          "We didn't go to the theme park because we missed the bus",
+          "We did not go to the theme park because we missed the bus"
+        ]
+      ],
+      [["Mon père était furieux"], ["My dad was furious"]],
+      [["C'était complètement nul"], ["It was completely rubbish"]],
+      [["Quelle malchance!"], ["What bad luck!", "How unlucky!"]]
+    ],
+    [
+      "1.5 Mon voyage extraordinaire!",
+      [
+        ["Normalement, pendant les vacances je vais en colo"],
+        ["Normally, during the holidays I go to a holiday camp"]
+      ],
+      [["à la campagne"], ["in the countryside"]],
+      [["je voyage en car"], ["I travel by coach"]],
+      [["je nage dans la piscine"], ["I swim in the pool"]],
+      [["je fais du sport"], ["I do sport"]],
+      [["je mange des hamburger-frites"], ["I eat burgers and chips"]],
+      [["C'est un peu ennuyeux"], ["It's a bit boring"]],
+      [["Mais l'année dernière"], ["But last year"]],
+      [["j'ai gagné un concours"], ["I won a competition"]],
+      [
+        ["je suis allé à Vanuatu", "je suis allée à Vanuatu"],
+        ["I went to Vanuatu"]
+      ],
+      [
+        ["j'ai voyagé en avion"],
+        ["I travelled by plane", "I traveled by plane"]
+      ],
+      [["j'ai nagé dans la mer"], ["I swam in the sea"]],
+      [["j'ai fait de la voile"], ["I went sailing"]],
+      [["j'ai vu des dauphins"], ["I saw dolphins"]],
+      [["j'ai mangé des fruits de mer"], ["I ate seafood"]],
+      [["C'était vraiment génial"], ["It was really great"]],
+      [
+        ["Je vais en Belgique avec mes parents"],
+        ["I go to Belgium with my parents"]
+      ],
+      [
+        ["Nous faisons des randonnées à la campagne"],
+        ["We go hiking in the countryside"]
+      ],
+      [
+        ["Je suis allé en Afrique du Nord", "Je suis allée en Afrique du Nord"],
+        ["I went to North Africa"]
+      ],
+      [["J'ai fait de la plongée sous-marine"], ["I went scuba diving"]],
+      [["Je n'ai pas nagé avec des tortues"], ["I didn't swim with turtles"]],
+      [
+        ["J'ai mangé au restaurant et j'ai vu un spectacle"],
+        ["I ate at the restaurant and I saw a show"]
+      ],
+      [
+        [
+          "Je suis allé au marché et j'ai mangé des spécialités traditionnelles",
+          "Je suis allée au marché et j'ai mangé des spécialités traditionnelles"
+        ],
+        ["I went to the market and I ate traditional specialities"]
+      ],
+      [["J'ai fait une balade à dos de chameau"], ["I went on a camel ride"]],
+      [["C'était une journée inoubliable"], ["It was an unforgettable day"]]
+    ],
+    [
+      "2.0 Point de départ",
+      [["Noël"], ["Christmas"]],
+      [["Pâques"], ["Easter"]],
+      [["le 14 juillet"], ["Bastille Day", "National Day"]],
+      [["le Nouvel An"], ["New Year's Day"]],
+      [["la Toussaint"], ["All Saints' Day"]],
+      [["la Saint-Valentin"], ["Valentine's Day"]],
+      [["l'Aïd"], ["Eid"]],
+      [["mon anniversaire"], ["my birthday"]],
+      [["Quelle est ta fête préférée?"], ["What's your favourite festival?"]],
+      [["J'adore Noël"], ["I love Christmas"]],
+      [
+        ["J'aime beaucoup la Saint-Valentin"],
+        ["I really like Valentine's Day"]
+      ],
+      [["J'aime Pâques"], ["I like Easter"]],
+      [["Je préfère le Nouvel An"], ["I prefer New Year"]],
+      [
+        ["Je n'aime pas tellement Halloween"],
+        ["I don't particularly like Halloween"]
+      ],
+      [["Je n'aime pas la Toussaint"], ["I don't like All Saints' Day"]],
+      [["Je n'aime pas du tout Noël"], ["I really don't like Christmas"]],
+      [["Je déteste Pâques"], ["I hate Easter"]],
+      [
+        ["J'adore mon anniversaire parce que j'adore faire une soirée pyjama"],
+        ["I love my birthday because I love having a sleepover"]
+      ],
+      [
+        ["Je préfère Pâques parce que j'aime manger des œufs en chocolat"],
+        ["I prefer Easter because I like eating chocolate eggs"]
+      ],
+      [
+        ["J'aime l'Aïd parce que j'aime rendre visite à mes cousins"],
+        ["I like Eid because I like visiting my cousins"]
+      ],
+      [
+        ["Je déteste Noël parce que je n'aime pas choisir des cadeaux"],
+        ["I hate Christmas because I don't like choosing presents"]
+      ],
+      [
+        [
+          "Je n'aime pas le 14 juillet parce que c'est ennuyeux et trop militaire"
+        ],
+        ["I don't like Bastille Day because it's boring and too militaristic"]
+      ],
+      [
+        [
+          "J'aime beaucoup le Nouvel An parce que je danse et je chante jusqu'à minuit"
+        ],
+        ["I really like New Year because I dance and sing until midnight"]
+      ],
+      [["C'est marrant"], ["It is fun", "It is funny"]],
+      [["C'est trop commercial"], ["It is too commercial"]]
+    ],
+    [
+      "2.1 Quelle est ta fête préférée?",
+      [["je porte un masque"], ["I wear a mask"]],
+      [["je retrouve mes copains"], ["I meet my friends"]],
+      [["je regarde la parade"], ["I watch the parade"]],
+      [["je finis mes devoirs"], ["I finish my homework"]],
+      [["je choisis des vêtements cool"], ["I choose cool clothes"]],
+      [
+        ["j'attends la fête avec impatience"],
+        ["I am looking forward to the festival"]
+      ],
+      [["je rends visite à mes grands-parents"], ["I visit my grandparents"]],
+      [["j'entends la musique"], ["I hear the music", "I listen to the music"]],
+      [["les spectateurs"], ["the spectators"]],
+      [["chaque année"], ["every year"]],
+      [["le matin"], ["in the morning"]],
+      [["l'après-midi"], ["in the afternoon"]],
+      [["le soir"], ["in the evening"]],
+      [["une parade", "un défilé"], ["a parade"]],
+      [["un groupe de musiciens"], ["a group of musicians"]],
+      [["Ils sont dans la rue"], ["They are in the street"]],
+      [["Ils marchent dans la ville"], ["They are walking in town"]],
+      [["Ils dansent et ils applaudissent"], ["They are dancing and clapping"]],
+      [["Ils jouent d'un instrument"], ["They are playing an instrument"]],
+      [
+        ["Ils portent des vêtements traditionnels"],
+        ["They are wearing traditional clothes"]
+      ],
+      [
+        ["Ils portent des vêtements colorés"],
+        ["They are wearing colourful clothes"]
+      ],
+      [["Ils portent des drapeaux"], ["They are holding flags"]],
+      [
+        ["Chaque année, j'attends mon anniversaire avec impatience"],
+        ["Every year, I look forward to my birthday"]
+      ],
+      [
+        ["L'après-midi, je rends visite à mes amis"],
+        ["In the afternoon, I visit my friends"]
+      ],
+      [
+        ["Le soir, j'entends la musique dans la rue"],
+        [
+          "In the evening, I hear the music in the street",
+          "In the evening, I listen to the music in the street"
+        ]
+      ]
+    ],
+    [
+      "2.2 Et avec ça?",
+      [["un artichaut"], ["an artichoke"]],
+      [["un chou-fleur"], ["a cauliflower"]],
+      [["un citron"], ["a lemon"]],
+      [["une pomme"], ["an apple"]],
+      [["une pomme de terre"], ["a potato"]],
+      [["une tomate"], ["a tomato"]],
+      [["une banane"], ["a banana"]],
+      [["des haricots verts"], ["green beans"]],
+      [["un œuf"], ["an egg"]],
+      [["le poisson"], ["fish"]],
+      [["le fromage"], ["cheese"]],
+      [["le jambon"], ["ham"]],
+      [["la salade"], ["lettuce"]],
+      [["100 grammes de fromage"], ["100 grams of cheese"]],
+      [["un kilo de pommes"], ["a kilo of apples"]],
+      [["un demi-kilo de tomates"], ["half a kilo of tomatoes"]],
+      [["une tranche de jambon"], ["a slice of ham"]],
+      [["un morceau de fromage"], ["a piece of cheese"]],
+      [["Vous désirez?"], ["What would you like?"]],
+      [
+        ["Je voudrais un kilo de tomates, s'il vous plaît"],
+        ["I would like a kilo of tomatoes, please"]
+      ],
+      [["Et avec ça?"], ["Anything else?"]],
+      [["C'est tout, merci"], ["That's all, thanks"]],
+      [["Ça fait combien?"], ["How much is that?"]],
+      [["Ça fait dix euros"], ["That’s ten euros"]],
+      [["Bonne journée!"], ["Have a nice day!"]]
+    ],
+    [
+      "2.3 Miam-miam, c'est bon!",
+      [["une salade niçoise"], ["a tuna and olive salad"]],
+      [["une tarte flambée"], ["a pizza-like tart"]],
+      [["le couscous aux légumes"], ["vegetable couscous"]],
+      [["les moules-frites"], ["mussels and chips"]],
+      [["la quiche lorraine"], ["bacon quiche"]],
+      [["la bouillabaisse"], ["fish stew"]],
+      [["les crêpes Suzette"], ["pancakes with orange sauce"]],
+      [["le thon"], ["tuna"]],
+      [["le fromage blanc"], ["soft white cheese"]],
+      [["la crème fraîche"], ["thick sour cream"]],
+      [["la semoule"], ["couscous grains", "semolina"]],
+      [["l'ail"], ["garlic"]],
+      [["un pois chiche"], ["a chickpea"]],
+      [["une courgette"], ["a courgette"]],
+      [["une carotte"], ["a carrot"]],
+      [
+        ["C'est un plat typique du nord de la France"],
+        ["It's a typical dish of northern France"]
+      ],
+      [
+        ["C'est une spécialité de la Guadeloupe"],
+        ["It's a speciality of Guadeloupe"]
+      ],
+      [
+        ["À Pâques, je suis allé à Dunkerque"],
+        ["At Easter, I went to Dunkirk"]
+      ],
+      [["J'ai mangé des moules-frites"], ["I ate mussels and chips"]],
+      [["J'ai bu un jus d'orange"], ["I drank an orange juice"]],
+      [
+        ["Pour mon anniversaire, nous sommes allés à Carnac"],
+        ["For my birthday, we went to Carnac"]
+      ],
+      [["J'ai choisi une crêpe au chocolat"], ["I chose a chocolate crêpe"]],
+      [["C'était vraiment délicieux"], ["It was really delicious"]],
+      [["C'était trop sucré"], ["It was too sweet"]],
+      [["C'était salé et savoureux"], ["It was salty and tasty"]]
+    ],
+    [
+      "2.4 Tu vas faire un voyage scolaire?",
+      [["Qu'est-ce que tu vas faire?"], ["What are you going to do?"]],
+      [["Je vais aller en Alsace"], ["I am going to go to Alsace"]],
+      [
+        ["Je vais visiter les marchés de Noël"],
+        ["I am going to visit the Christmas markets"]
+      ],
+      [["Je vais choisir des cadeaux"], ["I am going to choose presents"]],
+      [
+        ["Je vais admirer les maisons illuminées"],
+        ["I am going to admire the illuminated houses"]
+      ],
+      [
+        ["Je vais écouter des chorales"],
+        ["I am going to listen to some choirs"]
+      ],
+      [["Je vais goûter du pain d'épices"], ["I am going to try gingerbread"]],
+      [
+        ["Je vais acheter une boule de Noël"],
+        ["I am going to buy a Christmas bauble"]
+      ],
+      [
+        ["Je vais manger une tarte flambée"],
+        ["I am going to eat a pizza-like tart"]
+      ],
+      [
+        ["Je vais boire un jus de pomme chaud"],
+        ["I am going to drink a hot apple juice"]
+      ],
+      [["Nous allons visiter Colmar"], ["We are going to visit Colmar"]],
+      [
+        ["Nous allons écouter des chorales"],
+        ["We are going to listen to choirs"]
+      ],
+      [["Tu vas manger quoi?"], ["What are you going to eat?"]],
+      [["Tu vas acheter des cadeaux"], ["You are going to buy presents"]],
+      [
+        ["Ils vont goûter du pain d'épices"],
+        ["They are going to try gingerbread"]
+      ],
+      [
+        ["Elles vont boire du jus de pomme chaud"],
+        ["They are going to drink hot apple juice"]
+      ],
+      [
+        ["Vous allez admirer les maisons illuminées"],
+        ["You (all) are going to admire the illuminated houses"]
+      ],
+      [
+        ["On va visiter les marchés de Noël"],
+        ["We are going to visit the Christmas markets"]
+      ],
+      [
+        ["Le mardi 8 décembre, on va aller à Colmar en car"],
+        ["On Tuesday 8th December, we are going to go to Colmar by coach"]
+      ],
+      [
+        ["Tu vas aller où en février?"],
+        ["Where are you going to go in February?"]
+      ],
+      [
+        ["Pourquoi est-ce que tu vas visiter Nice?"],
+        ["Why are you going to visit Nice?"]
+      ],
+      [
+        ["Comment est-ce que tu vas voyager?"],
+        ["How are you going to travel?"]
+      ],
+      [["manger des crêpes"], ["to eat pancakes"]],
+      [["prendre des photos"], ["to take photos"]],
+      [["regarder le carnaval"], ["to watch the carnival"]]
+    ],
+    [
+      "2.5 Bonne année!",
+      [
+        ["Quelles sont tes bonnes résolutions pour l'année prochaine?"],
+        ["What are your new year's resolutions?"]
+      ],
+      [["Je joue sur mon portable"], ["I play on my phone"]],
+      [["Je finis mes devoirs à la récré"], ["I finish my homework at break"]],
+      [
+        ["Je n'aide pas mes parents"],
+        ["I don't help my parents", "I do not help my parents"]
+      ],
+      [["Je fais la grasse matinée"], ["I have a lie-in", "I have a lie in"]],
+      [
+        ["Je ne suis pas sympa avec mon petit frère"],
+        [
+          "I am not kind to my little brother",
+          "I'm not kind to my little brother"
+        ]
+      ],
+      [
+        ["Je vais aller au marché"],
+        ["I am going to go to the market", "I'm going to go to the market"]
+      ],
+      [
+        ["Je vais aider dans le jardin"],
+        ["I am going to help in the garden", "I'm going to help in the garden"]
+      ],
+      [
+        ["Je vais être patient avec ma sœur"],
+        [
+          "I am going to be patient with my sister",
+          "I'm going to be patient with my sister"
+        ]
+      ],
+      [
+        ["Je vais faire du sport"],
+        ["I am going to do sport", "I'm going to do sport"]
+      ],
+      [
+        ["Je vais laisser mon smartphone dans ma chambre"],
+        [
+          "I am going to leave my smartphone in my room",
+          "I'm going to leave my smartphone in my room"
+        ]
+      ],
+      [
+        ["Je vais finir mes devoirs le soir"],
+        [
+          "I am going to finish my homework in the evening",
+          "I'm going to finish my homework in the evening"
+        ]
+      ],
+      [
+        ["Nous allons acheter des pommes"],
+        ["We are going to buy apples", "We're going to buy apples"]
+      ],
+      [
+        ["Nous allons manger une galette des Rois"],
+        [
+          "We are going to eat a galette des Rois",
+          "We're going to eat a galette des Rois"
+        ]
+      ],
+      [
+        ["Tu vas passer le Nouvel An en France"],
+        [
+          "You are going to spend New Year in France",
+          "You're going to spend New Year in France"
+        ]
+      ],
+      [
+        ["Tu vas regarder le feu d'artifice"],
+        [
+          "You are going to watch the fireworks",
+          "You're going to watch the fireworks"
+        ]
+      ],
+      [
+        ["Ils vont danser jusqu'à minuit"],
+        [
+          "They are going to dance until midnight",
+          "They're going to dance until midnight"
+        ]
+      ],
+      [
+        ["Elles vont aider dans le jardin"],
+        [
+          "They are going to help in the garden",
+          "They're going to help in the garden"
+        ]
+      ],
+      [
+        ["On va faire du camping"],
+        ["We are going to go camping", "We're going to go camping"]
+      ],
+      [
+        ["Je passe le 31 décembre chez ma mère"],
+        ["I spend the 31st of December at my mum's"]
+      ],
+      [["Normalement"], ["Normally"]],
+      [["Toujours"], ["Always"]],
+      [["Le soir"], ["In the evening", "At night"]],
+      [["À minuit"], ["At midnight"]],
+      [["Le 31 décembre"], ["On 31st December"]],
+      [["Bonne année!"], ["Happy New Year!"]],
+      [["C'était vraiment délicieux"], ["It was really delicious"]],
+      [["C'était trop sucré"], ["It was too sweet"]]
+    ]
   ],
   "Year 9: Dynamo 3": [
     ["Vocab coming soon!", [["Vocab coming soon", "asdfghjk"]]]
