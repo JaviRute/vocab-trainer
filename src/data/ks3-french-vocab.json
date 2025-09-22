@@ -1908,179 +1908,70 @@
     ],
     [
       "4.1 Décris-moi ta famille",
+      [["ma famille"], ["my family"]],
+      [["une famille d'accueil"], ["a foster family", "foster family"]],
       [
-        ["la famille", "ma famille", "une famille"],
-        ["family", "my family", "a family"]
+        ["mon père", "mon papa"],
+        ["my father", "my dad"]
       ],
       [
-        [
-          "la famille d'accueil",
-          "ma famille d'accueil",
-          "une famille d'accueil"
-        ],
-        ["foster family", "my foster family", "a foster family"]
+        ["ma mère", "ma maman"],
+        ["my mother", "my mum"]
       ],
       [
-        ["le père", "mon père", "mon papa"],
-        ["father", "dad", "my father"]
+        ["mon beau-père", "mon beau papa"],
+        ["my stepfather", "my foster father"]
       ],
       [
-        ["la mère", "ma mère", "ma maman"],
-        ["mother", "mum", "my mother"]
+        ["ma belle-mère", "ma belle maman"],
+        ["my stepmother", "my foster mother"]
       ],
       [
-        ["le beau-père", "mon beau-père", "mon beau papa"],
-        ["stepfather", "my stepfather", "foster father"]
+        ["mon grand-père", "mon papi"],
+        ["my grandfather", "my granddad", "my grandpa"]
       ],
       [
-        ["la belle-mère", "ma belle-mère", "ma belle maman"],
-        ["stepmother", "my stepmother", "foster mother"]
+        ["ma grand-mère", "ma mamie"],
+        ["my grandmother", "my grandma", "my granny"]
       ],
-      [
-        ["le grand-père", "mon grand-père", "mon papi"],
-        ["grandfather", "granddad", "grandpa"]
-      ],
-      [
-        ["la grand-mère", "ma grand-mère", "ma mamie"],
-        ["grandmother", "grandma", "granny"]
-      ],
-      [
-        ["le frère", "mon frère", "un frère"],
-        ["brother", "my brother", "a brother"]
-      ],
-      [
-        ["la soeur", "ma soeur", "une soeur"],
-        ["sister", "my sister", "a sister"]
-      ],
+      [["mon frère"], ["my brother"]],
+      [["ma sœur", "ma soeur"], ["my sister"]],
       [
         ["le demi-frère", "mon demi-frère", "un demi-frère"],
         ["half-brother", "stepbrother", "a half-brother"]
       ],
       [
-        ["la demi-soeur", "ma demi-soeur", "une demi-soeur"],
-        ["half-sister", "stepsister", "a half-sister"]
+        ["ma demi-sœur", "ma demi-soeur"],
+        ["my stepsister", "my half-sister"]
       ],
+      [["le fils"], ["the son"]],
+      [["la fille"], ["the daughter"]],
+      [["mes parents", "mes géniteurs"], ["my parents"]],
+      [["Elle est petite"], ["She is small", "She is little", "She is short"]],
+      [["Il est grand"], ["He is tall", "He is big", "He is large"]],
       [
-        ["le fils", "mon fils", "un fils"],
-        ["son", "my son", "a son"]
+        ["Elle est de taille moyenne"],
+        ["She is medium-sized", "She is average height", "She is medium height"]
       ],
+      [["Il a les yeux bleus"], ["He has blue eyes"]],
+      [["Elle a les yeux verts"], ["She has green eyes"]],
+      [["Il a les yeux marron"], ["He has brown eyes"]],
+      [["Elle a les cheveux longs"], ["She has long hair"]],
+      [["Il a les cheveux courts"], ["He has short hair"]],
+      [["Elle a les cheveux bouclés"], ["She has curly hair"]],
       [
-        ["la fille", "ma fille", "une fille"],
-        ["daughter", "my daughter", "a daughter"]
-      ],
-      [
-        ["les parents", "mes parents", "les géniteurs"],
-        ["parents", "my parents", "the parents"]
-      ],
-      [
-        ["Il/elle est petit(e)", "Il est petit", "Elle est petite"],
-        ["He/she is small", "He/she is little", "He/she is short"]
-      ],
-      [
-        ["Il/elle est grand(e)", "Il est grand", "Elle est grande"],
-        ["He/she is tall", "He/she is big", "He/she is large"]
-      ],
-      [
-        [
-          "Il/elle est de taille moyenne",
-          "Il est de taille moyenne",
-          "Elle est de taille moyenne"
-        ],
-        [
-          "He/she is medium-sized",
-          "He/she is average height",
-          "He/she is medium height"
-        ]
-      ],
-      [
-        [
-          "Il/elle a les yeux bleus",
-          "Il a les yeux bleus",
-          "Elle a les yeux bleus"
-        ],
-        ["He/she has blue eyes", "His/her eyes are blue", "Their eyes are blue"]
-      ],
-      [
-        [
-          "Il/elle a les yeux verts",
-          "Il a les yeux verts",
-          "Elle a les yeux verts"
-        ],
-        [
-          "He/she has green eyes",
-          "His/her eyes are green",
-          "Their eyes are green"
-        ]
-      ],
-      [
-        [
-          "Il/elle a les yeux marron",
-          "Il a les yeux marron",
-          "Elle a les yeux marron"
-        ],
-        [
-          "He/she has brown eyes",
-          "His/her eyes are brown",
-          "Their eyes are brown"
-        ]
-      ],
-      [
-        [
-          "Il/elle a les cheveux longs",
-          "Il a les cheveux longs",
-          "Elle a les cheveux longs"
-        ],
-        ["He/she has long hair", "His/her hair is long", "Their hair is long"]
-      ],
-      [
-        [
-          "Il/elle a les cheveux courts",
-          "Il a les cheveux courts",
-          "Elle a les cheveux courts"
-        ],
-        [
-          "He/she has short hair",
-          "His/her hair is short",
-          "Their hair is short"
-        ]
-      ],
-      [
-        [
-          "Il/elle a les cheveux bouclés",
-          "Il a les cheveux bouclés",
-          "Elle a les cheveux bouclés"
-        ],
-        [
-          "He/she has curly hair",
-          "His/her hair is curly",
-          "Their hair is curly"
-        ]
-      ],
-      [
-        [
-          "Il/elle porte des lunettes",
-          "Il porte des lunettes",
-          "Elle porte des lunettes"
-        ],
-        [
-          "He/she wears glasses",
-          "He/she has glasses",
-          "He/she is wearing glasses"
-        ]
+        ["Il porte des lunettes"],
+        ["He wears glasses", "He has glasses", "He is wearing glasses"]
       ]
     ],
     [
       "4.2 Où habites-tu?",
       [
-        ["Où habites-tu", "Tu habites où", "Où est-ce que tu habites"],
-        ["Where do you live", "Where are you living", "Where do you stay"]
+        ["Où habites-tu?", "Tu habites où?", "Où est-ce que tu habites?"],
+        ["Where do you live?", "Where are you living?", "Where do you stay?"]
       ],
       [
-        [
-          "J'habite en Angleterre",
-          "J'habite à Londres",
-          "Je vis en Angleterre"
-        ],
+        ["J'habite en Angleterre", "Je vis en Angleterre"],
         ["I live in England", "I'm living in England", "I stay in England"]
       ],
       [
@@ -2092,19 +1983,11 @@
         ["I live in Wales", "I'm living in Wales", "I stay in Wales"]
       ],
       [
-        [
-          "J'habite dans un appartement",
-          "J'habite dans un petit appartement",
-          "Je vis dans un appartement"
-        ],
+        ["J'habite dans un appartement", "Je vis dans un appartement"],
         ["I live in a flat", "I live in an apartment", "I'm living in a flat"]
       ],
       [
-        [
-          "J'habite dans une maison",
-          "J'habite dans une grande maison",
-          "Je vis dans une maison"
-        ],
+        ["J'habite dans une maison", "Je vis dans une maison"],
         ["I live in a house", "I'm living in a house", "I stay in a house"]
       ],
       [
@@ -2116,24 +1999,27 @@
         ["We live in a house", "We're living in a house", "We stay in a house"]
       ],
       [
-        ["J'aime habiter ici", "J'adore habiter ici", "J'aime vivre ici"],
-        ["I like living here", "I love living here", "I enjoy living here"]
+        ["J'aime habiter ici", "J'aime vivre ici"],
+        ["I like living here", "I enjoy living here"]
       ],
       [
-        [
-          "Je n'aime pas habiter ici",
-          "Je déteste habiter ici",
-          "Je n'aime pas vivre ici"
-        ],
+        ["Je n'aime pas habiter ici", "Je n'aime pas vivre ici"],
         [
           "I don't like living here",
-          "I hate living here",
+          "I do not like living here",
           "I don't enjoy living here"
         ]
       ],
       [
         ["C'est tranquille", "C'est calme", "C'est paisible"],
-        ["It's peaceful", "It's quiet", "It's calm"]
+        [
+          "It's peaceful",
+          "It's quiet",
+          "It's calm",
+          "It is peaceful",
+          "It is quiet",
+          "It is calm"
+        ]
       ],
       [
         ["C'est grand", "C'est spacieux", "C'est immense"],
@@ -2145,7 +2031,14 @@
       ],
       [
         ["C'est trop petit", "C'est minuscule", "C'est étroit"],
-        ["It's too small", "It's tiny", "It's cramped"]
+        [
+          "It's too small",
+          "It's tiny",
+          "It's cramped",
+          "It's very small",
+          "It is too small",
+          "It is very small"
+        ]
       ],
       [
         [
@@ -2153,54 +2046,37 @@
           "Il n'y a pas assez de place",
           "Il n'y a pas d'espace"
         ],
-        ["There's no space", "There's no room", "There isn't enough space"]
-      ],
-      [
-        ["le salon", "un salon", "la salle de séjour"],
-        ["the living room", "a living room", "the lounge"]
-      ],
-      [
-        ["la cuisine", "une cuisine", "ma cuisine"],
-        ["the kitchen", "a kitchen", "my kitchen"]
-      ],
-      [
-        ["la chambre", "une chambre", "ma chambre"],
-        ["the bedroom", "a bedroom", "my bedroom"]
-      ],
-      [
-        ["la salle de bains", "une salle de bains", "ma salle de bains"],
-        ["the bathroom", "a bathroom", "my bathroom"]
-      ],
-      [
-        ["la salle à manger", "une salle à manger", "ma salle à manger"],
-        ["the dining room", "a dining room", "my dining room"]
-      ],
-      [
-        ["le jardin", "un jardin", "mon jardin"],
-        ["the garden", "a garden", "my garden"]
-      ],
-      [
         [
-          "Dans ma maison, il y a trois pièces",
-          "Il y a trois pièces dans ma maison",
-          "Ma maison a trois pièces"
-        ],
-        [
-          "In my house, there are three rooms",
-          "My house has three rooms",
-          "There are three rooms in my house"
+          "There's no space",
+          "There's no room",
+          "There is no space",
+          "There is no room",
+          "There isn't enough space"
         ]
       ],
       [
+        ["le salon", "la salle de séjour"],
+        ["the living room", "the lounge"]
+      ],
+      [["la cuisine"], ["the kitchen"]],
+      [["ma chambre"], ["my bedroom", "my room"]],
+      [["la salle de bains"], ["the bathroom"]],
+      [["la salle à manger"], ["the dining room"]],
+      [["le jardin"], ["the garden"]],
+      [
+        ["Dans ma maison, il y a trois pièces"],
         [
-          "Il y a un salon et une cuisine",
-          "Dans ma maison, il y a un salon et une cuisine",
-          "J'ai un salon et une cuisine"
-        ],
+          "In my house, there are three rooms",
+          "In my house there are three rooms",
+          "In my house, there are three bedrooms",
+          "In my house there are three bedrooms"
+        ]
+      ],
+      [
+        ["Il y a un salon et une cuisine"],
         [
-          "There is a living room and a kitchen",
-          "In my house, there is a living room and a kitchen",
-          "I have a living room and a kitchen"
+          "There's a living room and a kitchen",
+          "There is a living room and a kitchen"
         ]
       ],
       [
@@ -2211,7 +2087,7 @@
         ],
         [
           "We eat in the garden",
-          "We have meals in the garden",
+          "We have a meal in the garden",
           "We're eating in the garden"
         ]
       ],
@@ -2230,58 +2106,55 @@
       [
         [
           "J'aime ma maison parce que c'est tranquille",
-          "J'adore ma maison car c'est calme",
+          "J'aime ma maison parce que c'est calme",
           "J'aime ma maison parce qu'elle est paisible"
         ],
         [
           "I like my house because it's peaceful",
-          "I love my house because it's calm",
-          "I like my house because it's quiet"
+          "I like my house because it's calm",
+          "I like my house because it's quiet",
+          "I like my house because it is peaceful",
+          "I like my house because it is calm",
+          "I like my house because it is quiet"
         ]
       ],
       [
         [
-          "Je n'aime pas mon appartement parce qu'il est trop petit",
-          "Je déteste mon appartement car il est trop petit",
-          "Je n'aime pas mon appartement parce qu'il est minuscule"
+          "Je deteste mon appartement parce qu'il est trop petit",
+          "Je déteste mon appartement car il est trop petit"
         ],
         [
-          "I don't like my flat because it's too small",
           "I hate my flat because it's too small",
-          "I don't like my apartment because it's tiny"
+          "I hate my flat because it is too small",
+          "I hate my apartment because it's too small",
+          "I hate my apartment because it is too small"
         ]
       ]
     ],
     [
-      "4.3 Qu'est-ce que tu manges au petit déjeuner",
+      "4.3 Qu'est-ce que tu manges au petit déjeuner?",
       [
         [
-          "Qu'est-ce que tu manges au petit déjeuner",
-          "Tu manges quoi au petit déjeuner",
-          "Qu'est-ce que tu prends au petit déjeuner"
+          "Qu'est-ce que tu manges au petit déjeuner?",
+          "Tu manges quoi au petit déjeuner?",
+          "Qu'est-ce que tu prends au petit déjeuner?"
         ],
         [
-          "What do you have for breakfast",
-          "What are you having for breakfast",
-          "What do you eat for breakfast"
+          "What do you have for breakfast?",
+          "What are you having for breakfast?",
+          "What do you eat for breakfast?"
         ]
       ],
       [
-        ["Je mange un croissant", "Au petit déjeuner je mange un croissant"],
-        ["I eat a croissant", "For breakfast I eat a croissant"]
+        ["Au petit déjeuner je mange un croissant"],
+        ["For breakfast I eat a croissant"]
       ],
+      [["Je mange un fruit"], ["I eat a piece of fruit"]],
       [
-        ["Je mange un fruit", "Au petit déjeuner je mange un fruit"],
-        ["I eat a piece of fruit", "For breakfast I eat fruit"]
+        ["Je mange du pain grillé", "Je prends du pain grillé"],
+        ["I eat toast", "I have toast"]
       ],
-      [
-        ["Je mange du pain", "Je mange du pain grillé", "Je prends du pain"],
-        ["I eat bread", "I eat toast", "I have bread"]
-      ],
-      [
-        ["Je mange du beurre", "Je prends du beurre"],
-        ["I eat butter", "I have butter"]
-      ],
+      [["beurre"], ["butter"]],
       [
         ["Je mange du bacon", "Je prends du bacon"],
         ["I eat bacon", "I have bacon"]
@@ -2292,43 +2165,31 @@
       ],
       [
         ["Je mange une tartine", "Je prends une tartine"],
-        ["I eat a slice of bread with jam", "I have a tartine"]
+        ["I eat a slice of bread", "I have a slice of bread"]
       ],
-      [
-        ["Je mange de la confiture", "Je prends de la confiture"],
-        ["I eat jam", "I have jam"]
-      ],
+      [["confiture"], ["jam", "marmalade"]],
       [
         ["Je mange des céréales", "Je prends des céréales"],
         ["I eat cereal", "I have cereal"]
       ],
-      [
-        ["Je mange des oeufs", "Je prends des oeufs"],
-        ["I eat eggs", "I have eggs"]
-      ],
+      [["des oeufs"], ["eggs", "some eggs"]],
       [
         ["Je bois du jus de fruits", "Je prends du jus de fruits"],
         ["I drink fruit juice", "I have fruit juice"]
       ],
-      [
-        ["Je bois du chocolat chaud", "Je prends du chocolat chaud"],
-        ["I drink hot chocolate", "I have hot chocolate"]
-      ],
-      [
-        ["Je bois du lait", "Je prends du lait"],
-        ["I drink milk", "I have milk"]
-      ],
+      [["chocolat chaud"], ["hot chocolate"]],
+      [["lait"], ["milk"]],
       [
         ["Je bois de l'eau", "Je prends de l'eau"],
         ["I drink water", "I have water"]
       ],
       [
         ["Je ne mange rien", "Je ne prends rien à manger"],
-        ["I don't eat anything", "I eat nothing"]
+        ["I don't eat anything", "I eat nothing", "I do not eat anything"]
       ],
       [
         ["Je ne bois rien", "Je ne prends rien à boire"],
-        ["I don't drink anything", "I drink nothing"]
+        ["I don't drink anything", "I drink nothing", "I do not drink anything"]
       ],
       [
         [
@@ -2357,19 +2218,33 @@
           "Je prends un petit déjeuner équilibré",
           "Je mange un petit déjeuner équilibré"
         ],
-        ["I have a healthy breakfast", "I eat a balanced breakfast"]
+        [
+          "I eat a healthy breakfast",
+          "I eat a balanced breakfast",
+          "I have a healthy breakfast",
+          "I have a balanced breakfast"
+        ]
       ],
       [
         ["Je saute le petit déjeuner", "Je ne prends pas de petit déjeuner"],
-        ["I skip breakfast", "I don't have breakfast"]
+        [
+          "I skip breakfast",
+          "I don't have breakfast",
+          "I do not have breakfast",
+          "I don't eat breakfast",
+          "I do not eat breakfast"
+        ]
       ],
       [
-        ["Je bois un café le matin", "Le matin je prends un café"],
-        ["I drink a coffee in the morning", "In the morning I have a coffee"]
+        ["Je bois un café le matin", "Je prends un café le matin"],
+        ["I drink a coffee in the morning", "I have a coffee in the morning"]
       ],
       [
         ["Mon petit déjeuner préféré c'est un croissant et du jus d'orange"],
-        ["My favourite breakfast is a croissant and orange juice"]
+        [
+          "My favourite breakfast is a croissant and orange juice",
+          "My preferred breakfast is a croissant and orange juice"
+        ]
       ]
     ],
     [
@@ -2384,88 +2259,121 @@
       ],
       [
         ["un jour de congé", "un jour sans école", "un jour sans travail"],
-        ["a day off", "a day without school", "a holiday from work"]
+        ["a day off", "a day without school", "a day without work"]
       ],
       [
-        ["un défilé", "un défilé militaire", "le défilé"],
-        ["a parade", "a military parade", "the parade"]
+        ["un défilé", "un défilé militaire"],
+        ["a parade", "a military parade"]
       ],
+      [["un bal"], ["a dance"]],
       [
-        ["un bal", "un bal populaire", "un bal au centre-ville"],
-        ["a dance", "a street dance", "a town dance"]
+        ["regarder un feu d'artifice", "voir un feu d'artifice"],
+        ["to watch fireworks", "to see fireworks"]
       ],
+      [["faire un pique-nique"], ["to have a picnic"]],
+      [["faire la fête"], ["to celebrate", "to party"]],
       [
-        [
-          "regarder un feu d'artifice",
-          "voir un feu d'artifice",
-          "assister à un feu d'artifice"
-        ],
-        ["to watch fireworks", "to see fireworks", "to attend fireworks"]
+        ["Aujourd'hui, c'est le 14 juillet"],
+        ["Today is Bastille Day", "Today is the 14th of July"]
       ],
-      [
-        [
-          "faire un pique-nique",
-          "nous faisons un pique-nique",
-          "organiser un pique-nique"
-        ],
-        ["to have a picnic", "we have a picnic", "to organise a picnic"]
-      ],
-      [
-        ["faire la fête", "nous faisons la fête", "on fait la fête"],
-        ["to celebrate", "we celebrate", "to party"]
-      ],
-      [["Aujourd'hui, c'est le 14 juillet"], ["Today is the 14th of July"]],
       [
         ["En France, c'est la fête nationale"],
         ["In France, it is the national holiday"]
       ],
       [
         ["C'est l'anniversaire de la Révolution française"],
-        ["It is the anniversary of the French Revolution"]
+        [
+          "It's the anniversary of the French Revolution",
+          "It is the anniversary of the French Revolution"
+        ]
       ],
       [
         ["Le matin, nous regardons le défilé militaire à la télé"],
-        ["In the morning we watch the military parade on TV"]
+        [
+          "In the morning we watch the military parade on TV",
+          "In the morning, we watch the military parade on TV",
+          "In the morning we watch the military parade on television",
+          "In the morning, we watch the military parade on television"
+        ]
       ],
       [["Il y a 4000 militaires"], ["There are 4000 soldiers"]],
       [
         ["Le soir, il y a un bal au centre-ville"],
-        ["In the evening there is a dance in the town centre"]
+        [
+          "In the evening there's a dance in the town centre",
+          "In the evening, there's a dance in the town centre",
+          "In the evening there is a dance in the town centre",
+          "In the evening, there is a dance in the town centre"
+        ]
       ],
-      [["Nous écoutons l'orchestre"], ["We listen to the orchestra"]],
-      [["Nous faisons la fête jusqu'à 23h"], ["We celebrate until 11pm"]],
+      [
+        ["Nous écoutons l'orchestre"],
+        ["We listen to the orchestra", "We listen the orchestra"]
+      ],
+      [
+        ["Nous faisons la fête jusqu'à 23h"],
+        ["We celebrate until 11pm", "We celebrate until 11pm"]
+      ],
       [
         ["Puis, à 23h, nous regardons le feu d'artifice"],
-        ["Then, at 11pm, we watch the fireworks"]
+        [
+          "Then, at 11pm, we watch the fireworks",
+          "Then, at 11pm, we see the fireworks"
+        ]
       ],
-      [["Après, nous rentrons à la maison"], ["Afterwards we go home"]],
+      [
+        ["Après, nous rentrons à la maison"],
+        [
+          "Afterwards, we go home",
+          "Afterwards, we go back home",
+          "Afterwards, we return home"
+        ]
+      ],
       [
         ["C'est mon jour préféré de l'année"],
-        ["It is my favourite day of the year"]
+        [
+          "It is my favourite day of the year",
+          "It's my favourite day of the year"
+        ]
       ],
       [
         ["Nous mangeons des pains au chocolat et des croissants"],
-        ["We eat chocolate croissants and croissants"]
+        [
+          "We eat pains au chocolat and croissants",
+          "We eat chocolate pastries and croissants"
+        ]
       ],
       [
         ["Nous mangeons de la salade et une tarte aux prunes"],
-        ["We eat salad and a plum tart"]
+        ["We eat salad and a plum tart", "We eat salad and a plum cake"]
       ],
       [
         ["C'est très amusant", "C'est très drôle"],
-        ["It is very fun", "It is very funny"]
+        [
+          "It's very fun",
+          "It's very funny",
+          "It is very fun",
+          "It is very funny"
+        ]
       ],
-      [
-        ["C'est ennuyeux", "C'est nul"],
-        ["It is boring", "It is rubbish"]
-      ],
+      [["C'est ennuyeux"], ["It's boring", "It is boring"]],
       [
         ["On célèbre le 14 juillet en famille"],
-        ["We celebrate the 14th of July with family"]
+        [
+          "We celebrate Bastille Day with our family",
+          "We celebrate the 14th of July with our family",
+          "We celebrate Bastille Day with family",
+          "We celebrate the 14th of July with family"
+        ]
       ],
       [
         ["On regarde le feu d'artifice avec des amis"],
-        ["We watch the fireworks with friends"]
+        [
+          "We watch the fireworks with our friends",
+          "We watch the fireworks with friends",
+          "We see the fireworks with our friends",
+          "We see the fireworks with friends"
+        ]
       ]
     ],
     [
@@ -2483,46 +2391,43 @@
         ["funny", "amusing"]
       ],
       [["sévère"], ["strict", "severe"]],
-      [["maigre"], ["thin", "skinny"]],
+      [["maigre"], ["skinny", "thin", "scrawny"]],
       [
         ["furieux", "furieuse"],
         ["angry", "furious"]
       ],
-      [
-        ["il habite", "lui, il habite"],
-        ["he lives", "he is living"]
-      ],
+      [["il habite"], ["he lives", "he is living"]],
       [["elle habite"], ["she lives", "she is living"]],
       [["ils habitent"], ["they live", "they are living"]],
       [
         ["Il est grincheux", "Il est grognon"],
         ["He is grumpy", "He is grouchy"]
       ],
-      [
-        ["Elle est studieuse", "Elle travaille beaucoup"],
-        ["She is studious", "She works hard"]
-      ],
+      [["Elle est studieuse"], ["She's studious", "She is studious"]],
       [
         ["Il est marrant", "Il est drôle"],
-        ["He is funny", "He is amusing"]
+        ["He's funny", "He's amusing", "He is funny", "He is amusing"]
       ],
       [["Mon grand-père est sévère"], ["My grandfather is strict"]],
       [
         ["Elle est maigre", "Elle est très mince"],
-        ["She is thin", "She is very slim"]
+        ["She's skinny", "She's thin", "She is skinny", "She is thin"]
       ],
       [
         ["Il est furieux", "Il est en colère"],
-        ["He is angry", "He is furious"]
+        ["He's angry", "He's furious", "He is angry", "He is furious"]
       ],
       [
         ["Cédric habite dans une grande maison"],
         ["Cédric lives in a big house"]
       ],
-      [["Robert est grand et maigre"], ["Robert is tall and thin"]],
+      [
+        ["Robert est grand et maigre"],
+        ["Robert is tall and skinny", "Robert is tall and thin"]
+      ],
       [
         ["Pépé est marrant", "Mon grand-père est marrant"],
-        ["Grandpa is funny", "My grandfather is funny"]
+        ["My grandpa is funny", "My grandfather is funny"]
       ],
       [["Marie-Rose est sévère"], ["Marie-Rose is strict"]],
       [
@@ -2535,88 +2440,81 @@
       ],
       [
         ["Elle est grande et elle a les cheveux blonds"],
-        ["She is tall and she has blond hair"]
+        [
+          "She's tall and she has blond hair",
+          "She is tall and she has blond hair"
+        ]
       ],
       [
         ["Il adore ses copains Chen et Christian"],
         ["He loves his friends Chen and Christian"]
       ],
-      [["Ils regardent la télé ensemble"], ["They watch TV together"]],
+      [
+        ["Ils regardent la télé ensemble"],
+        ["They watch TV together", "They watch television together"]
+      ],
       [
         ["C'est une drôle de famille"],
-        ["It is a funny family", "It is a strange family"]
+        [
+          "It's a strange family",
+          "It's an odd family",
+          "It is a strange family",
+          "It is an odd family"
+        ]
       ]
     ],
     [
       "5.0 Point de départ",
       [
         [
-          "Qu'est-ce qu'il y a dans ta ville",
-          "Qu'est-ce qu'il y a dans ton village",
-          "Il y a quoi dans ta ville"
+          "Qu'est-ce qu'il y a dans ta ville?",
+          "Qu'est-ce qu'il y a dans ton village?",
+          "Il y a quoi dans ta ville?"
         ],
         [
-          "What is there in your town",
-          "What is there in your village",
+          "What's there in your town?",
+          "What's there in your village?",
+          "What is there in your town?",
+          "What is there in your village?",
           "What's in your town"
         ]
       ],
       [
+        ["Il y a un centre de loisirs"],
+        ["There's a leisure centre", "There is a leisure centre"]
+      ],
+      [
+        ["Il y a un centre commercial"],
+        ["There's a shopping centre", "There is a shopping centre"]
+      ],
+      [
+        ["Dans mon village il y a un château"],
+        ["In my village there's a castle", "In my village there is a castle"]
+      ],
+      [
+        ["Dans ma ville il y a un marché"],
+        ["In my town there's a market", "In my town there is a market"]
+      ],
+      [["un musée"], ["a museum"]],
+      [["mosquée"], ["a mosque"]],
+      [["une patinoire"], ["an ice rink"]],
+      [["une piscine"], ["a swimming pool", "a pool"]],
+      [["Il y a des magasins"], ["There are some shops"]],
+      [
+        ["Dans ma ville il n'y a pas de café"],
         [
-          "Il y a un centre de loisirs",
-          "Dans ma ville il y a un centre de loisirs"
-        ],
-        ["There is a leisure centre", "In my town there is a leisure centre"]
+          "In my town there's no café",
+          "In my town there is no café",
+          "In my town there isn't a café"
+        ]
       ],
       [
-        [
-          "Il y a un centre commercial",
-          "Dans ma ville il y a un centre commercial"
-        ],
-        ["There is a shopping centre", "In my town there is a shopping centre"]
-      ],
-      [
-        ["Il y a un château", "Dans mon village il y a un château"],
-        ["There is a castle", "In my village there is a castle"]
-      ],
-      [
-        ["Il y a un marché", "Dans ma ville il y a un marché"],
-        ["There is a market", "In my town there is a market"]
-      ],
-      [
-        ["Il y a un musée", "Dans ma ville il y a un musée"],
-        ["There is a museum", "In my town there is a museum"]
-      ],
-      [
-        ["Il y a une mosquée", "Dans ma ville il y a une mosquée"],
-        ["There is a mosque", "In my town there is a mosque"]
-      ],
-      [
-        ["Il y a une patinoire", "Dans ma ville il y a une patinoire"],
-        ["There is an ice rink", "In my town there is an ice rink"]
-      ],
-      [
-        ["Il y a une piscine", "Dans ma ville il y a une piscine"],
-        ["There is a swimming pool", "In my town there is a swimming pool"]
-      ],
-      [
-        ["Il y a des magasins", "Dans ma ville il y a des magasins"],
-        ["There are some shops", "In my town there are shops"]
-      ],
-      [
-        ["Il n'y a pas de café", "Dans ma ville il n'y a pas de café"],
-        ["There isn't a café", "There is no café"]
-      ],
-      [
-        [
-          "Il n'y a pas de magasins",
-          "Dans mon village il n'y a pas de magasins"
-        ],
+        ["Il n'y a pas de magasins"],
         ["There aren't any shops", "There are no shops"]
       ],
       [
-        ["Il n'y a pas d'église", "Dans mon village il n'y a pas d'église"],
-        ["There isn't a church", "There is no church"]
+        ["Il n'y a pas d'église"],
+        ["There isn't a church", "There is no church", "There's no church"]
       ],
       [["le prix"], ["the price"]],
       [
@@ -2629,51 +2527,73 @@
       ],
       [["un adulte"], ["an adult"]],
       [["un enfant"], ["a child"]],
-      [["moins de 12 ans"], ["less than 12 years old", "under 12"]],
       [
+        ["moins de 12 ans"],
         [
-          "C'est combien, l'entrée",
-          "Combien coûte l'entrée",
-          "Le prix de l'entrée c'est combien"
-        ],
+          "less than 12 years old",
+          "under 12 years old",
+          "less than 12",
+          "under 12"
+        ]
+      ],
+      [
+        ["C'est combien, l'entrée?", "Combien coûte l'entrée?"],
         [
-          "How much is it to get in",
-          "How much does the entry cost",
-          "What's the entry price"
+          "How much is it to get in?",
+          "How much does the entry cost?",
+          "How much is the entry?"
         ]
       ],
       [
         ["J'adore habiter ici parce que c'est amusant"],
-        ["I love living here because it's fun"]
+        [
+          "I love living here because it's fun",
+          "I love living here because it is fun"
+        ]
       ],
       [
         ["Je déteste ma ville parce que c'est trop petit"],
-        ["I hate my town because it's too small"]
+        [
+          "I hate my town because it's too small",
+          "I hate my town because it is too small"
+        ]
       ],
       [["J'habite dans une grande ville"], ["I live in a big town"]],
       [["J'habite dans un petit village"], ["I live in a small village"]],
       [
         ["Dans ma ville, il n'y a pas de piscine et c'est nul"],
-        ["In my town there isn't a swimming pool and it's rubbish"]
+        [
+          "In my town there isn't a swimming pool and it's rubbish",
+          "In my town there's no swimming pool and it's rubbish",
+          "In my town there is no a swimming pool and it is rubbish",
+          "In my town, there isn't a swimming pool and it's rubbish",
+          "In my town, there's no swimming pool and it's rubbish",
+          "In my town, there is no a swimming pool and it is rubbish"
+        ]
       ]
     ],
     [
       "5.1 Où vas-tu le weekend?",
       [
         [
-          "Où vas-tu le weekend",
-          "Tu vas où le weekend",
-          "Où est-ce que tu vas le weekend"
+          "Où vas-tu le weekend?",
+          "Tu vas où le weekend?",
+          "Où est-ce que tu vas le weekend?"
         ],
-        ["Where do you go at the weekend", "Where are you going at the weekend"]
+        [
+          "Where do you go at the weekend?",
+          "Where are you going at the weekend?",
+          "Where do you go on the weekend?",
+          "Where are you going on the weekend?"
+        ]
       ],
       [["Je vais au bowling"], ["I go to the bowling alley"]],
       [["Je vais au cinéma"], ["I go to the cinema"]],
       [["Je vais au parc"], ["I go to the park"]],
-      [["Je vais au stade"], ["I go to the stadium"]],
-      [["Je vais à la piscine"], ["I go to the swimming pool"]],
-      [["Je vais à la plage"], ["I go to the beach"]],
-      [["Je vais à l'église"], ["I go to the church"]],
+      [["au stade"], ["to the stadium"]],
+      [["à la piscine"], ["to the swimming pool"]],
+      [["à la plage"], ["to the beach"]],
+      [["à l'église"], ["to the church"]],
       [["Je vais aux magasins"], ["I go to the shops"]],
       [["le samedi matin"], ["on Saturday morning"]],
       [["le samedi après-midi"], ["on Saturday afternoon"]],
@@ -2690,10 +2610,16 @@
         ["Nous allons au château de Versailles"],
         ["We go to the Palace of Versailles"]
       ],
-      [["Ils vont au musée du Louvre"], ["They go to the Louvre museum"]],
+      [
+        ["Ils vont au musée du Louvre"],
+        ["They go to the Louvre museum", "They go to musée du Louvre"]
+      ],
       [
         ["Mon père va au stade du Parc des Princes"],
-        ["My dad goes to the Parc des Princes stadium"]
+        [
+          "My dad goes to the Parc des Princes stadium",
+          "My dad goes to the stade du Parc des Princes"
+        ]
       ],
       [
         ["Le samedi matin je vais au parc ou à la plage"],
@@ -2709,56 +2635,100 @@
       ],
       [
         ["Le dimanche soir je reste à la maison"],
-        ["On Sunday evenings I stay at home"]
+        ["On Sunday evenings I stay at home", "On Sunday nights I stay at home"]
       ],
       [
         ["On ne va pas au bowling parce que c'est ennuyeux"],
-        ["We don't go bowling because it's boring"]
+        [
+          "We don't go bowling because it's boring",
+          "We do not go bowling because it is boring",
+          "We don't go bowling alley because it's boring",
+          "We do not go bowling alley because it is boring"
+        ]
       ]
     ],
     [
       "5.2 Tu veux aller au café?",
       [
-        ["Tu veux aller au café", "Tu veux aller prendre un café"],
-        ["Do you want to go to the café", "Do you want to go for a coffee"]
+        ["Tu veux aller au café?"],
+        ["Do you want to go to the café?", "Would you like to go to the café?"]
       ],
-      [["Tu veux venir"], ["Do you want to come"]],
+      [["Tu veux venir?"], ["Do you want to come?", "Would you like to come?"]],
       [
-        ["Tu veux aller au cinéma ce soir"],
-        ["Do you want to go to the cinema this evening"]
+        ["Tu veux aller au cinéma ce soir?"],
+        [
+          "Do you want to go to the cinema this evening?",
+          "Would you like to go to the cinema this evening?"
+        ]
       ],
       [
-        ["Tu veux aller à la piscine"],
-        ["Do you want to go to the swimming pool"]
+        ["Tu veux aller à la piscine?"],
+        [
+          "Do you want to go to the swimming pool?",
+          "Would you like to go to the swimming pool?"
+        ]
       ],
-      [["Tu veux aller à la patinoire"], ["Do you want to go to the ice rink"]],
-      [["Tu veux aller au musée"], ["Do you want to go to the museum"]],
+      [
+        ["Tu veux aller à la patinoire?"],
+        [
+          "Do you want to go to the ice rink?",
+          "Would you like to go to the ice rink?"
+        ]
+      ],
+      [
+        ["Tu veux aller au musée?"],
+        [
+          "Do you want to go to the museum?",
+          "Would you like to go to the museum?"
+        ]
+      ],
       [["aujourd'hui"], ["today"]],
       [["ce matin"], ["this morning"]],
       [["cet après-midi"], ["this afternoon"]],
       [["ce soir"], ["this evening"]],
       [["ce weekend"], ["this weekend"]],
       [
-        ["Rendez-vous à quelle heure"],
-        ["What time will we meet", "What time shall we meet"]
+        ["Rendez-vous à quelle heure?"],
+        [
+          "What time will we meet?",
+          "What time shall we meet?",
+          "What time are we meeting?",
+          "What time do we meet?"
+        ]
       ],
       [
         ["Rendez-vous à 15 heures", "On se retrouve à 15 heures"],
-        ["Let's meet at 3 o'clock", "We meet at 3 o'clock"]
+        [
+          "Let's meet at 3 o'clock",
+          "We meet at 3 o'clock",
+          "Let's meet at 3pm",
+          "We meet at 3pm"
+        ]
       ],
-      [["Merci. Bonne idée"], ["Thank you. Good idea"]],
-      [["Oui, je veux bien"], ["Yes, I want to", "Yes, I'd like to"]],
+      [["Merci. Bonne idée"], ["Thank you. Good idea", "Thanks. Good idea"]],
+      [
+        ["Oui, je veux bien"],
+        ["Yes, I want to", "Yes, I'd like to", "Yes, I would like to"]
+      ],
       [["D'accord"], ["OK", "Alright"]],
       [["Pourquoi pas"], ["Why not"]],
-      [["Non, merci"], ["No, thanks"]],
+      [["Non, merci"], ["No, thanks", "No, thank you"]],
       [["Désolé", "Désolée"], ["Sorry"]],
-      [["Je ne veux pas"], ["I don't want to"]],
-      [["Tu rigoles"], ["You're joking"]],
-      [["Tu rigoles, c'est nul"], ["You're joking, that's rubbish"]],
+      [["Je ne veux pas"], ["I don't want to", "I do not want to"]],
+      [
+        ["Tu rigoles"],
+        ["You're joking", "You're kidding", "You are joking", "You are kidding"]
+      ],
+      [["C'est nul"], ["That's rubbish", "That is rubbish"]],
       [["Je veux aller à la patinoire"], ["I want to go to the ice rink"]],
       [
         ["On se retrouve au parc cet après-midi"],
-        ["Let's meet at the park this afternoon"]
+        [
+          "Let's meet at the park this afternoon",
+          "We'll meet at the park this afternoon",
+          "We will meet at the park this afternoon",
+          "We are meeting at the park this afternoon"
+        ]
       ],
       [
         ["Je veux faire de la natation cet après-midi"],
@@ -2773,8 +2743,8 @@
       ],
       [["Pardon, madame"], ["Excuse me, madam"]],
       [
-        ["Je voudrais un Orangina", "Pour moi un Orangina"],
-        ["I would like an Orangina", "For me an Orangina"]
+        ["Je voudrais un Orangina"],
+        ["I would like an Orangina", "I'd like an Orangina"]
       ],
       [["un diabolo menthe"], ["a mint cordial"]],
       [["une grenadine à l'eau"], ["a pomegranate cordial"]],
@@ -2794,10 +2764,19 @@
       [["une glace à la fraise"], ["a strawberry ice cream"]],
       [["une glace à la pistache"], ["a pistachio ice cream"]],
       [["des frites"], ["chips", "fries"]],
-      [["Et pour vous"], ["And for you"]],
-      [["C'est combien, s'il vous plaît"], ["How much is it, please"]],
-      [["Ça fait dix euros"], ["It comes to ten euros"]],
-      [["Voilà, merci"], ["Here you are, thanks"]]
+      [["Et pour vous?"], ["And for you?"]],
+      [["C'est combien, s'il vous plaît?"], ["How much is it, please?"]],
+      [
+        ["Ça fait dix euros"],
+        [
+          "It comes to ten euros",
+          "It's ten euros",
+          "That's ten euros",
+          "It is ten euros",
+          "That is ten euros"
+        ]
+      ],
+      [["Voilà, merci"], ["Here you are, thanks", "Here you are, thank you"]]
     ],
     [
       "5.4 Qu'est-ce que tu vas faire?",
@@ -2807,79 +2786,104 @@
       ],
       [
         ["Je vais visiter la cathédrale Notre Dame"],
-        ["I am going to visit Notre Dame Cathedral"]
+        [
+          "I'm going to visit Notre Dame Cathedral",
+          "I am going to visit Notre Dame Cathedral",
+          "I'm going to visit the Notre Dame Cathedral",
+          "I am going to visit the Notre Dame Cathedral"
+        ]
       ],
       [
         ["Je vais visiter la tour Eiffel"],
-        ["I am going to visit the Eiffel Tower"]
+        [
+          "I'm going to visit the Eiffel Tower",
+          "I am going to visit the Eiffel Tower"
+        ]
       ],
       [
         ["Je vais aller au musée du Louvre"],
-        ["I am going to go to the Louvre"]
+        [
+          "I'm going to go to the Louvre",
+          "I am going to go to the Louvre",
+          "I'm going to go to the Louvre museum",
+          "I am going to go to the Louvre museum"
+        ]
       ],
-      [["Je vais aller aux Catacombes"], ["I am going to go to the Catacombs"]],
+      [
+        ["Je vais aller aux Catacombes"],
+        [
+          "I'm going to go to the Catacombs",
+          "I am going to go to the Catacombs"
+        ]
+      ],
       [
         ["Je vais faire une balade en bateau-mouche"],
-        ["I am going to go on a boat trip on the Seine"]
+        ["I'm going to go on a boat trip", "I am going to go on a boat trip"]
       ],
-      [["Je vais prendre des photos"], ["I am going to take photos"]],
-      [["Je vais acheter des souvenirs"], ["I am going to buy souvenirs"]],
-      [["Je vais admirer la Joconde"], ["I am going to admire the Mona Lisa"]],
-      [["Je vais faire un pique-nique"], ["I am going to have a picnic"]],
+      [["prendre des photos"], ["to take photos"]],
+      [["acheter des souvenirs"], ["to buy souvenirs"]],
+      [
+        ["Je vais admirer la Joconde"],
+        [
+          "I'm going to admire the Mona Lisa",
+          "I am going to admire the Mona Lisa"
+        ]
+      ],
+      [
+        ["faire un pique-nique"],
+        ["to have a picnic", "to do a picnic", "to make a picnic"]
+      ],
       [
         ["Nous allons visiter la tour Eiffel"],
-        ["We are going to visit the Eiffel Tower"]
+        [
+          "We're going to visit the Eiffel Tower",
+          "We are going to visit the Eiffel Tower"
+        ]
       ],
+      [["D'abord"], ["First", "First of all"]],
+      [["Ensuite"], ["Then", "afterwards", "after", "later"]],
+      [["Après"], ["Afterwards", "After"]],
+      [["Puis"], ["Then"]],
       [
-        ["D'abord, je vais visiter le Louvre"],
-        ["First, I am going to visit the Louvre"]
+        ["S'il fait beau"],
+        [
+          "If the weather's nice",
+          "If the weather is nice",
+          "If the weather's good",
+          "If the weather is good",
+          "If it's nice weather",
+          "If it is nice weather",
+          "If it's good weather",
+          "If it is good weather"
+        ]
       ],
+      [["S'il pleut"], ["If it rains"]],
       [
-        ["Ensuite, je vais visiter la tour Eiffel"],
-        ["Then, I am going to visit the Eiffel Tower"]
+        ["S'il fait chaud"],
+        ["If it's hot", "If it is hot", "If it's warm", "If it is warm"]
       ],
-      [
-        ["Après, je vais faire un pique-nique"],
-        ["Afterwards, I am going to have a picnic"]
-      ],
-      [
-        ["Puis, je vais visiter la cathédrale"],
-        ["Then, I am going to visit the cathedral"]
-      ],
-      [
-        ["S'il fait beau, je vais prendre des photos"],
-        ["If the weather is nice, I am going to take photos"]
-      ],
-      [
-        ["S'il pleut, je vais visiter le musée"],
-        ["If it rains, I am going to visit the museum"]
-      ],
-      [
-        ["S'il fait chaud, je vais manger une glace"],
-        ["If it is hot, I am going to eat an ice cream"]
-      ],
-      [
-        ["S'il fait froid, je vais boire un chocolat chaud"],
-        ["If it is cold, I am going to drink a hot chocolate"]
-      ],
+      [["S'il fait froid"], ["If it's cold", "If it is cold"]],
       [
         ["Je vais visiter Paris avec mes amis"],
-        ["I am going to visit Paris with my friends"]
+        [
+          "I'm going to visit Paris with my friends",
+          "I am going to visit Paris with my friends"
+        ]
       ],
-      [
-        ["Je vais visiter Paris avec ma famille"],
-        ["I am going to visit Paris with my family"]
-      ],
+      [["avec ma famille"], ["with my family"]],
       [
         ["Je vais envoyer des photos à mes copains"],
-        ["I am going to send photos to my friends"]
+        [
+          "I'm going to send photos to my friends",
+          "I am going to send photos to my friends"
+        ]
       ],
       [
         ["Je vais acheter des souvenirs pour mes parents"],
         ["I am going to buy souvenirs for my parents"]
       ],
-      [["d'abord"], ["first of all", "first"]],
-      [["ensuite"], ["afterwards", "after", "later"]]
+      [["Et toi"], ["And you?", "What about you?"]],
+      [["Finalement"], ["Finally"]]
     ],
     [
       "5.5 Je vais visiter Paris!",
