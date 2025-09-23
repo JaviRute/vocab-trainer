@@ -39,6 +39,7 @@ import ks3FrenchData from './data/ks3-french-vocab.json'
 import wrongSoundFile from './sound/wrong.mp3';
 import correctSoundFile from './sound/correct.mp3';
 import cheeringSoundFile from './sound/crowd-cheering5.mp3';
+import Alert24 from './components/Alert24';
 
 
 
@@ -113,6 +114,9 @@ function App() {
   const [schoolName, setSchoolName] = useState("");
   const [showUserInfo, setShowUserInfo] = useState(false);
 
+  // Alert when the user is about to win but has not entered name/class/school
+  const [showAlert, setShowAlert] = useState(false);
+
 
   // Sound-----------Sound---------------Sound----------------Sound---------------Sound--------------Sound---------
 
@@ -150,6 +154,10 @@ function App() {
 
   const handleCheck = () => {
     if(!gameOver) {
+      // This if statement is here to alert the user if they are about to win and have not entered their data
+      if (expressionsAnswered == 23 && !userName) {
+        handleAlert();
+      }
       // Cheat to beat the game instantly
       if (userResponse === "▼" || userResponse === "Ere un papafrita") {
         setRightAnswer(true);
@@ -422,6 +430,11 @@ function App() {
       setShowUserInfo(prevValue => !prevValue)
   }
 
+    // Switches the value of showAlert true/false
+  const handleAlert = () => {
+      setShowAlert(prevValue => !prevValue)
+  }
+
   // This function gets hold of the time at the exact completion time
   function handleComplete() {
     setCompletedAt(new Date());
@@ -566,6 +579,10 @@ function App() {
 
         {showUserInfo &&
           <UserInfo handleUserInfo={handleUserInfo} userName={userName} setUserName={setUserName} classCode={classCode} setClassCode={setClassCode} schoolName={schoolName} setSchoolName={setSchoolName} showUserInfo={showUserInfo} setShowUserInfo={setShowUserInfo}/>
+        }
+
+        {showAlert && 
+          <Alert24 language={language} handleAlert={handleAlert} />
         }
 
         <div className="footer-message">

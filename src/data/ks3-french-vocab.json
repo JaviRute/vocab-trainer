@@ -2895,14 +2895,15 @@
       [["le weekend prochain"], ["next weekend"]],
       [["samedi prochain"], ["next Saturday"]],
       [
-        ["Je vais jouer au basket"],
-        ["Je vais jouer au basketball"],
+        ["Je vais jouer au basket", "Je vais jouer au basketball"],
         ["I am going to play basketball", "I'm going to play basketball"]
       ],
       [
-        ["Je vais jouer au foot"],
-        ["Je vais jouer au football"],
-        ["Je vais jouer au soccer"],
+        [
+          "Je vais jouer au foot",
+          "Je vais jouer au football",
+          "Je vais jouer au soccer"
+        ],
         [
           "I am going to play football",
           "I'm going to play football",
@@ -2911,13 +2912,11 @@
         ]
       ],
       [
-        ["Je vais jouer au laser-tag"],
-        ["Je vais faire du laser-tag"],
+        ["Je vais jouer au laser-tag", "Je vais faire du laser-tag"],
         ["I am going to play laser-tag", "I'm going to play laser-tag"]
       ],
       [
-        ["Je vais manger un gâteau"],
-        ["Je vais manger du gâteau"],
+        ["Je vais manger un gâteau", "Je vais manger du gâteau"],
         ["I am going to eat a cake", "I'm going to eat a cake"]
       ],
       [
@@ -2929,8 +2928,7 @@
         ]
       ],
       [
-        ["Je vais manger une glace"],
-        ["Je vais manger de la glace"],
+        ["Je vais manger une glace", "Je vais manger de la glace"],
         [
           "I am going to eat an ice cream",
           "I'm going to eat an ice cream",
@@ -2950,8 +2948,7 @@
         ]
       ],
       [
-        ["Je vais faire un tour en Segway"],
-        ["Je vais faire du Segway"],
+        ["Je vais faire un tour en Segway", "Je vais faire du Segway"],
         [
           "I am going to go on a Segway tour",
           "I'm going to go on a Segway tour",
@@ -2960,9 +2957,11 @@
         ]
       ],
       [
-        ["Je vais faire les magasins"],
-        ["Je vais aller faire les magasins"],
-        ["Je vais faire du shopping"],
+        [
+          "Je vais faire les magasins",
+          "Je vais aller faire les magasins",
+          "Je vais faire du shopping"
+        ],
         [
           "I am going to go shopping",
           "I'm going to go shopping",
@@ -2971,14 +2970,15 @@
         ]
       ],
       [
-        ["D'habitude, je joue au basket"],
-        ["Normalement, je joue au basket"],
+        ["D'habitude, je joue au basket", "Normalement, je joue au basket"],
         ["Usually, I play basketball", "Normally, I play basketball"]
       ],
       [
-        ["Normalement, je fais les magasins"],
-        ["D'habitude, je fais les magasins"],
-        ["Normalement, je fais du shopping"],
+        [
+          "Normalement, je fais les magasins",
+          "D'habitude, je fais les magasins",
+          "Normalement, je fais du shopping"
+        ],
         [
           "Normally, I go shopping",
           "Usually, I go shopping",
@@ -2994,8 +2994,10 @@
         ]
       ],
       [
-        ["Samedi prochain, je vais faire un tour en Segway"],
-        ["Samedi prochain, je vais faire du Segway"],
+        [
+          "Samedi prochain, je vais faire un tour en Segway",
+          "Samedi prochain, je vais faire du Segway"
+        ],
         [
           "Next Saturday, I am going to go on a Segway tour",
           "Next Saturday, I'm going to go on a Segway tour",
@@ -3011,8 +3013,10 @@
         ]
       ],
       [
-        ["Normalement, je regarde un film le weekend"],
-        ["D'habitude, je regarde un film le weekend"],
+        [
+          "Normalement, je regarde un film le weekend",
+          "D'habitude, je regarde un film le weekend"
+        ],
         [
           "Normally, I watch a film at the weekend",
           "Usually, I watch a film at the weekend",
@@ -3021,8 +3025,7 @@
         ]
       ],
       [
-        ["D'habitude, je mange une glace"],
-        ["Normalement, je mange une glace"],
+        ["D'habitude, je mange une glace", "Normalement, je mange une glace"],
         [
           "Usually, I eat an ice cream",
           "Normally, I eat an ice cream",
@@ -3031,8 +3034,10 @@
         ]
       ],
       [
-        ["Le weekend prochain, je vais jouer au volley"],
-        ["Le weekend prochain, je vais jouer au volleyball"],
+        [
+          "Le weekend prochain, je vais jouer au volley",
+          "Le weekend prochain, je vais jouer au volleyball"
+        ],
         [
           "Next weekend, I am going to play volleyball",
           "Next weekend, I'm going to play volleyball"
@@ -3092,18 +3097,12 @@
         [
           "I have two weeks of holiday",
           "I've got two weeks of holiday",
-          "I have a fortnight of holiday",
-          "I've got a fortnight of holiday"
+          "I have two weeks of holidays",
+          "I've got two weeks of holidays"
         ]
       ],
-      [
-        ["en janvier", "au mois de janvier"],
-        ["in January", "in Jan", "in Jan"]
-      ],
-      [
-        ["en février", "au mois de février"],
-        ["in February", "in Feb", "in Feb"]
-      ],
+      [["en janvier"], ["in January"]],
+      [["en février"], ["in February"]],
       [
         ["à Noël", "pendant Noël", "pour Noël"],
         ["at Christmas", "over Christmas", "for Christmas"]
@@ -3118,12 +3117,14 @@
           "I am on holiday",
           "I'm on holiday",
           "I am on vacation",
-          "I'm on vacation"
+          "I'm on vacation",
+          "I am on holidays",
+          "I'm on holidays"
         ]
       ],
       [
         ["au bord de la mer", "à la mer"],
-        ["at the seaside", "by the sea", "at the beach"]
+        ["at the seaside", "by the sea"]
       ],
       [
         ["à la montagne", "en montagne"],
@@ -3163,22 +3164,19 @@
       ],
       [
         [
-          "Je suis en colo avec mes copains; c'est marrant",
-          "Je suis en colonie de vacances avec mes copains; c'est marrant"
+          "Je suis en colo avec mes copains",
+          "Je suis en colonie de vacances avec mes copains"
         ],
         [
-          "I am at a holiday camp with my friends; it's funny",
-          "I'm at a holiday camp with my friends; it's funny",
-          "I am at a summer camp with my friends; it's fun",
-          "I'm at a summer camp with my friends; it's fun"
+          "I am at a holiday camp with my friends",
+          "I'm at a holiday camp with my friends",
+          "I am at a summer camp with my friends",
+          "I'm at a summer camp with my friends"
         ]
       ],
       [
-        ["Je suis chez mes grands-parents; c'est très sympa"],
-        [
-          "I am at my grandparents' house; it's very nice",
-          "I'm at my grandparents' house; it's very nice"
-        ]
+        ["Je suis chez mes grands-parents"],
+        ["I am at my grandparents' house", "I'm at my grandparents' house"]
       ],
       [
         ["Nous sommes à la campagne et c'est un peu ennuyeux"],
@@ -3188,26 +3186,24 @@
         ]
       ],
       [
-        [
-          "J'ai une semaine de vacances en janvier",
-          "J'ai 1 semaine de vacances en janvier"
-        ],
+        ["J'ai une semaine de vacances en janvier"],
         [
           "I have a week of holiday in January",
-          "I've got a week of holiday in January"
+          "I've got a week of holiday in January",
+          "I have a week of holidays in January",
+          "I've got a week of holidays in January"
         ]
       ],
       [
         [
           "Nous avons deux semaines de vacances en février",
-          "On a deux semaines de vacances en février",
-          "Nous avons 2 semaines de vacances en février"
+          "On a deux semaines de vacances en février"
         ],
         [
           "We have two weeks of holiday in February",
           "We've got two weeks of holiday in February",
-          "We have a fortnight of holiday in February",
-          "We've got a fortnight in February"
+          "We have two weeks of holidays in February",
+          "We've got two weeks of holidays in February"
         ]
       ],
 
@@ -3216,16 +3212,22 @@
         [
           "I am by the sea with my family",
           "I'm by the sea with my family",
-          "I am at the seaside with my family"
+          "I am at the seaside with my family",
+          "I'm at the seaside with my family"
         ]
       ],
 
       [
-        ["Je suis chez mes grands-parents avec mon père; c'est nul"],
+        ["Je suis chez mes grands-parents avec mon père"],
         [
-          "I am at my grandparents' with my dad; it is rubbish",
-          "I'm at my grandparents' with my dad; it's rubbish",
-          "it's rubbish"
+          "I am at my grandparents' with my dad",
+          "I'm at my grandparents' with my dad",
+          "I am at my grandparents' house with my dad",
+          "I'm at my grandparents' house with my dad",
+          "I am at my grandparents' with my father",
+          "I'm at my grandparents' with my father",
+          "I am at my grandparents' house with my father",
+          "I'm at my grandparents' house with my father"
         ]
       ],
       [
@@ -3266,23 +3268,33 @@
         ["Pendant les vacances, j'ai joué au foot"],
         [
           "During the holidays, I played football",
-          "During the holidays, I played soccer"
+          "During the holidays, I played soccer",
+          "During the vacations, I played football",
+          "During the vacations, I played soccer"
         ]
       ],
       [
         ["Pendant les vacances, j'ai nagé dans la piscine"],
-        ["During the holidays, I swam in the pool"]
+        [
+          "During the holidays, I swam in the pool",
+          "During the vacations, I swam in the pool"
+        ]
       ],
       [
         ["J'ai regardé un film à la télé"],
-        ["I watched a film on TV", "I watched a movie on TV"]
+        [
+          "I watched a film on TV",
+          "I watched a movie on TV",
+          "I watched a film on television",
+          "I watched a movie on television"
+        ]
       ],
       [
         ["J'ai préparé des pizzas avec mes amis"],
         ["I prepared pizzas with my friends", "I made pizzas with my friends"]
       ],
       [["J'ai chanté et j'ai dansé"], ["I sang and I danced"]],
-      [["J'ai crié youpi"], ["I shouted hooray", "I shouted woohoo"]],
+      [["plein d'activités"], ["loads of activities"]],
       [
         ["J'ai invité mes amis chez moi"],
         ["I invited my friends to my house", "I invited my friends round"]

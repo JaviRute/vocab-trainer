@@ -373,8 +373,8 @@ img {
 }
 
 .big-text-button {
-  width: 25%;
-  min-width: 60px;
+  width: 30%;
+  min-width: 80px;
 }
 
 .seconds-button {
@@ -661,6 +661,18 @@ img {
 }
 
 
+/*----------------ALERT--------------*/
+
+.alert {
+  background-color: rgb(211, 202, 209);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.alert .big-text-button {
+  background-color: rgb(255, 0, 0);
+}
+
 
 /* ---------------------- Responsiveness ---------------------*/
 
@@ -709,10 +721,10 @@ img {
     font-size: 16px;
   }
 
-    .big-text-button {
-      width: 24%;
-      min-width: 40px;
-    }
+  .big-text-button {
+    width: 27%;
+    min-width: 45px;
+  }
 
   .user-modal {
     width: 66%;

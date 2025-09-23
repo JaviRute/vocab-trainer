@@ -820,7 +820,10 @@
       [["moda"], ["fashion", "trend"]],
       [["mundo"], ["world"]],
       [["novela"], ["novel"]],
-      [["pasear"], ["to go for a walk", "to take a walk", "to stroll"]],
+      [
+        ["pasear"],
+        ["to go for a walk", "to take a walk", "to stroll", "to have a walk"]
+      ],
       [["pintar"], ["to paint"]],
       [["por ciento"], ["percent", "per cent"]],
       [["ropa"], ["clothing", "clothes"]],
