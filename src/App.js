@@ -155,7 +155,7 @@ function App() {
   const handleCheck = () => {
     if(!gameOver) {
       // This if statement is here to alert the user if they are about to win and have not entered their data
-      if (expressionsAnswered == 23 && !userName) {
+      if (remainingExpressions.length == 2 && !userName) {
         handleAlert();
       }
       // Cheat to beat the game instantly
