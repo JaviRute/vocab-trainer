@@ -3297,7 +3297,7 @@
       [["plein d'activités"], ["loads of activities"]],
       [
         ["J'ai invité mes amis chez moi"],
-        ["I invited my friends to my house", "I invited my friends round"]
+        ["I invited my friends to my house", "I invited my friends to my home"]
       ],
       [
         ["J'ai bricolé avec mon copain"],
@@ -3308,7 +3308,7 @@
         ["I laughed with my friends", "I had a laugh with my friends"]
       ],
       [["J'ai lu un BD"], ["I read a comic", "I read a comic book"]],
-      [["J'ai dormi beaucoup"], ["I slept a lot"]],
+      [["J'ai dormi beaucoup"], ["I slept a lot", "I slept very much"]],
       [
         ["J'ai passé la journée avec mes amis"],
         ["I spent the day with my friends"]
@@ -3409,7 +3409,10 @@
         [
           "Who did you go on holiday with?",
           "Who did you go on holidays with?",
-          "Who did you go on vacation with?"
+          "Who did you go on vacation?",
+          "Who did you go with on holiday?",
+          "Who did you go with on holidays?",
+          "Who did you go with on vacation?"
         ]
       ],
       [
@@ -3417,7 +3420,11 @@
           "Je suis allé en vacances avec ma famille",
           "Je suis allée en vacances avec ma famille"
         ],
-        ["I went on holiday with my family"]
+        [
+          "I went on holiday with my family",
+          "I went on holidays with my family",
+          "I went on vacation with my family"
+        ]
       ],
       [["avec mes copains"], ["with my friends"]],
       [
@@ -3457,7 +3464,7 @@
           "Je suis allé en vacances avec ma sœur en Grèce",
           "Je suis allée en vacances avec ma sœur en Grèce"
         ],
-        ["I went on holiday with my sister in Greece"]
+        ["I went on holiday with my sister to Greece"]
       ],
       [
         [
@@ -3475,7 +3482,12 @@
       ],
       [
         ["Je suis allé aux États-Unis", "Je suis allée aux États-Unis"],
-        ["I went to the USA", "I went to America"]
+        [
+          "I went to the USA",
+          "I went to America",
+          "I went to the United States",
+          "I went to United States"
+        ]
       ],
       [
         [
@@ -3511,34 +3523,63 @@
     [
       "1.4 Quel désastre!",
       [["J'ai oublié mon passeport"], ["I forgot my passport"]],
-      [["J'ai cassé mon portable"], ["I broke my phone"]],
+      [["J'ai cassé mon portable"], ["I broke my phone", "I broke my mobile"]],
       [["J'ai perdu mon porte-monnaie"], ["I lost my purse"]],
-      [["J'ai choisi le poisson"], ["I chose the fish"]],
+      [["J'ai choisi le poisson"], ["I chose the fish", "I chose fish"]],
       [["J'ai beaucoup vomi"], ["I vomited a lot"]],
       [
         ["Je suis tombé sur la plage", "Je suis tombée sur la plage"],
-        ["I fell over on the beach"]
+        ["I fell over on the beach", "I fell on the beach"]
       ],
       [["Je suis resté au lit", "Je suis restée au lit"], ["I stayed in bed"]],
-      [["On a raté l'avion"], ["We missed the plane"]],
+      [
+        ["On a raté l'avion"],
+        [
+          "We missed the plane",
+          "We missed the flight",
+          "We missed the airplane"
+        ]
+      ],
       [
         ["On est arrivés en retard", "On est arrivées en retard"],
         ["We arrived late"]
       ],
       [
         ["Je n'ai pas acheté de souvenirs"],
-        ["I didn't buy any souvenirs", "I did not buy any souvenirs"]
+        [
+          "I didn't buy any souvenirs",
+          "I did not buy any souvenirs",
+          "I didn't buy souvenirs",
+          "I did not buy souvenirs"
+        ]
       ],
-      [["Je n'ai pas pris de photos"], ["I didn't take any photos"]],
-      [["Je ne suis pas sorti", "Je ne suis pas sortie"], ["I didn't go out"]],
+      [
+        ["Je n'ai pas pris de photos"],
+        [
+          "I didn't take any photos",
+          "I did not take any photos",
+          "I didn't take photos",
+          "I did not take photos"
+        ]
+      ],
+      [
+        ["Je ne suis pas sorti", "Je ne suis pas sortie"],
+        ["I didn't go out", "I did not go out"]
+      ],
       [["Quel désastre!"], ["What a disaster!"]],
-      [["Quelle horreur!"], ["How horrible!", "What a horror!"]],
+      [
+        ["Quelle horreur!"],
+        ["How horrible!", "What a horror!", "Such a horror!"]
+      ],
       [
         [
           "Je suis tombé sur la plage et j'ai cassé mon portable",
           "Je suis tombée sur la plage et j'ai cassé mon portable"
         ],
-        ["I fell on the beach and I broke my phone"]
+        [
+          "I fell on the beach and I broke my phone",
+          "I fell on the beach and I broke my mobile"
+        ]
       ],
       [
         [
@@ -3548,7 +3589,12 @@
       ],
       [
         ["J'ai choisi le poisson au restaurant et après j'ai vomi"],
-        ["I chose the fish at the restaurant and afterwards I vomited"]
+        [
+          "I chose the fish at the restaurant and afterwards I vomited",
+          "I chose fish at the restaurant and afterwards I vomited",
+          "I chose the fish at the restaurant and then I vomited",
+          "I chose fish at the restaurant and then I vomited"
+        ]
       ],
       [
         ["Je n'ai pas nagé dans la mer parce qu'il y avait des méduses"],
@@ -3559,15 +3605,28 @@
       ],
       [
         ["Je n'ai pas joué en ligne parce que l'hôtel était nul"],
-        ["I didn't play online because the hotel was rubbish"]
+        [
+          "I didn't play online because the hotel was rubbish",
+          "I did not play online because the hotel was rubbish"
+        ]
       ],
       [
         ["Je n'ai pas acheté de souvenirs parce que c'était trop cher"],
-        ["I didn't buy any souvenirs because it was too expensive"]
+        [
+          "I didn't buy any souvenirs because it was too expensive",
+          "I did not buy any souvenirs because it was too expensive",
+          "I didn't buy souvenirs because it was too expensive",
+          "I did not buy souvenirs because it was too expensive"
+        ]
       ],
       [
         ["Je n'ai pas pris de photos parce que j'ai perdu mon portable"],
-        ["I didn't take any photos because I lost my phone"]
+        [
+          "I didn't take any photos because I lost my phone",
+          "I did not take any photos because I lost my phone",
+          "I didn't take any photos because I lost my mobile",
+          "I did not take any photos because I lost my mobile"
+        ]
       ],
       [
         [
@@ -3578,7 +3637,15 @@
           "We did not go to the theme park because we missed the bus"
         ]
       ],
-      [["Mon père était furieux"], ["My dad was furious"]],
+      [
+        ["Mon père était furieux"],
+        [
+          "My dad was furious",
+          "My father was furious",
+          "My dad was angry",
+          "My father was angry"
+        ]
+      ],
       [["C'était complètement nul"], ["It was completely rubbish"]],
       [["Quelle malchance!"], ["What bad luck!", "How unlucky!"]]
     ],
@@ -3588,12 +3655,31 @@
         ["Normalement, pendant les vacances je vais en colo"],
         ["Normally, during the holidays I go to a holiday camp"]
       ],
-      [["à la campagne"], ["in the countryside"]],
+      [
+        ["à la campagne"],
+        [
+          "in the countryside",
+          "to the countryside",
+          "in the country",
+          "to the country"
+        ]
+      ],
       [["je voyage en car"], ["I travel by coach"]],
-      [["je nage dans la piscine"], ["I swim in the pool"]],
-      [["je fais du sport"], ["I do sport"]],
-      [["je mange des hamburger-frites"], ["I eat burgers and chips"]],
-      [["C'est un peu ennuyeux"], ["It's a bit boring"]],
+      [
+        ["je nage dans la piscine"],
+        ["I swim in the pool", "I swim in the swimming pool"]
+      ],
+      [["je fais du sport"], ["I do sport", "I do sports"]],
+      [
+        ["je mange des hamburger-frites"],
+        [
+          "I eat burgers and chips",
+          "I eat hamburgers and chips",
+          "I eat burgers and fries",
+          "I eat hamburgers and fries"
+        ]
+      ],
+      [["C'est un peu ennuyeux"], ["It's a bit boring", "It is a bit boring"]],
       [["Mais l'année dernière"], ["But last year"]],
       [["j'ai gagné un concours"], ["I won a competition"]],
       [
@@ -3606,8 +3692,11 @@
       ],
       [["j'ai nagé dans la mer"], ["I swam in the sea"]],
       [["j'ai fait de la voile"], ["I went sailing"]],
-      [["j'ai vu des dauphins"], ["I saw dolphins"]],
-      [["j'ai mangé des fruits de mer"], ["I ate seafood"]],
+      [["j'ai vu des dauphins"], ["I saw dolphins", "I saw some dolphins"]],
+      [
+        ["j'ai mangé des fruits de mer"],
+        ["I ate seafood", "I ate some seafood"]
+      ],
       [["C'était vraiment génial"], ["It was really great"]],
       [
         ["Je vais en Belgique avec mes parents"],
@@ -3615,17 +3704,25 @@
       ],
       [
         ["Nous faisons des randonnées à la campagne"],
-        ["We go hiking in the countryside"]
+        ["We go hiking in the countryside", "We go hiking in the country"]
       ],
       [
         ["Je suis allé en Afrique du Nord", "Je suis allée en Afrique du Nord"],
-        ["I went to North Africa"]
+        ["I went to North Africa", "I went to the North of Africa"]
       ],
       [["J'ai fait de la plongée sous-marine"], ["I went scuba diving"]],
-      [["Je n'ai pas nagé avec des tortues"], ["I didn't swim with turtles"]],
+      [
+        ["Je n'ai pas nagé avec des tortues"],
+        ["I didn't swim with turtles", "I did not swim with turtles"]
+      ],
       [
         ["J'ai mangé au restaurant et j'ai vu un spectacle"],
-        ["I ate at the restaurant and I saw a show"]
+        [
+          "I ate at the restaurant and I saw a show",
+          "I ate in a restaurant and I saw a show",
+          "I ate at the restaurant and watched a show",
+          "I ate in a restaurant and watched a show"
+        ]
       ],
       [
         [
@@ -3640,95 +3737,205 @@
     [
       "2.0 Point de départ",
       [["Noël"], ["Christmas"]],
-      [["Pâques"], ["Easter"]],
-      [["le 14 juillet"], ["Bastille Day", "National Day"]],
-      [["le Nouvel An"], ["New Year's Day"]],
-      [["la Toussaint"], ["All Saints' Day"]],
-      [["la Saint-Valentin"], ["Valentine's Day"]],
+      [["Pâques"], ["Easter", "Easter Sunday"]],
+      [
+        ["le 14 juillet"],
+        ["Bastille Day", "National Day", "French National Day"]
+      ],
+      [["le Nouvel An"], ["New Year's Day", "New Year"]],
+      [["la Toussaint"], ["All Saints' Day", "All Hallows' Day"]],
+      [
+        ["la Saint-Valentin"],
+        ["Valentine's Day", "St. Valentine's Day", "St. Valentine"]
+      ],
       [["l'Aïd"], ["Eid"]],
       [["mon anniversaire"], ["my birthday"]],
       [["Quelle est ta fête préférée?"], ["What's your favourite festival?"]],
       [["J'adore Noël"], ["I love Christmas"]],
       [
         ["J'aime beaucoup la Saint-Valentin"],
-        ["I really like Valentine's Day"]
+        [
+          "I really like Valentine's Day",
+          "I really like St. Valentine's Day",
+          "I really like St. Valentine",
+          "I like Valentine's Day a lot",
+          "I like St. Valentine's Day a lot",
+          "I like St. Valentine a lot"
+        ]
       ],
       [["J'aime Pâques"], ["I like Easter"]],
-      [["Je préfère le Nouvel An"], ["I prefer New Year"]],
+      [
+        ["Je préfère le Nouvel An"],
+        ["I prefer New Year", "I prefer New Year's Day"]
+      ],
       [
         ["Je n'aime pas tellement Halloween"],
-        ["I don't particularly like Halloween"]
+        [
+          "I don't particularly like Halloween",
+          "I do not particularly like Halloween"
+        ]
       ],
-      [["Je n'aime pas la Toussaint"], ["I don't like All Saints' Day"]],
-      [["Je n'aime pas du tout Noël"], ["I really don't like Christmas"]],
+      [
+        ["Je n'aime pas la Toussaint"],
+        [
+          "I don't like All Saints' Day",
+          "I do not like All Saints' Day",
+          "I don't like All Hallows' Day",
+          "I do not like All Hallows' Day"
+        ]
+      ],
+      [
+        ["Je n'aime pas du tout Noël"],
+        [
+          "I really don't like Christmas",
+          "I really do not like Christmas",
+          "I don't like Christmas at all",
+          "I don't like Christmas at all"
+        ]
+      ],
       [["Je déteste Pâques"], ["I hate Easter"]],
       [
         ["J'adore mon anniversaire parce que j'adore faire une soirée pyjama"],
-        ["I love my birthday because I love having a sleepover"]
+        [
+          "I love my birthday because I love having a sleepover",
+          "I love my birthday because I love to have a sleepover"
+        ]
       ],
       [
         ["Je préfère Pâques parce que j'aime manger des œufs en chocolat"],
-        ["I prefer Easter because I like eating chocolate eggs"]
+        [
+          "I prefer Easter because I like eating chocolate eggs",
+          "I prefer Easter because I like to eat chocolate eggs"
+        ]
       ],
       [
         ["J'aime l'Aïd parce que j'aime rendre visite à mes cousins"],
-        ["I like Eid because I like visiting my cousins"]
+        [
+          "I like Eid because I like visiting my cousins",
+          "I like Eid because I like to visit my cousins"
+        ]
       ],
       [
         ["Je déteste Noël parce que je n'aime pas choisir des cadeaux"],
-        ["I hate Christmas because I don't like choosing presents"]
+        [
+          "I hate Christmas because I don't like choosing presents",
+          "I hate Christmas because I do not like choosing presents",
+          "I hate Christmas because I don't like to choose presents",
+          "I hate Christmas because I do not like to choose presents"
+        ]
       ],
       [
         [
           "Je n'aime pas le 14 juillet parce que c'est ennuyeux et trop militaire"
         ],
-        ["I don't like Bastille Day because it's boring and too militaristic"]
+        [
+          "I don't like Bastille Day because it's boring and too militaristic",
+          "I don't like Bastille Day because it's boring and too military",
+          "I don't like Bastille Day because it's dull and too militaristic",
+          "I don't like Bastille Day because it's dull and too military",
+          "I don't like Bastille Day because it is boring and too militaristic",
+          "I don't like Bastille Day because it is boring and too military",
+          "I don't like Bastille Day because it is dull and too militaristic",
+          "I don't like Bastille Day because it is dull and too military"
+        ]
       ],
       [
         [
           "J'aime beaucoup le Nouvel An parce que je danse et je chante jusqu'à minuit"
         ],
-        ["I really like New Year because I dance and sing until midnight"]
+        [
+          "I really like New Year because I dance and sing until midnight",
+          "I like New Year a lot because I dance and sing until midnight",
+          "I really like New Year's Day because I dance and sing until midnight",
+          "I like New Year's Day a lot because I dance and sing until midnight"
+        ]
       ],
-      [["C'est marrant"], ["It is fun", "It is funny"]],
-      [["C'est trop commercial"], ["It is too commercial"]]
+      [
+        ["C'est marrant"],
+        ["It's fun", "It's funny", "It is fun", "It is funny"]
+      ],
+      [
+        ["C'est trop commercial"],
+        ["It's too commercial", "It is too commercial"]
+      ]
     ],
     [
       "2.1 Quelle est ta fête préférée?",
       [["je porte un masque"], ["I wear a mask"]],
       [["je retrouve mes copains"], ["I meet my friends"]],
-      [["je regarde la parade"], ["I watch the parade"]],
+      [["je regarde la parade"], ["I watch the parade", "I see the parade"]],
       [["je finis mes devoirs"], ["I finish my homework"]],
       [["je choisis des vêtements cool"], ["I choose cool clothes"]],
       [
         ["j'attends la fête avec impatience"],
-        ["I am looking forward to the festival"]
+        [
+          "I'm looking forward to the festival",
+          "I am looking forward to the festival"
+        ]
       ],
       [["je rends visite à mes grands-parents"], ["I visit my grandparents"]],
       [["j'entends la musique"], ["I hear the music", "I listen to the music"]],
       [["les spectateurs"], ["the spectators"]],
-      [["chaque année"], ["every year"]],
-      [["le matin"], ["in the morning"]],
-      [["l'après-midi"], ["in the afternoon"]],
-      [["le soir"], ["in the evening"]],
+      [["chaque année"], ["every year", "each year"]],
+      [["le matin"], ["in the morning", "the morning"]],
+      [["l'après-midi"], ["in the afternoon", "the afternoon"]],
+      [["le soir"], ["in the evening", "the evening"]],
       [["une parade", "un défilé"], ["a parade"]],
       [["un groupe de musiciens"], ["a group of musicians"]],
-      [["Ils sont dans la rue"], ["They are in the street"]],
-      [["Ils marchent dans la ville"], ["They are walking in town"]],
-      [["Ils dansent et ils applaudissent"], ["They are dancing and clapping"]],
-      [["Ils jouent d'un instrument"], ["They are playing an instrument"]],
+      [
+        ["Ils sont dans la rue"],
+        ["They're in the street", "They are in the street"]
+      ],
+      [
+        ["Ils marchent dans la ville"],
+        [
+          "They're walking in town",
+          "They are walking in town",
+          "They walk in town"
+        ]
+      ],
+      [
+        ["Ils dansent et ils applaudissent"],
+        [
+          "They're dancing and clapping",
+          "They are dancing and clapping",
+          "They dance and clap"
+        ]
+      ],
+      [
+        ["Ils jouent d'un instrument"],
+        [
+          "They're playing an instrument",
+          "They are playing an instrument",
+          "They play an instrument"
+        ]
+      ],
       [
         ["Ils portent des vêtements traditionnels"],
-        ["They are wearing traditional clothes"]
+        [
+          "They're wearing traditional clothes",
+          "They are wearing traditional clothes",
+          "They wear traditional clothes"
+        ]
       ],
       [
         ["Ils portent des vêtements colorés"],
-        ["They are wearing colourful clothes"]
+        [
+          "They're wearing colourful clothes",
+          "They are wearing colourful clothes",
+          "They wear colourful clothes"
+        ]
       ],
-      [["Ils portent des drapeaux"], ["They are holding flags"]],
+      [
+        ["Ils portent des drapeaux"],
+        ["They're holding flags", "They are holding flags", "They hold flags"]
+      ],
       [
         ["Chaque année, j'attends mon anniversaire avec impatience"],
-        ["Every year, I look forward to my birthday"]
+        [
+          "Every year, I look forward to my birthday",
+          "Each year, I look forward to my birthday"
+        ]
       ],
       [
         ["L'après-midi, je rends visite à mes amis"],
@@ -3751,25 +3958,36 @@
       [["une pomme de terre"], ["a potato"]],
       [["une tomate"], ["a tomato"]],
       [["une banane"], ["a banana"]],
-      [["des haricots verts"], ["green beans"]],
+      [["des haricots verts"], ["green beans", "some green beans"]],
       [["un œuf"], ["an egg"]],
-      [["le poisson"], ["fish"]],
-      [["le fromage"], ["cheese"]],
-      [["le jambon"], ["ham"]],
-      [["la salade"], ["lettuce"]],
+      [["le poisson"], ["the fish", "fish"]],
+      [["le fromage"], ["the cheese", "cheese"]],
+      [["le jambon"], ["the ham", "ham"]],
+      [["la salade"], ["the lettuce", "lettuce"]],
       [["100 grammes de fromage"], ["100 grams of cheese"]],
-      [["un kilo de pommes"], ["a kilo of apples"]],
+      [["un kilo de pommes"], ["a kilo of apples", "one kilo of apples"]],
       [["un demi-kilo de tomates"], ["half a kilo of tomatoes"]],
       [["une tranche de jambon"], ["a slice of ham"]],
       [["un morceau de fromage"], ["a piece of cheese"]],
       [["Vous désirez?"], ["What would you like?"]],
       [
         ["Je voudrais un kilo de tomates, s'il vous plaît"],
-        ["I would like a kilo of tomatoes, please"]
+        [
+          "I would like a kilo of tomatoes, please",
+          "I would like one kilo of tomatoes, please"
+        ]
       ],
       [["Et avec ça?"], ["Anything else?"]],
-      [["C'est tout, merci"], ["That's all, thanks"]],
-      [["Ça fait combien?"], ["How much is that?"]],
+      [
+        ["C'est tout, merci"],
+        [
+          "That's all, thanks",
+          "That is all, thanks",
+          "That's all, thank you",
+          "That is all, thank you"
+        ]
+      ],
+      [["Ça fait combien?"], ["How much is that?", "How much is it?"]],
       [["Ça fait dix euros"], ["That's ten euros"]],
       [["Bonne journée!"], ["Have a nice day!"]]
     ],

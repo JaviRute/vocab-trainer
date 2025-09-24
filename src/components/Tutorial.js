@@ -5,11 +5,11 @@ export default function Tutorial(props) {
   return (
     <div className='modal-backdrop' onClick={props.handleTutorial}>
       <div className='modal'>
-        <h3>Welcome to the GCSE Spanish Vocab Trainer!</h3>
+        <h3>Welcome to the GCSE MFL Vocab Trainer!</h3>
 
         <h4>Initial selections</h4>
         <p>Choose your language, either French or Spanish.</p>
-        <p>Choose betweem KS3 or KS4 (set by default to KS4).</p>
+        <p>Choose betweem KS3 or KS4 (set by default to KS3).</p>
         <p>You can also choose in which way to translate, from target language to English or viceversa.</p>
 
         <h4>Choose Theme and Lesson</h4>
@@ -30,7 +30,7 @@ export default function Tutorial(props) {
         </div>
 
         <h4>Enter your data (optional)</h4>
-        <p>Did your teacher ask you to complete this as homework? Enter your data, complete the assignment and at the end you will see a message displaying your progress today. Download the PDF certificate and send it to your teacher!</p>
+        <p>Did your teacher ask you to complete this as homework? Enter your data, complete the assignment and at the end you will be able to download a PDF certificate as proof of your work</p>
 
 
       </div>
