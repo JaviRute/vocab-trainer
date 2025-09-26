@@ -2262,8 +2262,14 @@
         ["a shop assistant", "a sales assistant"]
       ],
       [["esteticista"], ["a beautician"]],
-      [["jardinero", "jardinera"], ["a gardener"]],
-      [["limpiador", "limpiadora"], ["a cleaner"]],
+      [
+        ["jardinero", "jardinera"],
+        ["gardener", "a gardener"]
+      ],
+      [
+        ["limpiador", "limpiadora"],
+        ["cleaner", "a cleaner"]
+      ],
       [
         [
           "Soy peluquero y tengo que cortar el pelo a los clientes",
@@ -2276,7 +2282,7 @@
           "I am a hairdresser and I have to cut clients' hair"
         ]
       ],
-      [["recepcionista"], ["a receptionist"]],
+      [["recepcionista"], ["receptionist", "a receptionist"]],
 
       [["¿En qué consiste tu trabajo?"], ["What does your job involve?"]],
       [
@@ -2286,21 +2292,21 @@
       [
         ["Tengo que contestar al teléfono y ayudar a los clientes"],
         [
-          "I have to to answer the phone and help customers",
-          "I have to to answer the phone and help clients",
-          "I have to to answer the phone and help the customers",
-          "I have to to answer the phone and help the clients"
+          "I have to answer the phone and help customers",
+          "I have to answer the phone and help clients",
+          "I have to answer the phone and help the customers",
+          "I have to answer the phone and help the clients"
         ]
       ],
       [["hacer manícuras"], ["to do manicures"]],
       [["limpiar habitaciones"], ["to clean rooms"]],
       [
         ["servir la comida en el restaurante"],
-        ["serve food in the restaurant"]
+        ["to serve food in the restaurant"]
       ],
       [
         ["vender productos en la tienda"],
-        ["sell products in the shop", "sell products in the store"]
+        ["to sell products in the shop", "sell products in the store"]
       ],
       [["¿Te gusta tu trabajo?"], ["Do you like your job?"]],
       [

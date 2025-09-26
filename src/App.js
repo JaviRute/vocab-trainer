@@ -1,5 +1,8 @@
 //TTD
+//* sometimes it doesnt add a +1 to expressionsAnswered?
 //* mejorar visibilidad modales en modo telefono
+//* add a section of "common problems" or FAQ en Tutorial (usar en google chrome, check for errors on your answer)
+//* add special characters appearing always: ?, !, ', -
 //* avisar al estudiante si esta a punto de terminar y no ha metido su nombre, classcode, colegio
 //* change favicon
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
