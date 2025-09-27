@@ -2284,7 +2284,8 @@
         ["Mon petit déjeuner préféré c'est un croissant et du jus d'orange"],
         [
           "My favourite breakfast is a croissant and orange juice",
-          "My preferred breakfast is a croissant and orange juice"
+          "My preferred breakfast is a croissant and orange juice",
+          "My preferred breakfast is one croissant and orange juice"
         ]
       ]
     ],
@@ -2425,7 +2426,7 @@
       ],
       [
         ["studieux", "studieuse"],
-        ["studious", "hard-working"]
+        ["studious", "hard-working", "hard working", "hardworking"]
       ],
       [
         ["marrant", "marrante"],
@@ -5518,50 +5519,106 @@
       "4.1 Elle est comment, ta région?",
       [
         ["Dans ma région, il y a un appartement"],
-        ["In my region, there is a flat"]
+        [
+          "In my region, there's a flat",
+          "In my region, there's an apartment",
+          "In my region there's a flat",
+          "In my region there's an apartment",
+          "In my region, there is a flat",
+          "In my region, there is an apartment",
+          "In my region there is a flat",
+          "In my region there is an apartment"
+        ]
       ],
       [
         ["Dans ma région, il y a un bâtiment"],
-        ["In my region, there is a building"]
+        [
+          "In my region, there's a building",
+          "In my region there's a building",
+          "In my region, there is a building",
+          "In my region there is a building"
+        ]
       ],
-      [["Dans ma région, il y a un champ"], ["In my region, there is a field"]],
-      [["il y a un jardin public"], ["there is a park"]],
-      [["il y a un lac"], ["there is a lake"]],
-      [["il y a un magasin"], ["there is a shop"]],
-      [["il y a une forêt"], ["there is a forest"]],
+      [["Il y a un champ"], ["There's a field", "There is a field"]],
+      [
+        ["Il y a un jardin public"],
+        [
+          "There's a park",
+          "There is a park",
+          "There's a public garden",
+          "There is a public garden"
+        ]
+      ],
+      [["Il y a un lac"], ["There's a lake", "There is a lake"]],
+      [["Il y a un magasin"], ["There's a shop", "There is a shop"]],
+      [["Il y a une forêt"], ["There's a forest", "There is a forest"]],
       [["une montagne"], ["a mountain"]],
       [["une plage"], ["a beach"]],
       [["une rivière"], ["a river"]],
-      [["il y a beaucoup de touristes"], ["there are lots of tourists"]],
-      [["il y a plein de lacs"], ["there are plenty of lakes"]],
+      [
+        ["Il y a beaucoup de touristes"],
+        [
+          "There are lots of tourists",
+          "There are many tourists",
+          "There are a lot of tourists"
+        ]
+      ],
+      [["Il y a plein de lacs"], ["There are plenty of lakes"]],
       [
         ["il y a peu de magasins"],
-        ["there are few shops", "there are not many shops"]
+        ["There are few shops", "There are not many shops"]
       ],
-      [["il y a trop de voitures"], ["there are too many cars"]],
+      [["Il y a trop de voitures"], ["There are too many cars"]],
       [
         ["On peut manger des crêpes"],
-        ["You can eat pancakes", "People can eat pancakes"]
+        [
+          "You can eat pancakes",
+          "People can eat pancakes",
+          "You can eat crêpes",
+          "People can eat crêpes",
+          "You can eat crepes",
+          "People can eat crepes"
+        ]
       ],
       [
         ["On peut visiter les monuments historiques"],
         [
           "You can visit historic monuments",
-          "People can visit historic monuments"
+          "People can visit historic monuments",
+          "You can visit the historic monuments",
+          "People can visit the historic monuments"
         ]
       ],
       [
         ["On peut visiter des grottes"],
-        ["You can visit caves", "People can visit caves"]
+        [
+          "You can visit caves",
+          "People can visit caves",
+          "You can visit some caves",
+          "People can visit some caves"
+        ]
       ],
-      [["aller au cinéma"], ["go to the cinema"]],
-      [["aller en ville"], ["go to town"]],
-      [["faire les magasins"], ["go shopping"]],
-      [["faire du canoë-kayak"], ["go canoeing"]],
-      [["faire des randonnées"], ["go for walks"]],
-      [["faire du ski"], ["go skiing"]],
-      [["travailler dans les champs"], ["work in the fields"]],
-      [["vendre des légumes"], ["sell vegetables"]]
+      [["aller au cinéma"], ["to go to the cinema"]],
+      [["aller en ville"], ["to go to town"]],
+      [["faire les magasins"], ["to go shopping"]],
+      [
+        ["faire du canoë-kayak"],
+        ["to go canoeing", "to go kayaking", "to do canoeing", "to do kayaking"]
+      ],
+      [
+        ["faire des randonnées"],
+        ["to go for walks", "to go hiking", "to go on hikes", "to go walking"]
+      ],
+      [["faire du ski"], ["to go skiing", "to ski", "to do skiing"]],
+      [
+        ["travailler dans les champs"],
+        [
+          "to work in the fields",
+          "to work in the countryside",
+          "to work in the country"
+        ]
+      ],
+      [["vendre des légumes"], ["to sell vegetables"]]
     ],
     [
       "4.2 Qu'est-ce qu'on doit faire pour aider à la maison?",
@@ -5575,18 +5632,45 @@
       ],
       [
         ["Ma sœur doit nourrir les animaux"],
-        ["My sister must feed the animals"]
+        ["My sister must feed the animals", "My sister has to feed the animals"]
       ],
-      [["Mon frère doit faire la lessive"], ["My brother must do the washing"]],
-      [["Ranger ma chambre"], ["Tidy my room"]],
-      [["Rapporter l'eau"], ["Collect the water"]],
-      [["Garder ma sœur"], ["Look after my sister"]],
-      [["Garder mon frère"], ["Look after my brother"]],
-      [["Faire la cuisine"], ["Do the cooking"]],
-      [["Faire la vaisselle"], ["Do the washing-up", "Do the dishes"]],
-      [["Nourrir les animaux"], ["Feed the animals"]],
-      [["Aller chercher de l'eau"], ["Go and fetch water"]],
-      [["Travailler dans les champs"], ["Work in the fields"]],
+      [
+        ["Mon frère doit faire la lessive"],
+        ["My brother must do the washing", "My brother has to do the washing"]
+      ],
+      [["Ranger ma chambre"], ["to tidy my room"]],
+      [["Rapporter l'eau"], ["to collect the water"]],
+      [
+        ["Garder ma sœur"],
+        ["to look after my sister", "to take care of my sister"]
+      ],
+      [
+        ["Garder mon frère"],
+        ["to look after my brother", "to take care of my brother"]
+      ],
+      [["Faire la cuisine"], ["to do the cooking"]],
+      [
+        ["Faire la vaisselle"],
+        ["to do the washing-up", "to do the washing up", "to do the dishes"]
+      ],
+      [["Nourrir les animaux"], ["to feed the animals"]],
+      [
+        ["Aller chercher de l'eau"],
+        [
+          "to go and fetch water",
+          "to go and fetch some water",
+          "to go and take water",
+          "to go and take some water"
+        ]
+      ],
+      [
+        ["Travailler dans les champs"],
+        [
+          "to work in the fields",
+          "to work in the countryside",
+          "to work in the country"
+        ]
+      ],
       [
         ["On ne doit pas polluer l'eau"],
         [
@@ -5613,7 +5697,10 @@
         [
           "For me, it's fair",
           "For me, it is not fair",
-          "For me, it is not fair"
+          "For me, it is not fair",
+          "For me it's fair",
+          "For me it is not fair",
+          "For me it is not fair"
         ]
       ],
       [
@@ -5621,12 +5708,24 @@
         [
           "In my opinion, it's not fair",
           "In my opinion, it is not fair",
-          "In my opinion, it is not fair"
+          "In my opinion, it isn't fair",
+          "In my opinion it's not fair",
+          "In my opinion it is not fair",
+          "In my opinion it isn't fair"
         ]
       ],
       [
         ["Les enfants doivent aller chercher de l'eau"],
-        ["The children must go to fetch water"]
+        [
+          "The children must go to fetch water",
+          "The children must go to take water",
+          "The children must go to fetch some water",
+          "The children must go to take some water",
+          "The children have to go to fetch water",
+          "The children have to go to take water",
+          "The children have to go to fetch some water",
+          "The children have to go to take some water"
+        ]
       ],
       [
         ["Je dois faire mes devoirs"],
@@ -5636,10 +5735,18 @@
         ["Je dois aider mes parents"],
         ["I must help my parents", "I have to help my parents"]
       ],
-      [["Nous devons protéger les enfants"], ["We must protect the children"]],
+      [
+        ["Nous devons protéger les enfants"],
+        ["We must protect the children", "We have to protect the children"]
+      ],
       [
         ["Ils doivent garder leurs frères et sœurs"],
-        ["They must look after their brothers and sisters"]
+        [
+          "They must look after their brothers and sisters",
+          "They have to look after their brothers and sisters",
+          "They must take care of their brothers and sisters",
+          "They have to take are of their brothers and sisters"
+        ]
       ],
       [
         ["On ne doit pas faire trop de bruit"],
@@ -5652,50 +5759,157 @@
     [
       "4.3 Ma routine, ta routine",
       [["Je me lève"], ["I get up"]],
-      [["Je prends le petit déjeuner"], ["I have breakfast"]],
-      [["Je me douche"], ["I have a shower"]],
-      [["Je me coiffe"], ["I do my hair"]],
-      [["Je m'habille"], ["I get dressed"]],
-      [["Je me lave les dents"], ["I clean my teeth", "I brush my teeth"]],
-      [["Je quitte la maison"], ["I leave the house"]],
-      [["Je me lave"], ["I have a wash"]],
-      [["Je me couche"], ["I go to bed"]],
-      [["Tu te laves"], ["You have a wash", "You wash yourself"]],
-      [["Elle se lave"], ["She has a wash", "She washes herself"]],
-      [["Nous nous lavons"], ["We have a wash", "We wash ourselves"]],
+      [
+        ["Je prends le petit déjeuner"],
+        ["I have breakfast", "I eat breakfast"]
+      ],
+      [["Je me douche"], ["I have a shower", "I shower", "I shower myself"]],
+      [
+        ["Je me coiffe"],
+        ["I do my hair", "I brush my hair", "I style my hair", "I fix my hair"]
+      ],
+      [["Je m'habille"], ["I get dressed", "I dress"]],
+      [
+        ["Je me lave les dents"],
+        ["I clean my teeth", "I brush my teeth", "I wash my teeth"]
+      ],
+      [
+        ["Je quitte la maison"],
+        ["I leave the house", "I leave home", "I go out of the house"]
+      ],
+      [
+        ["Je me lave"],
+        [
+          "I have a wash",
+          "I wash myself",
+          "I wash",
+          "I get washed",
+          "I clean myself"
+        ]
+      ],
+      [
+        ["Je me couche"],
+        ["I go to bed", "I go to sleep", "I lie down", "I get into bed"]
+      ],
+      [
+        ["Tu te laves"],
+        ["You have a wash", "You wash yourself", "You wash", "You get washed"]
+      ],
+      [
+        ["Elle se lave"],
+        [
+          "She has a wash",
+          "She washes herself",
+          "She washes",
+          "She gets washed"
+        ]
+      ],
+      [
+        ["Nous nous lavons"],
+        ["We have a wash", "We wash ourselves", "We wash", "We get washed"]
+      ],
       [
         ["A quelle heure est-ce que tu te lèves?"],
         ["What time do you get up?"]
       ],
       [
         ["A quelle heure est-ce que tu te couches?"],
-        ["What time do you go to bed?"]
+        [
+          "What time do you go to bed?",
+          "What time do you go to sleep?",
+          "What time do you get into bed?"
+        ]
       ],
-      [["Est-ce que tu te douches?"], ["Do you have a shower?"]],
+      [
+        ["Est-ce que tu te douches?"],
+        ["Do you have a shower?", "Do you shower?"]
+      ],
       [
         ["Où est-ce que tu prends le petit déjeuner?"],
-        ["Where do you have breakfast?"]
+        ["Where do you have breakfast?", "Where do you eat breakfast?"]
       ],
       [
         ["Normalement, je me lève à sept heures"],
-        ["Normally, I get up at seven o'clock"]
+        [
+          "Normally, I get up at seven o'clock",
+          "Normally, I get up at seven",
+          "Normally I get up at seven o'clock",
+          "Normally I get up at seven"
+        ]
       ],
-      [["Le weekend, je me lève tard"], ["At the weekend, I get up late"]],
-      [["Ensuite, je prends le petit déjeuner"], ["Then I have breakfast"]],
-      [["Après ça, je vais à l'école"], ["After that, I go to school"]],
-      [["Parfois, je me lève à six heures"], ["Sometimes, I get up at six"]],
+      [
+        ["Le weekend, je me lève tard"],
+        [
+          "At the weekend, I get up late",
+          "On weekends, I get up late",
+          "At weekends, I get up late",
+          "At the weekend I get up late",
+          "On weekends I get up late",
+          "At weekends I get up late"
+        ]
+      ],
+      [
+        ["Ensuite, je prends le petit déjeuner"],
+        ["Then, I have breakfast", "Then I have breakfast"]
+      ],
+      [
+        ["Après ça, je vais à l'école"],
+        ["After that, I go to school", "After that I go to school"]
+      ],
+      [
+        ["Parfois, je me lève à six heures"],
+        [
+          "Sometimes, I get up at six",
+          "Sometimes I get up at six o'clock",
+          "Sometimes, I get up at six",
+          "Sometimes, I get up at six o'clock"
+        ]
+      ],
       [
         ["D'habitude, je me couche à dix heures"],
-        ["Usually, I go to bed at ten"]
+        [
+          "Usually, I go to bed at ten",
+          "Usually I go to bed at ten o'clock",
+          "Usually, I go to bed at ten",
+          "Usually I go to bed at ten o'clock"
+        ]
       ],
-      [["Je ne me lave pas le matin"], ["I don't wash in the morning"]],
+      [
+        ["Je ne me lave pas le matin"],
+        [
+          "I don't wash in the morning",
+          "I do not wash in the morning",
+          "I don't have a wash in the morning",
+          "I do not have a wash in the morning",
+          "I don't get washed in the morning",
+          "I do not get washed in the morning",
+          "I don't wash myself in the morning",
+          "I do not wash myself in the morning"
+        ]
+      ],
       [
         ["Le soir, je me lave les dents"],
-        ["In the evening, I clean my teeth", "In the evening, I brush my teeth"]
+        [
+          "In the evening, I clean my teeth",
+          "In the evening, I brush my teeth",
+          "In the evening, I wash my teeth",
+          "In the evening I clean my teeth",
+          "In the evening I brush my teeth",
+          "In the evening I wash my teeth"
+        ]
       ],
       [
         ["Le weekend prochain, je vais me lever à huit heures"],
-        ["Next weekend, I am going to get up at eight o'clock"]
+        [
+          "Next weekend, I'm going to get up at eight o'clock",
+          "Next weekend I'm going to get up at eight o'clock",
+          "Next weekend, I am going to get up at eight o'clock",
+          "Next weekend, I am going to get up at eight o'clock",
+          "Next weekend, I'm going to get up at eight",
+          "Next weekend I'm going to get up at eight",
+          "Next weekend, I am going to get up at eight",
+          "Next weekend, I am going to get up at eight"
+        ]
       ]
     ],
     [
@@ -5712,7 +5926,10 @@
       [["une chambre"], ["a bedroom", "a room"]],
       [["un collège"], ["a school", "a secondary school"]],
       [["un gymnase"], ["a gym", "a sports hall"]],
-      [["une cantine"], ["a canteen", "a cafeteria"]],
+      [
+        ["une cantine"],
+        ["a canteen", "a cafeteria", "a dining hall", "a lunchroom"]
+      ],
       [["un copain"], ["a friend", "a mate", "a pal"]],
       [["une copine"], ["a friend", "a mate", "a pal"]],
       [["un voisin"], ["a neighbour", "a neighbor"]],
@@ -5721,7 +5938,12 @@
       [["une petite amie"], ["a girlfriend"]],
       [
         ["C'est une belle maison"],
-        ["It's a beautiful house", "It is a beautiful house"]
+        [
+          "It's a beautiful house",
+          "It is a beautiful house",
+          "That's a beautiful house",
+          "That is a beautiful house"
+        ]
       ],
       [
         ["C'est un bel appartement"],
@@ -5729,7 +5951,11 @@
           "It's a beautiful flat",
           "It's a beautiful apartment",
           "It is a beautiful flat",
-          "It is a beautiful apartment"
+          "It is a beautiful apartment",
+          "That's a beautiful flat",
+          "That's a beautiful apartment",
+          "That is a beautiful flat",
+          "That is a beautiful apartment"
         ]
       ],
       [
@@ -5742,7 +5968,17 @@
       ],
       [
         ["Voici mon nouveau copain"],
-        ["Here's my new friend", "Here is my new friend"]
+        [
+          "Here's my new friend",
+          "Here is my new friend",
+          "Here's my new mate",
+          "Here is my new mate",
+          "Here's my new pal",
+          "Here is my new pal",
+          "This is my new friend",
+          "This is my new mate",
+          "This is my new pal"
+        ]
       ],
       [
         ["Le salon est très beau"],
@@ -5754,11 +5990,16 @@
       ],
       [
         ["Il y a une vieille maison"],
-        ["There's an old house", "There is an old house"]
+        [
+          "There's an old house",
+          "There is an old house",
+          "There's one old house",
+          "There is one old house"
+        ]
       ],
       [
         ["Nous avons une nouvelle cuisine"],
-        ["We've got a new kitchen", "We have a new kitchen"]
+        ["We have a new kitchen", "We've got a new kitchen"]
       ],
       [
         ["Il y a aussi un beau jardin"],
@@ -5769,64 +6010,129 @@
       "4.5 À la découverte d'une nouvelle région",
       [
         ["Où est-ce que tu es en vacances?"],
-        ["Where are you on holiday?", "Where are you for the holidays?"]
+        [
+          "Where are you on holiday?",
+          "Where are you for the holidays?",
+          "Where are you on vacation?",
+          "Where are you on holidays?"
+        ]
       ],
       [["Je suis en Corse"], ["I'm in Corsica", "I am in Corsica"]],
-      [["C'est comment?"], ["What's it like?", "What is it like?"]],
+      [
+        ["C'est comment?"],
+        ["What's it like?", "What is it like?", "How is it?"]
+      ],
       [["C'est très joli"], ["It's very pretty", "It is very pretty"]],
       [
         ["À quelle heure est-ce que tu te lèves?"],
         ["What time do you get up?", "At what time do you get up?"]
       ],
-      [["Je me lève à huit heures"], ["I get up at eight o'clock"]],
+      [
+        ["Je me lève à huit heures"],
+        ["I get up at eight o'clock", "I get up at eight"]
+      ],
       [
         ["Où est-ce que tu prends le petit déjeuner?"],
-        ["Where do you have breakfast?"]
+        ["Where do you have breakfast?", "Where do you eat breakfast?"]
       ],
       [
         ["Je prends le petit déjeuner dans le jardin"],
-        ["I have breakfast in the garden"]
+        [
+          "I have breakfast in the garden",
+          "I eat breakfast in the garden",
+          "I have breakfast at the garden",
+          "I eat breakfast at the garden"
+        ]
       ],
       [
         ["Qu'est-ce qu'on peut faire ici?"],
-        ["What can you do here?", "What can one do here?"]
+        [
+          "What can you do here?",
+          "What can one do here?",
+          "What can we do here?"
+        ]
       ],
       [
         ["On peut faire des randonnées"],
-        ["You can go for walks", "You can go hiking", "One can go for walks"]
+        [
+          "You can go for walks",
+          "You can go hiking",
+          "One can go for walks",
+          "One can go hiking",
+          "We can go for walks",
+          "We can go hiking"
+        ]
       ],
       [
         ["Qu'est-ce que tu fais pendant la journée?"],
-        ["What do you do during the day?"]
+        ["What do you do during the day?", "What do you do on the day?"]
       ],
-      [["Je vais à la plage"], ["I go to the beach"]],
+      [["Je vais à la plage"], ["I go to the beach", "I go at the beach"]],
       [
         ["Qu'est-ce qu'on doit faire l'après-midi?"],
         [
+          "What must we do in the afternoon?",
+          "What do we have to do in the afternoon?",
           "What must you do in the afternoon?",
-          "What do you have to do in the afternoon?"
+          "What do you have to do in the afternoon?",
+          "What should we do in the afternoon?",
+          "What should you do in the afternoon?"
         ]
       ],
       [
         ["On doit faire la sieste"],
-        ["You must take a siesta", "One must take a siesta"]
+        [
+          "You must take a nap",
+          "One must take a nap",
+          "You must take a siesta",
+          "One must take a siesta",
+          "You have to take a nap",
+          "One have to take a nap",
+          "You have to take a siesta",
+          "One have to take a siesta"
+        ]
       ],
       [
         ["Quel temps fait-il?"],
-        ["What's the weather like?", "What is the weather like?"]
+        [
+          "What's the weather like?",
+          "What is the weather like?",
+          "How's the weather?",
+          "How is the weather?"
+        ]
       ],
-      [["Il fait chaud"], ["It's hot", "It is hot", "The weather is hot"]],
+      [
+        ["Il fait chaud"],
+        [
+          "It's hot",
+          "It is hot",
+          "The weather is hot",
+          "It's warm",
+          "It is warm",
+          "The weather is warm"
+        ]
+      ],
       [
         ["Qu'est-ce que tu vas faire le weekend prochain?"],
-        ["What are you going to do next weekend?"]
+        [
+          "What are you going to do next weekend?",
+          "What are you going to do on the next weekend?"
+        ]
       ],
       [
         ["Je vais faire un pique-nique"],
-        ["I'm going to have a picnic", "I am going to have a picnic"]
+        [
+          "I'm going to have a picnic",
+          "I am going to have a picnic",
+          "I'm going to do a picnic",
+          "I am going to do a picnic",
+          "I'm going to make a picnic",
+          "I am going to make a picnic"
+        ]
       ],
       [
         ["Qu'est-ce que tu as fait le weekend dernier?"],
-        ["What did you do last weekend?"]
+        ["What did you do last weekend?", "What have you done last weekend?"]
       ],
       [
         ["Je suis allé au cinéma"],
@@ -5836,9 +6142,12 @@
       [["C'était intéressant"], ["It was interesting"]],
       [
         ["Il y a du soleil"],
-        ["There's some sun", "There is some sun", "It's sunny", "It is sunny"]
+        ["It's sunny", "It is sunny", "There's some sun", "There is some sun"]
       ],
-      [["Je suis allé à la montagne"], ["I went to the mountains"]],
+      [
+        ["Je suis allé à la montagne"],
+        ["I went to the mountains", "I went to the mountain"]
+      ],
       [
         ["Nous avons mangé au restaurant"],
         ["We ate at the restaurant", "We had dinner at the restaurant"]

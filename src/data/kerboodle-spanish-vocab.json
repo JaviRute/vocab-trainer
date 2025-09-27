@@ -83,7 +83,10 @@
         ["simpático", "simpática", "amigable"],
         ["nice", "friendly"]
       ],
-      [["trabajador", "trabajadora"], ["hard-working"]],
+      [
+        ["trabajador", "trabajadora"],
+        ["hard-working", "hard working", "hardworking"]
+      ],
       [
         ["tranquilo", "tranquila"],
         ["quiet", "peaceful", "calm"]
