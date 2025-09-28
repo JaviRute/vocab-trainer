@@ -86,8 +86,14 @@
         ["My passion is sports", "My passion is sport"]
       ],
       [["Mi héroe es Michael Jordan"], ["My hero is Michael Jordan"]],
-      [["el fútbol", "fútbol"], ["football"]],
-      [["la música", "música"], ["music"]],
+      [
+        ["el fútbol", "fútbol"],
+        ["football", "the football"]
+      ],
+      [
+        ["la música", "música"],
+        ["music", "the music"]
+      ],
       [["Mi pasión es el tenis"], ["My passion is tennis"]],
       [["Vivo en Barcelona"], ["I live in Barcelona"]],
       [
@@ -2361,7 +2367,10 @@
       [["práctico", "práctica"], ["practical"]],
       [["responsable"], ["responsible"]],
       [["serio", "seria"], ["serious"]],
-      [["trabajador", "trabajadora"], ["hard-working"]],
+      [
+        ["trabajador", "trabajadora"],
+        ["hard-working", "hard working", "hardworking"]
+      ],
       [
         ["¿En qué te gustaría trabajar?"],
         [

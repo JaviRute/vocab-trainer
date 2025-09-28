@@ -94,55 +94,122 @@
     ],
     [
       "1.1H Personalidad y Aspecto Físico",
-      [["actitud", "la actitud"], ["attitude"]],
-      [["alto", "alta"], ["tall"]],
+      [
+        ["Tiene una actitud reservada"],
+        [
+          "He has a reserved attitude",
+          "She has a reserved attitude",
+          "He's got a reserved attitude",
+          "She's got a reserved attitude"
+        ]
+      ],
+      [["Es alto"], ["He's tall", "He is tall"]],
       [
         ["aspecto", "apariencia"],
         ["appearance", "look", "looks"]
       ],
-      [["bajo", "baja"], ["short"]],
+      [
+        ["Es bastante baja"],
+        [
+          "She's quite short",
+          "She is quite short",
+          "She's rather short",
+          "She is rather short"
+        ]
+      ],
       [
         ["bonito", "bonita"],
         ["pretty", "beautiful", "nice", "cute"]
       ],
-      [["cara"], ["face"]],
+      [
+        ["Tiene una cara agradable"],
+        [
+          "He has a pleasant face",
+          "She has a pleasant face",
+          "He's got a pleasant face",
+          "She's got a pleasant face"
+        ]
+      ],
       [["carácter"], ["character", "personality"]],
       [
-        ["delgado", "delgada"],
-        ["slim", "thin", "skinny"]
+        ["Son muy delgados"],
+        [
+          "They are very slim",
+          "They are very thin",
+          "They are very skinny",
+          "They're very slim",
+          "They're very thin",
+          "They're very skinny"
+        ]
       ],
       [
         ["físico", "física"],
         ["physical", "physique"]
       ],
-      [["gafas"], ["glasses"]],
+      [["A veces llevan gafas"], ["Sometimes they wear glasses"]],
       [["gris"], ["grey", "gray"]],
       [
         ["guapo", "guapa"],
-        ["good-looking", "handsome"]
-      ],
-      [["pelo largo"], ["long hair"]],
-      [["pelo corto"], ["short hair"]],
-      [
-        ["marrón", "castaños"],
-        ["brown", "brinette"]
+        ["good-looking", "handsome", "good looking"]
       ],
       [
-        ["moreno", "morena"],
-        ["dark", "dark-haired", "brunette"]
+        ["Tengo el pelo largo y liso "],
+        ["I have long straight hair", "I have long and straight hair"]
+      ],
+      [
+        ["Tiene el pelo corto y rizado"],
+        [
+          "He has short curly hair",
+          "She has short curly hair",
+          "He's got short curly hair",
+          "She's got short curly hair",
+          "He has short and curly hair",
+          "She has short and curly hair",
+          "He's got short and curly hair",
+          "She's got short and curly hair"
+        ]
+      ],
+      [
+        ["La chica tiene el pelo castaño"],
+        ["The girl has brown hair", "The girl has brunette hair"]
+      ],
+      [
+        ["El hombre tiene el pelo moreno"],
+        [
+          "The man has dark hair",
+          "The man is dark-haired",
+          "The man has black hair"
+        ]
       ],
       [["negro", "negra"], ["black"]],
-      [["ojo"], ["eye"]],
-      [["optimista"], ["optimistic", "positive"]],
+      [
+        ["Es calvo y tiene los ojos azules"],
+        ["He's bald and he has blue eyes", "He is bald and he has blue eyes"]
+      ],
+      [
+        ["Tienes una personalidad optimista"],
+        [
+          "You have an optimistic personality",
+          "You have a positive personality"
+        ]
+      ],
       [["pequeño"], ["small", "little"]],
       [
         ["rubio", "rubia"],
         ["blond", "blonde", "fair", "fair-haired"]
       ],
-      [["tatuaje"], ["tattoo"]],
+      [
+        ["Tengo un tatuaje pequeño"],
+        [
+          "I have a small tattoo",
+          "I've got a small tattoo",
+          "I have a little tattoo",
+          "I've got a little tattoo"
+        ]
+      ],
       [["tener"], ["to have"]],
-      [["triste"], ["sad", "unhappy"]],
-      [["verde"], ["green"]]
+      [["Está un poco triste"], ["He's a bit sad", "He is a bit sad"]],
+      [["Tengo los ojos verdes"], ["I have green eyes"]]
     ],
     [
       "1.2G Las relaciones familiares",
@@ -2023,7 +2090,9 @@
           "The weather is bad in my town",
           "The weather's bad in my town",
           "In my town the weather is bad",
-          "In my town the weather's bad"
+          "In my town the weather's bad",
+          "In my town it's bad weather",
+          "In my town it is bad weather"
         ]
       ],
       [["Hace sol"], ["It's sunny", "It is sunny"]],
