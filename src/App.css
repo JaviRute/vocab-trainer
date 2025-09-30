@@ -10,6 +10,7 @@ body {
   height: 100%;
   font-family: Arial, sans-serif;
   background: #191b1b;
+  overflow-x: hidden;
 }
 
 body {
@@ -373,7 +374,7 @@ img {
 }
 
 .big-text-button {
-  width: 30%;
+  width: 35%;
   min-width: 80px;
 }
 
@@ -533,8 +534,8 @@ img {
   backdrop-filter: blur(10px);
   border: 1px solid #e5e7eb;
   box-shadow: 0 10px 30px rgba(0, 0, 0, .12);
-  width: 33%;
-  max-width: 500px;
+  width: 40%;
+  max-width: 600px;
   z-index: 1600;
   width: 33%;
   position: relative;
@@ -638,7 +639,6 @@ img {
   width: 100%;
   text-align: center;
   background: #191b1b;
-  /* same as your app or slightly darker */
   color: #fff;
   padding: 8px;
   font-size: 14px;
@@ -717,12 +717,12 @@ img {
 
   .main-button,
   .seconds-button {
-    width: 22%;
+    width: 25%;
     font-size: 16px;
   }
 
   .big-text-button {
-    width: 27%;
+    width: 30%;
     min-width: 45px;
   }
 
@@ -823,7 +823,7 @@ img {
   }
 
     .big-text-button {
-      width: 35%;
+      width: 40%;
     }
 
   .small-button {

@@ -146,21 +146,65 @@
     ],
     [
       "1.3 ¿Tienes hermanos?",
-      [["Tengo una hermana"], ["I have a sister", "I have one sister"]],
-      [["un hermano"], ["a brother"]],
-      [["una hermanastra"], ["a stepsister", "a half-sister"]],
-      [["un hermanastro"], ["a stepbrother", "a half-brother"]],
+      [
+        ["¿Tienes hermanos?"],
+        [
+          "Do you have any siblings?",
+          "Do you have siblings?",
+          "Do you have any brothers or sisters?",
+          "Do you have brothers or sisters?",
+          "Have you got any siblings?",
+          "Have you got siblings?",
+          "Have you got any brothers or sisters?",
+          "Have you got brothers or sisters?",
+          "Do you have any brothers?",
+          "Do you have brothers?",
+          "Have you got any brothers?",
+          "Have you got brothers?"
+        ]
+      ],
+      [
+        ["Tengo una hermana"],
+        [
+          "I have a sister",
+          "I have one sister",
+          "I've a sister",
+          "I've one sister"
+        ]
+      ],
+      [["un hermano"], ["a brother", "one brother"]],
+      [
+        ["una hermanastra"],
+        ["a stepsister", "a half-sister", "one stepsister", "one half-sister"]
+      ],
+      [
+        ["un hermanastro"],
+        [
+          "a stepbrother",
+          "a half-brother",
+          "one stepbrother",
+          "one half-brother"
+        ]
+      ],
       [
         ["No tengo hermanos"],
         [
           "I don't have any brothers or sisters",
           "I have no siblings",
+          "I have no brothers",
           "I don't have any siblings"
         ]
       ],
       [
         ["Soy hijo único", "Soy hija única"],
-        ["I am an only child", "I am an only son", "I am an only daughter"]
+        [
+          "I'm an only child",
+          "I'm an only son",
+          "I'm an only daughter",
+          "I am an only child",
+          "I am an only son",
+          "I am an only daughter"
+        ]
       ],
       [["uno"], ["one", "1"]],
       [["dos"], ["two", "2"]],
@@ -170,28 +214,25 @@
       [["seis"], ["six", "6"]],
       [["siete"], ["seven", "7"]],
       [["ocho"], ["eight", "8"]],
-      [["nueve"], ["nine", "9"]],
-      [["diez"], ["ten", "10"]],
-      [["once"], ["eleven", "11"]],
       [["doce"], ["twelve", "12"]],
-      [["trece"], ["thirteen", "13"]],
+      [["once"], ["eleven", "11"]],
+      [
+        ["Tengo diez años"],
+        ["I'm ten years old", "I am ten years old", "I'm ten", "I am ten"]
+      ],
       [["catorce"], ["fourteen", "14"]],
       [["quince"], ["fifteen", "15"]],
-      [["dieciséis"], ["sixteen", "16"]],
-      [["diecisiete"], ["seventeen", "17"]],
       [["dieciocho"], ["eighteen", "18"]],
-      [["diecinueve"], ["nineteen", "19"]],
       [["veinte"], ["twenty", "20"]],
       [["veintiuno"], ["twenty-one", "21"]],
       [["veintidós"], ["twenty-two", "22"]],
-      [["treinta"], ["thirty", "30"]],
-      [["treinta y uno"], ["thirty-one", "31"]]
+      [["treinta"], ["thirty", "30"]]
     ],
     [
       "1.4 ¿Cuándo es tu cumpleaños?",
       [["¿Cuántos años tienes?"], ["How old are you?"]],
       [
-        ["Tengo doce años."],
+        ["Tengo doce años"],
         [
           "I am 12 years old",
           "I'm 12 years old",
@@ -204,12 +245,14 @@
         ]
       ],
       [
-        ["Tengo once años."],
+        ["Tengo once años"],
         [
+          "I am eleven years old",
+          "I'm eleven years old",
           "I am 11 years old",
           "I'm 11 years old",
-          "I am eleven years old",
-          "I'm eleven years old"
+          "I'm eleven",
+          "I am eleven"
         ]
       ],
       [["¿Cuándo es tu cumpleaños?"], ["When is your birthday?"]],
@@ -217,8 +260,8 @@
       [
         ["Mi cumpleaños es el catorce de septiembre"],
         [
-          "My birthday is on 14th of September",
-          "My birthday is on fourteenth of September",
+          "My birthday is 14th of September",
+          "My birthday is fourteenth of September",
           "My birthday is on the 14th of September",
           "My birthday is on the fourteenth of September"
         ]
@@ -234,14 +277,18 @@
         ["Mi cumpleaños es el veintisiete de julio"],
         [
           "My birthday is the 27th of July",
-          "My birthday is the twenty-seventh of July"
+          "My birthday is the twenty-seventh of July",
+          "My birthday is on the 27th of July",
+          "My birthday is on the twenty-seventh of July"
         ]
       ],
       [
         ["Mi cumpleaños es el diez de marzo"],
         [
           "My birthday is the 10th of March",
-          "My birthday is the tenth of March"
+          "My birthday is the tenth of March",
+          "My birthday is on the 10th of March",
+          "My birthday is on the tenth of March"
         ]
       ],
       [["enero"], ["January"]],
@@ -255,28 +302,52 @@
       [["septiembre"], ["September"]],
       [["octubre"], ["October"]],
       [["noviembre"], ["November"]],
-      [["diciembre"], ["December"]]
+      [["diciembre"], ["December"]],
+      [["treinta y uno"], ["thirty one", "thirty-one", "31"]],
+      [
+        ["Mi pasión es el deporte"],
+        ["My passion is sport", "My passion is sports"]
+      ],
+      [["tu cumpleaños"], ["your birthday"]],
+      [["hasta luego"], ["see you later"]],
+      [
+        ["veintiocho de diciembre"],
+        ["28th of December", "twenty-eighth of December", "28 of December"]
+      ]
     ],
     [
       "1.5 ¿Tienes mascotas?",
       [["¿Tienes mascotas?"], ["Do you have pets?", "Do you have any pets?"]],
       [["Tengo un perro", "Tengo una perra"], ["I have a dog"]],
       [["un caballo"], ["a horse"]],
-      [["una cobaya"], ["a guinea pig"]],
-      [["un conejo"], ["a rabbit"]],
+      [["una cobaya", "un cobayo"], ["a guinea pig"]],
+      [["Tengo dos conejos"], ["I have two rabbits", "I have two bunnies"]],
       [["un gato"], ["a cat"]],
       [["un pez"], ["a fish"]],
       [["un ratón"], ["a mouse"]],
       [["una serpiente"], ["a snake", "a serpent"]],
       [
         ["No tengo mascotas"],
-        ["I don't have any pets", "I don't have pets", "I have no pets"]
+        [
+          "I don't have any pets",
+          "I don't have pets",
+          "I have no pets",
+          "I do not have any pets",
+          "I do not have pets"
+        ]
       ],
       [
         ["¿Cómo es?"],
-        ["What is it like?", "What is he like?", "What is she like?"]
+        [
+          "What is it like?",
+          "What is he like?",
+          "What is she like?",
+          "How is it?",
+          "How is he?",
+          "How is she?"
+        ]
       ],
-      [["¿Cómo son?"], ["What are they like?"]],
+      [["¿Cómo son?"], ["What are they like?", "How are they?"]],
       [["blanco", "blanca"], ["white"]],
       [["amarillo", "amarilla"], ["yellow"]],
       [["negro", "negra"], ["black"]],
@@ -286,7 +357,25 @@
       [["marrón"], ["brown"]],
       [["azul"], ["blue"]],
       [["rosa"], ["pink"]],
-      [["naranja"], ["orange"]]
+      [["naranja"], ["orange"]],
+      [
+        [
+          "In the picture there are two dogs",
+          "In the photo there are two dogs"
+        ],
+        ["En la foto hay dos perros"]
+      ],
+      [
+        ["A la izquierda hay un gato"],
+        ["On the left there is a cat", "To the left there is a cat"]
+      ],
+      [
+        ["A la derecha hay una tortuga verde"],
+        [
+          "On the right there is a green turtle",
+          "To the right there is a green tortoise"
+        ]
+      ]
     ],
     [
       "2.1 ¿Qué te gusta hacer?",
@@ -296,11 +385,19 @@
       ],
       [["Me gusta"], ["I like"]],
       [["Me gusta mucho"], ["I like a lot", "I really like"]],
-      [["No me gusta"], ["I don't like"]],
-      [["No me gusta nada"], ["I don't like at all", "I really don't like"]],
+      [["No me gusta"], ["I don't like", "I do not like"]],
+      [
+        ["No me gusta nada"],
+        [
+          "I don't like at all",
+          "I really don't like",
+          "I do not like at all",
+          "I really do not like"
+        ]
+      ],
       [["chatear"], ["to chat online"]],
-      [["escribir correos"], ["to write emails"]],
-      [["escuchar música"], ["to listen to music"]],
+      [["escribir correos"], ["to write emails", "to write e-mails"]],
+      [["escuchar música"], ["to listen to music", "to hear music"]],
       [
         ["jugar a los videojuegos"],
         ["to play videogames", "to play video games"]
@@ -1025,21 +1122,41 @@
         ]
       ],
       [["Bailé"], ["I danced"]],
-      [["Compré una camiseta"], ["I bought a T-shirt"]],
+      [
+        ["Compré una camiseta"],
+        ["I bought a T-shirt", "I bought a T shirt", "I bought a tshirt"]
+      ],
       [
         ["Descansé en la playa"],
         ["I relaxed on the beach", "I rested on the beach"]
       ],
       [
+        ["Descansamos en la playa"],
+        ["We relaxed on the beach", "We rested on the beach"]
+      ],
+      [
         ["Mandé SMS", "Mandé mensajes"],
-        ["I sent texts", "I sent text messages", "I texted"]
+        ["I sent texts", "I sent text messages", "I texted", "I sent messages"]
       ],
       [
         ["Monté en bicicleta", "Monté en bici"],
-        ["I rode my bike", "I cycled"]
+        ["I rode my bike", "I cycled", "I rode a bike", "I went cycling"]
+      ],
+      [
+        ["Mis amigos montaron en bicicleta", "Mis amigos montaron en bici"],
+        [
+          "My friends went cycling",
+          "My friends rode a bike",
+          "My friends cycled",
+          "My friends rode their bike",
+          "My friends rode their bikes"
+        ]
       ],
       [["Nadé en el mar"], ["I swam in the sea", "I went swimming in the sea"]],
-      [["Saqué fotos"], ["I took photos", "I took pictures"]],
+      [
+        ["Saqué fotos"],
+        ["I took photos", "I took pictures", "I made photos", "I made pictures"]
+      ],
       [["Tomé el sol"], ["I sunbathed"]],
       [["Visité monumentos"], ["I visited monuments", "I went sightseeing"]],
       [
@@ -1050,11 +1167,36 @@
           "I did not swim in the sea"
         ]
       ],
-      [["luego"], ["then", "after that"]],
-      [["más tarde"], ["later", "a bit later"]],
-      [["después"], ["afterwards", "after that"]],
-      [["el primer día"], ["on the first day"]],
-      [["otro día"], ["another day", "on another day"]]
+      [["luego"], ["then", "after that", "later"]],
+      [["más tarde"], ["later", "a bit later", "afterwards", "then"]],
+      [["después"], ["afterwards", "after that", "after", "later", "then"]],
+      [["el primer día"], ["on the first day", "the first day"]],
+      [["otro día"], ["another day", "on another day", "other day"]],
+      [
+        ["El primer día descansé en la playa"],
+        [
+          "On the first day I rested on the beach",
+          "The first day I rested on the beach",
+          "On the first day I relaxed on the beach",
+          "The first day I relaxed on the beach"
+        ]
+      ],
+      [
+        ["No compré nada"],
+        ["I didn't buy anything", "I did not buy anything", "I bought nothing"]
+      ],
+      [
+        ["Fui a Madrid de vacaciones"],
+        [
+          "I went to Madrid on holiday",
+          "I went to Madrid on holidays",
+          "I went to Madrid on vacation"
+        ]
+      ],
+      [["Fui con mi clase"], ["I went with my class"]],
+      [["Fuimos en barco"], ["We went by boat"]],
+      [["Fui de compras"], ["I went shopping"]],
+      [["el verano pasado"], ["last summer"]]
     ],
     [
       "1.3 El último día",
@@ -1067,7 +1209,12 @@
       [["Comí paella"], ["I ate paella", "I had paella"]],
       [
         ["Conocí a un chico guapo"],
-        ["I met a cute boy", "I met a handsome boy"]
+        [
+          "I met a cute boy",
+          "I met a handsome boy",
+          "I met a good-looking boy",
+          "I met a good looking boy"
+        ]
       ],
       [
         ["Conocí a una chica guapa"],

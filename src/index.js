@@ -1,3 +1,8 @@
+//These first 2 imports are for adding core JS polyfills 
+// (making sure the page works on Edge and older browsers)
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

@@ -177,7 +177,14 @@ function App() {
           console.log(`${i + 1}. ${remainingExpressions[i][0]} → ${remainingExpressions[i][1]}`);
        } 
        setUserResponse("¡A sus tiránicas órdenes!");
-      } else if (!questionAlreadyAnswered){
+      } else if (userResponse === "Print HW") {
+        let expressions = ""
+        for (let i = 0; i < remainingExpressions.length; i++) {
+          expressions += `${i + 1}. ${remainingExpressions[i][0][0]}\n`
+       } 
+        console.log(expressions);
+      }
+      else if (!questionAlreadyAnswered){
         if (spToEngMode === true ) {
           if (formatArray(targetExpression[1]).includes(formatString(userResponse)) || userResponse === "▲") {
             setRightAnswer(true);
