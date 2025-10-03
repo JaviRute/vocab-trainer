@@ -182,6 +182,7 @@ function App() {
         for (let i = 0; i < remainingExpressions.length; i++) {
           expressions += `${i + 1}. ${remainingExpressions[i][0][0]}\n`
        } 
+        setUserResponse("Check on the console! ❤");
         console.log(expressions);
       }
       else if (!questionAlreadyAnswered){
