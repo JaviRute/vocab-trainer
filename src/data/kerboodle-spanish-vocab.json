@@ -242,10 +242,10 @@
       ],
       [["va"], ["he goes", "she goes", "it goes"]],
       [["vacaciones"], ["holidays", "vacation"]],
-      [["vais"], ["you go", "you (plural) go"]],
+      [["vais"], ["you go", "you all go"]],
       [["vamos"], ["we go", "let's go", "lets go"]],
       [["van"], ["they go"]],
-      [["vas"], ["you go", "you (singular) go"]],
+      [["vas"], ["you go"]],
       [["voy"], ["I go", "I'm going", "I am going"]]
     ],
     [
@@ -258,39 +258,87 @@
       [["común"], ["common"]],
       [["contacto"], ["contact"]],
       [["creer"], ["to think", "to believe"]],
-      [["diferente"], ["different"]],
+      [
+        ["Somos muy diferentes"],
+        ["We are very different", "We are very different to one another"]
+      ],
       [["divorciarse"], ["to get divorced", "to divorce"]],
-      [["escuchar"], ["to listen", "to listen to", "to hear"]],
+      [
+        ["Mi primo me escucha"],
+        ["My cousin listens to me", "My cousin hear me"]
+      ],
       [["fatal"], ["terrible", "awful", "horrible", "fatal"]],
       [["frecuencia"], ["frequency"]],
       [["genial"], ["great", "brilliant, fantastic", "awesome"]],
       [["guardar secretos"], ["to keep secrets"]],
       [["hablar"], ["to speak", "to talk"]],
-      [["llevarse bien con"], ["to get on well with", "to get along with"]],
-      [["llevarse mal con"], ["to get on badly with"]],
+      [
+        ["Me llevo bien con mi madre"],
+        [
+          "I to get on well with my mother",
+          "I to get on well with my mum",
+          "I get along with my mother",
+          "I get along with my mum"
+        ]
+      ],
+      [
+        ["Me llevo mal con mi tía"],
+        ["I get on badly with my auntie", "I get on badly with my auntie"]
+      ],
       [["mejor"], ["better", "best"]],
       [["paciente"], ["patient"]],
       [["parecerse a"], ["to look like", "to resemble"]],
       [["pasar"], ["to pass", "to spend", "to happen"]],
       [
-        ["pelear", "pelearse"],
-        ["to fight", "to quarrel", "to argue"]
+        ["Me peleo con mi hermano"],
+        [
+          "I fight with my brother",
+          "I quarrel with my brother",
+          "I argue with my brother"
+        ]
       ],
-      [["ponerse"], ["to put on", "to become"]],
-      [["preocuparse"], ["to worry", "to be worried"]],
+      [
+        ["Me pongo en contacto con mi abuela"],
+        [
+          "I get in contact with my grandmother",
+          "I get in contact with my grannie",
+          "I contact my grandmother",
+          "I contact my granny"
+        ]
+      ],
+      [
+        ["Me preocupo por mi amigo", "Me preocupo por mi amiga"],
+        [
+          "I worry about my friend",
+          "I'm worried about my friend",
+          "I am worried about my friend",
+          "I worry for my friend",
+          "I'm worried for my friend",
+          "I am worried for my friend"
+        ]
+      ],
       [["problema"], ["problem"]],
       [
         ["raro", "rara"],
         ["strange", "odd", "rare", "weird"]
       ],
-      [["relación"], ["relationship", "relation", "connection"]]
+      [
+        ["Tenemos una buena relación"],
+        ["We have a good relationship", "We have a good relation"]
+      ]
     ],
     [
       "1.2H La Familia Moderna",
-      [["adoptado", "adoptada"], ["adopted"]],
+      [
+        ["un hijo adoptado", "una hija adoptada"],
+        ["an adopted child", "an adopted son", "an adopted daughter"]
+      ],
       [["biológico", "biológica"], ["biological"]],
       [["cariño"], ["affection", "love", "fondness"]],
-      [["compartir"], ["to share"]],
+      [
+        ["Mi hermano y yo compartimos habitación"],
+        ["My brother and I share a room", "My brother and I share the room"]
+      ],
       [
         ["complicado", "complicada"],
         ["complicated", "complex"]
@@ -304,24 +352,53 @@
         ["various", "diverse"]
       ],
       [
-        ["divorciado", "divorciada"],
-        ["divorced", "separated"]
+        ["Mi padres están divorciados", "Mi padres están separados"],
+        ["My parents are divorced", "My parents are separated"]
       ],
-      [["familia extendida"], ["extended family"]],
+      [["Tengo una familia extendida"], ["I have an extended family"]],
       [
         ["familia reconstituida"],
-        ["step family", "blended family", "reconstituted family"]
+        ["blended family", "step family", "reconstituted family"]
       ],
       [
-        ["hijo", "hija"],
-        ["son", "daughter", "child"]
+        ["No vamos a tener hijos"],
+        [
+          "We're not going to have any children",
+          "We are not going to have any children",
+          "We're not going to have children",
+          "We are not going to have children",
+          "We're not going to have any sons",
+          "We are not going to have any sons",
+          "We're not going to have sons",
+          "We are not going to have sons"
+        ]
       ],
-      [["madre"], ["mother"]],
+      [
+        ["Mi madre es muy divertida"],
+        [
+          "My mother is very funny",
+          "My mum is very funny",
+          "My mother is lots of fun",
+          "My mother is very amusing",
+          "My mum is lots of fun",
+          "My mum is very amusing"
+        ]
+      ],
       [
         ["marido", "esposo"],
         ["husband", "spouse"]
       ],
-      [["mayor"], ["older", "elder", "bigger", "main"]],
+      [
+        ["Me parezco a mi hermana mayor"],
+        [
+          "I look like my older sister",
+          "I look like my big sister",
+          "I resemble my older sister",
+          "I resemble my big sister",
+          "I take after my older sister",
+          "I take after my big sister"
+        ]
+      ],
       [["miembro"], ["member"]],
       [
         ["familia monoparental"],
@@ -329,7 +406,10 @@
       ],
       [["familia nuclear"], ["nuclear family"]],
       [["familia numerosa"], ["large family", "big family"]],
-      [["padre"], ["father"]],
+      [
+        ["Vivo con mi hermano y mis padres"],
+        ["I live with my brother and my parents"]
+      ],
       [["pareja"], ["couple", "partner"]],
       [
         ["pasarlo bien"],
@@ -373,7 +453,14 @@
     ],
     [
       "2.1F ¿Estás en forma?",
-      [["a pie"], ["on foot", "walking"]],
+      [
+        [
+          "Voy a pie al insti",
+          "Voy a pie al instituto",
+          "Voy a pie al colegio"
+        ],
+        ["I walk to school", "I go on foot to school", "I go walking to school"]
+      ],
       [
         ["andar", "caminar"],
         ["to walk", "to go on foot"]
@@ -384,27 +471,62 @@
       ],
       [["bocadillo", "sándwich"], ["sandwich"]],
       [["carne"], ["meat"]],
-      [["correr"], ["to run", "to jog"]],
-      [["dieta"], ["diet"]],
+      [
+        ["Salgo a correr", "Voy a correr"],
+        ["I go jogging", "I go running", "I go out running", "I go out jogging"]
+      ],
+      [
+        ["A veces me salto el desayuno"],
+        [
+          "Sometimes I skip breakfast",
+          "I sometimes skip breakfast",
+          "At times I skip breakfast"
+        ]
+      ],
       [
         ["entrenar", "entrenarse"],
         ["to train", "to work out"]
       ],
-      [["equilibrado", "equilibrada"], ["balanced"]],
-      [["evitar"], ["to avoid"]],
-      [["fumar"], ["to smoke"]],
+      [["Tengo una dieta equilibrada"], ["I have a balanced diet"]],
+      [
+        ["Evito la grasa"],
+        ["I avoid fatty foods", "I avoid greasy food", "I avoid fats"]
+      ],
+      [["No fumo"], ["I don't smoke", "I do not smoke"]],
       [["ganar"], ["to earn", "to win", "to gain"]],
-      [["gimnasio"], ["gym"]],
+      [
+        ["Voy al gimnasio a menudo"],
+        ["I go to the gym often", "I often go to the gym"]
+      ],
       [["grasa"], ["fat", "grease", "lard"]],
-      [["jamón"], ["ham"]],
-      [["natación"], ["swimming"]],
+      [
+        ["un bocadillo de jamón"],
+        ["a ham sandwich", "a ham baguette", "a ham roll", "a ham panini"]
+      ],
+      [
+        ["Me gusta hacer natación"],
+        ["I like to go swimming", "I like swimming", "I like to swim"]
+      ],
       [["pedir"], ["to ask for", "to order", "to request"]],
-      [["perder"], ["to lose", "to miss"]],
-      [["pescado"], ["fish"]],
+      [["Quiero perder peso"], ["I want to lose weight"]],
+      [["Ceno pescado"], ["I have fish for dinner", "I eat fish for dinner"]],
       [["pollo"], ["chicken"]],
       [["salud"], ["health"]],
-      [["sano", "sana"], ["healthy"]],
-      [["vegetariano", "vegetariana"], ["vegetarian"]],
+      [
+        ["Tomo un desayuno sano"],
+        ["I have a healthy breakfast", "I eat a healthy breakfast"]
+      ],
+      [
+        ["Como muchos platos vegetarianos"],
+        [
+          "I eat many vegetarian meals",
+          "I eat lots of vegetarian meals",
+          "I eat a lot of vegetarian meals",
+          "I eat many vegetarian dishes",
+          "I eat lots of vegetarian dishes",
+          "I eat a lot of vegetarian dishes"
+        ]
+      ],
       [
         ["verdura", "verduras"],
         ["vegetables", "greens"]
@@ -413,30 +535,87 @@
     ],
     [
       "2.1H Cuidar de tu salud",
-      [["acostarse"], ["to go to bed"]],
-      [["aire"], ["air"]],
+      [
+        ["Siempre me acuesto temprano"],
+        [
+          "I always go to bed early",
+          "I always go early to bed",
+          "I always go to sleep early",
+          "I always go early to sleep",
+          "I always get to bed early",
+          "I always get early to bed"
+        ]
+      ],
+      [["Uso crema a diario"], ["I use cream daily"]],
       [["cabeza"], ["head"]],
-      [["calor"], ["heat"]],
-      [["cambiar"], ["to change", "to swap"]],
-      [["cambio"], ["change"]],
+      [
+        ["Lo ideal es comer fruta y verdura"],
+        [
+          "The ideal thing is to eat fruit and vegetables",
+          "The ideal thing is to eat fruit and veg"
+        ]
+      ],
+      [["hacer ejercicio"], ["to do exercise", "to exercise"]],
+      [
+        ["No se debe tomar drogas"],
+        ["You shouldn't take drugs", "You should not take drugs"]
+      ],
       [["cena"], ["dinner", "tea", "evening meal", "supper"]],
       [["corazón"], ["heart"]],
-      [["crema"], ["cream"]],
-      [["cuerpo"], ["body"]],
-      [["cuidar"], ["to care for", "to look after", "to take care of"]],
-      [["descansar"], ["to rest", "to relax"]],
-      [["diario"], ["daily"]],
+      [["dormir ocho horas al día"], ["to sleep eight hours a day"]],
+      [
+        ["pasar tiempo en el campo"],
+        ["to spend time in the countryside", "to spend time in the country"]
+      ],
+      [
+        ["Es importante cuidar el cuerpo"],
+        [
+          "It's important to take care of your body",
+          "It's important to care for your body",
+          "It's important to look after your body",
+          "It is important to take care of your body",
+          "It is important to care for your body",
+          "It is important to look after your body",
+          "It's important to take care of the body",
+          "It's important to care for the body",
+          "It's important to look after the body",
+          "It is important to take care of the body",
+          "It is important to care for the body",
+          "It is important to look after the body"
+        ]
+      ],
+      [
+        ["El cuerpo tiene que descansar"],
+        ["The body has to rest", "The body has to relax"]
+      ],
+      [["beber alcohol"], ["to drink alcohol"]],
       [["disfrutar"], ["to enjoy", "to have fun"]],
       [["enfermedad"], ["illness", "disease", "sickness"]],
       [["estar en forma"], ["to be fit", "to be in shape"]],
-      [["estrés"], ["stress"]],
-      [["hambre"], ["hunger"]],
-      [["necesitar"], ["to need"]],
-      [["piel"], ["skin"]],
-      [["quedarse"], ["to stay", "to remain"]],
-      [["respirar"], ["to breathe"]],
+      [
+        ["Es importante evitar el estrés"],
+        ["It's important to avoid stress", "It is important to avoid stress"]
+      ],
+      [["Tengo hambre"], ["I'm hungry", "I am hungry"]],
+      [["Necesito beber agua"], ["I need to drink water"]],
+      [
+        ["Tienes que cuidar la piel"],
+        [
+          "You have to take care of your skin",
+          "You have to care for your skin",
+          "You have to look after your skin",
+          "You have to take care of the skin",
+          "You have to care for the skin",
+          "You have to look after the skin"
+        ]
+      ],
+      [["salud mental"], ["mental health"]],
+      [
+        ["respirar aire puro"],
+        ["to breathe fresh air", "to breathe pure air", "to breathe clean air"]
+      ],
       [["riesgo"], ["risk"]],
-      [["sed"], ["thirst"]],
+      [["Tengo sed"], ["I'm thirsty", "I am thirsty"]],
       [["vegano", "vegana"], ["vegan"]]
     ],
     [
@@ -475,42 +654,83 @@
     ],
     [
       "2.2F Tipos de Dietas",
-      [["azúcar"], ["sugar"]],
-      [["bastante"], ["quite", "enough"]],
-      [["consistir"], ["to consist"]],
-      [["ensalada"], ["salad"]],
-      [["falta"], ["lack", "shortage"]],
+      [["No como azúcar"], ["I don't eat sugar", "I do not eat sugar"]],
       [
-        ["fresco", "fresca"],
-        ["cool", "fresh"]
+        ["Como bastante pescado "],
+        [
+          "I eat plenty of fish",
+          "I eat enough fish",
+          "I eat quite a lot of fish",
+          "I eat a fair amount of fish"
+        ]
       ],
       [
-        ["frito", "frita"],
-        ["fried", "deep-fried"]
+        ["Consiste en no comer ningun producto de origen animal"],
+        [
+          "It consists of not eating any product of animal origin",
+          "It consists of eating no products of animal origin"
+        ]
+      ],
+      [["ensalada"], ["salad"]],
+      [["falta de proteína"], ["lack of protein", "shortage of protein"]],
+      [
+        ["productos frescos"],
+        ["fresh products", "fresh food", "fresh products"]
+      ],
+      [
+        ["Evito la comida frita"],
+        ["I avoid fried food", "I avoid deep-fried food"]
       ],
       [["intentar", "probar"], ["to try"]],
       [["más"], ["more", "most"]],
-      [["médico", "médica", "doctor", "doctora"], ["doctor"]],
-      [["medio ambiente"], ["environment"]],
-      [["mediterráneo", "mediterránea"], ["Mediterranean"]],
-      [["menor"], ["younger", "smaller"]],
       [
-        ["ninguno", "ninguna"],
+        ["médico", "médica", "doctor", "doctora"],
+        ["doctor", "medic", "physician"]
+      ],
+      [
+        ["Es bueno para el medio ambiente"],
+        ["It's good for the environment", "It is good for the environment"]
+      ],
+      [
+        ["Seguimos la dieta mediterránea"],
+        ["We follow the Mediterranean diet"]
+      ],
+      [["mi hermano menor"], ["my younger brother", "my little brother"]],
+      [
+        ["ninguno", "ninguna", "ningún"],
         ["none", "not any", "not one"]
       ],
-      [["peso"], ["weight"]],
-      [["preparar"], ["to prepare"]],
-      [["producto"], ["product"]],
-      [["proteína"], ["protein"]],
+      [
+        ["Mi madre quiere perder peso"],
+        ["My mother wants to lose weight", "My mum wants to lose weight"]
+      ],
+      [
+        ["Vamos a preparar la cena"],
+        [
+          "We're going to prepare dinner",
+          "We are going to prepare dinner",
+          "We're going to prepare the dinner",
+          "We are going to prepare the dinner"
+        ]
+      ],
+      [["Voy a comer"], ["I'm going to eat", "I am going to eat"]],
+      [["ayudar"], ["to help"]],
       [["región"], ["region", "area"]],
-      [["seguir"], ["to follow", "to continue"]],
+      [
+        ["Es una dieta que es buena para el corazón"],
+        [
+          "It's a diet that's good for the heart",
+          "It is a diet that is good for the heart",
+          "It's a diet which is good for the heart",
+          "It is a diet which is good for the heart",
+          "It's a heart-healthy diet",
+          "It is a heart-healthy diet"
+        ]
+      ],
       [["servir"], ["to serve"]],
       [["tipo"], ["type", "kind", "sort"]],
-      [
-        ["tonto", "tonta"],
-        ["silly", "stupid", "foolish"]
-      ],
-      [["trabajar"], ["to work"]],
+      [["Hay muchas dietas tontas"], ["There are many silly diets"]],
+      [["Van a trabajar"], ["They're going to work", "They are going to work"]],
       [
         ["veterinario", "veterinaria"],
         ["vet", "veterinarian"]
@@ -519,32 +739,100 @@
     [
       "2.2H La vida en España",
       [["aceite"], ["oil"]],
-      [["alemán", "alemana"], ["German"]],
+      [
+        ["los platos alemanes"],
+        [
+          "the German dishes",
+          "the German meals",
+          "the German foods",
+          "German dishes",
+          "German meals",
+          "German foods"
+        ]
+      ],
       [["andaluz", "andaluza"], ["Andalusian"]],
-      [["argentino", "argentina"], ["Argentinian"]],
-      [["cereales"], ["cereals", "cereal"]],
-      [["chileno", "chilena"], ["Chilean"]],
+      [["la carne argentina"], ["the Argentinian meat", "Argentinian meat"]],
+      [["No puedo dormir"], ["I can't sleep", "I cannot sleep"]],
+      [["los vinos chilenos"], ["the Chilean wines", "Chilean wines"]],
       [["chino", "china"], ["Chinese"]],
-      [["chocolate"], ["chocolate"]],
-      [["español", "española"], ["Spanish"]],
+      [
+        [
+          "Hay que tener una dieta equilibrada",
+          "Se debe tener una dieta equilibrada",
+          "Debes tener una dieta equilibrada"
+        ],
+        [
+          "One must have a balanced diet",
+          "You must have a balanced diet",
+          "One should have a balanced diet",
+          "You should have a balanced diet"
+        ]
+      ],
+      [["las tapas españolas"], ["the Spanish tapas", "Spanish tapas"]],
       [["europeo", "europea"], ["European"]],
-      [["fiesta"], ["festival", "party"]],
-      [["francés", "francesa"], ["French"]],
-      [["hay que"], ["one must", "it is necessary to"]],
+      [
+        ["una fiesta mexicana", "una fiesta mejicana"],
+        ["a Mexican festival", "a Mexican party", "a Mexican celebration"]
+      ],
+      [["los dulces franceses"], ["the French sweets", "French sweets"]],
+      [["hay que"], ["one must", "it is necessary to", "you must"]],
       [
         ["histórico", "histórica"],
         ["historic", "historical"]
       ],
       [["horario"], ["timetable", "schedule"]],
-      [["inglés", "inglesa"], ["English"]],
-      [["merienda"], ["afternoon snack", "snack"]],
-      [["mexicano", "mexicana"], ["Mexican"]],
-      [["plato"], ["dish", "plate", "course"]],
-      [["procesado", "procesada"], ["processed"]],
-      [["puente"], ["bridge", "Bank Holiday"]],
-      [["religioso", "religiosa"], ["religious"]],
-      [["siesta"], ["siesta", "afternoon nap", "nap"]],
-      [["tomate"], ["tomato"]],
+      [["el desayuno inglés"], ["the English breakfast", "English breakfast"]],
+      [
+        ["merienda"],
+        [
+          "afternoon snack",
+          "snack",
+          "tea-time snack",
+          "tea time snack",
+          "merienda"
+        ]
+      ],
+      [["comida mexicana"], ["Mexican food"]],
+      [
+        ["Para estar en forma"],
+        [
+          "In order to be in shape",
+          "To be in shape",
+          "In order to be fit",
+          "To be fit",
+          "In order to stay in shape",
+          "To stay in shape",
+          "In order to stay fit",
+          "To stay fit"
+        ]
+      ],
+      [["Tenemos que preparar la cena"], ["We have to prepare dinner"]],
+      [
+        ["Debes descansar", "Se debe descansar", "Hay que descansar"],
+        ["You must rest", "You should rest"]
+      ],
+      [
+        ["No debes comer comida procesada"],
+        [
+          "You must not eat processed foods",
+          "You mustn't eat processed foods",
+          "You should not eat processed foods",
+          "You shouldn't eat processed foods",
+          "You must not eat processed food",
+          "You mustn't eat processed food",
+          "You should not eat processed food",
+          "You shouldn't eat processed food"
+        ]
+      ],
+      [["siesta"], ["nap", "afternoon nap", "siesta"]],
+      [
+        ["Puedo hacer una paella muy buena"],
+        [
+          "I can make a very nice paella",
+          "I can make a very tasty paella",
+          "I can make a delicious tasty paella"
+        ]
+      ],
       [["tortilla"], ["omelette", "Spanish omelette"]]
     ],
     [

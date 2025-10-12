@@ -3639,10 +3639,7 @@
         ]
       ],
       [["Tienes que ser"], ["You have to be"]],
-      [
-        ["En mi trabajo, los idiomas son muy importantes"],
-        ["In my job, languages are very important"]
-      ],
+      [["Los idiomas son muy importantes"], ["Languages are very important"]],
       [
         ["Hablo español, alemán e inglés"],
         ["I speak Spanish, German and English"]
@@ -3650,7 +3647,12 @@
 
       [
         ["¿Cuáles son tus ambiciones para el futuro?"],
-        ["What are your future ambitions?"]
+        [
+          "What are your future ambitions?",
+          "What are your ambitions for the future?",
+          "Which are your future ambitions?",
+          "Which are your ambitions for the future?"
+        ]
       ],
       [
         ["Voy a estudiar en Cambridge"],
@@ -3668,6 +3670,24 @@
       [
         ["Va a ser flipante"],
         ["It is going to be awesome", "It's going to be awesome"]
+      ],
+      [["entrenador"], ["coach", "sports coach", "trainer"]],
+      [
+        ["conocer gente nueva"],
+        ["to meet new people", "to get to know new people", "to meet people"]
+      ],
+      [
+        ["Tienes que ser organizado"],
+        [
+          "You have to be organised",
+          "You have to be well organised",
+          "You must be organised",
+          "You must be well organised"
+        ]
+      ],
+      [
+        ["guía turístico"],
+        ["tour guide", "travel guide", "sightseeing guide", "tourist guide"]
       ]
     ],
     [

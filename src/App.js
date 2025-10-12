@@ -89,7 +89,7 @@ function App() {
   const [completedAt, setCompletedAt] = useState(null);
   const [shouldCelebrate, setShouldCelebrate] = useState(false);
   // Leave it as true for having KS4 vocab by default. False for using KS3 vocab
-  const [ks3Ks4, setKs3Ks4] = useState(false);
+  const [ks3Ks4, setKs3Ks4] = useState(true);
   const [showTutorial, setShowTutorial] = useState(false);
 
   // sets whether the labels and input appear or not
