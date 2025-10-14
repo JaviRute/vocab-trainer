@@ -872,72 +872,265 @@
     [
       "3.1F En el instituto",
       [
-        ["alumno", "alumna", "estudiante"],
-        ["pupil", "student"]
+        [
+          "Mi insti tiene 500 alumnos",
+          "Mi instituto tiene 500 alumnos",
+          "Mi colegio tiene 500 alumnos",
+          "Mi insti tiene 500 estudiantes",
+          "Mi instituto tiene 500 estudiantes",
+          "Mi colegio tiene 500 estudiantes"
+        ],
+        ["My school has 500 students", "My school has 500 pupils"]
       ],
-      [["asignatura"], ["subject"]],
-      [["biblioteca"], ["library"]],
+      [
+        [
+          "La historia es mi asignatura favorita",
+          "La historia es mi asignatura preferida",
+          "La historia es mi clase favorita",
+          "La historia es mi clase preferida"
+        ],
+        [
+          "History is my favourite subject",
+          "History is my favorite subject",
+          "History is my preferred subject",
+          "History is my preferred class"
+        ]
+      ],
+      [
+        [
+          "Mi insti no tiene piscina",
+          "Mi instituto no tiene piscina",
+          "Mi colegio no tiene piscina"
+        ],
+        [
+          "My school doesn't have a pool",
+          "My school does not have a pool",
+          "My school doesn't have a swimming pool",
+          "My school does not have a swimming pool",
+          "My school doesn't have a swimming-pool",
+          "My school does not have a swimming-pool"
+        ]
+      ],
       [["chaqueta"], ["jacket", "blazer"]],
-      [["deberes", "tarea"], ["homework"]],
+      [
+        ["Hay demasiados deberes", "Hay demasiada tarea"],
+        ["There's too much homework", "There is too much homework"]
+      ],
       [["dibujo"], ["art", "drawing"]],
       [["edificio"], ["building"]],
-      [["educación"], ["education"]],
-      [["explicar"], ["to explain"]],
+      [
+        ["La biblioteca es más grande que el gymnasio"],
+        [
+          "The library is bigger than the gym",
+          "The library is larger than the gym"
+        ]
+      ],
+      [
+        ["Los profesores explican bien"],
+        ["The teachers explain well", "Teachers explain well"]
+      ],
       [["geografía"], ["geography"]],
-      [["historia"], ["history"]],
-      [["idioma", "lengua"], ["language"]],
+      [
+        ["Tienes que levantar la mano antes de hablar"],
+        [
+          "You have to raise your hand before talking",
+          "You have to put your hand up before talking",
+          "You have to raise your hand before speaking",
+          "You have to put your hand up before speaking"
+        ]
+      ],
+      [["idiomas", "lenguas"], ["languages"]],
       [["informática"], ["ICT", "IT", "computing", "computer science"]],
       [["inglés"], ["English", "English language"]],
-      [["instalaciones"], ["facilities", "amenities"]],
+      [
+        ["Las instalaciones son antiguas"],
+        [
+          "The facilities are old",
+          "The amenities are old",
+          "Facilities are old",
+          "Amenities are old"
+        ]
+      ],
       [["mesa"], ["table", "desk"]],
       [
-        ["ordenador", "computadora"],
-        ["computer", "PC"]
+        ["Hay un montón de ordenadores", "Hay un montón de computadoras"],
+        [
+          "There are lots of computers",
+          "There are lots of PCs",
+          "There are loads of computers",
+          "There are loads of PCs",
+          "There are plenty of computers",
+          "There are plenty of PCs",
+          "There are many computers",
+          "There are many PCs"
+        ]
       ],
-      [["pasillo"], ["corridor", "hallway"]],
-      [["patio"], ["yard", "patio", "playground", "courtyard"]],
-      [["privado", "privada"], ["private"]],
       [
-        ["profesor", "profesora"],
-        ["teacher", "professor"]
+        ["No debes correr en los pasillos"],
+        [
+          "You shouldn't run in the corridors",
+          "You shouldn't  run in the hallway",
+          "You shouldn't  run in the halls",
+          "You shouldn't  run down the corridors",
+          "You should not run in the corridors",
+          "You should not  run in the hallway",
+          "You should not  run in the halls",
+          "You should not  run down the corridors",
+          "You mustn't run in the corridors",
+          "You mustn't  run in the hallway",
+          "You mustn't  run in the halls",
+          "You mustn't  run down the corridors",
+          "You must not run in the corridors",
+          "You must not  run in the hallway",
+          "You must not  run in the halls",
+          "You must not  run down the corridors"
+        ]
+      ],
+      [["patio"], ["yard", "patio", "playground", "courtyard"]],
+      [
+        ["un colegio privado", "un insti privado", "un instituto privado"],
+        ["a private school"]
+      ],
+      [
+        [
+          "No se permite usar el móvil en clase",
+          "No está permitido usar el móvil en clase"
+        ],
+        [
+          "It's not allowed to use the phone in class",
+          "It is not allowed to use the phone in class",
+          "You're not allowed to use your phone in class",
+          "You are not allowed to use your phone in class"
+        ]
       ],
       [["recreo"], ["break", "break time"]],
-      [["respetar"], ["to respect"]],
+      [
+        ["respetar a los demás", "respetar a los otros"],
+        ["to respect the others"]
+      ],
       [["silla"], ["chair"]],
-      [["uniforme"], ["uniform"]]
+      [["Llevamos uniforme"], ["We wear a uniform", "We wear uniform"]]
     ],
     [
       "3.1H Lo bueno y lo malo del instituto",
-      [["acoso"], ["bullying", "harassment"]],
-      [["aprender"], ["to learn"]],
-      [["aprobar"], ["to pass", "to pass an exam"]],
-      [["arte"], ["art"]],
+      [
+        ["Hay problemas como el acoso"],
+        [
+          "There are problems like bullying",
+          "There are problems such as bullying",
+          "There are problems like harassment",
+          "There are problems such as harassment"
+        ]
+      ],
+      [
+        ["Me gusta aprender cosas nuevas"],
+        ["I like to learn new things", "I like learning new things"]
+      ],
+      [["Necesito aprobar"], ["I need to pass", "I need to pass an exam"]],
+      [
+        ["No tengo papel ni libros"],
+        [
+          "I haven't got paper or books",
+          "I haven't got any paper or books",
+          "I don't have paper or books",
+          "I don't have any paper or books",
+          "I do not have paper or books",
+          "I have neither paper nor books",
+          "I don't have paper nor books",
+          "I do not have paper nor books"
+        ]
+      ],
       [["asistir", "asistir a"], ["to attend"]],
       [["comportamiento"], ["behaviour"]],
       [["diccionario"], ["dictionary"]],
-      [["estudiar"], ["to study", "to revise"]],
-      [["examen"], ["exam", "examination", "test"]],
+      [
+        ["Ya no estudiamos religión"],
+        [
+          "We don't study religion anymore",
+          "We do not study religion anymore",
+          "We no longer study religion",
+          "We don't study RE anymore",
+          "We do not study RE anymore",
+          "We no longer study RE",
+          "We don't study religion any longer",
+          "We do not study religion any longer",
+          "We don't study RE any longer",
+          "We do not study RE any longer"
+        ]
+      ],
+      [
+        ["Tengo confianza en los profesores", "Confío en los profesores"],
+        [
+          "I trust the teachers",
+          "I have trust in the teachers",
+          "I have faith in the teachers",
+          "I have confidence in the teachers"
+        ]
+      ],
       [["éxito"], ["success", "achievement"]],
-      [["feo", "fea"], ["ugly"]],
-      [["francés"], ["French", "French language"]],
-      [["matemáticas"], ["Maths", "math", "mathematics"]],
+      [["El uniforme es muy feo"], ["The uniform is very ugly"]],
+      [
+        ["Me gusta el francés porque es divertido"],
+        ["I like French because it's fun", "I like French because it is fun"]
+      ],
+      [
+        ["No me gustan las matemáticas porque son difíciles"],
+        [
+          "I don't like Maths because it's difficult",
+          "I don't like math because it's difficult",
+          "I don't like mathematics because it's difficult",
+          "I do not like Maths because it is difficult",
+          "I do not like math because it is difficult",
+          "I do not like mathematics because it is difficult"
+        ]
+      ],
       [["mejorar"], ["to improve", "to get better"]],
       [
-        ["nota", "notas"],
-        ["grade", "mark", "score"]
+        ["sacar buenas notas", "sacar buena nota"],
+        [
+          "to get good grades",
+          "to get good marks",
+          "to achieve good grades",
+          "to achieve good marks"
+        ]
       ],
       [["página"], ["page"]],
       [["palabra"], ["word"]],
-      [["participar"], ["to participate", "take part"]],
-      [["presión"], ["pressure"]],
+      [["participar"], ["to participate", "to take part"]],
+      [
+        ["la presión de los exámenes"],
+        [
+          "exam pressure",
+          "the pressure of the exams",
+          "the pressure for the exams",
+          "pressure from exams"
+        ]
+      ],
       [["prueba"], ["test", "exam"]],
       [
-        ["regla", "norma"],
-        ["rule", "norm"]
+        ["Algunas reglas son tontas", "Algunas normas son tontas"],
+        ["Some rules are silly", "Some school rules are silly"]
       ],
-      [["repasar"], ["to revise", "to review"]],
+      [
+        ["No repasa jamás"],
+        [
+          "He never revises",
+          "She never revises",
+          "He never ever revises",
+          "She never ever revises",
+          "He never studies",
+          "She never studies",
+          "He never ever studies",
+          "She never ever studies",
+          "He doesn't ever revise",
+          "She doesn't ever revise"
+        ]
+      ],
       [["resultado"], ["result", "outcome"]],
-      [["suspender"], ["to fail", "to fail an exam"]],
+      [
+        ["No quiero suspender"],
+        ["I don't want to fail", "I do not want to fail"]
+      ],
       [["teatro"], ["theatre", "drama"]]
     ],
     [
