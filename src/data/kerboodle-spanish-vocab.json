@@ -1179,90 +1179,366 @@
     [
       "3.2F Los trabajos",
       [
-        ["abogado", "abogada"],
-        ["lawyer", "attorney", "solicitor"]
+        ["Quiero ser abogado", "Quiero ser abogada"],
+        [
+          "I want to be a lawyer",
+          "I want to be an attorney",
+          "I want to be a solicitor"
+        ]
       ],
-      [["aeropuerto"], ["airport"]],
-      [["artículo"], ["article"]],
-      [["banco"], ["bank"]],
+      [["contar historias"], ["to tell tales", "to tell stories"]],
+      [["trabajar desde casa"], ["to work from home"]],
       [
-        ["camarero", "camarera"],
-        ["waiter", "waitress"]
+        ["proteger a las personas", "proteger a la gente"],
+        ["to protect the people", "to protect people", "to protect the persons"]
       ],
-      [["carrera"], ["career", "degree course", "race"]],
-      [["cliente"], ["customer", "client"]],
-      [["diseñar"], ["to design"]],
+      [
+        [
+          "Trabajo como camarero",
+          "Trabajo como camarera",
+          "Trabajo de camarero",
+          "Trabajo de camarera"
+        ],
+        ["I work as a waiter", "I work as a waitress"]
+      ],
+      [
+        ["Necesitas una carrera universitaria", "Necesitas una carrera"],
+        ["You need a University degree", "You need a degree"]
+      ],
+      [
+        ["Los clientes son amables"],
+        [
+          "The customers are nice",
+          "The clients are nice",
+          "The customers are kind",
+          "The clients are kind",
+          "The customers are friendly",
+          "The clients are friendly"
+        ]
+      ],
+      [["diseñar ropa"], ["to design clothes"]],
       [
         ["empleado", "empleada"],
         ["employee", "worker", "staff"]
       ],
       [["enfermero", "enfermera"], ["nurse"]],
-      [["enseñar"], ["to teach", "to show"]],
-      [["experiencia laboral"], ["work experience", "job experience"]],
+      [
+        ["Me gustaría enseñar a los niños"],
+        [
+          "I'd like to teach the children",
+          "I would like to teach the children",
+          "I'd like to teach children",
+          "I would like to teach children"
+        ]
+      ],
+      [
+        ["No tengo experiencia laboral"],
+        [
+          "I have no work experience",
+          "I have no job experience",
+          "I don't have work experience",
+          "I don't have job experience",
+          "I do not have work experience",
+          "I do not have job experience",
+          "I have no working experience",
+          "I don't have working experience",
+          "I do not have working experience"
+        ]
+      ],
       [["ingeniero", "ingeniera"], ["engineer"]],
       [
-        ["jefe", "jefa"],
-        ["boss", "manager"]
+        ["Mi jefe es muy exigente", "Mi jefa es muy exigente"],
+        ["My boss is very demanding", "My manager is very demanding"]
       ],
-      [["medicina"], ["medicine"]],
+      [
+        ["escribir artículos para una revista"],
+        [
+          "to write articles for a magazine",
+          "to write magazine articles",
+          "to write pieces for a magazine"
+        ]
+      ],
       [["pagar"], ["to pay"]],
-      [["periodista"], ["journalist", "reporter"]],
-      [["presentar"], ["to present", "to introduce", "to host"]],
-      [["resolver"], ["to solve", "to resolve"]],
-      [["profesión"], ["profession", "occupation"]],
-      [["salario"], ["salary", "pay", "wage"]],
+      [
+        ["Cuando sea mayor quiero ser periodista"],
+        [
+          "When I'm older I want to be a journalist",
+          "When I am older I want to be a journalist",
+          "When I'm older I want to be a reporter",
+          "When I am older I want to be a reporter",
+          "When I grow up I want to be a journalist",
+          "When I grow up I want to be a reporter"
+        ]
+      ],
+      [["presentar las noticias"], ["to present the news", "to host the news"]],
+      [["resolver problemas"], ["to solve problems", "to resolve problems"]],
+      [
+        [
+          "Se me dan bien las ciencias",
+          "Soy buena en ciencias",
+          "Se me da bien la ciencia",
+          "Soy buena en ciencia"
+        ],
+        [
+          "I'm good at science",
+          "I am good at science",
+          "I'm good at sciences",
+          "I am good at sciences"
+        ]
+      ],
+      [
+        [
+          "Lo mejor es el salario",
+          "Lo mejor es el sueldo",
+          "Lo mejor es la paga"
+        ],
+        [
+          "The best thing is the salary",
+          "The best thing is the pay",
+          "The best thing is the wage",
+          "The best is the salary",
+          "The best is the pay",
+          "The best is the wage"
+        ]
+      ],
       [
         ["seguro", "segura"],
-        ["safe", "sure", "secure"]
+        ["safe", "sure", "secure", "certain"]
       ],
-      [["tener éxito"], ["to be successful", "to succeed"]],
-      [["traje"], ["suit"]],
-      [["vuelo"], ["flight"]]
+      [["tener éxito"], ["to be successful", "to succeed", "to have success"]],
+      [
+        [
+          "Lo peor es el horario",
+          "La peor cosa es el horario",
+          "Lo peor son las horas de trabajo",
+          "La peor cosa son las horas de trabajo"
+        ],
+        [
+          "The worst thing is the working hours",
+          "The worst thing is the schedule",
+          "The worst thing is the timetable",
+          "The worst part is the working hours",
+          "The worst part is the schedule",
+          "The worst part is the timetable"
+        ]
+      ],
+      [["vuelo"], ["flight", "I fly"]]
     ],
     [
       "3.2H Buscando trabajo",
       [
-        ["candidato", "candidata"],
-        ["candidate", "applicant"]
+        ["el candidato perfecto", "la candidata perfecta"],
+        ["the perfect candidate", "the perfect applicant"]
       ],
-      [["carta"], ["letter"]],
-      [["comenzar"], ["to begin", "to start"]],
-      [["conocimiento"], ["knowledge", "understanding"]],
-      [["demostrar"], ["to show", "to demonstrate", "to prove"]],
       [
-        ["destacar"],
-        ["to highlight", "to emphasise", "to excel", "to stand out"]
+        [
+          "Hay que enviar una carta personalizada",
+          "Se debe enviar una carta personalizada",
+          "Debes enviar una carta personalizada"
+        ],
+        [
+          "You must send a cover letter",
+          "One must send a cover letter",
+          "You must send a personalised letter",
+          "One must send a personalised letter",
+          "You must send a personalized letter",
+          "One must send a personalized letter",
+          "You should send a cover letter",
+          "One should send a cover letter",
+          "You should send a personalized letter",
+          "One should send a personalized letter"
+        ]
       ],
-      [["detalle"], ["detail"]],
+      [
+        ["Comenzarás a las nueve", "Empezarás a las nueve"],
+        [
+          "You will begin at nine",
+          "You'll begin at nine",
+          "You will start at nine",
+          "You'll start at nine",
+          "You will begin at 9",
+          "You'll begin at 9",
+          "You will start at 9",
+          "You'll start at 9"
+        ]
+      ],
+      [
+        [
+          "Tienes que destacar tus conocimientos",
+          "Tienes que realzar tus conocimientos"
+        ],
+        [
+          "You have to highlight your knowledge",
+          "You have to highlight your understanding",
+          "You've got to highlight your knowledge",
+          "You've got to highlight your understanding"
+        ]
+      ],
+      [
+        ["demostrar tus aspectos positivos", "mostrar tus aspectos positivos"],
+        [
+          "to show your positive aspects",
+          "to demonstrate your positive aspects",
+          "to prove your positive aspects"
+        ]
+      ],
+      [
+        ["Compraré un traje"],
+        [
+          "I'll buy a suit",
+          "I'll purchase a suit",
+          "I will buy a suit",
+          "I will purchase a suit"
+        ]
+      ],
+      [
+        [
+          "los detalles del trabajo",
+          "los detalles del puesto",
+          "los detalles del empleo"
+        ],
+        [
+          "the job details",
+          "the details of the job",
+          "the details of the position",
+          "the position details"
+        ]
+      ],
       [
         ["empleo", "trabajo"],
         ["work", "employment", "job"]
       ],
       [
-        ["empresa", "compañía"],
-        ["firm", "company", "business"]
+        ["Se recomienda llevar ropa elegante"],
+        [
+          "It's recommended to wear smart clothes",
+          "It is recommended to wear smart clothes",
+          "It is advised to wear smart clothes",
+          "It's advised to wear smart clothes",
+          "It's recommended to dress smartly",
+          "It is recommended to dress smartly",
+          "It is advised to dress smartly",
+          "It's advised to dress smartly"
+        ]
       ],
-      [["entrevista"], ["interview"]],
+      [
+        [
+          "asistir a una entrevista",
+          "presentarse a una entrevista",
+          "ir a una entrevista"
+        ],
+        ["to attend an interview", "to go to an interview"]
+      ],
       [["exagerar"], ["to exaggerate"]],
-      [["formación"], ["training", "education", "studies"]],
+      [
+        ["Se necesita hablar varios idiomas"],
+        [
+          "It's necessary to speak several languages",
+          "It is necessary to speak several languages",
+          "It's needed to speak several languages",
+          "It is needed to speak several languages",
+          "You need to speak several languages",
+          "One needs to speak several languages"
+        ]
+      ],
       [
         ["hace falta"],
-        ["it is necessary", "it's necessary", "you must", "one must"]
+        [
+          "it is necessary",
+          "it's necessary",
+          "it is necessary to",
+          "it's necessary to",
+          "you must",
+          "one must"
+        ]
       ],
       [["industria"], ["industry", "sector"]],
       [["interés"], ["interest", "concern"]],
-      [["investigar"], ["to research", "to investigate"]],
-      [["lograr"], ["to manage", "to achieve", "to succeed in"]],
-      [["mentir"], ["to lie", "to tell a lie"]],
-      [["negocio"], ["business", "trade"]],
-      [["perfil"], ["profile"]],
       [
-        ["personalizado", "personalizada"],
-        ["personalised", "customised", "customized"]
+        [
+          "Vale la pena investigar la compañía en internet",
+          "Merece la pena investigar la compañía en internet",
+          "Vale la pena investigar la empresa en internet",
+          "Merece la pena investigar la empresa en internet"
+        ],
+        [
+          "It's worthwhile to research the company on the internet",
+          "It is worthwhile to research the company on the internet",
+          "It's worth researching the company on the internet",
+          "It is worth researching the company on the internet",
+          "It's worthwhile to investigate the company on the internet",
+          "It is worthwhile to investigate the company on the internet",
+          "It's worth investigating the company on the internet",
+          "It is worth investigating the company on the internet",
+          "It's worthwhile to research the business on the internet",
+          "It is worthwhile to research the business on the internet",
+          "It's worth researching the business on the internet",
+          "It is worth researching the business on the internet",
+          "It's worthwhile to investigate the business on the internet",
+          "It is worthwhile to investigate the business on the internet",
+          "It's worth investigating the business on the internet",
+          "It is worth investigating the business on the internet",
+          "It's worth to investigate the company on the internet",
+          "It is worth to investigate the company on the internet"
+        ]
       ],
-      [["pregunta"], ["question", "query"]],
-      [["proactivo", "proactiva"], ["proactive"]],
-      [["puesto"], ["post", "job", "position"]],
+      [["lograr"], ["to manage", "to achieve", "to succeed in"]],
+      [
+        [
+          "No se debe mentir en el currículum",
+          "No se debe mentir en el curriculum",
+          "No se debe mentir en el CV",
+          "No debes mentir en el currículum",
+          "No debes mentir en el curriculum",
+          "No debes mentir en el CV"
+        ],
+        [
+          "You must not lie in the CV",
+          "One must not lie in the CV",
+          "You should not lie in the CV",
+          "One should not lie in the CV",
+          "You shouldn't lie in the CV",
+          "One shouldn't lie in the CV",
+          "You must not lie on the CV",
+          "One must not lie on the CV",
+          "You should not lie on the CV",
+          "One should not lie on the CV",
+          "You shouldn't lie on the CV",
+          "One shouldn't lie on the CV"
+        ]
+      ],
+      [["negocio"], ["business", "trade"]],
+      [
+        [
+          "Tengo el perfil ideal para el puesto",
+          "Tengo el perfil ideal para el trabajo"
+        ],
+        [
+          "I have the ideal profile for the position",
+          "I have the ideal profile for the vacancy",
+          "I have the ideal profile for the job"
+        ]
+      ],
+      [
+        ["trabajar en equipo"],
+        ["to work as a team", "to work in a team", "to work in teams"]
+      ],
+      [["hacer preguntas"], ["to ask questions", "to make questions"]],
+      [
+        ["Hay que ser proactivo", "Hay que ser proactiva"],
+        [
+          "You must be proactive",
+          "One must be proactive",
+          "You have to be proactive",
+          "You've got to be proactive",
+          "One has to be proactive",
+          "One's got to be proactive"
+        ]
+      ],
+      [
+        ["Hacer un curso de formación"],
+        ["To do a training course", "To take a training course"]
+      ],
       [["solicitar"], ["to apply for", "to request"]]
     ]
   ],
