@@ -1591,74 +1591,374 @@
     ],
     [
       "4.1F ¡Nos gusta el riesgo!",
-      [["aire"], ["air"]],
-      [["alpinismo"], ["mountain climbing", "mountaineering"]],
-      [["bajar"], ["to descend", "to go down", "to download", "to lower"]],
+      [
+        ["respirar aire puro", "respirar aire limpio"],
+        ["to breathe fresh air", "to breathe pure air", "to breathe clean air"]
+      ],
+      [
+        ["hacer alpinismo", "hacer montañismo"],
+        [
+          "to go mountaineering",
+          "to go mountain climbing",
+          "to climb mountains"
+        ]
+      ],
+      [
+        ["Estoy bajando el río"],
+        [
+          "I'm going down the river",
+          "I am going down the river",
+          "I'm descending the river",
+          "I am descending the river"
+        ]
+      ],
       [
         ["caer", "caerse"],
         ["to fall", "to fall down"]
       ],
-      [["costa"], ["coast"]],
-      [["edificio"], ["building"]],
-      [["emocionante"], ["exciting", "thrilling"]],
-      [["escalada"], ["rock climbing"]],
-      [["fondo"], ["the end", "bottom", "depths"]],
-      [["kayak"], ["kayak", "canoe"]],
-      [["miedo"], ["fear", "fright"]],
-      [["montaña"], ["mountain"]],
+      [
+        ["Hago submarinismo en la costa"],
+        [
+          "I go scuba-diving on the coast",
+          "I do scuba-diving on the coast",
+          "I go scuba diving on the coast",
+          "I do scuba diving on the coast",
+          "I go diving on the coast",
+          "I scuba dive off the coast",
+          "I go scuba diving off the coast",
+          "I scuba-dive off the coast",
+          "I go scuba-diving off the coast"
+        ]
+      ],
+      [
+        ["Hago parkour entre los edificios"],
+        ["I do parkour between the buildings"]
+      ],
+      [
+        ["Tenemos dos actividades emocionantes"],
+        [
+          "We have two exciting activities",
+          "We've two exciting activities",
+          "We've got two exciting activities",
+          "We have two thrilling activities",
+          "We've two thrilling activities",
+          "We've got two thrilling activities"
+        ]
+      ],
+      [
+        ["Me gusta la escalada", "Me gusta escalar"],
+        ["I like rock climbing", "I like rock-climbing", "I like climbing"]
+      ],
+      [
+        ["el fondo", "fondo"],
+        ["the bottom", "the depths", "the end", "bottom", "depths"]
+      ],
+      [
+        ["En la foto hay"],
+        [
+          "In the picture there is",
+          "In the photo there is",
+          "In the photograph there is",
+          "In the picture there are",
+          "In the photo there are",
+          "In the photograph there are"
+        ]
+      ],
+      [
+        ["No tengo miedo"],
+        [
+          "I'm not afraid",
+          "I am not afraid",
+          "I have no fear",
+          "I'm not scared",
+          "I am not scared"
+        ]
+      ],
+      [
+        ["Estamos subiendo una montaña", "Estamos escalando una montaña"],
+        [
+          "We're climbing a mountain",
+          "We are climbing a mountain",
+          "We're ascending a mountain",
+          "We are ascending a mountain",
+          "We're going up a mountain",
+          "We are going up a mountain"
+        ]
+      ],
       [["morir"], ["to die", "to pass away"]],
-      [["nadar"], ["to swim"]],
+      [["Están nadando"], ["They're swimming", "They are swimming"]],
       [["paracaidismo"], ["skydiving", "parachuting"]],
-      [["parkour"], ["parkour"]],
-      [["peligroso", "peligrosa"], ["dangerous"]],
-      [["pez"], ["fish"]],
-      [["respirar"], ["to breathe"]],
-      [["riesgo"], ["risk"]],
-      [["río"], ["river", "stream"]],
-      [["subir"], ["to ascend", "to go up", "to climb", "to upload"]],
-      [["submarinismo"], ["scuba diving", "diving"]],
+      [
+        [
+          "Estás viendo la tele",
+          "Estás viendo la televisión",
+          "Estáis viendo la tele",
+          "Estáis viendo la televisión"
+        ],
+        [
+          "You're watching TV",
+          "You are watching TV",
+          "You're watching the telly",
+          "You are watching the telly",
+          "You're watching television",
+          "You are watching television"
+        ]
+      ],
+      [
+        ["Mi madre piensa que es peligroso"],
+        [
+          "My mother thinks it's dangerous",
+          "My mum thinks it's dangerous",
+          "My mother thinks it is dangerous",
+          "My mum thinks it is dangerous",
+          "My mother thinks that it's dangerous",
+          "My mum thinks that it's dangerous",
+          "My mother thinks that it is dangerous",
+          "My mum thinks that it is dangerous"
+        ]
+      ],
+      [
+        ["Está escribiendo"],
+        ["He's writing", "He is writing", "She's writing", "She is writing"]
+      ],
+      [
+        ["Es mejor cuando no hace viento"],
+        [
+          "It's better when it's not windy",
+          "It is better when it is not windy",
+          "It's better when it isn't windy",
+          "It is better when it isn't windy"
+        ]
+      ],
+      [
+        ["deportes de riesgo", "deportes extremos", "deportes peligrosos"],
+        [
+          "extreme sports",
+          "adventure sports",
+          "dangerous sports",
+          "high-risk sports"
+        ]
+      ],
+      [
+        ["Es bastante caro"],
+        [
+          "It's quite expensive",
+          "It is quite expensive",
+          "It's rather expensive",
+          "It is rather expensive",
+          "It's pretty expensive",
+          "It is pretty expensive"
+        ]
+      ],
+      [
+        ["Estoy leyendo un libro"],
+        ["I'm reading a book", "I am reading a book"]
+      ],
+      [["Están durmiendo"], ["They're sleeping", "They are sleeping"]],
       [["tirarse"], ["to jump off", "to throw oneself"]],
-      [["verano"], ["summer"]]
+      [
+        ["En verano hago kayak"],
+        ["In the summer I go kayaking", "In summer I go kayaking"]
+      ]
     ],
     [
       "4.1H ¡Mi tiempo libre es infinito!",
       [
-        ["aficionado", "aficionada"],
-        ["fan", "enthusiast", "supporter"]
+        [
+          "Soy aficionado al deporte",
+          "Soy aficionado al deporte",
+          "Soy un fan del deporte",
+          "Soy una fan del deporte",
+          "Soy un fanático del deporte",
+          "Soy una fanática del deporte"
+        ],
+        [
+          "I'm a sports fan",
+          "I'm a fan of sports",
+          "I am a fan of sports",
+          "I'm a sports enthusiast",
+          "I am a sports fan",
+          "I am a sports enthusiast",
+          "I'm a fan of sport",
+          "I am a fan of sport"
+        ]
       ],
       [
-        ["andar", "caminar"],
-        ["to walk", "to go on foot"]
+        ["Me gusta andar en la playa", "Me gusta caminar en la playa"],
+        [
+          "I like to walk on the beach",
+          "I like walking on the beach",
+          "I like to walk in the beach",
+          "I like walking in the beach"
+        ]
       ],
-      [["bailar"], ["to dance"]],
-      [["cantar"], ["to sing"]],
-      [["carrera"], ["race", "run"]],
-      [["cocinar"], ["to cook"]],
-      [["consola"], ["games console", "console"]],
-      [["de segunda mano"], ["second hand", "used"]],
+      [["Me encanta bailar"], ["I love to dance", "I love dancing"]],
       [
-        ["empezar", "comenzar"],
-        ["to start", "to begin"]
+        ["A veces canto en la ducha"],
+        ["Sometimes I sing in the shower", "I sometimes sing in the shower"]
+      ],
+      [
+        ["Estoy esperando a mi padre"],
+        [
+          "I'm waiting for my father",
+          "I am waiting for my father",
+          "I'm waiting for my dad",
+          "I am waiting for my dad"
+        ]
+      ],
+      [
+        ["Aprendí a cocinar con mi amigo"],
+        [
+          "I learnt to cook with my friend",
+          "I learned to cook with my friend",
+          "I learned how to cook with my friend",
+          "I learnt how to cook with my friend"
+        ]
+      ],
+      [
+        ["Tengo varias consolas en casa"],
+        [
+          "I have several consoles at home",
+          "I have several games consoles at home",
+          "I've several games consoles at home",
+          "I've several consoles at home",
+          "I've got several games consoles at home",
+          "I've got several consoles at home",
+          "I have several game consoles at home",
+          "I've several game consoles at home",
+          "I've got several game consoles at home"
+        ]
+      ],
+      [
+        ["Voy a tiendas de segunda mano"],
+        [
+          "I go to second hand shops",
+          "I go to second-hand shops",
+          "I go to thrift shops",
+          "I go to second-hand stores",
+          "I go to charity shops"
+        ]
+      ],
+      [
+        [
+          "Ayer empecé a repasar para los exámenes",
+          "Ayer comencé a repasar para los exámenes",
+          "Ayer empecé a estudiar para los exámenes",
+          "Ayer comencé a estudiar para los exámenes"
+        ],
+        [
+          "Yesterday I started to revise for the exams",
+          "Yesterday I began to revise for the exams",
+          "Yesterday I started to study for the exams",
+          "Yesterday I began to study for the exams",
+          "Yesterday I started to revise for the tests",
+          "Yesterday I began to revise for the tests",
+          "Yesterday I started to study for the tests",
+          "Yesterday I began to study for the tests",
+          "Yesterday I started to revise for the assessments",
+          "Yesterday I began to revise for the assessments",
+          "Yesterday I started to study for the assessments",
+          "Yesterday I began to study for the assessments",
+          "Yesterday I started revising for the exams",
+          "Yesterday I began revising for the exams",
+          "Yesterday I started studying for the exams",
+          "Yesterday I began studying for the exams",
+          "Yesterday I started revising for the tests",
+          "Yesterday I began revising for the tests",
+          "Yesterday I started studying for the tests",
+          "Yesterday I began studying for the tests",
+          "Yesterday I started revising for the assessments",
+          "Yesterday I began revising for the assessments",
+          "Yesterday I started studying for the assessments",
+          "Yesterday I began studying for the assessments"
+        ]
       ],
       [["entrenar"], ["to train", "to work out"]],
-      [["ir de compras"], ["to go shopping", "to shop"]],
-      [["juego"], ["game", "play"]],
-      [["marca"], ["brand"]],
-      [["moda"], ["fashion", "trend"]],
-      [["mundo"], ["world"]],
+      [
+        ["Voy de compras con mi hermana"],
+        [
+          "I go shopping with my sister",
+          "I shop with my sister",
+          "I go to the shops with my sister"
+        ]
+      ],
+      [
+        [
+          "Quiero dejar de jugar a los videojuegos",
+          "Quiero parar de jugar a los videojuegos",
+          "Quiero dejar de jugar a videojuegos",
+          "Quiero parar de jugar a videojuegos"
+        ],
+        [
+          "I want to stop playing videogames",
+          "I want to stop playing video-games",
+          "I want to stop playing video games"
+        ]
+      ],
+      [
+        [
+          "ropa de marca",
+          "ropa de diseñador",
+          "ropa de marca conocida",
+          "ropa de firma"
+        ],
+        [
+          "branded clothes",
+          "designer clothes",
+          "brand-name clothes",
+          "branded clothing",
+          "designer clothing",
+          "brand-name clothing"
+        ]
+      ],
+      [
+        ["La moda es importante para mí"],
+        [
+          "Fashion is important for me",
+          "Fashion's important for me",
+          "The fashion is important for me",
+          "The fashion's important for me",
+          "Fashion is important to me",
+          "Fashion's important to me",
+          "The fashion is important to me",
+          "The fashion's important to me"
+        ]
+      ],
+      [
+        ["montar en bici", "montar en bicicleta"],
+        [
+          "to ride a bike",
+          "to ride a bicycle",
+          "to go cycling",
+          "to cycle",
+          "to go bike-riding",
+          "to go bike riding"
+        ]
+      ],
       [["novela"], ["novel"]],
       [
         ["pasear"],
         ["to go for a walk", "to take a walk", "to stroll", "to have a walk"]
       ],
-      [["pintar"], ["to paint"]],
-      [["por ciento"], ["percent", "per cent"]],
-      [["ropa"], ["clothing", "clothes"]],
+      [
+        ["Suelo pintar los domingos"],
+        [
+          "I usually paint on Sundays",
+          "I tend to paint on Sundays",
+          "I often paint on Sundays",
+          "I normally paint on Sundays"
+        ]
+      ],
+      [["ochenta por ciento"], ["eighty percent", "eighty per cent", "80%"]],
+      [
+        ["aquellos zapatos rojos"],
+        ["those red shoes over there", "those red shoes"]
+      ],
       [["tocar la guitarra"], ["to play guitar", "to play the guitar"]],
-      [["este", "esta"], ["this"]],
-      [["estos", "estas"], ["these"]],
-      [["ese", "esa"], ["that"]],
-      [["esos", "esas"], ["those"]]
+      [["este piano"], ["this piano"]],
+      [["estos libros"], ["these books"]],
+      [["ese parque"], ["that park"]],
+      [["esas tiendas"], ["those shops"]]
     ],
     [
       "4.2G ¡Me paso el día bailando!",
@@ -1699,45 +1999,197 @@
     ],
     [
       "4.2F Veo, veo... ¿Qué ves?",
-      [["anoche"], ["last night"]],
-      [["amor"], ["love", "affection"]],
-      [["cine"], ["cinema"]],
-      [["concurso"], ["contest", "competition", "quiz"]],
-      [["dibujos animados"], ["cartoons", "animated films"]],
-      [["disfrutar"], ["to enjoy"]],
-      [["documental"], ["documentary"]],
-      [["efectos especiales"], ["special effects"]],
-      [["entrevista"], ["interview"]],
       [
-        ["en vivo", "en directo"],
-        ["live", "live broadcast"]
+        ["Anoche vi un documental"],
+        [
+          "Last night I watched a documentary",
+          "Yesterday night I watched a documentary",
+          "Last night I saw a documentary",
+          "Yesterday night I saw a documentary"
+        ]
       ],
       [
-        ["extranjero", "extranjera"],
-        ["foreign", "foreigner", "abroad"]
+        ["Es una película de acción", "Es una peli de acción"],
+        [
+          "It's an action movie",
+          "It is an action movie",
+          "It's an action film",
+          "It is an action film"
+        ]
+      ],
+      [
+        ["Voy al cine los sábados", "Voy al cine cada sábado"],
+        [
+          "I go to the cinema on Saturdays",
+          "I go to the cinema each Saturday",
+          "I go to the cinema every Saturday",
+          "I go to the movies on Saturdays",
+          "I go to the movies every Saturday",
+          "I go to the movies each Saturday"
+        ]
+      ],
+      [["concurso"], ["game show", "contest", "competition", "quiz"]],
+      [
+        [
+          "Me gustan los dibujos animados",
+          "Me gustan las películas de animación",
+          "Me gustan las pelis de animación",
+          "Me gustan las series animadas",
+          "Me gustan las series de animación"
+        ],
+        [
+          "I like cartoons",
+          "I like animated films",
+          "I like animated movies",
+          "I like animated series",
+          "I like animation",
+          "I like animation series"
+        ]
+      ],
+      [
+        [
+          "Mis padres disfrutaron de la comedia",
+          "Mis padres disfrutaron la comedia"
+        ],
+        ["My parents enjoyed the comedy"]
+      ],
+      [
+        ["Liv Tyler es mi actriz favorita", "Liv Tyler es mi actriz preferida"],
+        [
+          "Liv Tyler is my favourite actress",
+          "Liv Tyler is my favorite actress",
+          "Liv Tyler is my favourite female actor",
+          "Liv Tyler is my favorite female actor"
+        ]
+      ],
+      [
+        [
+          "Los efectos especiales eran impresionantes",
+          "Los efectos especiales fueron impresionantes"
+        ],
+        [
+          "The special effects were impressive",
+          "The VFX were impressive",
+          "The special FX were impressive"
+        ]
+      ],
+      [
+        ["Hay un programa de entrevistas"],
+        [
+          "There's a talk show",
+          "There is a talk show",
+          "There's an interview program",
+          "There is an interview program",
+          "There's an interview programme",
+          "There is an interview programme",
+          "There's a program of interviews",
+          "There is a program of interviews",
+          "There's a programme of interviews",
+          "There is a programme of interviews"
+        ]
+      ],
+      [
+        ["Veo las noticias en vivo", "Veo las noticias en directo"],
+        [
+          "I watch the live news",
+          "I watch the news live",
+          "I watch the live news broadcast",
+          "I watch live news",
+          "I watch the news as it's broadcast"
+        ]
+      ],
+      [
+        [
+          "Fui al cine para ver una película extranjera",
+          "Fui al cine a ver una película extranjera",
+          "Fui al cine para ver una peli extranjera",
+          "Fui al cine a ver una peli extranjera"
+        ],
+        [
+          "I went to the cinema to watch a foreign movie",
+          "I went to the cinema in order to to watch a foreign movie",
+          "I went to the cinema to watch a foreign film",
+          "I went to the cinema in order to to watch a foreign film",
+          "I went to the cinema to see a foreign movie",
+          "I went to the cinema in order to to see a foreign movie",
+          "I went to the cinema to see a foreign film",
+          "I went to the cinema in order to to see a foreign film"
+        ]
       ],
       [
         ["famoso", "famosa"],
         ["celebrity", "famous"]
       ],
-      [["noticias"], ["news"]],
-      [["pantalla"], ["screen", "display"]],
-      [["pelea"], ["fight"]],
-      [["película"], ["film", "movie"]],
-      [["programa"], ["programme", "program"]],
+      [["seguramente"], ["certainly"]],
       [
-        ["tiempo", "el tiempo"],
-        ["time", "weather", "weather forecast"]
+        ["La pantalla es más grande"],
+        [
+          "The screen is bigger",
+          "The screen is larger",
+          "The display is bigger",
+          "The display is larger"
+        ]
       ],
       [
-        ["telenovela", "culebrón"],
-        ["soap opera", "soap"]
+        ["Las entradas son muy caras", "Los billetes son muy caros"],
+        ["The tickets are very expensive", "Tickets are very expensive"]
+      ],
+      [
+        ["El protagonista es muy guapo", "La protagonista es muy guapa"],
+        [
+          "The protagonist is very handsome",
+          "The protagonist is very cute",
+          "The protagonist is very good-looking",
+          "The protagonist is very good looking",
+          "The protagonist is very pretty",
+          "The protagonist is very attractive"
+        ]
+      ],
+      [
+        [
+          "Prefiero ver las películas en casa",
+          "Prefiero ver películas en casa",
+          "Prefiero ver las pelis en casa",
+          "Prefiero ver pelis en casa"
+        ],
+        [
+          "I prefer to watch movies at home",
+          "I prefer watching movies at home",
+          "I prefer to watch the movies at home",
+          "I prefer watching the movies at home",
+          "I prefer to watch films at home",
+          "I prefer watching films at home",
+          "I prefer to watch the films at home",
+          "I prefer watching the films at home"
+        ]
+      ],
+      [
+        ["el tiempo", "tiempo", "la predicción del tiempo", "el clima"],
+        [
+          "the weather forecast",
+          "the time",
+          "the weather",
+          "weather forecast",
+          "time",
+          "weather"
+        ]
+      ],
+      [
+        ["Es una telenovela colombiana", "Es un culebrón colombiano"],
+        [
+          "It's a Colombian soap opera",
+          "It is a Colombian soap opera",
+          "It's a Colombian soap",
+          "It is a Colombian soap",
+          "It's a Colombian drama",
+          "It is a Colombian drama"
+        ]
       ],
       [
         ["televisión", "tele"],
         ["television", "telly", "TV"]
       ],
-      [["ver"], ["to watch", "to see"]],
+      [["fácilmente"], ["easily", "with ease"]],
       [["una vez al día"], ["once a day"]],
       [["dos veces a la semana"], ["twice a week", "two times a week"]],
       [["tres veces al mes"], ["three times a month"]],
@@ -1748,37 +2200,258 @@
     ],
     [
       "4.2H Mi tiempo es oro",
-      [["abstracto", "abstracta"], ["abstract"]],
       [
-        ["aficionado", "aficionada", "fan"],
-        ["fan", "enthusiast", "supporter"]
+        ["Es un pintor de arte abstracto"],
+        [
+          "He's an abstract painter",
+          "He is an abstract painter",
+          "He's an abstract artist",
+          "He is an abstract artist",
+          "He's an abstract art painter",
+          "He is an abstract art painter"
+        ]
       ],
-      [["anticuario", "anticuaria"], ["antique dealer"]],
-      [["astronauta"], ["astronaut"]],
-      [["automovilismo"], ["car racing", "motorsport"]],
-      [["carrera"], ["race", "career"]],
-      [["circuito"], ["circuit", "track"]],
-      [["coleccionar"], ["to collect"]],
-      [["conducir"], ["to drive"]],
+      [
+        [
+          "objetos antiguos",
+          "objetos viejos",
+          "artículos antiguos",
+          "artículos viejos"
+        ],
+        [
+          "antique objects",
+          "old objects",
+          "vintage objects",
+          "vintage items",
+          "antique items",
+          "old items",
+          "period pieces"
+        ]
+      ],
+      [
+        ["Es una astronauta y científica"],
+        [
+          "She's an astronaut and a scientist",
+          "She is an astronaut and a scientist",
+          "She's an astronaut and scientist",
+          "She is an astronaut and scientist"
+        ]
+      ],
       [["decoración"], ["decoration"]],
-      [["entrada"], ["ticket", "entrance", "entry"]],
-      [["establecimiento"], ["establishment", "shop", "business"]],
-      [["juguete"], ["toy"]],
-      [["luna"], ["moon"]],
-      [["mascota"], ["pet"]],
-      [["mirar"], ["to look at", "to look", "to watch"]],
-      [["obra de arte"], ["artwork", "work of art"]],
-      [["paisaje"], ["landscape"]],
-      [["peligro"], ["danger", "hazard"]],
-      [["regalar"], ["to give a present", "to gift"]],
-      [["río"], ["river", "stream"]],
       [
-        ["roca", "piedra"],
-        ["rock", "stone"]
+        [
+          "La entrada menos cara",
+          "El billete menos caro",
+          "El ticket menos caro",
+          "El pase menos caro"
+        ],
+        [
+          "The least expensive ticket",
+          "The cheapest ticket",
+          "The least expensive entry",
+          "The least expensive entrance"
+        ]
       ],
-      [["siglo"], ["century"]],
-      [["telescopio"], ["telescope"]],
-      [["velocidad"], ["speed", "velocity"]]
+      [
+        ["Me gustan los juguetes antiguos", "Me gustan los juguetes viejos"],
+        [
+          "I like old toys",
+          "I like ancient toys",
+          "I like vintage toys",
+          "I like antique toys"
+        ]
+      ],
+      [
+        ["Mi sueño es viajar a la Luna"],
+        [
+          "My dream is to travel to the Moon",
+          "My dream is travelling to the Moon",
+          "My dream is to go to the Moon",
+          "My dream is going to the Moon"
+        ]
+      ],
+      [
+        ["Tengo tres mascotas", "Tengo 3 mascotas"],
+        [
+          "I have three pets",
+          "I've three pets",
+          "I've got three pets",
+          "I have 3 pets",
+          "I've 3 pets",
+          "I've got 3 pets"
+        ]
+      ],
+      [
+        [
+          "De noche suelo mirar las estrellas",
+          "De noche suelo mirar a las estrellas",
+          "Por la noche suelo mirar las estrellas",
+          "Por la noche suelo mirar a las estrellas"
+        ],
+        [
+          "At night I usually look at the stars",
+          "At night I tend to look at the stars",
+          "At night I usually watch the stars",
+          "At night I tend to watch the stars"
+        ]
+      ],
+      [
+        ["La mejor obra de arte"],
+        [
+          "The best artwork",
+          "The best work of art",
+          "The greatest artwork",
+          "The greatest work of art",
+          "The finest artwork",
+          "The finest work of art",
+          "The best piece of art",
+          "The greatest piece of art",
+          "The finest piece of art"
+        ]
+      ],
+      [
+        [
+          "El paisaje más bonito",
+          "El paisaje más precioso",
+          "Las vistas mas bonitas",
+          "Las vistas más preciosas"
+        ],
+        [
+          "The prettiest landscape",
+          "The nicest landscape",
+          "The most pretty landscape",
+          "The most nice landscape",
+          "The most beautiful landscape",
+          "The most beautiful views",
+          "The prettiest views"
+        ]
+      ],
+      [["peligro"], ["danger", "hazard"]],
+      [
+        ["regalar"],
+        [
+          "to give a present",
+          "to give as a present",
+          "to give as a gift",
+          "to gift",
+          "to give"
+        ]
+      ],
+      [
+        ["El río menos peligroso"],
+        ["The least dangerous river", "The least dangerious stream"]
+      ],
+      [
+        ["La roca más pesada", "La piedra más pesada"],
+        [
+          "The heaviest rock",
+          "The heaviest stone",
+          "The most heavy rock",
+          "The most heavy stone"
+        ]
+      ],
+      [
+        [
+          "Un artista del siglo veinte",
+          "Una artista del siglo veinte",
+          "Un artista del siglo 20",
+          "Una artista del siglo 20"
+        ],
+        [
+          "An artist from the twentieth century",
+          "An artist from the 20th century",
+          "An artist of the twentieth century",
+          "An artist of the 20th century",
+          "A twentieth century artist",
+          "A 20th century artist",
+          "An artist from the twentieth-century",
+          "An artist from the 20th-century",
+          "An artist of the twentieth-century",
+          "An artist of the 20th-century",
+          "A twentieth-century artist",
+          "A 20th-century artist"
+        ]
+      ],
+      [
+        ["Ayer compré mi primer telescopio"],
+        ["Yesterday I bought my first telescope"]
+      ],
+      [
+        ["El peor día de la semana", "El día más malo de la semana"],
+        ["The worst day of the week"]
+      ],
+      [
+        ["Juego con mi hermano mayor", "Juego con mi hermano más grande"],
+        [
+          "I play with my older brother",
+          "I play with my oldest brother",
+          "I play with my big brother",
+          "I play with my bigger brother",
+          "I play with my biggest brother",
+          "I play with my elder brother",
+          "I play with my eldest brother"
+        ]
+      ],
+      [
+        ["Eres la persona que buscamos"],
+        [
+          "You're the person we are looking for",
+          "You are the person we are looking for",
+          "You're the person we look for",
+          "You are the person we look for",
+          "You're the person we are searching for",
+          "You are the person we are searching for",
+          "You're the person we're looking for",
+          "You are the person we're looking for",
+          "You're the person we're searching for",
+          "You are the person we're searching for"
+        ]
+      ],
+      [
+        ["Busqué la dirección en mi móvil"],
+        [
+          "I searched for the address on my phone",
+          "I looked for the address on my phone",
+          "I checked the address on my phone",
+          "I looked up the address on my phone"
+        ]
+      ],
+      [
+        ["Llegué a casa tarde"],
+        ["I arrived home late", "I got home late", "I came home late"]
+      ],
+      [
+        ["A veces cocino con mi madre"],
+        [
+          "Sometimes I cook with my mother",
+          "Sometimes I cook with my mum",
+          "At times I cook with my mother",
+          "At times I cook with my mum"
+        ]
+      ],
+      [
+        [
+          "Empecé a pintar cuando tenía diez años",
+          "Comencé a pintar cuando tenía diez años",
+          "Empecé a pintar cuando tenía diez",
+          "Comencé a pintar cuando tenía diez",
+          "Empecé a pintar cuando tenía 10 años",
+          "Comencé a pintar cuando tenía 10 años",
+          "Empecé a pintar cuando tenía 10",
+          "Comencé a pintar cuando tenía 10"
+        ],
+        [
+          "I started to paint when I was ten years old",
+          "I began to paint when I was ten years old",
+          "I started to paint when I was 10 years old",
+          "I began to paint when I was 10 years old",
+          "I started to paint when I was ten",
+          "I began to paint when I was ten",
+          "I started to paint when I was 10",
+          "I began to paint when I was 10"
+        ]
+      ],
+      [["Picasso rompió las reglas"], ["Picasso broke the rules"]]
     ],
     [
       "5.1G De celebración",
