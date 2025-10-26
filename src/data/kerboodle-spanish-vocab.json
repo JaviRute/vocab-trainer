@@ -2492,68 +2492,492 @@
     ],
     [
       "5.1F Nuestras tradiciones de siempre",
-      [["ayuno"], ["fasting", "fast"]],
+      [["Tenemos un mes de ayuno"], ["We have a month of fasting"]],
       [
-        ["banda", "grupo"],
-        ["band", "music band", "group"]
+        ["Escuchamos a la banda local", "Escuchamos al grupo local"],
+        [
+          "We listen to the local band",
+          "We listen to the local music band",
+          "We listen to the local group",
+          "We hear the local band",
+          "We hear the local music band",
+          "We hear the local group"
+        ]
       ],
-      [["católico"], ["Catholic"]],
-      [["celebración"], ["celebration"]],
-      [["compañía"], ["company"]],
+      [
+        ["Hay muchas celebraciones católicas", "Hay muchas fiestas católicas"],
+        [
+          "There are many Catholic celebrations",
+          "There are many Catholic festivals",
+          "There are lots of Catholic celebrations",
+          "There are lots of Catholic festivals"
+        ]
+      ],
+      [
+        [
+          "Esta celebración tiene lugar en diciembre",
+          "Este festival tiene lugar en diciembre",
+          "Esta celebración sucede en diciembre",
+          "Este festival sucede en diciembre",
+          "Esta celebración ocurre en diciembre",
+          "Este festival ocurre en diciembre"
+        ],
+        [
+          "This celebration takes place in December",
+          "This festival takes place in December",
+          "This celebration happens in December",
+          "This festival happens in December",
+          "This celebration occurs in December",
+          "This festival occurs in December"
+        ]
+      ],
+      [
+        [
+          "Pasamos el día en compañía de la familia",
+          "Pasamos el día acompañados de la familia",
+          "Pasamos el día en compañía de nuestra familia",
+          "Pasamos el día acompañados de nuestra familia"
+        ],
+        [
+          "We spend the day in the company of the family",
+          "We spent the day in the company of the family",
+          "We spend the day in the company of our family",
+          "We spent the day in the company of our family",
+          "We spend the day in company of the family",
+          "We spent the day in company of the family",
+          "We spend the day in company of our family",
+          "We spent the day in company of our family"
+        ]
+      ],
       [["desayuno"], ["breakfast"]],
-      [["desfile"], ["parade", "procession"]],
-      [["disfrutar"], ["to enjoy"]],
+      [
+        [
+          "Hay desfiles por las calles",
+          "Hay desfiles en las calles",
+          "Hay procesiones por las calles",
+          "Hay procesiones en las calles"
+        ],
+        [
+          "There are parades in the streets",
+          "There are processions in the streets",
+          "There are parades on the streets",
+          "There are processions on the streets",
+          "There are parades through the streets",
+          "There are processions through the streets"
+        ]
+      ],
+      [
+        ["Disfrutamos de la comida", "Disfrutamos la comida"],
+        ["We enjoy the food", "We enjoyed the food"]
+      ],
       [["Janucá"], ["Hanukkah"]],
-      [["luz"], ["light"]],
-      [["musulmán", "musulmana"], ["Muslim"]],
-      [["Navidad"], ["Christmas"]],
-      [["Nochebuena"], ["Christmas Eve"]],
-      [["Nochevieja"], ["New Year's Eve"]],
-      [["Pascua"], ["Easter"]],
-      [["plaza"], ["square", "town square"]],
-      [["regalo"], ["gift", "present"]],
-      [["religioso", "religiosa"], ["religious"]],
+      [
+        ["Hay muchas luces en las casas", "Hay muchas luces en los hogares"],
+        [
+          "There are many lights in the houses",
+          "There are lots of lights in the houses",
+          "There are many lights in the homes",
+          "There are lots of lights in the homes"
+        ]
+      ],
+      [
+        ["Es un día importante en la cultura musulmana"],
+        [
+          "It's an important day in Muslim culture",
+          "It is an important day in Muslim culture",
+          "It's an important day in the Muslim culture",
+          "It is an important day in the Muslim culture"
+        ]
+      ],
+      [
+        [
+          "Mi celebración favorita es la Navidad",
+          "Mi celebración favorita es Navidad",
+          "Mi festival favorito es la Navidad",
+          "Mi festival favorito es Navidad"
+        ],
+        [
+          "My favourite celebration is Christmas",
+          "My favorite celebration is Christmas",
+          "My favourite festival is Christmas",
+          "My favorite festival is Christmas"
+        ]
+      ],
+      [
+        ["En Nochebuena hay una cena importante"],
+        [
+          "On Christmas Eve there's an important dinner",
+          "In Christmas Eve there's an important dinner",
+          "On Christmas Eve there is an important dinner",
+          "In Christmas Eve there is an important dinner"
+        ]
+      ],
+      [
+        ["En Nochevieja comemos doce uvas", "En Nochevieja comemos 12 uvas"],
+        [
+          "On New Year's Eve we eat twelve grapes",
+          "In New Year's Eve we eat twelve grapes",
+          "On New Years Eve we eat twelve grapes",
+          "In New Years Eve we eat twelve grapes",
+          "On New Year's Eve we eat 12 grapes",
+          "In New Year's Eve we eat 12 grapes",
+          "On New Years Eve we eat 12 grapes",
+          "In New Years Eve we eat 12 grapes"
+        ]
+      ],
+      [
+        [
+          "La Pascua es una celebración religiosa",
+          "Pascua es una celebración religiosa",
+          "La Pascua es un festival religioso",
+          "Pascua es un festival religioso"
+        ],
+        [
+          "Easter is a religious celebration",
+          "Easter's a religious celebration",
+          "Easter is a religious festival",
+          "Easter's a religious festival"
+        ]
+      ],
+      [
+        ["Mucha gente va a la plaza", "Muchas personas van a la plaza"],
+        [
+          "Lots of people go to the square",
+          "Many people go to the square",
+          "Lots of people go to the town square",
+          "Many people go to the town square",
+          "A lot of people go to the square",
+          "A lot of people go to the town square"
+        ]
+      ],
+      [
+        [
+          "Los Tres Reyes Magos traen regalos",
+          "Los Reyes Magos traen regalos",
+          "Los Reyes traen regalos"
+        ],
+        [
+          "The Three Wise Men bring presents",
+          "The Three Wise Men bring gifts",
+          "The Three Kings bring presents",
+          "The Three Kings bring gifts",
+          "The Wise Men bring presents",
+          "The Wise Men bring gifts",
+          "The Magi bring presents",
+          "The Magi bring gifts"
+        ]
+      ],
+      [
+        ["No soy muy religioso", "No soy muy religiosa"],
+        ["I'm not very religious", "I am not very religious"]
+      ],
       [["Semana Santa"], ["Holy Week", "Easter Week", "Easter"]],
-      [["tener lugar"], ["to take place", "to happen"]],
-      [["los Tres Reyes Magos"], ["the Three Wise Men", "the Magi"]],
-      [["tradición"], ["tradition", "custom"]],
-      [["uva"], ["grape"]],
+      [
+        [
+          "Es una tradición en mi país",
+          "Es una costumbre en mi país",
+          "Es una tradición de mi país",
+          "Es una costumbre de mi país"
+        ],
+        [
+          "It's a tradition in my country",
+          "It is a tradition in my country",
+          "It's a custom in my country",
+          "It is a custom in my country",
+          "It's a tradition of my country",
+          "It is a tradition of my country",
+          "It's a custom of my country",
+          "It is a custom of my country"
+        ]
+      ],
       [["turrón"], ["nougat"]],
-      [["árbol de Navidad"], ["Christmas tree"]]
+      [["árbol de Navidad"], ["Christmas tree"]],
+      [
+        [
+          "Se celebra en verano",
+          "Se celebra en el verano",
+          "Es celebrada en verano",
+          "Es celebrada en el verano"
+        ],
+        [
+          "It's celebrated in summer",
+          "It is celebrated in summer",
+          "It's celebrated in the summer",
+          "It is celebrated in the summer"
+        ]
+      ],
+      [["Hay fuegos artificiales"], ["There are fireworks"]],
+      [
+        ["Lo celebro con mi familia", "Lo festejo con mi familia"],
+        ["I celebrate it with my family"]
+      ]
     ],
     [
       "5.1H ¡Un año más!",
-      [["baile"], ["dance", "ball"]],
-      [["cara"], ["face"]],
-      [["ceremonia"], ["ceremony"]],
-      [["conmigo"], ["with me"]],
       [
-        ["costumbre", "tradición"],
-        ["custom", "tradition", "habit"]
+        [
+          "La celebración incluye un baile",
+          "La fiesta incluye un baile",
+          "El evento incluye un baile"
+        ],
+        [
+          "The celebration includes a dance",
+          "The celebration includes a ball",
+          "The party includes a dance",
+          "The party includes a ball"
+        ]
       ],
-      [["estar de acuerdo con"], ["to agree with"]],
-      [["iglesia"], ["church"]],
-      [["letra"], ["lyrics", "letter"]],
+      [
+        [
+          "Me empujaron la cara hacia el pastel",
+          "Me empujaron la cara hasta el pastel",
+          "Me empujaron la cara al pastel",
+          "Me empujaron la cara hacia la tarta",
+          "Me empujaron la cara hasta la tarta",
+          "Me empujaron la cara a la tarta"
+        ],
+        [
+          "They pushed my face to the cake",
+          "They pushed my face towards the cake",
+          "They pushed my face into the cake"
+        ]
+      ],
+      [
+        [
+          "Fuimos a la iglesia para la ceremonia",
+          "Fuimos a la iglesia por la ceremonia"
+        ],
+        [
+          "We went to church for the ceremony",
+          "We went to the church for the ceremony"
+        ]
+      ],
+      [["Ven conmigo"], ["Come with me"]],
+      [
+        [
+          "Es una tradición importante en México",
+          "Es una costumbre importante en México",
+          "Es una tradición importante en Méjico",
+          "Es una costumbre importante en Méjico"
+        ],
+        [
+          "It's an important tradition in Mexico",
+          "It is an important tradition in Mexico",
+          "It's an important custom in Mexico",
+          "It is an important custom in Mexico",
+          "It's an important habit in Mexico",
+          "It is an important habit in Mexico",
+          "It's an important tradition in México",
+          "It is an important tradition in México",
+          "It's an important custom in México",
+          "It is an important custom in México",
+          "It's an important habit in México",
+          "It is an important habit in México"
+        ]
+      ],
+      [
+        ["No estoy de acuerdo contigo"],
+        [
+          "I don't agree with you",
+          "I do not agree with you",
+          "I disagree with you"
+        ]
+      ],
+      [
+        [
+          "Estas son las letras de la canción",
+          "Esta es la letra de la canción"
+        ],
+        [
+          "These are the lyrics of the song",
+          "These are the lyrics for the song",
+          "These are the lyrics to the song",
+          "These are the song lyrics"
+        ]
+      ],
       [["mordida"], ["bite"]],
-      [["oreja"], ["ear"]],
-      [["pastel"], ["cake"]],
       [
-        ["peluquero", "peluquera"],
-        ["hairdresser", "barber"]
+        [
+          "En mi cumpleaños me tiraron de las orejas",
+          "El día de mi cumpleaños me tiraron de las orejas",
+          "En mi cumple me tiraron de las orejas",
+          "El día de mi cumple me tiraron de las orejas"
+        ],
+        [
+          "On my birthday they pulled my ears",
+          "In my birthday they pulled my ears"
+        ]
       ],
-      [["Quinceañera"], ["girl's 15th birthday"]],
-      [["recoger"], ["to pick up", "to collect", "to gather"]],
-      [["sorprender"], ["to surprise"]],
-      [["tienda"], ["shop", "store"]],
-      [["tirar"], ["to throw", "to pull"]],
-      [["un montón de"], ["a lot of", "lots of", "loads of"]],
-      [["vergüenza"], ["embarrassment", "shame"]],
-      [["vestirse"], ["to get dressed", "to dress oneself"]],
-      [["para mí"], ["for me"]],
-      [["sin ellos"], ["without them"]],
-      [["delante de nosotros"], ["in front of us"]],
-      [["detrás de él"], ["behind him"]],
-      [["al lado de ella"], ["next to her"]]
+      [
+        [
+          "Como de costumbre, mi padre trajo un pastel",
+          "Como de costumbre, mi padre trajo una tarta"
+        ],
+        [
+          "As a habit, my father brought a cake",
+          "As a custom, my father brought a cake",
+          "As a tradition, my father brought a cake",
+          "As a habit, my dad brought a cake",
+          "As a custom, my dad brought a cake",
+          "As a tradition, my dad brought a cake",
+          "As usual, my father brought a cake",
+          "As usual, my dad brought a cake",
+          "As always, my father brought a cake",
+          "As always, my dad brought a cake"
+        ]
+      ],
+      [
+        ["Visité a mi peluquero", "Visité a mi peluquera"],
+        ["I visited my hairdresser", "I visited my barber"]
+      ],
+      [
+        ["Recogí mi vestido rosa", "Cogí mi vestido rosa"],
+        [
+          "I picked up my pink dress",
+          "I collected my pink dress",
+          "I gathered my pink dress",
+          "I got my pink dress"
+        ]
+      ],
+      [
+        [
+          "Mis amigos me soprendieron con una fiesta",
+          "Mis amigos me dieron una fiesta sorpresa"
+        ],
+        [
+          "My friends surprised me with a party",
+          "My friends gave me a surprise with a party",
+          "My friends gave me a suprise party"
+        ]
+      ],
+      [
+        ["Hay un montón de caramelos", "Hay muchos caramelos"],
+        [
+          "There are loads of sweets",
+          "There are a lot of sweets",
+          "There are lots of sweets",
+          "There are tons of sweets",
+          "There are so many sweets"
+        ]
+      ],
+      [
+        ["¡Qué vergüenza!", "¡Qué bochorno!", "¡Qué ridículo!", "¡Qué corte!"],
+        ["How embarrassing!", "How shameful!", "What a shame!", "How awkward!"]
+      ],
+      [
+        [
+          "Mi hermana me ayudó a vestirme",
+          "Mi hermana me ayudó a ponerme la ropa"
+        ],
+        [
+          "My sister helped me to get dressed",
+          "My sister helped me get dressed",
+          "My sister helped me to dress",
+          "My sister helped me dress"
+        ]
+      ],
+      [
+        ["Es mucha comida para mí", "Es demasiada comida para mí"],
+        [
+          "It's a lot of food for me",
+          "It is a lot of food for me",
+          "That's a lot of food for me",
+          "That is a lot of food for me",
+          "It's too much food for me",
+          "It is too much food for me",
+          "That's too much food for me",
+          "That is too much food for me"
+        ]
+      ],
+      [
+        [
+          "Voy a ir sin ellos",
+          "Iré sin ellos",
+          "Voy sin ellos",
+          "Me voy sin ellos"
+        ],
+        [
+          "I'm going without them",
+          "I am going without them",
+          "I'm going to go without them",
+          "I am going to go without them"
+        ]
+      ],
+      [
+        [
+          "Están delante de nosotros",
+          "Están frente a nosotros",
+          "Están enfrente de nosotros"
+        ],
+        [
+          "They're in front of us",
+          "They are in front of us",
+          "They're facing us"
+        ]
+      ],
+      [
+        ["Hay un perro detrás de él"],
+        ["There's a dog behind him", "There is a dog behind him"]
+      ],
+      [
+        [
+          "Está sentado al lado de ella",
+          "Está sentado junto a ella",
+          "Se sienta al lado de ella",
+          "Se sienta junto a ella"
+        ],
+        [
+          "He's sitting next to her",
+          "He is sitting next to her",
+          "He's sitting beside her",
+          "He is sitting beside her",
+          "He sits next to her",
+          "He sits beside her",
+          "He's sitting by her side",
+          "He is sitting by her side"
+        ]
+      ],
+      [
+        ["No durmieron bien"],
+        [
+          "They didn't sleep well",
+          "They did not sleep well",
+          "They haven't slept well",
+          "They couldn't sleep well",
+          "They slept badly"
+        ]
+      ],
+      [
+        ["Hay comida, música y regalos"],
+        [
+          "There's food, music and gifts",
+          "There's food, music and presents",
+          "There is food, music and presents",
+          "There is food, music and gifts",
+          "There are food, music and presents",
+          "There are food, music and gifts"
+        ]
+      ],
+      [
+        ["Compré un regalo en la tienda"],
+        [
+          "I bought a present in the shop",
+          "I bought a present in the store",
+          "I bought a present on the shop",
+          "I bought a present on the store",
+          "I bought a present at the shop",
+          "I bought a present at the store"
+        ]
+      ],
+      [
+        ["Mi madre leyó una carta", "Mi mamá leyó una carta"],
+        [
+          "My mother read a card",
+          "My mum read a card",
+          "My mother read a letter",
+          "My mum read a letter"
+        ]
+      ]
     ],
     [
       "5.2G Carnaval, ¡te quiero!",
@@ -2597,92 +3021,622 @@
     ],
     [
       "5.2F Latinoamérica celebra la vida",
-      [["aprender"], ["to learn"]],
-      [["calle"], ["street", "road"]],
-      [["carnaval"], ["carnival"]],
-      [["consistir en"], ["to consist of", "to be made up of"]],
-      [["desfile"], ["parade", "procession"]],
-      [["egoísta"], ["selfish", "egotistical"]],
-      [["entre"], ["between", "among"]],
-      [["esperar"], ["to wait", "to hope", "to expect"]],
-      [["feria"], ["fair", "funfair"]],
-      [["flor"], ["flower", "blossom"]],
-      [["influencia"], ["influence"]],
-      [["lengua"], ["language", "tongue"]],
-      [["llenar"], ["to fill", "to fill up"]],
       [
-        ["muerto", "muerta"],
-        ["dead", "deceased"]
+        [
+          "Voy a aprender sobre la cultura latina",
+          "Voy a aprender de la cultura latina"
+        ],
+        [
+          "I'm going to learn about Latin culture",
+          "I am going to learn about Latin culture",
+          "I'm going to learn about the Latin culture",
+          "I am going to learn about the Latin culture"
+        ]
       ],
       [
-        ["ningún", "ninguno", "ninguna"],
-        ["none", "no", "not any"]
+        [
+          "Bailamos en la calle",
+          "Bailamos por la calle",
+          "Bailamos en las calles",
+          "Bailamos por las calles"
+        ],
+        [
+          "We dance in the street",
+          "We dance in the streets",
+          "We dance on the street",
+          "We dance on the streets",
+          "We dance in the road",
+          "We danced in the street",
+          "We danced in the streets",
+          "We danced on the street",
+          "We danced on the streets",
+          "We danced in the road"
+        ]
       ],
       [
-        ["buen", "bueno", "buena"],
-        ["good", "nice"]
+        ["Es el primer día del carnaval", "Es el primer día de carnaval"],
+        [
+          "It's the first day of the carnival",
+          "It is the first day of the carnival",
+          "This the first day of the carnival",
+          "It's the first day of carnival",
+          "It is the first day of carnival",
+          "This the first day of carnival"
+        ]
       ],
-      [["mal", "malo", "mala"], ["bad"]],
-      [["primer", "primero", "primera"], ["first"]],
+      [
+        [
+          "El festival consiste en compartir comida",
+          "La fiesta consiste en compartir comida",
+          "La celebración consiste en compartir comida"
+        ],
+        [
+          "The festival consists of sharing food",
+          "The celebration consists of sharing food",
+          "The party consists of sharing food",
+          "The festival consists of sharing food",
+          "The celebration consists of sharing food",
+          "The party consists of sharing food"
+        ]
+      ],
+      [
+        ["El desfile fue una gran experiencia"],
+        [
+          "The parade was a great experience",
+          "The procession was a great experience",
+          "The parade was a big experience",
+          "The procession was a big experience"
+        ]
+      ],
+      [
+        [
+          "Se celebra entre el 20 y el 23 de junio",
+          "Se celebra entre el 20 y 23 de junio",
+          "Se celebra entre el veinte y el veintitrés de junio",
+          "Se celebra entre el veinte y veintitrés de junio",
+          "Es celebrado entre el 20 y el 23 de junio",
+          "Es celebrado entre el 20 y 23 de junio",
+          "Es celebrado entre el veinte y el veintitrés de junio",
+          "Es celebrado entre el veinte y veintitrés de junio"
+        ],
+        [
+          "It's celebrated between the 20th and the 23rd of June",
+          "It is celebrated between the 20th and the 23rd of June",
+          "It's celebrated between the 20 and the 23 of June",
+          "It is celebrated between the 20 and the 23 of June"
+        ]
+      ],
+      [
+        [
+          "Se espera que muchos turistas vendrán",
+          "Se espera que muchos turistas llegarán"
+        ],
+        [
+          "It's expected that many tourists will come",
+          "It is expected that many tourists will come",
+          "It's hoped that many tourists will come",
+          "It is hoped that many tourists will come",
+          "It's expected that lots of tourists will come",
+          "It is expected that lots of tourists will come",
+          "It's hoped that lots of tourists will come",
+          "It is hoped that lots of tourists will come",
+          "Many tourists are expected to come",
+          "Lots of tourists are expected to come",
+          "It's expected many tourists will come",
+          "It is expected many tourists will come",
+          "It's hoped many tourists will come",
+          "It is hoped many tourists will come",
+          "It's expected lots of tourists will come",
+          "It is expected lots of tourists will come",
+          "It's hoped lots of tourists will come",
+          "It is hoped lots of tourists will come",
+          "Many tourists are expected to come",
+          "Lots of tourists are expected to come",
+          "It's expected that many tourists will arrive",
+          "It is expected that many tourists will arrive",
+          "It's hoped that many tourists will arrive",
+          "It is hoped that many tourists will arrive",
+          "It's expected that lots of tourists will arrive",
+          "It is expected that lots of tourists will arrive",
+          "It's hoped that lots of tourists will arrive",
+          "It is hoped that lots of tourists will arrive",
+          "Many tourists are expected to arrive",
+          "Lots of tourists are expected to arrive",
+          "It's expected many tourists will arrive",
+          "It is expected many tourists will arrive",
+          "It's hoped many tourists will arrive",
+          "It is hoped many tourists will arrive",
+          "It's expected lots of tourists will arrive",
+          "It is expected lots of tourists will arrive",
+          "It's hoped lots of tourists will arrive",
+          "It is hoped lots of tourists will arrive",
+          "Many tourists are expected to arrive",
+          "Lots of tourists are expected to arrive"
+        ]
+      ],
+      [
+        ["Hay una feria famosa en Cali"],
+        [
+          "There's a famous fair in Cali",
+          "There is a famous fair in Cali",
+          "There's a famous funfair in Cali",
+          "There is a famous funfair in Cali"
+        ]
+      ],
+      [
+        ["Hay muchas flores en la calle", "Hay muchas flores en las calles"],
+        [
+          "There are lots of flowers in the street",
+          "There are many flowers in the street",
+          "There are lots of flowers in the streets",
+          "There are many flowers in the streets"
+        ]
+      ],
+      [
+        [
+          "La lengua Quechua tiene mucha influencia en Perú",
+          "El idioma Quechua tiene mucha influencia en Perú",
+          "El lenguaje Quechua tiene mucha influencia en Perú"
+        ],
+        [
+          "The Quechua language has a lot of influence in Peru",
+          "The Quechua language has lots of influence in Peru"
+        ]
+      ],
+      [
+        [
+          "Es una celebración llena de alegría",
+          "Es una celebración llena de felicidad"
+        ],
+        [
+          "It's a celebration full of joy",
+          "It is a celebration full of joy",
+          "It's a celebration filled with joy",
+          "It is a celebration filled with joy",
+          "It's a celebration full of happiness",
+          "It is a celebration full of happiness",
+          "It's a celebration filled with happiness",
+          "It is a celebration filled with happiness"
+        ]
+      ],
+      [
+        [
+          "El Día de Muertos se celebra en noviembre",
+          "El Día de los Muertos se celebra en noviembre",
+          "El Día de Muertos es celebrado en noviembre",
+          "El Día de los Muertos es celebrado en noviembre"
+        ],
+        [
+          "The Day of the Dead is celebrated in November",
+          "The Day of the Deceased is celebrated in November"
+        ]
+      ],
+      [
+        ["No hay ningún estudiante", "No hay ninguna estudiante"],
+        [
+          "There's not a single student",
+          "There isn't a single student",
+          "There is not a single student",
+          "There are no students",
+          "There aren't any students"
+        ]
+      ],
+      [
+        ["¡Buen chico!", "¡Buen muchacho!", "Buen chico", "Buen muchacho"],
+        [
+          "Good boy!",
+          "Good lad!",
+          "Good kid!",
+          "Good boy",
+          "Good lad",
+          "Good kid"
+        ]
+      ],
+      [
+        ["He tenido un mal día", "Tuve un mal día"],
+        ["I've had a bad day", "I have had a bad day"]
+      ],
       [["tercer", "tercero", "tercera"], ["third"]],
       [
-        ["algún", "alguno", "alguna"],
-        ["some", "any"]
+        [
+          "Estas son algunas comidas típicas de Colombia",
+          "Estas son algunas de las comidas típicas de Colombia",
+          "Estas son algunas comidas típicas en Colombia",
+          "Estas son algunas de las comidas típicas en Colombia"
+        ],
+        [
+          "These are some of the typical foods from Colombia",
+          "These are some typical foods from Colombia",
+          "These are some of the typical foods of Colombia",
+          "These are some typical foods of Colombia",
+          "These are some of the typical dishes from Colombia",
+          "These are some typical dishes from Colombia",
+          "These are some of the typical dishes of Colombia",
+          "These are some typical dishes of Colombia"
+        ]
       ],
       [
-        ["gran", "grande"],
-        ["big", "large", "great"]
+        ["Hay un mal olor", "Hay mal olor"],
+        [
+          "There's a bad smell",
+          "There is a bad smell",
+          "There's a bad scent",
+          "There is a bad scent",
+          "There's a bad odour",
+          "There is a bad odour"
+        ]
       ],
-      [["olor"], ["smell", "odour", "scent"]],
-      [["poder"], ["to be able to", "can"]],
-      [["traer"], ["to bring"]],
-      [["variedad"], ["variety"]]
+      [
+        ["Puedes visitar los museos", "Puede visitar los museos"],
+        [
+          "You can visit the museums",
+          "You're able to visit the museums",
+          "You are able to visit the museums"
+        ]
+      ],
+      [
+        ["Puedes traer una cámara", "Puede traer una cámara"],
+        [
+          "You can bring a camera",
+          "You're able to bring a camera",
+          "You are able to bring a camera"
+        ]
+      ],
+      [
+        ["Hay mucha variedad de platos"],
+        [
+          "There's a lot of variety in dishes",
+          "There is a lot of variety in dishes",
+          "There's a wide variety of dishes",
+          "There is a wide variety of dishes",
+          "There's plenty of variety in dishes",
+          "There is plenty of variety in dishes",
+          "There's a great variety of dishes",
+          "There is a great variety of dishes",
+          "There's a lot of variety of dishes",
+          "There is a lot of variety of dishes",
+          "There's plenty of variety of dishes",
+          "There is plenty of variety of dishes",
+          "There's a lot of variety of meals",
+          "There is a lot of variety of meals",
+          "There's plenty of variety of meals",
+          "There is plenty of variety of meals"
+        ]
+      ],
+      [
+        [
+          "Recordamos a las personas muertas",
+          "Recordamos las personas muertas",
+          "Recordamos a los muertos"
+        ],
+        [
+          "We remember the dead people",
+          "We remember the dead persons",
+          "We remember the dead"
+        ]
+      ],
+      [
+        [
+          "Es importante llevar zapatos cómodos",
+          "Es importante usar zapatos cómodos",
+          "Es importante ponerse zapatos cómodos"
+        ],
+        [
+          "It's important to wear comfortable shoes",
+          "It is important to wear comfortable shoes",
+          "It's important to put on comfortable shoes",
+          "It is important to put on comfortable shoes"
+        ]
+      ],
+      [
+        [
+          "Antes de salir, comí algo",
+          "Antes de salir comí algo",
+          "Antes de irme, comí algo"
+        ],
+        [
+          "Before leaving, I ate something",
+          "Before leaving I ate something",
+          "Before going out, I ate something",
+          "Before going out I ate something"
+        ]
+      ],
+      [
+        [
+          "Al llegar al hotel, llamé a mi hermano",
+          "Al llegar al hotel llamé a mi hermano",
+          "Cuando llegué al hotel, llamé a mi hermano"
+        ],
+        [
+          "Upon arriving to the hotel, I called my brother",
+          "Upon arriving at the hotel, I called my brother",
+          "Upon reaching the hotel, I called my brother",
+          "Upon arriving to the hotel I called my brother",
+          "Upon arriving at the hotel I called my brother",
+          "Upon reaching the hotel I called my brother",
+          "When I arrived at the hotel, I called my brother"
+        ]
+      ]
     ],
     [
       "5.2H Bailando al ritmo hispano",
-      [["afroamericano", "afroamericana"], ["African American"]],
-      [["abandonar"], ["to leave", "to abandon", "to give up"]],
-      [["aparecer"], ["to appear", "to turn up", "to show up"]],
-      [["caribeño", "caribeña"], ["Caribbean"]],
       [
-        ["conocido", "conocida"],
-        ["known", "familiar"]
+        [
+          "Es una mezcla de estilos afroamericanos y europeos",
+          "Es una mezcla de estilo afroamericano y europeo"
+        ],
+        [
+          "It's a mixture of African American and European styles",
+          "It is a mixture of African American and European styles",
+          "It's a mix of African American and European styles",
+          "It is a mix of African American and European styles",
+          "It's a blend of African American and European styles",
+          "It is a blend of African American and European styles",
+          "It's a mixture of Afroamerican and European styles",
+          "It is a mixture of Afroamerican and European styles",
+          "It's a mix of Afroamerican and European styles",
+          "It is a mix of Afroamerican and European styles",
+          "It's a blend of Afroamerican and European styles",
+          "It is a blend of Afroamerican and European styles",
+          "It's a mixture of African American and European style",
+          "It is a mixture of African American and European style",
+          "It's a mix of African American and European style",
+          "It is a mix of African American and European style",
+          "It's a blend of African American and European style",
+          "It is a blend of African American and European style",
+          "It's a mixture of Afroamerican and European style",
+          "It is a mixture of Afroamerican and European style",
+          "It's a mix of Afroamerican and European style",
+          "It is a mix of Afroamerican and European style",
+          "It's a blend of Afroamerican and European style",
+          "It is a blend of Afroamerican and European style"
+        ]
       ],
       [
-        ["concurso", "competición"],
-        ["competition", "contest"]
+        [
+          "Tengo que abandonar el concurso",
+          "Tengo que dejar el concurso",
+          "Debo abandonar el concurso",
+          "Debo dejar el concurso"
+        ],
+        [
+          "I have to leave the contest",
+          "I have to abandon the contest",
+          "I have to quit the contest",
+          "I have to withdraw from the contest",
+          "I've got to leave the contest",
+          "I've got to abandon the contest",
+          "I've got to quit the contest",
+          "I've got to withdraw from the contest"
+        ]
       ],
       [
-        ["empezar", "comenzar"],
-        ["to start", "to begin"]
+        [
+          "El flamenco apareció en el sur de España",
+          "El flamenco surgió en el sur de España"
+        ],
+        [
+          "Flamenco appeared in the South of Spain",
+          "Flamenco turned up in the South of Spain",
+          "Flamenco originated in the south of Spain",
+          "Flamenco emerged in the south of Spain",
+          "Flamenco developed in the south of Spain",
+          "Flamenco was born in the south of Spain",
+          "The Flamenco appeared in the South of Spain",
+          "The Flamenco turned up in the South of Spain",
+          "The Flamenco originated in the south of Spain",
+          "The Flamenco emerged in the south of Spain",
+          "The Flamenco developed in the south of Spain",
+          "The Flamenco was born in the south of Spain"
+        ]
       ],
       [
-        ["espectáculo", "show"],
-        ["show", "spectacle"]
+        [
+          "Es un baile con influencia caribeña",
+          "Es un baile de influencia caribeña",
+          "Es una danza con influencia caribeña"
+        ],
+        [
+          "It's a dance with Caribbean influence",
+          "It is a dance with Caribbean influence",
+          "It's a dance of Caribbean influence",
+          "It is a dance of Caribbean influence",
+          "It's a Caribbean-influenced dance",
+          "It is a Caribbean-influenced dance"
+        ]
       ],
-      [["estrella"], ["star", "celebrity"]],
-      [["falda"], ["skirt"]],
-      [["influencia"], ["influence"]],
-      [["latino", "latina"], ["Latin"]],
-      [["mano"], ["hand"]],
-      [["mezcla"], ["mixture", "blend"]],
-      [["nacer"], ["to be born"]],
       [
-        ["necesario", "necesaria"],
-        ["necessary", "needed"]
+        [
+          "El tango tambien es muy conocido en Uruguay",
+          "El tango además es muy conocido en Uruguay"
+        ],
+        [
+          "Tango is also very well-known in Uruguay",
+          "Tango is also very well known in Uruguay",
+          "Tango is also very familiar in Uruguay",
+          "The Tango is also very well-known in Uruguay",
+          "The Tango is also very well known in Uruguay",
+          "The Tango is also very familiar in Uruguay"
+        ]
       ],
-      [["pareja"], ["couple", "partner"]],
-      [["paso"], ["step", "move"]],
-      [["pierna"], ["leg"]],
-      [["ritmo"], ["rhythm", "beat"]],
-      [["romántico"], ["romantic"]],
       [
-        ["seguro", "segura"],
-        ["sure", "certain", "safe"]
+        [
+          "Estoy empezando a entender mejor",
+          "Estoy comenzando a entender mejor"
+        ],
+        [
+          "I'm starting to understand better",
+          "I am starting to understand better",
+          "I'm beginning to understand better",
+          "I am beginning to understand better"
+        ]
       ],
-      [["sorpresa"], ["surprise"]],
-      [["último"], ["last", "latest"]],
-      [["votar"], ["to vote"]]
+      [
+        [
+          "Ayer vi un espectáculo de tango",
+          "Ayer vi un show de tango",
+          "Ayer miré un espectáculo de tango",
+          "Ayer miré un show de tango"
+        ],
+        [
+          "Yesterday I saw a tango show",
+          "Yesterday I saw a tango spectacle",
+          "Yesterday I saw a show of tango",
+          "Yesterday I saw a spectacle of tango",
+          "Yesterday I watched a tango show",
+          "Yesterday I watched a tango spectacle",
+          "Yesterday I watched a show of tango",
+          "Yesterday I watched a spectacle of tango"
+        ]
+      ],
+      [
+        ["Es una estrella en Argentina", "Es una celebridad en Argentina"],
+        [
+          "He's a star in Argentina",
+          "He's a celebrity in Argentina",
+          "He is a star in Argentina",
+          "He is a celebrity in Argentina",
+          "She's a star in Argentina",
+          "She's a celebrity in Argentina",
+          "She is a star in Argentina",
+          "She is a celebrity in Argentina"
+        ]
+      ],
+      [["una falda roja"], ["a red skirt", "one red skirt"]],
+      [
+        ["Tienes que mover los pies y las manos"],
+        [
+          "You have to move your feet and hands",
+          "You have to move the feet and hands",
+          "You have to move the feet and the hands",
+          "You have to move feet and hands",
+          "You've got to move your feet and hands",
+          "You've got to move the feet and hands",
+          "You've got to move the feet and the hands",
+          "You've got to move feet and hands"
+        ]
+      ],
+      [
+        ["Me gustan los bailes latinos", "Me gustan las danzas latinas"],
+        ["I like Latin dances", "I like Latin dancing"]
+      ],
+      [
+        ["La rumba nació en Cuba"],
+        ["The rumba was born in Cuba", "Rumba was born in Cuba"]
+      ],
+      [
+        ["La guitarra es un instrumento necesario"],
+        [
+          "Guitar is a necessary instrument",
+          "The guitar is a necessary instrument",
+          "Guitar is a needed instrument",
+          "The guitar is a needed instrument"
+        ]
+      ],
+      [
+        [
+          "Para bailar tango necesitas una pareja",
+          "Para bailar tango necesitas un compañero",
+          "Para bailar tango necesitas una compañera"
+        ],
+        [
+          "To dance tango you need a partner",
+          "To dance tango you need a couple",
+          "To dance tango you need a pair",
+          "In order to dance tango you need a partner",
+          "In order to dance tango you need a couple",
+          "In order to dance tango you need a pair",
+          "For dancing tango you need a partner",
+          "For dancing tango you need a couple",
+          "For dancing tango you need a pair"
+        ]
+      ],
+      [
+        [
+          "Tienes que dar un paso adelante",
+          "Tienes que dar un paso hacia adelante",
+          "Debes dar un paso adelante",
+          "Debes dar un paso hacia adelante"
+        ],
+        [
+          "You have to take a step forward",
+          "You've got to take a step forward",
+          "You have to give a step forward",
+          "You've got to give a step forward",
+          "You have to take a step forwards",
+          "You've got to take a step forwards",
+          "You have to give a step forwards",
+          "You've got to give a step forwards"
+        ]
+      ],
+      [
+        ["Me duele la pierna", "Tengo dolor en la pierna"],
+        ["My leg hurts", "I've got a pain in my leg", "I have pain in my leg"]
+      ],
+      [
+        ["El flamenco tiene un ritmo difícil"],
+        [
+          "Flamenco has a difficult rhythm",
+          "Flamenco has a difficult beat",
+          "The Flamenco has a difficult rhythm",
+          "The Flamenco has a difficult beat",
+          "Flamenco has got a difficult rhythm",
+          "Flamenco has got a difficult beat",
+          "The Flamenco has got a difficult rhythm",
+          "The Flamenco has got a difficult beat"
+        ]
+      ],
+      [
+        ["El bolero es muy romántico", "Los boleros son muy románticos"],
+        [
+          "Bolero is very romantic",
+          "The bolero is very romantic",
+          "Boleros are very romantic"
+        ]
+      ],
+      [["en el último minuto"], ["in the last minute", "at the last minute"]],
+      [
+        ["Sigo aprendiendo español", "Continúo aprendiendo español"],
+        [
+          "I keep on learning Spanish",
+          "I keep learning Spanish",
+          "I continue learning Spanish",
+          "I carry on learning Spanish"
+        ]
+      ],
+      [
+        ["Continúo aprendiendo a bailar", "Sigo aprendiendo a bailar"],
+        [
+          "I continue learning to dance",
+          "I keep on learning to dance",
+          "I keep learning to dance",
+          "I carry on learning to dance"
+        ]
+      ],
+      [
+        ["¿De qué color es tu sombrero?", "¿Qué color tiene tu sombrero?"],
+        [
+          "What colour is your hat?",
+          "Of what colour is your hat?",
+          "What color is your hat?",
+          "Of what color is your hat?",
+          "What's the colour of your hat?",
+          "What's the color of your hat?"
+        ]
+      ],
+      [
+        ["¿De quién es esta chaqueta?"],
+        ["Whose is this jacket?", "Whose jacket is this?"]
+      ],
+      [
+        ["¿Con quién vas a bailar?"],
+        [
+          "Who are you going to dance with?",
+          "With whom are you going to dance?",
+          "With who are you going to dance?"
+        ]
+      ],
+      [["¿A quién vas a llamar?"], ["Who are you going to call?"]]
     ],
     [
       "6.1G La alfombra roja de los premios Goya",
