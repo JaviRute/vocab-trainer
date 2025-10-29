@@ -3678,73 +3678,576 @@
     [
       "6.1F Lola y Rosalía, ayer y hoy",
       [
-        ["animado", "animada"],
-        ["lively", "cheerful"]
-      ],
-      [["artista"], ["artist", "performer"]],
-      [["canción"], ["song", "tune"]],
-      [["concierto"], ["concert", "gig"]],
-      [["energía"], ["energy"]],
-      [["entrada"], ["ticket", "entrance", "entry"]],
-      [["estilo"], ["style"]],
-      [["estrella"], ["star", "celebrity"]],
-      [["Estados Unidos"], ["United States", "USA", "US"]],
-      [["fama"], ["fame"]],
-      [["icono"], ["icon"]],
-      [["mejor"], ["better", "best"]],
-      [["morir"], ["to die", "to pass away"]],
-      [["nacer"], ["to be born"]],
-      [["opinar"], ["to believe", "to think"]],
-      [["pasar de moda"], ["to be out of fashion", "to go out of style"]],
-      [
-        ["película", "peli"],
-        ["film", "movie"]
-      ],
-      [["personalidad"], ["personality", "character"]],
-      [
-        ["presentarse"],
-        ["to introduce oneself", "to present oneself", "to show up"]
+        ["Es una artista famosa"],
+        [
+          "She's a famous artist",
+          "She is a famous artist",
+          "She's a famous performer",
+          "She is a famous performer"
+        ]
       ],
       [
-        ["seguir", "continuar"],
-        ["to continue", "to follow", "to keep on"]
+        ["Estoy grabando una canción"],
+        [
+          "I'm recording a song",
+          "I am recording a song",
+          "I'm recording a tune",
+          "I am recording a tune"
+        ]
       ],
-      [["tanto"], ["so much", "so"]],
-      [["todavía"], ["still", "yet"]],
       [
-        ["único", "única"],
-        ["only", "unique", "only one"]
+        ["Vamos a un concierto"],
+        [
+          "We go to a concert",
+          "We're going to a concert",
+          "We are going to a concert",
+          "We go to a gig",
+          "We're going to a gig",
+          "We are going to a gig"
+        ]
       ],
-      [["urbano", "urbana"], ["urban"]],
-      [["votar"], ["to vote"]]
+      [
+        ["Tiene mucha energía"],
+        [
+          "He has a lot of energy",
+          "She has a lot of energy",
+          "He's got a lot of energy",
+          "She's got a lot of energy",
+          "He has lots of energy",
+          "She has lots of energy",
+          "He's got lots of energy",
+          "She's got lots of energy"
+        ]
+      ],
+      [
+        [
+          "Las entradas son carísimas",
+          "Los billetes son carísimas",
+          "Los tickets son carísimas",
+          "Los boletos son  carísimas",
+          "Las entradas son demasiado caras",
+          "Los billetes son demasiado caros",
+          "Los tickets son demasiado caros",
+          "Los boletos son demasiado caros",
+          "Las entradas son realmente caras",
+          "Los billetes son realmente caros",
+          "Los tickets son realmente caros",
+          "Los boletos son realmente caros",
+          "Las entradas son extremadamente caras",
+          "Los billetes son extremadamente caros",
+          "Los tickets son extremadamente caros",
+          "Los boletos son extremadamente caros",
+          "Las entradas son muy caras",
+          "Los billetes son muy caros",
+          "Los tickets son muy caros",
+          "Los boletos son muy caros"
+        ],
+        [
+          "The tickets are really expensive",
+          "Tickets are really expensive",
+          "The tickets are too expensive",
+          "Tickets are too expensive",
+          "The tickets are extremely expensive",
+          "Tickets are extremely expensive",
+          "The tickets are very expensive",
+          "Tickets are very expensive"
+        ]
+      ],
+      [
+        ["Rosalía ha cambiado su estilo"],
+        ["Rosalía has changed her style", "Rosalia has changed her style"]
+      ],
+      [
+        [
+          "Tiene mucho éxito en Estados Unidos",
+          "Tiene mucho éxito en los Estados Unidos"
+        ],
+        [
+          "He has a lot of success in the United States",
+          "She has a lot of success in the United States",
+          "He has lots of success in the United States",
+          "She has lots of success in the United States",
+          "He has a lot of success in the USA",
+          "She has a lot of success in the USA",
+          "He has lots of success in the USA",
+          "She has lots of success in the USA",
+          "He has a lot of success in the US",
+          "She has a lot of success in the US",
+          "He has lots of success in the US",
+          "She has lots of success in the US"
+        ]
+      ],
+      [
+        [
+          "Lola Flores tuvo fama internacional",
+          "Lola Flores alcanzó fama internacional",
+          "Lola Flores consiguió fama internacional"
+        ],
+        [
+          "Lola Flores had international fame",
+          "Lola Flores achieved international fame",
+          "Lola Flores gained international fame"
+        ]
+      ],
+      [
+        [
+          "Shakira es un icono de la cultura popular",
+          "Shakira es un icono en la cultura popular"
+        ],
+        [
+          "Shakira is an icon in popular culture",
+          "Shakira is an icon of popular culture",
+          "Shakira is a popular culture icon"
+        ]
+      ],
+      [
+        ["Bad Bunny es el mejor cantante de todos los tiempos"],
+        [
+          "Bad Bunny is the best singer of all time",
+          "Bad Bunny is the greatest singer of all time",
+          "Bad Bunny is the best singer of all times"
+        ]
+      ],
+      [
+        ["Lola Flores murió en 1995", "Lola Flores falleció en 1995"],
+        [
+          "Lola Flores died in 1995",
+          "Lola Flores passed away in 1995",
+          "Lola Flores passed in 1995"
+        ]
+      ],
+      [
+        ["Rosalía nació en 1992", "Rosalia nació en 1992"],
+        ["Rosalía was born in 1992", "Rosalia was born in 1992"]
+      ],
+      [
+        ["El flamenco no va a pasar de moda"],
+        [
+          "Flamenco isn't going to be out of fashion",
+          "Flamenco's not going to be out of fashion",
+          "Flamenco is not going to be out of fashion",
+          "Flamenco isn't going to go out of fashion",
+          "Flamenco's not going to go out of fashion",
+          "Flamenco is not going to go out of fashion",
+          "Flamenco isn't going to be out of style",
+          "Flamenco's not going to be out of style",
+          "Flamenco is not going to be out of style",
+          "Flamenco isn't going to go out of style",
+          "Flamenco's not going to go out of style",
+          "Flamenco is not going to go out of style",
+          "The Flamenco isn't going to be out of fashion",
+          "The Flamenco's not going to be out of fashion",
+          "The Flamenco is not going to be out of fashion",
+          "The Flamenco isn't going to go out of fashion",
+          "The Flamenco's not going to go out of fashion",
+          "The Flamenco is not going to go out of fashion",
+          "The Flamenco isn't going to be out of style",
+          "The Flamenco's not going to be out of style",
+          "The Flamenco is not going to be out of style",
+          "The Flamenco isn't going to go out of style",
+          "The Flamenco's not going to go out of style",
+          "The Flamenco is not going to go out of style"
+        ]
+      ],
+      [
+        ["Tiene una personalidad fuerte", "Tiene una fuerte personalidad"],
+        [
+          "He has a strong personality",
+          "She has a strong personality",
+          "He's got a strong personality",
+          "She's got a strong personality"
+        ]
+      ],
+      [
+        [
+          "Rosalía se presentó a un concurso",
+          "Rosalía se inscribió en un concurso",
+          "Rosalía entró en un concurso",
+          "Rosalía entró a un concurso"
+        ],
+        [
+          "Rosalía entered a contest",
+          "Rosalía took part in a contest",
+          "Rosalía joined a contest",
+          "Rosalía introduced herself to a contest",
+          "Rosalía presented herself to a contest",
+          "Rosalía showed up to a contest",
+          "Rosalía introduced herself on a contest",
+          "Rosalía presented herself on a contest",
+          "Rosalía showed up on a contest",
+          "Rosalia entered a contest",
+          "Rosalia took part in a contest",
+          "Rosalia joined a contest",
+          "Rosalia introduced herself to a contest",
+          "Rosalia presented herself to a contest",
+          "Rosalia showed up to a contest",
+          "Rosalia introduced herself on a contest",
+          "Rosalia presented herself on a contest",
+          "Rosalia showed up on a contest"
+        ]
+      ],
+      [
+        [
+          "Luis Miguel sigue teniendo muchos fans",
+          "Luis Miguel continúa teniendo muchos fans"
+        ],
+        [
+          "Luis Miguel continues to have many fans",
+          "Luis Miguel continues having many fans",
+          "Luis Miguel keeps on having many fans",
+          "Luis Miguel carries on having many fans",
+          "Luis Miguel keeps having many fans",
+          "Luis Miguel keeps on having lots of fans",
+          "Luis Miguel carries on having lots of fans",
+          "Luis Miguel keeps having lots of fans",
+          "Luis Miguel continues to have lots of fans",
+          "Luis Miguel continues having lots of fans",
+          "Luis Miguel keeps on having a lot of fans",
+          "Luis Miguel carries on having a lot of fans",
+          "Luis Miguel keeps having a lot of fans",
+          "Luis Miguel continues to have a lot of fans",
+          "Luis Miguel continues having a lot of fans",
+          "Luis Miguel still has many fans",
+          "Luis Miguel still has lots of fans",
+          "Luis Miguel still has a lot of fans"
+        ]
+      ],
+      [
+        [
+          "Todavía es famosa",
+          "Es todavía famosa",
+          "Es famosa todavía",
+          "Aún es famosa",
+          "Es aún famosa",
+          "Es famosa aún"
+        ],
+        ["She's still famous", "She is still famous"]
+      ],
+      [["Su estilo es único"], ["His style is unique", "Her style is unique"]],
+      [
+        [
+          "Opino que no es muy buena",
+          "Creo que no es muy buena",
+          "Pienso que no es muy buena"
+        ],
+        [
+          "I think she is not very good",
+          "I think that she is not very good",
+          "I don't think she is very good",
+          "I don't think that she is very good",
+          "I believe she is not very good",
+          "I believe that she is not very good",
+          "My opinion is she is not very good",
+          "My opinion is that she is not very good"
+        ]
+      ],
+      [
+        ["Cuando era joven"],
+        ["When I was young", "When he was young", "When she was young"]
+      ],
+      [
+        ["Bailaba y cantaba", "Solía bailar y cantar"],
+        [
+          "He used to dance and sing",
+          "She used to dance and sing",
+          "He danced and sang",
+          "She danced and sang",
+          "He would dance and sing",
+          "She would dance and sing"
+        ]
+      ],
+      [
+        [
+          "Era guapísima",
+          "Era muy guapa",
+          "Era extremadamente guapa",
+          "Era realmente guapa"
+        ],
+        [
+          "She was really pretty",
+          "She was very pretty",
+          "She was extremely pretty",
+          "She used to be really pretty",
+          "She used to be very pretty",
+          "She used to be extremely pretty",
+          "She was really cute",
+          "She was very cute",
+          "She was extremely cute",
+          "She used to be really cute",
+          "She used to be very cute",
+          "She used to be extremely cute"
+        ]
+      ],
+      [
+        [
+          "El coche es lentísimo",
+          "El coche es muy lento",
+          "El coche es extremadamente lento",
+          "El coche es realmente lento"
+        ],
+        [
+          "The car is really slow",
+          "The car is very slow",
+          "The car is extremely slow"
+        ]
+      ],
+      [
+        [
+          "Mi abuelo tenía los ojos verdes",
+          "Mi abuelo solía tener los ojos verdes"
+        ],
+        [
+          "My grandfather had green eyes",
+          "My grandfather used to have green eyes",
+          "My grandpa had green eyes",
+          "My grandpa used to have green eyes"
+        ]
+      ],
+      [
+        ["Antes leía comics", "Antes, leía comics"],
+        [
+          "Before, I used to read comics",
+          "Before I used to read comics",
+          "I used to read comics before",
+          "In the past, I used to read comics",
+          "In the past I used to read comics"
+        ]
+      ]
     ],
     [
       "6.1H La nueva cultura de la fama",
-      [["actual"], ["current", "present"]],
-      [["apoyo"], ["support", "backing"]],
-      [["danza"], ["dance"]],
       [
-        ["desfavorecido", "desfavorecida"],
-        ["disadvantaged", "underprivileged"]
+        ["Mi pareja actual es portugués", "Mi pareja actual es portuguesa"],
+        [
+          "My current partner is Portuguese",
+          "My partner at the moment is Portuguese",
+          "My present partner is Portuguese",
+          "My current couple is Portuguese",
+          "My present couple is Portuguese"
+        ]
       ],
-      [["deportista"], ["sportsman", "sportswoman", "athlete", "sportsperson"]],
-      [["esfuerzo"], ["effort"]],
-      [["estreno"], ["premiere", "opening"]],
-      [["jugador", "jugadora"], ["player"]],
+      [
+        [
+          "Damos apoyo a niños desfavorecidos",
+          "Apoyamos a niños desfavorecidos"
+        ],
+        [
+          "We give support to disadvantaged children",
+          "We support disadvantaged children",
+          "We provide support to disadvantaged children",
+          "We help disadvantaged children",
+          "We give support to underpriviledged children",
+          "We support underpriviledged children",
+          "We provide support to underpriviledged children",
+          "We help underpriviledged children"
+        ]
+      ],
+      [
+        [
+          "De niño hacía danza",
+          "De niño yo hacía danza",
+          "De niño hacía baile",
+          "De niño yo hacía baile"
+        ],
+        [
+          "As a child I used to dance",
+          "As I child I danced",
+          "As a child I used to do dance",
+          "As a child I used to do dancing",
+          "As a child he used to dance",
+          "As I child he danced",
+          "As a child he used to do dance",
+          "As a child he used to do dancing",
+          "As a child she used to dance",
+          "As I child she danced",
+          "As a child she used to do dance",
+          "As a child she used to do dancing"
+        ]
+      ],
+      [
+        ["Trabajó para la marca Gucci", "Trabajó en la marca Gucci"],
+        [
+          "He worked for the brand Gucci",
+          "She worked for the brand Gucci",
+          "He worked at the brand Gucci",
+          "She worked at the brand Gucci"
+        ]
+      ],
+      [
+        [
+          "Se hizo un gran deportista",
+          "Llegó a ser un gran deportista",
+          "Se volvió un gran deportista"
+        ],
+        [
+          "He became a great sportsman",
+          "He became a great athlete",
+          "He became a great sportsperson",
+          "He came to be a great sportsman",
+          "He came to be a great athlete",
+          "He came to be a great sportsperson",
+          "He ended up being a great sportsman",
+          "He ended up being a great athlete",
+          "He ended up being a great sportsperson"
+        ]
+      ],
+      [
+        ["Su fama creció", "Su fama aumentó"],
+        [
+          "His fame grew",
+          "Her fame grew",
+          "His fame increased",
+          "Her fame increased"
+        ]
+      ],
+      [
+        ["Viajó a París", "Fue a París", "Se fue a París"],
+        [
+          "He travelled to Paris",
+          "She travelled to Paris",
+          "He went to Paris",
+          "She went to Paris"
+        ]
+      ],
+      [
+        ["Soñaba con ser actor", "Soñaba con ser un actor"],
+        [
+          "He used to dream of being an actor",
+          "He dreamt of being an actor",
+          "He dreamed of being an actor",
+          "He used to dream about being an actor",
+          "He dreamt about being an actor",
+          "He dreamed about being an actor"
+        ]
+      ],
       [
         ["llamar la atención"],
-        ["to stand out", "to be noteworthy", "to attract attention"]
+        [
+          "to stand out",
+          "to be noteworthy",
+          "to attract attention",
+          "to call the attention"
+        ]
       ],
-      [["llegar a ser"], ["to become", "to end up being"]],
-      [["mundialmente"], ["worldwide", "globally"]],
       [
-        ["niñero", "niñera"],
-        ["nanny", "au pair", "babysitter"]
+        [
+          "Llegó a ser famosa mundialmente",
+          "Llegó a ser mundialmente famosa",
+          "Se hizo famosa mundialmente",
+          "Se hizo mundialmente famosa",
+          "Se volvió famosa mundialmente",
+          "Se volvió mundialmente famosa"
+        ],
+        [
+          "She came to be famous worldwide",
+          "She came to be worldwide famous",
+          "She came to be world-famous",
+          "She became famous worldwide",
+          "She became worldwide famous",
+          "She became world-famous",
+          "She ended up being famous worldwide",
+          "She ended up being worldwide famous",
+          "She ended up being world-famous",
+          "She turned famous worldwide",
+          "She turned worldwide famous",
+          "She turned world-famous"
+        ]
       ],
-      [["portugués", "portuguesa"], ["Portuguese"]],
       [
-        ["seguidor", "seguidora"],
-        ["follower", "fan", "supporter"]
+        [
+          "Trabajaba de niñera",
+          "Trabajaba como niñera",
+          "Trabajaba de canguro",
+          "Trabajaba como canguro",
+          "Solía trabajar de niñera",
+          "Solía trabajar como niñera",
+          "Solía trabajar de canguro",
+          "Solía trabajar como canguro"
+        ],
+        [
+          "She used to work as a nanny",
+          "She worked as a nanny",
+          "She used to work as an au pair",
+          "She worked as an au pair",
+          "She used to work as a babysitter",
+          "She worked as a babysitter",
+          "She used to work as a baby-sitter",
+          "She worked as a baby-sitter",
+          "He used to work as a nanny",
+          "He worked as a nanny",
+          "He used to work as an au pair",
+          "He worked as an au pair",
+          "He used to work as a babysitter",
+          "He worked as a babysitter",
+          "He used to work as a baby-sitter",
+          "He worked as a baby-sitter"
+        ]
+      ],
+      [
+        [
+          "Ganó mucho dinero con su música",
+          "Hizo mucho dinero con su música",
+          "Consiguió mucho dinero con su música"
+        ],
+        [
+          "He earned a lot of money with his music",
+          "She earned a lot of money with her music",
+          "He made a lot of money with his music",
+          "She made a lot of money with her music",
+          "He earned lots of money with his music",
+          "He made lots of money with his music",
+          "She earned lots of money with her music",
+          "She made lots of money with her music",
+          "He earned a lot of money from his music",
+          "She earned a lot of money from her music",
+          "He made a lot of money from his music",
+          "She made a lot of money from her music",
+          "He earned lots of money from his music",
+          "He made lots of money from his music",
+          "She earned lots of money from her music",
+          "She made lots of money from her music"
+        ]
+      ],
+      [
+        ["Empezó a escribir libros", "Comenzó a escribir libros"],
+        [
+          "He started to write books",
+          "She started to write books",
+          "He started writing books",
+          "She started writing books",
+          "He began to write books",
+          "She began to write books",
+          "He began writing books",
+          "She began writing books"
+        ]
+      ],
+      [
+        [
+          "Tenía muchos seguidores",
+          "Tenía muchos fans",
+          "Solía tener muchos seguidores",
+          "Solía tener muchos fans"
+        ],
+        [
+          "He used to have many followers",
+          "He had many followers",
+          "He used to have many fans",
+          "He had many fans",
+          "He used to have many supporters",
+          "He had many supporters",
+          "He used to have lots of followers",
+          "He had lots of followers",
+          "He used to have lots of fans",
+          "He had lots of fans",
+          "He used to have lots of supporters",
+          "He had lots of supporters",
+          "He used to have a lot of followers",
+          "He had a lot of followers",
+          "He used to have a lot of fans",
+          "He had a lot of fans",
+          "He used to have a lot of supporters",
+          "He had a lot of supporters"
+        ]
       ],
       [["sentido del humor"], ["sense of humor", "sense of humour"]],
       [
@@ -3829,98 +4332,627 @@
     ],
     [
       "6.2F Famosos que valen la pena",
-      [["agresivo", "agresiva"], ["aggressive"]],
       [
-        ["antipático", "antipática"],
-        ["unpleasant", "unkind", "unfriendly"]
-      ],
-      [["ascendencia"], ["heritage", "ancestry", "descent"]],
-      [
-        ["comprensivo", "comprensiva"],
-        ["understanding", "sympathetic"]
-      ],
-      [["comunidad"], ["community"]],
-      [
-        ["de niño", "de niña"],
-        ["as a child", "when I was a child"]
+        ["A veces puede ser agresivo"],
+        ["Sometimes he can be aggressive", "At times he can be aggressive"]
       ],
       [
-        ["deshonesto", "deshonesta"],
-        ["dishonest", "deceitful"]
+        ["Es antipático con sus seguidores", "Es antipático con sus fans"],
+        [
+          "He's unkind to his followers",
+          "He is unkind to his followers",
+          "He's unfriendly to his followers",
+          "He is unfriendly to his followers",
+          "He's unkind to his fans",
+          "He is unkind to his fans",
+          "He's unfriendly to his fans",
+          "He is unfriendly to his fans",
+          "He's unkind with his followers",
+          "He is unkind with his followers",
+          "He's unfriendly with his followers",
+          "He is unfriendly with his followers",
+          "He's unkind with his fans",
+          "He is unkind with his fans",
+          "He's unfriendly with his fans",
+          "He is unfriendly with his fans"
+        ]
       ],
-      [["donar"], ["to donate"]],
       [
-        ["educado", "educada"],
-        ["polite", "well-mannered"]
+        [
+          "Rosario es una actriz de ascendencia cubana",
+          "Rosario es una actriz con raíces cubanas"
+        ],
+        [
+          "Rosario is an actress of Cuban heritage",
+          "Rosario is an actress of Cuban ancestry",
+          "Rosario is an actress of Cuban descent",
+          "Rosario is an actress with Cuban heritage",
+          "Rosario is an actress with Cuban ancestry",
+          "Rosario is an actress with Cuban descent",
+          "Rosario is an actress with Cuban roots"
+        ]
       ],
-      [["egoísta"], ["selfish", "self-centred"]],
       [
-        ["enfermo", "enferma"],
-        ["ill", "sick", "unwell"]
+        [
+          "Suele ser muy comprensivo",
+          "Normalmente es muy comprensivo",
+          "Tiende a ser muy comprensivo",
+          "Generalmente es muy comprensivo"
+        ],
+        [
+          "He's usually very understanding",
+          "He is usually very understanding",
+          "He tends to be very understanding",
+          "He's usually very sympathetic",
+          "He is usually very sympathetic",
+          "He tends to be very sympathetic",
+          "He's usually very empathetic",
+          "He is usually very empathetic",
+          "He tends to be very empathetic"
+        ]
       ],
       [
-        ["estar seguro", "estar segura"],
-        ["to be sure", "to be certain", "to be confident"]
+        ["Siempre apoyará a su comunidad"],
+        [
+          "He'll always support his community",
+          "She'll always support her community",
+          "He will always support his community",
+          "She will always support her community"
+        ]
       ],
-      [["humilde"], ["humble", "modest"]],
-      [["indígena"], ["native", "indigenous"]],
-      [["inspirar"], ["to inspire"]],
       [
-        ["maleducado", "maleducada"],
-        ["impolite", "rude", "ill-mannered"]
+        [
+          "De niño estudiaba muy duro",
+          "De niña estudiaba muy duro",
+          "De niño estudiaba mucho",
+          "De niña estudiaba mucho"
+        ],
+        [
+          "As a child he studied very hard",
+          "As a child she studied very hard",
+          "As a child I studied very hard",
+          "As a child he studied a lot",
+          "As a child she studied a lot",
+          "As a child I studied a lot"
+        ]
       ],
-      [["modelo a seguir"], ["role model"]],
-      [["optimista"], ["optimistic", "positive"]],
-      [["país"], ["country"]],
-      [["papel"], ["role", "paper"]],
-      [["pesimista"], ["pessimistic", "negative"]],
+      [
+        [
+          "Cuando era joven, era deshonesto",
+          "Cuando era joven, era deshonesta"
+        ],
+        [
+          "When he was young, he was dishonest",
+          "When she was young, she was dishonest",
+          "When he was young, he was deceitful",
+          "When she was young, she was deceitful"
+        ]
+      ],
+      [
+        [
+          "Donó dinero a una organización benéfica",
+          "Donó dinero a una organización caritativa",
+          "Donó dinero a una fundación benéfica",
+          "Donó dinero a una ONG",
+          "Donó dinero a una asociación sin ánimo de lucro"
+        ],
+        [
+          "He donated money to a charity",
+          "She donated money to a charity",
+          "He donated money to a charitable organisation",
+          "She donated money to a charitable organisation",
+          "He donated money to a non-profit organisation",
+          "She donated money to a non-profit organisation",
+          "He donated money to a charitable organization",
+          "She donated money to a charitable organization",
+          "He donated money to a non-profit organization",
+          "She donated money to a non-profit organization"
+        ]
+      ],
+      [
+        [
+          "Es un buen modelo a seguir porque es educado",
+          "Es un buen modelo a seguir porque es bien educado",
+          "Es un buen modelo a seguir porque tiene modales",
+          "Es un buen modelo a seguir porque tiene buenos modales"
+        ],
+        [
+          "He's a good role model because he's polite",
+          "He is a good role model because he is polite",
+          "He's a good role model because he's well-mannered",
+          "He is a good role model because he is well-mannered"
+        ]
+      ],
+      [
+        ["Es egoísta con su familia"],
+        [
+          "He's selfish with his family",
+          "She's selfish with her family",
+          "He is selfish with his family",
+          "She is selfish with her family"
+        ]
+      ],
+      [
+        [
+          "Estoy seguro de que iré a la universidad",
+          "Estoy segura de que iré a la universidad",
+          "Estoy seguro que iré a la universidad",
+          "Estoy segura que iré a la universidad",
+          "Tengo claro que iré a la universidad"
+        ],
+        [
+          "I'm certain that I'll go to university",
+          "I am certain that I will go to university",
+          "I'm certain I'll go to university",
+          "I am certain I will go to university",
+          "I'm sure that I'll go to university",
+          "I am sure that I will go to university",
+          "I'm sure I'll go to university",
+          "I am sure I will go to university",
+          "I'm confident that I'll go to university",
+          "I am confident that I will go to university",
+          "I'm confident I'll go to university",
+          "I am confident I will go to university"
+        ]
+      ],
+      [
+        ["Diría que es muy humilde", "Yo diría que es muy humilde"],
+        [
+          "I'd say that he's very humble",
+          "I would say that he is very humble",
+          "I'd say he's very humble",
+          "I would say he is very humble",
+          "I'd say that she's very humble",
+          "I would say that she is very humble",
+          "I'd say that she's very humble",
+          "I would say that she is very humble"
+        ]
+      ],
+      [
+        ["Me inspira mucho"],
+        [
+          "He inspires me a lot",
+          "She inspires me a lot",
+          "He inspires me very much",
+          "She inspires me very much",
+          "He really inspires me",
+          "She really inspires me",
+          "It inspires me a lot",
+          "It inspires me very much",
+          "It really inspires me"
+        ]
+      ],
+      [
+        [
+          "No me cae bien porque es maleducada",
+          "No me gusta porque es maleducada",
+          "No me cae bien porque es grosera",
+          "No me gusta porque es grosera"
+        ],
+        [
+          "I don't like her because she's rude",
+          "I do not like her because she is rude",
+          "I dislike her because she's rude",
+          "I dislike her because she is rude",
+          "I don't like her because she's impolite",
+          "I do not like her because she is impolite",
+          "I dislike her because she's impolite",
+          "I dislike her because she is impolite",
+          "I don't like her because she's ill-mannered",
+          "I do not like her because she is ill-mannered",
+          "I dislike her because she's ill-mannered",
+          "I dislike her because she is ill-mannered"
+        ]
+      ],
       [["que yo sepa"], ["as far as I know"]],
       [
-        ["sincero", "sincera"],
-        ["honest", "sincere", "truthful"]
+        [
+          "Valer la pena leer todos los días",
+          "Merece la pena leer todos los días"
+        ],
+        [
+          "It's worth reading every day",
+          "It is worth reading everyday",
+          "It's worth to read everyday",
+          "It is worth to read every day",
+          "It's worthwhile reading everyday",
+          "It is worthwhile reading everyday",
+          "It's worthwhile to read every day",
+          "It is worthwhile to read every day"
+        ]
       ],
-      [["valer la pena"], ["to be worth it", "to be worthwhile"]],
-      [["visibilidad"], ["visibility", "awareness", "exposure"]]
+      [
+        ["Estoy hablando con mis padres", "Estoy charlando con mis padres"],
+        [
+          "I'm talking with my parents",
+          "I'm talking to my parents",
+          "I'm speaking with my parents",
+          "I'm speaking to my parents",
+          "I am talking with my parents",
+          "I am talking to my parents",
+          "I am speaking with my parents",
+          "I am speaking to my parents"
+        ]
+      ],
+      [
+        ["Todos los días hablo con mis padres"],
+        [
+          "Every day I talk with my parents",
+          "Every day I talk to my parents",
+          "Every day I speak with my parents",
+          "Every day I speak to my parents"
+        ]
+      ],
+      [
+        ["Estoy haciendo natación", "Estoy nadando"],
+        [
+          "I'm swimming",
+          "I am swimming",
+          "I do swimming",
+          "I go swimming",
+          "I'm doing swimming",
+          "I am doing swimming"
+        ]
+      ],
+      [
+        ["Los sábados hago natación"],
+        [
+          "On Saturdays I go swimming",
+          "On Saturdays I do swimming",
+          "On Saturdays I swim"
+        ]
+      ],
+      [
+        ["Algún día voy a ir a la universidad"],
+        [
+          "Some day I'm going to go to university",
+          "Some day I am going to go to university",
+          "Some day I'm going to university",
+          "Some day I am going to university"
+        ]
+      ],
+      [
+        ["En el futuro va a grabar un disco"],
+        [
+          "In the future he's going to record an album",
+          "In the future she's going to record an album",
+          "In the future he is going to record an album",
+          "In the future she is going to record an album"
+        ]
+      ],
+      [
+        [
+          "El año que viene aparecerá en una película",
+          "El año próximo aparecerá en una película"
+        ],
+        [
+          "Next year he will appear in a film",
+          "Next year she will appear in a film",
+          "Next year he will appear in a movie",
+          "Next year she will appear in a movie"
+        ]
+      ],
+      [
+        [
+          "La semana pasada publicó un tweet",
+          "La semana pasada puso un tweet",
+          "La semana pasada escribió un tweet"
+        ],
+        [
+          "Last week he posted a tweet",
+          "Last week she posted a tweet",
+          "Last week he tweeted",
+          "Last week she tweeted"
+        ]
+      ],
+      [
+        [
+          "Cuando sea mayor viviré en España",
+          "Cuando sea adulto viviré en España",
+          "Cuando crezca viviré en España"
+        ],
+        [
+          "When I'm older I'll live in Spain",
+          "Once I'm older I'll live in Spain",
+          "When I am older I will live in Spain",
+          "Once I am older I will live in Spain",
+          "When I grow up I'll live in Spain",
+          "When I grow up I will live in Spain"
+        ]
+      ]
     ],
     [
       "6.2H ¡La fama tiene dos caras!",
       [["a causa de"], ["because of", "due to"]],
-      [["acosar"], ["to bully", "to harass"]],
-      [["cambiar"], ["to change"]],
-      [["decir"], ["to say", "to tell"]],
-      [["dejar"], ["to leave", "to allow", "to quit"]],
-      [["entrenar"], ["to train", "to work out"]],
-      [["esconder"], ["to hide"]],
-      [["espacio"], ["space"]],
+      [
+        ["Los fotógrafos la acosaban dia y noche"],
+        [
+          "The photographers harassed her day and night",
+          "The photographers bullied her day and night",
+          "The photographers pestered her day and night",
+          "Photographers harassed her day and night",
+          "Photographers bullied her day and night",
+          "Photographers pestered her day and night"
+        ]
+      ],
+      [["Algo tenía que cambiar"], ["Something had to change"]],
+      [
+        [
+          "Se dijo que era el momento",
+          "Se dijo a sí mismo que era el momento",
+          "Se dijo a sí misma quer era el momento"
+        ],
+        [
+          "He told himself that it was the moment",
+          "She told herself that it was the moment",
+          "He said to himself that it was the moment",
+          "She said to herself that it was the moment",
+          "He told himself it was the moment",
+          "She told herself it was the moment",
+          "He said to himself it was the moment",
+          "She said to herself it was the moment"
+        ]
+      ],
+      [
+        [
+          "Decició dejar la ciudad",
+          "Decidió marcharse de la ciudad",
+          "Decidió irse de la ciudad",
+          "Decidió abandonar la ciudad"
+        ],
+        [
+          "He decided to leave the city",
+          "She decided to leave the city",
+          "He decided to move away from the city",
+          "She decided to move away from the city",
+          "He decided to move out of the city",
+          "She decided to move out of the city",
+          "He decided to abandon the city",
+          "She decided to abandon the city"
+        ]
+      ],
+      [
+        [
+          "Vio a cuatro paparazzi escondidos",
+          "Vio a 4 paparazzi escondidos",
+          "Vio a cuatro paparazzis escondidos",
+          "Vio a 4 paparazzis escondidos",
+          "Vio cuatro paparazzi escondidos",
+          "Vio 4 paparazzi escondidos",
+          "Vio cuatro paparazzis escondidos",
+          "Vio 4 paparazzis escondidos"
+        ],
+        [
+          "He saw four paparazzi hidden",
+          "He saw 4 paparazzi hidden",
+          "He saw four paparazzis hidden",
+          "He saw 4 paparazzis hidden",
+          "He saw four hidden paparazzi",
+          "He saw 4 hidden paparazzi",
+          "He saw four hidden paparazzis",
+          "He saw 4 hidden paparazzis",
+          "She saw four paparazzi hidden",
+          "She saw 4 paparazzi hidden",
+          "She saw four paparazzis hidden",
+          "She saw 4 paparazzis hidden",
+          "She saw four hidden paparazzi",
+          "She saw 4 hidden paparazzi",
+          "She saw four hidden paparazzis",
+          "She saw 4 hidden paparazzis"
+        ]
+      ],
       [
         ["estar de acuerdo", "estar de acuerdo con"],
         ["to agree", "to agree with"]
       ],
-      [["falta"], ["lack", "absence"]],
-      [["fotógrafo", "fotógrafa"], ["photographer"]],
-      [["lástima"], ["pity", "shame"]],
-      [["lejos de"], ["far from"]],
-      [["para siempre"], ["forever", "for always"]],
-      [["peligroso", "peligrosa"], ["dangerous"]],
-      [["periodista"], ["journalist", "reporter"]],
-      [["persecución"], ["pursuit", "chase", "persecution"]],
+      [["falta de privacidad"], ["lack of privacy", "absence of privacy"]],
+      [
+        ["¡Qué lástima!", "Qué lástima", "¡Qué pena!", "Qué pena"],
+        ["What a pity!", "What a shame!", "What a pity", "What a shame"]
+      ],
+      [
+        ["lejos de las cámaras", "alejado de las cámaras"],
+        [
+          "far from the cameras",
+          "far away from the cameras",
+          "away from the cameras"
+        ]
+      ],
+      [
+        ["para siempre", "por siempre"],
+        ["forever", "for good", "for always"]
+      ],
+      [
+        ["Hubo una peligrosa persecución", "Hubo una persecución peligrosa"],
+        ["There was a dangerous chase", "There was a dangerous pursuit"]
+      ],
       [
         ["por fin", "finalmente"],
         ["finally", "in the end", "at last"]
       ],
       [
-        ["preguntar", "hacer una pregunta"],
-        ["to ask", "to ask a question"]
+        [
+          "Fuimos aun lugar público",
+          "Fuimos aun espacio público",
+          "Fuimos a una zona pública"
+        ],
+        [
+          "We wnt to a public space",
+          "We wnt to a public area",
+          "We wnt to a public place"
+        ]
       ],
       [
-        ["público", "pública"],
-        ["public", "audience"]
+        ["tener derecho a", "tener derecho"],
+        [
+          "to have the right to",
+          "to be entitled to",
+          "to have the right",
+          "to be entitled"
+        ]
       ],
-      [["quejarse"], ["to complain", "to moan"]],
-      [["respeto"], ["respect"]],
-      [["tener derecho a"], ["to have the right to", "to be entitled to"]],
       [["tener miedo"], ["to be afraid", "to be scared", "to fear"]],
-      [["tiempo libre"], ["free time"]]
+      [
+        [
+          "Suelo evitar a los periodistas",
+          "Usualmente evito a los periodistas",
+          "Normalmente evito a los periodistas",
+          "Generalmente evito a los periodistas"
+        ],
+        [
+          "I usually avoid journalists",
+          "I tend to avoid journalists",
+          "I usually avoid the journalists",
+          "I tend to avoid the journalists",
+          "I usually avoid reporters",
+          "I tend to avoid reporters",
+          "I usually avoid the reporters",
+          "I tend to avoid the reporters"
+        ]
+      ],
+      [
+        [
+          "En mi tiempo libre suelo correr",
+          "En mi tiempo libre suelo hacer footing",
+          "En mi tiempo libre usualmente corro",
+          "En mi tiempo libre usualmente hago footing"
+        ],
+        [
+          "In my free time I usually run",
+          "In my free time I tend to run",
+          "In my free time I usually jog",
+          "In my free time I tend to jog",
+          "In my free time I usually go jogging",
+          "In my free time I tend to go jogging",
+          "In my spare time I usually run",
+          "In my spare time I tend to run",
+          "In my spare time I usually jog",
+          "In my spare time I tend to jog",
+          "In my spare time I usually go jogging",
+          "In my spare time I tend to go jogging"
+        ]
+      ],
+      [
+        ["Sueles preguntar por mí", "Usualmente preguntas por mí"],
+        [
+          "You usually ask about me",
+          "You tend to ask about me",
+          "You usually ask for me",
+          "You tend to ask for me"
+        ]
+      ],
+      [
+        [
+          "Solemos entrenar cada lunes",
+          "Usualmente entrenamos cada lunes",
+          "Normalmente entrenamos cada lunes",
+          "Generalmente entrenamos cada lunes"
+        ],
+        [
+          "We usually train every Monday",
+          "We tend to train every Monday",
+          "We usually train each Monday",
+          "We tend to train each Monday",
+          "We usually work out every Monday",
+          "We tend to work out every Monday",
+          "We usually work out each Monday",
+          "We tend to work out each Monday"
+        ]
+      ],
+      [
+        [
+          "Suelen quejarse",
+          "Usualmente se quejan",
+          "Normalmente se quejan",
+          "Generalmente se quejan"
+        ],
+        [
+          "They usually complain",
+          "They tend to complain",
+          "They usually moan",
+          "They tend to moan"
+        ]
+      ],
+      [
+        [
+          "Suele llegar tarde",
+          "Usualmente llega tarde",
+          "Normalmente llega tarde",
+          "Generalmente llega tarde"
+        ],
+        [
+          "He usually arrives late",
+          "She usually arrives late",
+          "He tends to arrive late",
+          "She tends to arrive late",
+          "It usually arrives late",
+          "It tends to arrive late"
+        ]
+      ],
+      [
+        [
+          "Mis padres suelen ir al parque",
+          "Mis padres usualmente van al parque",
+          "Mis padres generalmente van al parque",
+          "Mis padres normalmente van al parque"
+        ],
+        [
+          "My parents usually go to the park",
+          "My parents tend to go to the park"
+        ]
+      ],
+      [
+        [
+          "Los famosos suelen tener coches carísimos",
+          "Los famosos usualmente tienen coches carísimos",
+          "Los famosos suelen tener coches muy caros",
+          "Los famosos usualmente tienen coches muy caros",
+          "Los famosos suelen tener coches realmente caros",
+          "Los famosos usualmente tienen coches realmente caros",
+          "Los famosos suelen tener coches realmente caros",
+          "Los famosos usualmente tienen coches realmente caros",
+          "Los famosos normalmente tienen coches carísimos",
+          "Los famosos normalmente tienen coches muy caros",
+          "Los famosos normalmente tienen coches realmente caros",
+          "Los famosos normalmente tienen coches realmente caros",
+          "Los famosos generalmente tienen coches carísimos",
+          "Los famosos generalmente tienen coches muy caros",
+          "Los famosos generalmente tienen coches realmente caros",
+          "Los famosos generalmente tienen coches realmente caros"
+        ],
+        [
+          "Celebrities usually have very expensive cars",
+          "Celebrities tend to have very expensive cars",
+          "Celebrities usually have really expensive cars",
+          "Celebrities tend to have really expensive cars",
+          "Celebrities usually have extremely expensive cars",
+          "Celebrities tend to have extremely expensive cars",
+          "Famous people usually have very expensive cars",
+          "Famous people tend to have very expensive cars",
+          "Famous people usually have really expensive cars",
+          "Famous people tend to have really expensive cars",
+          "Famous people usually have extremely expensive cars",
+          "Famous people tend to have extremely expensive cars"
+        ]
+      ],
+      [
+        [
+          "Suelen tener problemas con la prensa",
+          "Usualmente tienen problemas con la prensa",
+          "Normalmente tienen problemas con la prensa",
+          "Generalmente tienen problemas con la prensa"
+        ],
+        [
+          "They usually have problems with the press",
+          "They tend to have problems with the press",
+          "They usually have problems with the media",
+          "They tend to have problems with the media",
+          "They usually have issues with the press",
+          "They tend to have issues with the press",
+          "They usually have issues with the media",
+          "They tend to have issues with the media"
+        ]
+      ]
     ]
   ],
   "Theme 3": [
