@@ -4989,73 +4989,544 @@
     ],
     [
       "7.1F ¿Qué haces durante las vacaciones?",
-      [["bosque"], ["wood", "forest"]],
-      [["buscar"], ["to look for", "to search"]],
-      [["carretera"], ["road", "highway"]],
-      [["decidir"], ["to decide"]],
-      [["equipo"], ["equipment", "team"]],
-      [["excursión"], ["trip", "outing", "excursion"]],
-      [["fresco", "fresca"], ["cool, fresh"]],
-      [["fuego"], ["fire"]],
-      [["hacer camping"], ["to go camping"]],
-      [["isla"], ["island"]],
       [
-        ["lleno", "llena"],
-        ["full", "packed"]
+        [
+          "En verano suelo ir de vacaciones con mi familia",
+          "En verano voy usualmente de vacaciones con mi familia",
+          "En verano usualmente vpy de vacaciones con mi familia"
+        ],
+        [
+          "In summer I usually go on holiday with my family",
+          "In summer I usually go on vacation with my family",
+          "In the summer I usually go on holiday with my family",
+          "In the summer I usually go on vacation with my family",
+          "In summer I tend to go on holiday with my family",
+          "In summer I tend to go on vacation with my family",
+          "In the summer I tend to go on holiday with my family",
+          "In summer I usually go on holidays with my family",
+          "In the summer I usually go on holidays with my family",
+          "In summer I tend to go on holidays with my family",
+          "In the summer I tend to go on holidays with my family"
+        ]
       ],
-      [["lugar"], ["place", "location", "site"]],
-      [["maleta"], ["suitcase", "briefcase"]],
-      [["mochila"], ["rucksack", "backpack", "schoolbag", "bag"]],
-      [["naturaleza"], ["nature"]],
-      [["perderse"], ["to get lost"]],
-      [["plano"], ["map", "street plan"]],
-      [["playa"], ["beach"]],
-      [["principal"], ["main", "principal"]],
-      [["recuerdo"], ["souvenir", "memory"]],
-      [["reservar"], ["to book", "to reserve", "reminder"]],
-      [["sitio"], ["place", "site"]],
-      [["sobre"], ["envelope"]],
+      [
+        [
+          "Nos gusta alojarnos en un hotel cerca de la playa",
+          "Nos gusta quedarnos en un hotel cerca de la playa",
+          "Nos gusta hospedarnos en un hotel cerca de la playa"
+        ],
+        [
+          "We like staying in a hotel near the beach",
+          "We like to stay in a hotel near the beach",
+          "We like staying in a hotel by the beach",
+          "We like to stay in a hotel by the beach",
+          "We like staying in a hotel close to the beach",
+          "We like to stay in a hotel close to the beach"
+        ]
+      ],
+      [
+        ["Prefiero ir de camping porque me encanta la naturaleza"],
+        [
+          "I prefer to go camping because I love nature",
+          "I prefer going camping because I love nature",
+          "I prefer to go camping because I love the nature",
+          "I prefer going camping because I love the nature"
+        ]
+      ],
+      [
+        [
+          "me alojaría en un hotel de cinco estrellas",
+          "me quedaría en un hotel de cinco estrellas",
+          "me hospedaría en un hotel de cinco estrellas"
+        ],
+        [
+          "I'd stay in a five-star hotel",
+          "I would stay in a five-star hotel",
+          "I'd stay in a five star hotel",
+          "I would stay in a five star hotel",
+          "I'd stay in a five-stars hotel",
+          "I would stay in a five-stars hotel",
+          "I'd stay in a five stars hotel",
+          "I would stay in a five stars hotel"
+        ]
+      ],
+      [
+        [
+          "Siempre preparo mi maleta el día antes del viaje",
+          "Siempre hago mi maleta el día antes del viaje",
+          "Siempre organizo mi maleta el día antes del viaje"
+        ],
+        [
+          "I always pack my suitcase the day before the trip",
+          "I always prepare my suitcase the day before the trip",
+          "I always pack my luggage the day before the trip",
+          "I always prepare my luggage the day before the trip",
+          "I always pack my baggage the day before the trip",
+          "I always prepare my baggage the day before the trip",
+          "I always pack my bag the day before the trip",
+          "I always prepare my bag the day before the trip"
+        ]
+      ],
+      [
+        ["Una vez me perdí en el bosque con mis amigos"],
+        [
+          "Once I got lost in the forest with my friends",
+          "One time I got lost in the forest with my friends",
+          "Once I got lost in the woods with my friends",
+          "One time I got lost in the woods with my friends"
+        ]
+      ],
+      [
+        [
+          "Si hiciera buen tiempo, iría de excursión a las montañas",
+          "Si el tiempo fuera bueno, iría de excursión a las montañas",
+          "Si hiciera buen tiempo, iría de excursión a la montaña",
+          "Si el tiempo fuera bueno, iría de excursión a la montaña",
+          "Si hiciera buen tiempo, iría de viaje a las montañas",
+          "Si el tiempo fuera bueno, iría de viaje a las montañas",
+          "Si hiciera buen tiempo, iría de viaje a la montaña",
+          "Si el tiempo fuera bueno, iría de viaje a la montaña"
+        ],
+        [
+          "If the weather were nice, I would go on a trip to the mountains",
+          "If the weather was nice, I would go on a trip to the mountains",
+          "If we had good weather, I would go on a trip to the mountains",
+          "If it was good weather, I would go on a trip to the mountains",
+          "If the weather were nice, I'd go on a trip to the mountains",
+          "If the weather was nice, I'd go on a trip to the mountains",
+          "If we had good weather, I'd go on a trip to the mountains",
+          "If it was good weather, I'd go on a trip to the mountains"
+        ]
+      ],
+      [
+        ["Me gustaría visitar una isla en el Caribe"],
+        [
+          "I would like to visit an island in the Caribbean",
+          "I'd like to visit an island in the Caribbean",
+          "I would like visiting an island in the Caribbean",
+          "I'd like visiting an island in the Caribbean"
+        ]
+      ],
+      [
+        ["Vamos de compras al mercado cada mañana"],
+        [
+          "We go shopping at the market every morning",
+          "We go shopping to the market every morning",
+          "We go shopping at the market each morning",
+          "We go shopping to the market each morning"
+        ]
+      ],
+      [["Si tuviera más dinero"], ["If I had more money"]],
+      [
+        [
+          "Mis padres prefieren descansar al aire libre",
+          "Mis padres prefieren relajarse al aire libre"
+        ],
+        [
+          "My parents prefer to relax outdoors",
+          "My parents prefer relaxing outdoors",
+          "My parents prefer to rest outdoors",
+          "My parents prefer resting outdoors",
+          "My parents prefer to relax in the open air",
+          "My parents prefer relaxing in the open air",
+          "My parents prefer to rest in the open air",
+          "My parents prefer resting in the open air"
+        ]
+      ],
+      [
+        [
+          "Si hiciera sol, tomaría el sol en la piscina",
+          "Si estuviera soleado, tomaría el sol en la piscina",
+          "Si hiciera sol, tomaría el sol junto a la piscina",
+          "Si estuviera soleado, tomaría el sol junto a la piscina"
+        ],
+        [
+          "If it were sunny, I would sunbathe by the pool",
+          "If it was sunny, I would sunbathe by the pool",
+          "If it were sunny, I'd sunbathe by the pool",
+          "If it was sunny, I'd sunbathe by the pool",
+          "If it were sunny, I would sunbathe in the pool",
+          "If it was sunny, I would sunbathe in the pool",
+          "If it were sunny, I'd sunbathe in the pool",
+          "If it was sunny, I'd sunbathe in the pool",
+          "If it were sunny, I would sunbathe by the swimming pool",
+          "If it was sunny, I would sunbathe by the swimming pool",
+          "If it were sunny, I'd sunbathe by the swimming pool",
+          "If it was sunny, I'd sunbathe by the swimming pool",
+          "If it were sunny, I would sunbathe in the swimming pool",
+          "If it was sunny, I would sunbathe in the swimming pool",
+          "If it were sunny, I'd sunbathe in the swimming pool",
+          "If it was sunny, I'd sunbathe in the swimming pool"
+        ]
+      ],
+      [
+        [
+          "Voy de paseo por la ciudad para sacar fotos",
+          "Paseo por la ciudad para sacar fotos",
+          "Voy de paseo por la ciudad para hacer fotos",
+          "Paseo por la ciudad para hacer fotos"
+        ],
+        [
+          "I go for a walk around the city to take photos",
+          "I go for a stroll around the city to take photos",
+          "I walk around the city to take photos",
+          "I go for a walk around the city in order to take photos",
+          "I go for a stroll around the city in order to take photos",
+          "I walk around the city in order to take photos",
+          "I go for a walk around the city to take photographs",
+          "I go for a stroll around the city to take photographs",
+          "I walk around the city to take photographs",
+          "I go for a walk around the city in order to take photographs",
+          "I go for a stroll around the city in order to take photographs",
+          "I walk around the city in order to take photographs",
+          "I go for a walk around the city to take pictures",
+          "I go for a stroll around the city to take pictures",
+          "I walk around the city to take pictures",
+          "I go for a walk around the city in order to take pictures",
+          "I go for a stroll around the city in order to take pictures",
+          "I walk around the city in order to take pictures"
+        ]
+      ],
+      [
+        [
+          "Me encanta probar la comida local cuando viajo",
+          "Me encanta probar comida local cuando viajo"
+        ],
+        [
+          "I love trying the local food when I travel",
+          "I love to try the local food when I travel",
+          "I love trying local food when I travel",
+          "I love to try local food when I travel",
+          "I love trying the local food whenever I travel",
+          "I love to try the local food whenever I travel",
+          "I love trying local food whenever I travel",
+          "I love to try local food whenever I travel"
+        ]
+      ],
+      [
+        [
+          "Si no hiciera tanto viento, haría camping en la costa",
+          "Si no hiciera tanto viento, acamparía en la costa",
+          "Si no hiciera tanto viento, iría de camping en la costa"
+        ],
+        [
+          "If it weren't so windy, I would go camping on the coast",
+          "If it wasn't so windy, I would go camping on the coast",
+          "If it were not so windy, I would go camping on the coast",
+          "If it was not so windy, I would go camping on the coast",
+          "If it weren't so windy, I'd go camping on the coast",
+          "If it wasn't so windy, I'd go camping on the coast",
+          "If it were not so windy, I'd go camping on the coast",
+          "If it was not so windy, I'd go camping on the coast",
+          "If it weren't so windy, I would camp on the coast",
+          "If it wasn't so windy, I would camp on the coast",
+          "If it were not so windy, I would camp on the coast",
+          "If it was not so windy, I would camp on the coast",
+          "If it weren't so windy, I'd camp on the coast",
+          "If it wasn't so windy, I'd camp on the coast",
+          "If it were not so windy, I'd camp on the coast",
+          "If it was not so windy, I'd camp on the coast"
+        ]
+      ],
+      [
+        ["Siempre busco lugares tranquilos", "Siempre busco sitios tranquilos"],
+        [
+          "I always look for quiet places",
+          "I always look for peaceful places",
+          "I always search for quiet places",
+          "I always search for peaceful places"
+        ]
+      ],
+      [
+        [
+          "Me gusta aprender palabras nuevas cuando visito otro país",
+          "Me gusta aprender nuevas palabras cuando visito otro país"
+        ],
+        [
+          "I like learning new words when I visit another country",
+          "I like to learn new words when I visit another country",
+          "I like learning new words whenever I visit another country",
+          "I like to learn new words whenever I visit another country"
+        ]
+      ],
+      [["país"], ["country"]],
+      [
+        ["mochila", "cartera"],
+        ["rucksack", "backpack", "schoolbag", "bag"]
+      ],
+      [
+        ["una habitación con vistas al mar", "una habitación con vista al mar"],
+        [
+          "a room with a sea view",
+          "a room with sea views",
+          "a room with an ocean view",
+          "a sea-view room",
+          "an ocean-view room"
+        ]
+      ],
+
+      [["al aire libre"], ["outdoors", "in the open air"]],
+      [["ir de compras"], ["to go shopping"]],
+      [["ir de excursión"], ["to go on a trip", "to go hiking"]],
       [["tomar el sol"], ["to sunbathe"]],
-      [["viento"], ["wind", "breeze"]]
+      [["perderse"], ["to get lost"]]
     ],
     [
       "7.1H Las vacaciones fueron un desastre",
-      [["aeropuerto"], ["airport"]],
-      [["armario"], ["cupboard", "wardrobe", "closet"]],
-      [["ascensor"], ["lift", "elevator"]],
-      [["balcón"], ["balcony"]],
-      [["bolsa"], ["bag"]],
-      [["brazo"], ["arm"]],
-      [["cuenta"], ["bill", "check"]],
       [
-        ["dar un paseo"],
         [
-          "to go for a walk",
-          "to go for a stroll",
-          "to take a walk",
-          "to stroll"
+          "Perdí mi maleta en el aeropuerto",
+          "Perdí mi equipaje en el aeropuerto"
+        ],
+        [
+          "I lost my suitcase at the airport",
+          "I lost my luggage at the airport",
+          "I lost my baggage at the airport",
+          "I lost my wallet at the airport",
+          "I lost my suitcase in the airport",
+          "I lost my luggage in the airport",
+          "I lost my baggage in the airport",
+          "I lost my wallet in the airport"
         ]
       ],
-      [["descubrir"], ["to discover", "to find out"]],
-      [["equipaje"], ["luggage", "baggage"]],
-      [["maleta"], ["suitcase", "briefcase"]],
-      [["nevera"], ["fridge", "refrigerator"]],
-      [["obras"], ["roadworks", "construction works", "building works"]],
       [
-        ["quemar", "quemarse"],
-        ["to burn", "to get burnt", "to get sunburnt"]
+        [
+          "Mi habitación no tenía vistas al mar",
+          "Mi habitación no tenía vista al mar"
+        ],
+        [
+          "My room didn't have sea views",
+          "My room didn't have a sea view",
+          "My room did not have sea views",
+          "My room did not have a sea view"
+        ]
       ],
-      [["reserva"], ["reservation", "booking"]],
-      [["robar"], ["to steal", "to rob"]],
-      [["romper"], ["to break", "to smash"]],
-      [["ruido"], ["noise", "sound"]],
-      [["subir a"], ["to get onto", "to go up", "to climb"]],
-      [["sucio", "sucia"], ["dirty"]],
-      [["tela"], ["cloth", "fabric"]],
-      [["verdad"], ["truth"]],
-      [["viaje"], ["journey", "trip", "voyage"]],
-      [["vista"], ["view", "sight"]],
-      [["vuelo"], ["flight"]]
+      [
+        ["El ascensor no funcionaba", "El ascensor estaba roto"],
+        [
+          "The lift wasn't working",
+          "The lift was not working",
+          "The lift was broken",
+          "The lift didn't work",
+          "The lift did not work",
+          "The elevator didn't work",
+          "The elevator did not work",
+          "The elevator wasn't working",
+          "The elevator was not working",
+          "The elevator was broken"
+        ]
+      ],
+      [
+        ["Había mucho ruido en el hotel"],
+        [
+          "There was a lot of noise in the hotel",
+          "There was lots of noise in the hotel",
+          "There was a lot of noise at the hotel",
+          "There was lots of noise at the hotel",
+          "There was so much noise in the hotel",
+          "There was so much noise at the hotel"
+        ]
+      ],
+      [
+        [
+          "Estuvimos sentados en el avión cinco horas",
+          "Estábamos sentados en el avión cinco horas",
+          "Nos sentamos en el avión durante cinco horas",
+          "Pasamos cinco horas sentados en el avión"
+        ],
+        [
+          "We were sitting on the plane for five hours",
+          "We were sat on the plane for five hours",
+          "We were sitting in the plane for five hours",
+          "We were sat in the plane for five hours",
+          "We sat in the plane for five hours",
+          "We sat on the plane for five hours",
+          "We spent five hours sitting on the plane"
+        ]
+      ],
+      [["La habitación estaba sucia"], ["The room was dirty"]],
+      [
+        [
+          "Me rompí el brazo cuando me caí de la bici",
+          "Me rompí un brazo cuando me caí de la bici",
+          "Me rompí el brazo cuando me caí de la bicicleta",
+          "Me rompí un brazo cuando me caí de la bicicleta"
+        ],
+        [
+          "I broke my arm when I fell off my bike",
+          "I broke an arm when I fell off my bike",
+          "I broke my arm when I fell off my bicycle",
+          "I broke an arm when I fell off my bicycle",
+          "I broke my arm when I fell from my bike",
+          "I broke an arm when I fell from my bike",
+          "I broke my arm when I fell from my bicycle",
+          "I broke an arm when I fell from my bicycle"
+        ]
+      ],
+      [
+        [
+          "Me quemé al tomar el sol",
+          "Me quemé mientras tomaba el sol",
+          "Me quemé cuando tomaba el sol"
+        ],
+        [
+          "I got sunburnt while sunbathing",
+          "I got sunburnt while I was sunbathing",
+          "I got sunburnt upon sunbathing",
+          "I got sunburnt after sunbathing",
+          "I got sunburnt when sunbathing",
+          "I got sunburnt when I was sunbathing"
+        ]
+      ],
+      [
+        ["No había agua caliente", "No teníamos agua caliente"],
+        [
+          "There was no hot water",
+          "There wasn't any hot water",
+          "We didn't have any hot water",
+          "We had no hot water"
+        ]
+      ],
+      [
+        ["Perdí mi billete", "Perdí mi ticket", "Perdí mi boleto"],
+        ["I lost my ticket", "I lost my travel ticket"]
+      ],
+      [
+        ["Pondría mi maleta en el armario"],
+        [
+          "I'd put my suitcase in the wardrobe",
+          "I would put my suitcase in the wardrobe",
+          "I would put my luggage in the wardrobe",
+          "I'd put my luggage in the wardrobe",
+          "I would put my baggage in the wardrobe",
+          "I'd put my baggage in the wardrobe",
+          "I would put my wallet in the wardrobe",
+          "I'd put my wallet in the wardrobe"
+        ]
+      ],
+      [
+        ["Diría que fue genial"],
+        [
+          "I'd say it was great",
+          "I would say it was great",
+          "I'd say that it was great",
+          "I would say that it was great",
+          "I'd say it was amazing",
+          "I would say it was amazing",
+          "I'd say that it was amazing",
+          "I would say that it was amazing"
+        ]
+      ],
+      [
+        ["Vendría a este hotel otra vez"],
+        [
+          "I'd come to this hotel again",
+          "I would come to this hotel again",
+          "I'd come to this hotel another time",
+          "I would come to this hotel another time"
+        ]
+      ],
+      [
+        [
+          "Pensé que haría buen tiempo",
+          "Pensaba que haría buen tiempo",
+          "Creí que haría buen tiempo",
+          "Creía que haría buen tiempo"
+        ],
+        [
+          "I thought it would be nice weather",
+          "I thought it'd be nice weather",
+          "I thought it would be good weather",
+          "I thought the weather would be nice",
+          "I thought the weather'd be nice",
+          "I thought the weather would be good",
+          "I thought the weather'd be good"
+        ]
+      ],
+      [
+        [
+          "Alguien me robó la cartera",
+          "Alguien me robó mi cartera",
+          "Alguien robó mi cartera"
+        ],
+        [
+          "Someone stole my wallet",
+          "Somebody stole my wallet",
+          "Someone stole my purse",
+          "Somebody stole my purse"
+        ]
+      ],
+      [
+        [
+          "el mío",
+          "la mía",
+          "mío",
+          "mía",
+          "los míos",
+          "las mías",
+          "míos",
+          "mías"
+        ],
+        ["mine"]
+      ],
+      [
+        [
+          "el tuyo",
+          "la tuya",
+          "tuyo",
+          "tuya",
+          "los tuyos",
+          "las tuyas",
+          "tuyos",
+          "tuyas"
+        ],
+        ["yours"]
+      ],
+      [
+        [
+          "el suyo",
+          "la suya",
+          "suyo",
+          "suya",
+          "los suyos",
+          "las suyas",
+          "suyos",
+          "suyas"
+        ],
+        ["his", "hers", "theirs"]
+      ],
+      [
+        [
+          "el nuestro",
+          "la nuestra",
+          "nuestro",
+          "nuestra",
+          "los nuestros",
+          "las nuestras",
+          "nuestros",
+          "nuestras"
+        ],
+        ["ours"]
+      ],
+      [["la cuenta"], ["the bill", "the check"]],
+      [["el vuelo"], ["the flight"]],
+      [["romperse el brazo"], ["to break an arm", "to break your arm"]],
+      [["caerse"], ["to fall", "to fall down"]],
+      [
+        ["Me puse enfermo", "Me puse malo"],
+        ["I got sick", "I became sick", "I got ill", "I became ill"]
+      ],
+      [
+        [
+          "el billete de tren",
+          "billete de tren",
+          "el ticket de tren",
+          "ticket de tren",
+          "el boleto de tren",
+          "boleto de tren"
+        ],
+        ["train ticket", "the train ticket"]
+      ]
     ],
     [
       "7.2G Una visita a Andalucía",
@@ -5090,68 +5561,484 @@
     ],
     [
       "7.2F ¿Qué tipo de vacaciones prefieres?",
-      [["bajar de"], ["to get off", "to go down", "to get out of"]],
-      [["catedral"], ["cathedral"]],
-      [["cenar"], ["to dine", "to have dinner", "to have the evening meal"]],
-      [["cosa"], ["thing"]],
-      [["costumbre"], ["custom", "habit", "tradition"]],
-      [["extranjero"], ["abroad", "foreign", "foreigner"]],
-      [["gafas de sol"], ["sunglasses", "shades"]],
-      [["hermoso"], ["beautiful", "gorgeous", "handsome"]],
-      [["llover"], ["to rain"]],
-      [["mezquita"], ["mosque"]],
-      [["montar a caballo"], ["to ride a horse", "to go horse riding"]],
-      [["museo"], ["museum"]],
-      [["nacionalidad"], ["nationality"]],
-      [["oportunidad"], ["opportunity", "chance"]],
-      [["país"], ["country"]],
-      [["parte"], ["part"]],
-      [["pasarlo bien"], ["to have a good time", "to enjoy oneself"]],
-      [["pintar"], ["to paint"]],
-      [["pobre"], ["poor", "needy"]],
-      [["practicar"], ["to practise", "to practice"]],
       [
-        ["quedar", "quedarse", "alojarse"],
-        ["to stay", "to remain", "to lodge"]
+        ["Estaba bajando del avión"],
+        [
+          "I was getting off the plane",
+          "I was going down the plane",
+          "I was getting out of the plane",
+          "He was getting off the plane",
+          "He was going down the plane",
+          "He was getting out of the plane",
+          "She was getting off the plane",
+          "She was going down the plane",
+          "She was getting out of the plane"
+        ]
       ],
-      [["reloj"], ["watch", "clock"]],
-      [["Semana Santa"], ["Easter Week", "Holy Week", "Easter"]],
-      [["sinagoga"], ["synagogue"]],
-      [["tradición"], ["tradition", "custom"]]
+      [
+        [
+          "Pasé dos semanas ayudando en una escuela",
+          "Pasé dos semanas ayudando en un colegio",
+          "Pasé dos semanas ayudando en un instituto",
+          "Pasé dos semanas ayudando en un insti"
+        ],
+        [
+          "I spent two weeks helping in a school",
+          "I spent two weeks helping at a school"
+        ]
+      ],
+      [
+        ["Estaba cenando con mis padres"],
+        [
+          "I was having dinner with my parents",
+          "He was having dinner with my parents",
+          "She was having dinner with my parents"
+        ]
+      ],
+      [
+        ["Una de las cosas que más me gustan"],
+        [
+          "One of the things I like the most",
+          "One of the things that I like the most",
+          "One of the things I like the best",
+          "One of the things that I like the best"
+        ]
+      ],
+      [
+        [
+          "Me interesan las costumbres de otros países",
+          "Me interesan los hábitos de otros países"
+        ],
+        [
+          "I'm interested in the customs of other countries",
+          "I'm interested on the customs of other countries",
+          "I am interested on the customs of other countries",
+          "I'm interested on other countries' customs",
+          "I am interested on other countries' customs",
+          "I am interested in the customs of other countries",
+          "I'm interested in other countries' customs",
+          "I am interested in other countries' customs",
+          "I'm interested on the customs of other habits",
+          "I am interested on the customs of other habits",
+          "I'm interested on other countries' habits",
+          "I am interested on other countries' habits",
+          "I'm interested in the customs of other habits",
+          "I am interested in the customs of other habits",
+          "I'm interested in other countries' habits",
+          "I am interested in other countries' habits"
+        ]
+      ],
+      [
+        ["Estábamos viajando al extranjero", "Estábamos viajando afuera"],
+        [
+          "We were travelling abroad",
+          "We were traveling abroad",
+          "We were travelling overseas",
+          "We were traveling overseas",
+          "We were travelling to foreign countries",
+          "We were traveling to foreign countries"
+        ]
+      ],
+      [
+        ["¿Mis gafas de sol? Las perdí ayer"],
+        [
+          "My sunglasses? I lost them yesterday",
+          "My shades? I lost them yesterday"
+        ]
+      ],
+      [
+        [
+          "Es una ciudad histórica con hermosos edificios",
+          "Es una ciudad histórica con preciosos edificios",
+          "Es una ciudad histórica con maravillosos edificios"
+        ],
+        [
+          "It's a historic city with beautiful buildings",
+          "It is a historic city with beautiful buildings",
+          "It's a historic city with gorgeous buildings",
+          "It is a historic city with gorgeous buildings",
+          "It's a historic city with wonderful buildings",
+          "It is a historic city with wonderful buildings"
+        ]
+      ],
+      [
+        ["En el noroeste de España llueve bastante"],
+        [
+          "In the northwest of Spain it rains quite a lot",
+          "In the northwest of Spain it rains quite a bit",
+          "In the northwest of Spain it rains a lot",
+          "In the northwest of Spain it rains very much"
+        ]
+      ],
+      [["Estabas visitando la mezquita"], ["You were visiting the mosque"]],
+      [
+        ["Nunca pierdo la oportunidad de aprender algo nuevo"],
+        [
+          "I never miss the opportunity to learn something new",
+          "I never lose the opportunity to learn something new",
+          "I never miss the chance to learn something new",
+          "I never lose the chance to learn something new",
+          "I never miss the opportunity of learning something new",
+          "I never lose the opportunity of learning something new",
+          "I never miss the chance of learning something new",
+          "I never lose the chance of learning something new"
+        ]
+      ],
+      [
+        ["Vimos que el tren estaba saliendo"],
+        [
+          "We saw the train was leaving",
+          "We saw that the train was leaving",
+          "We saw the train leaving",
+          "We saw the train was departing",
+          "We saw that the train was departing",
+          "We saw the train departing"
+        ]
+      ],
+      [["Lo pasé muy bien"], ["I had a very good time", "I had a great time"]],
+      [
+        ["una zona pobre", "un área pobre"],
+        ["a poor area", "a deprived area", "a poor zone", "a deprived zone"]
+      ],
+      [
+        ["Vale la pena practicar", "Merece la pena practicar"],
+        [
+          "It's worth practising",
+          "It is worth practising",
+          "It's worthwhile practising",
+          "It is worthwhile practising",
+          "It's worth practicing",
+          "It is worth practicing",
+          "It's worthwhile practicing",
+          "It is worthwhile practicing",
+          "It's worth to practise",
+          "It is worth to practise",
+          "It's worthwhile to practise",
+          "It is worthwhile to practise",
+          "It's worth to practice",
+          "It is worth to practice",
+          "It's worthwhile to practice",
+          "It is worthwhile to practice"
+        ]
+      ],
+
+      [
+        ["Me dio un reloj"],
+        [
+          "He gave me a watch",
+          "He gave me a clock",
+          "She gave me a watch",
+          "She gave me a clock"
+        ]
+      ],
+      [
+        ["Lo compré en el mercado", "La compré en el mercado"],
+        ["I bought it in the market"]
+      ],
+      [
+        ["Te voy a llamar luego", "Voy a llamarte luego"],
+        ["I'm going to call you later", "I am going to call you later"]
+      ],
+      [
+        ["Los tenemos en casa"],
+        ["We have them at home", "We've got them at home"]
+      ],
+      [
+        ["Nos visitan a menudo"],
+        ["They visit us often", "They often visit us"]
+      ],
+      [["Estaba nadando en el mar"], ["I was swimming in the sea"]],
+      [
+        [
+          "Hay que llevar ropa caliente",
+          "Tienes que llevar ropa caliente",
+          "Se debe llevar ropa caliente",
+          "Debes llevar ropa caliente"
+        ],
+        [
+          "You have to wear warm clothes",
+          "One has to wear warm clothes",
+          "You need to wear warm clothes",
+          "One needs to wear warm clothes",
+          "You must wear warm clothes",
+          "One must wear warm clothes",
+          "You should wear warm clothes",
+          "One should wear warm clothes",
+          "You have to wear warm clothing",
+          "One has to wear warm clothing",
+          "You need to wear warm clothing",
+          "One needs to wear warm clothing",
+          "You must wear warm clothing",
+          "One must wear warm clothing",
+          "You should wear warm clothing",
+          "One should wear warm clothing"
+        ]
+      ],
+      [
+        [
+          "Puedo hablar el idioma bastante bien",
+          "Puedo hablar el idioma muy bien",
+          "Puedo hablar la lengua bastante bien",
+          "Puedo hablar la lengua muy bien"
+        ],
+        [
+          "I can speak the language pretty well",
+          "I can speak the language quite well",
+          "I can speak the language very well",
+          "I can talk the language quite well",
+          "I can talk the language very well",
+          "I can talk the language pretty well"
+        ]
+      ],
+      [["Te vi ayer"], ["I saw you yesterday"]],
+      [["La conozco"], ["I know her"]]
     ],
     [
       "7.2H Una visita a la ciudad de México",
-      [["a bordo de"], ["on board", "aboard"]],
-      [["acompañar"], ["to accompany", "to go with"]],
-      [["alquilar"], ["to hire", "to rent"]],
-      [["arquitectura"], ["architecture"]],
-      [["comienzo"], ["start", "beginning"]],
-      [["cuyo"], ["whose"]],
-      [["dirigir"], ["to run", "manage", "to direct"]],
-      [["disfrutar"], ["to enjoy"]],
-      [["guía"], ["guide", "guidebook"]],
-      [["increíble"], ["incredible", "unbelievable", "amazing"]],
-      [["iniciar"], ["to begin", "to start", "to initiate"]],
       [
-        ["llamativo", "llamativa"],
-        ["striking", "eye-catching"]
+        [
+          "La comida fue servida por el camarero",
+          "La comida era servida por el camarero",
+          "La comida se sirvió por el camarero"
+        ],
+        ["The food was served by the waiter"]
       ],
-      [["lujo"], ["luxury"]],
+      [
+        [
+          "El coche fue alquilado hace tres semanas",
+          "El coche se alquiló hace tres semanas"
+        ],
+        [
+          "The car was rented three weeks ago",
+          "The car was hired three weeks ago"
+        ]
+      ],
+      [
+        [
+          "El hotel era dirigido eficientemente",
+          "El hotel fue dirigido eficientemente",
+          "El hotel estaba dirigido eficientemente",
+          "El hotel se gestionaba eficientemente",
+          "El hotel se dirigía eficientemente"
+        ],
+        ["The hotel was run efficiently", "The hotel was managed efficiently"]
+      ],
+      [
+        [
+          "El proyecto fue iniciado hace dos años",
+          "El proyecto se inició hace dos años",
+          "El proyecto fue empezado hace dos años",
+          "El proyecto se empezó hace dos años",
+          "El proyecto fue comenzado hace dos años",
+          "El proyecto se comenzó hace dos años"
+        ],
+        [
+          "The project was started two years ago",
+          "The project was initiated two years ago",
+          "The project was begun two years ago",
+          "The project got started two years ago"
+        ]
+      ],
+      [
+        [
+          "Fui acompañado por Pedro",
+          "Era acompañado por Pedro",
+          "Me acompañó Pedro"
+        ],
+        ["I was accompanied by Pedro", "I went with Pedro"]
+      ],
+      [
+        [
+          "Frida es conocida por sus pinturas llamativas",
+          "Frida se conoce por sus pinturas llamativas",
+          "Frida es conocida por sus llamativas pinturas",
+          "Frida se conoce por sus llamativas pinturas"
+        ],
+        [
+          "Frida is known for her striking paintings",
+          "Frida is well-known for her striking paintings",
+          "Frida is known by her striking paintings",
+          "Frida is well-known by her striking paintings",
+          "Frida is known for her eye-catching paintings",
+          "Frida is well-known for her eye-catching paintings",
+          "Frida is known by her eye-catching paintings",
+          "Frida is well-known by her eye-catching paintings",
+          "Frida is well known for her striking paintings",
+          "Frida is well known by her striking paintings",
+          "Frida is well known for her eye-catching paintings",
+          "Frida is well known by her eye-catching paintings"
+        ]
+      ],
+      [
+        [
+          "Los turistas fueron recibidos en la recepción",
+          "Los turistas eran recibidos en la recepción",
+          "Los turistas fueron recibidos en recepción",
+          "Los turistas eran recibidos en recepción",
+          "Los turistas se recibían en la recepción",
+          "Los turistas se recibían en recepción"
+        ],
+        [
+          "The tourists were received at the reception",
+          "The tourists were received in the reception",
+          "The tourists were received at reception",
+          "The tourists were received in reception",
+          "Tourists were received at the reception",
+          "Tourists were received in the reception",
+          "Tourists were received at reception",
+          "Tourists were received in reception"
+        ]
+      ],
+      [
+        ["Aquí se habla español", "Se habla español aquí"],
+        ["Spanish is spoken here", "Here Spanish is spoken"]
+      ],
+      [
+        [
+          "No se permite fumar en el palacio",
+          "No está permitido fumar en el palacio"
+        ],
+        [
+          "It's not allowed to smoke in the palace",
+          "It is not allowed to smoke in the palace",
+          "It's not allowed smoking in the palace",
+          "It's not allowed smoking in the palace",
+          "It's not allowed to smoke at the palace",
+          "It is not allowed to smoke at the palace",
+          "It's not allowed smoking at the palace",
+          "It's not allowed smoking at the palace",
+          "It's not permitted to smoke in the palace",
+          "It is not permitted to smoke in the palace",
+          "It's not permitted smoking in the palace",
+          "It's not permitted smoking in the palace",
+          "It's not permitted to smoke at the palace",
+          "It is not permitted to smoke at the palace",
+          "It's not permitted smoking at the palace",
+          "It's not permitted smoking at the palace"
+        ]
+      ],
+      [
+        [
+          "El templo se construyó en el siglo dieciocho",
+          "El templo fue construido en el siglo dieciocho",
+          "El templo se construyó en el siglo 18",
+          "El templo fue construido en el siglo 18"
+        ],
+        [
+          "The temple was built in the 18th century",
+          "The temple was built in the eighteenth century",
+          "The temple was constructed in the 18th century",
+          "The temple was constructed in the eighteenth century"
+        ]
+      ],
+      [
+        [
+          "Se necesitan más profesores en el colegio",
+          "Se necesitan más profesores en la escuela",
+          "Se necesitan más profesores en la escuela",
+          "Se necesitan más profesores en el insti",
+          "Más profesores son necesitados la escuela",
+          "Más profesores son necesitados en el colegio",
+          "Más profesores son necesitados en el instituto",
+          "Más profesores son necesitados en el insti"
+        ],
+        [
+          "More teachers are needed in the school",
+          "More teachers are needed at the school"
+        ]
+      ],
+      [
+        ["Mis gafas se rompieron en el coche"],
+        [
+          "My glasses were broken in the car",
+          "My glasses got broken in the car",
+          "My glasses were broken at the car",
+          "My glasses got broken at the car"
+        ]
+      ],
+      [
+        [
+          "El periódico se publica diariamente",
+          "El periódico es publicado diariamente",
+          "El periódico se publica cada día",
+          "El periódico es publicado cada día",
+          "El diario se publica diariamente",
+          "El diario es publicado diariamente",
+          "El diario se publica cada día",
+          "El diario es publicado cada día"
+        ],
+        [
+          "The newspaper is published daily",
+          "The newspaper is published each day",
+          "The newspaper is published every day",
+          "The paper is published daily",
+          "The paper is published each day",
+          "The paper is published every day"
+        ]
+      ],
+      [
+        [
+          "Se organizan fiestas frecuentemente",
+          "Fiestas son organizadas frecuentemente"
+        ],
+        ["Parties are organised frequently", "Parties are organized frequently"]
+      ],
+      [
+        ["Vamos a bordo de un barco"],
+        [
+          "We go on board a boat",
+          "We go aboard a boat",
+          "We're going on board a boat",
+          "We're going aboard a boat",
+          "We are going on board a boat",
+          "We are going aboard a boat"
+        ]
+      ],
+      [
+        ["La arquitectura era increíble", "La arquitectura fue increíble"],
+        [
+          "The architecture was incredible",
+          "The architecture was unbelievable",
+          "The architecture was amazing"
+        ]
+      ],
+      [["comienzo"], ["beginning", "start", "the start", "the beginning"]],
+      [["cuyo", "cuya", "cuyos", "cuyas"], ["whose"]],
+      [
+        ["Nuestro guía explicó cosas interesantes"],
+        ["Our guide explained interesting things"]
+      ],
+      [
+        ["hoteles de lujo", "hoteles lujosos"],
+        ["luxury hotels", "luxurious hotels"]
+      ],
       [["mantener"], ["to maintain", "to keep"]],
-      [["matrimonio"], ["marriage"]],
-      [["músico", "música"], ["musician"]],
-      [["palacio"], ["palace"]],
-      [["pared"], ["wall"]],
-      [["pintura"], ["painting", "paint"]],
-      [["publicar"], ["to publish", "to post"]],
-      [["ruina"], ["ruin"]],
-      [["templo"], ["temple"]],
-      [["tener suerte"], ["to be lucky", "to have luck"]],
       [
-        ["turbulento", "turbulenta"],
-        ["turbulent", "stormy"]
+        ["un turbulento matrimonio", "un matrimonio turbulento"],
+        ["a turbulent marriage", "a stormy marriage"]
       ],
-      [["utilizar"], ["to use", "to make use of"]]
+      [["pared"], ["wall"]],
+      [
+        [
+          "Fuimos a México para visitar las ruinas históricas",
+          "Fuimos a México para visitar las históricas ruinas"
+        ],
+        [
+          "We went to Mexico to visit the historic ruins",
+          "We went to Mexico in order to visit the historic ruins"
+        ]
+      ],
+      [
+        ["Si tienes suerte", "Si eres afortunado"],
+        [
+          "If you're lucky",
+          "If you are lucky",
+          "If you're fortunate",
+          "If you are fortunate",
+          "If you have luck",
+          "If you have good luck"
+        ]
+      ]
     ],
     [
       "8.1G Las redes sociales",
