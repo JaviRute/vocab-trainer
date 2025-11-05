@@ -1844,7 +1844,7 @@
       [["Salí con mi hermano"], ["I went out with my brother"]],
       [["Salí con mi hermana"], ["I went out with my sister"]],
       [["Vi un castillo interesante"], ["I saw an interesting castle"]],
-      [["el último día"], ["on the last day"]],
+      [["el último día"], ["on the last day", "the last day"]],
       [["por la mañana"], ["in the morning"]],
       [["por la tarde"], ["in the afternoon", "in the evening"]],
       [
@@ -1853,6 +1853,7 @@
           "I learnt to windsurf",
           "I learnt how to windsurf",
           "I learnt to do windsurfing",
+          "I learnt to do windsurf",
           "I learnt how to do windsurfing",
           "I learnt windsurfing"
         ]
@@ -1877,17 +1878,17 @@
       [["Luché contra la injusticia"], ["I fought against injustice"]],
       [["Fui a un restaurante"], ["I went to a restaurant"]],
       [
-        ["Fuimos en coche y autobús", "Fuimos en coche y en autobús"],
-        ["We went by car and boat", "We went by car and buy boat"]
+        ["Fuimos en coche y autocar", "Fuimos en coche y en autocar"],
+        ["We went by car and coach", "We went by car and by coach"]
       ],
       [["Fui de compras por la mañana"], ["I went shopping in the morning"]],
       [
         ["Luego nadé en el mar"],
         [
-          "Later I swam on the sea",
-          "Then I swam on the sea",
-          "Afterwards I swam on the sea",
-          "After I swam on the sea"
+          "Later I swam in the sea",
+          "Then I swam in the sea",
+          "Afterwards I swam in the sea",
+          "After I swam in the sea"
         ]
       ],
       [["Dormí mucho"], ["I slept a lot"]],

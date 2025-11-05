@@ -6079,80 +6079,614 @@
     ],
     [
       "8.1F Los cambios en la tecnología",
+      [
+        [
+          "He respondido a la llamada",
+          "He contestado a la llamada",
+          "He respondido la llamada",
+          "He contestado la llamada"
+        ],
+        [
+          "I've answered the call",
+          "I've responded the call",
+          "I have answered the call",
+          "I have responded the call",
+          "I've answered the phone call",
+          "I've responded the phone call",
+          "I have answered the phone call",
+          "I have responded the phone call"
+        ]
+      ],
+      [
+        ["He discutido con mi hermano", "Me he peleado con mi hermano"],
+        [
+          "I have argued with my brother",
+          "I have had an argument with my brother",
+          "I have fought with my brother"
+        ]
+      ],
+      [
+        [
+          "Marta ha enviado un mensaje",
+          "Marta ha enviado un mensaje de texto",
+          "Marta ha enviado un SMS"
+        ],
+        [
+          "Marta has sent a message",
+          "Marta has sent a text message",
+          "Marta has sent a text",
+          "Marta has sent a SMS",
+          "Marta has sent an SMS"
+        ]
+      ],
+      [
+        [
+          "Hemos tenido una conversación",
+          "Nosotros hemos tenido una conversación",
+          "Hemos tenido una charla",
+          "Nosotros hemos tenido una charla"
+        ],
+        [
+          "We've had a conversation",
+          "We've had a chat",
+          "We've had a talk",
+          "We have had a conversation",
+          "We have had a chat",
+          "We have had a talk"
+        ]
+      ],
+      [
+        [
+          "Mi compañero y yo hemos jugado a un videojuego",
+          "Mi compañera y yo hemos jugado a un videojuego"
+        ],
+        [
+          "My classmate and I have played a videogame",
+          "My partner and I have played a videogame",
+          "My companion and I have played a videogame",
+          "My colleague and I have played a videogame",
+          "My classmate and I have played a video game",
+          "My partner and I have played a video game",
+          "My companion and I have played a video game",
+          "My colleague and I have played a video game"
+        ]
+      ],
+      [
+        ["Los ingenieros han diseñado un nuevo modelo"],
+        [
+          "The engineers have designed a new model",
+          "The engineers have developed a new model",
+          "Engineers have designed a new model",
+          "Engineers have developed a new model"
+        ]
+      ],
+      [
+        [
+          "El primer teléfono móvil fue inventado en 1973",
+          "El primer móvil fue inventado en 1973",
+          "El primer teléfono móvil fue inventado en mil novecientos setenta y tres",
+          "El primer móvil fue inventado en mil novecientos setenta y tres"
+        ],
+        [
+          "The first mobile phone was invented in 1973",
+          "The first mobile telephone was invented in 1973",
+          "The first mobile was invented in 1973",
+          "The first cell phone was invented in 1973",
+          "The first mobile phone was invented in nineteen seventy-three",
+          "The first mobile telephone was invented in nineteen seventy-three",
+          "The first mobile was invented in nineteen seventy-three",
+          "The first cell phone was invented in nineteen seventy-three"
+        ]
+      ],
+      [
+        [
+          "El primer móvil necesitaba diez horas para recargarse",
+          "El primer móvil necesitaba diez horas para cargarse",
+          "El primer teléfono móvil necesitaba diez horas para recargarse",
+          "El primer teléfono móvil necesitaba diez horas para cargarse",
+          "El primer móvil necesitaba 10 horas para recargarse",
+          "El primer móvil necesitaba 10 horas para cargarse",
+          "El primer teléfono móvil necesitaba 10 horas para recargarse",
+          "El primer teléfono móvil necesitaba 10 horas para cargarse"
+        ],
+        [
+          "The first mobile needed ten hours to charge",
+          "The first mobile needed ten hours to recharge",
+          "The first mobile phone needed ten hours to charge",
+          "The first mobile phone needed ten hours to recharge",
+          "The first mobile needed 10 hours to charge",
+          "The first mobile needed 10 hours to recharge",
+          "The first mobile phone needed 10 hours to charge",
+          "The first mobile phone needed 10 hours to recharge"
+        ]
+      ],
+      [
+        [
+          "Mi móvil tiene pantalla táctil",
+          "Mi teléfono móvil tiene pantalla táctil"
+        ],
+        [
+          "My mobile has a touch screen",
+          "My mobile has a touchscreen",
+          "My mobile has a touch display",
+          "My phone has a touch screen",
+          "My phone has a touchscreen",
+          "My phone has a touch display",
+          "My mobile phone has a touch screen",
+          "My mobile phone has a touchscreen",
+          "My mobile phone has a touch display"
+        ]
+      ],
+      [
+        [
+          "Mi primer móvil pesaba 1 kilo",
+          "Mi primer teléfono móvil pesaba 1 kilo"
+        ],
+        [
+          "My first phone weighed 1 kilo",
+          "My first mobile weighed 1 kilo",
+          "My first mobile phone weighed 1 kilo",
+          "My first phone used to weigh 1 kilo",
+          "My first mobile used to weigh 1 kilo",
+          "My first mobile phone used to weigh 1 kilo"
+        ]
+      ],
+      [
+        [
+          "Mi móvil te permite navegar por internet",
+          "Mi teléfono móvil te permite navegar por internet",
+          "Mi móvil te deja navegar por internet",
+          "Mi teléfono móvil te deja navegar por internet"
+        ],
+        [
+          "My phone allows you to surf the Internet",
+          "My mobile phone allows you to surf the Internet",
+          "My phone lets you surf the Internet",
+          "My mobile phone lets you surf the Internet",
+          "My phone allows you to browse the Internet",
+          "My mobile phone allows you to browse the Internet",
+          "My phone lets you browse the Internet",
+          "My mobile phone lets you browse the Internet"
+        ]
+      ],
+      [
+        [
+          "La llegada del iPhone fue en 2007",
+          "La llegada del iPhone fue en dos mil siete"
+        ],
+        [
+          "The arrival of the iPhone was in 2007",
+          "The arrival of the iPhone was in two thousand and seven"
+        ]
+      ],
+      [
+        [
+          "La primera transmisión en color",
+          "La primera retransmisión en color"
+        ],
+        [
+          "The first colour broadcast",
+          "The first color broadcast",
+          "The first colour stream",
+          "The first color stream",
+          "The first colour transmission",
+          "The first color transmission"
+        ]
+      ],
+      [
+        [
+          "Los portátiles nuevos son más ligeros",
+          "Los ordenadores portátiles nuevos son ligeros",
+          "Los portátiles modernos son más ligeros",
+          "Los ordenadores modernos nuevos son ligeros"
+        ],
+        [
+          "New laptops are lighter",
+          "The new laptops are lighter",
+          "Newer laptops are lighter",
+          "The newer laptops are lighter",
+          "New laptops are more lightweight",
+          "The new laptops are more lightweight",
+          "Newer laptops are more lightweight",
+          "The newer laptops are more lightweight",
+          "Modern laptops are lighter",
+          "Modern laptops are more lightweight"
+        ]
+      ],
+      [
+        [
+          "Los portátiles antiguos eran pesados",
+          "Los portátiles viejos eran pesados",
+          "Los ordenadores portátiles antiguos eran pesados",
+          "Los ordenadores portátiles viejos eran pesados"
+        ],
+        [
+          "The old laptops were heavy",
+          "Old laptops were heavy",
+          "The old portable computers were heavy",
+          "Old portable computers were heavy"
+        ]
+      ],
       [["avanzado", "avanzada"], ["advanced"]],
       [["básico", "básica"], ["basic"]],
-      [
-        ["compañero", "compañera"],
-        ["classmate", "partner", "companion", "colleague"]
-      ],
-      [["conversación"], ["conversation", "chat", "talk"]],
-      [["discutir"], ["to discuss", "to argue", "to debate"]],
-      [["diseñar"], ["to design"]],
-      [["enviar"], ["to send"]],
-      [["ingeniero", "ingeniera"], ["engineer"]],
       [["inteligente"], ["intelligent", "smart", "clever"]],
-      [["inventar"], ["to invent"]],
-      [
-        ["ligero", "ligera"],
-        ["light", "lightweight"]
-      ],
-      [["llamada"], ["call", "phone call"]],
-      [["llegada"], ["arrival"]],
-      [["momento"], ["moment"]],
-      [
-        ["navegar por internet"],
-        ["to surf the Internet", "to browse the Internet"]
-      ],
-      [["permitir"], ["to allow", "to permit", "to let", "to enable"]],
-      [
-        ["pesado", "pesada"],
-        ["heavy", "annoying"]
-      ],
-      [["pesar"], ["to weigh"]],
-      [["portátil"], ["laptop"]],
-      [
-        ["recargar", "cargar"],
-        ["to charge", "to recharge"]
-      ],
-      [
-        ["responder", "contestar"],
-        ["to reply", "to respond", "to answer"]
-      ],
       [
         ["sencillo", "sencilla", "simple"],
         ["simple", "straightforward", "easy"]
       ],
-      [["pantalla táctil"], ["touch screen", "touch display"]],
-      [["transmisión"], ["broadcast", "stream"]],
-      [["videojuego"], ["video game", "videogame"]]
+      [
+        ["mil ochocientos cuarenta y nueve", "1849"],
+        [
+          "eighteen forty-nine",
+          "eighteen forty nine",
+          "1849",
+          "one thousand eight hundred forty-nine",
+          "a thousand eight hundred forty-nine",
+          "one thousand eight hundred forty nine",
+          "a thousand eight hundred forty nine"
+        ]
+      ],
+      [
+        ["mil novecientos veinticinco", "1925"],
+        [
+          "nineteen twenty-five",
+          "nineteen twenty five",
+          "1925",
+          "one thousand nine hundred twenty-five",
+          "a thousand nine hundred twenty-five",
+          "nineteen twenty five",
+          "one thousand nine hundred twenty five",
+          "a thousand nine hundred twenty five"
+        ]
+      ],
+      [
+        ["mil novecientos sesenta y dos", "1962"],
+        [
+          "nineteen sixty-two",
+          "nineteen sixty two",
+          "1962",
+          "one thousand nine hundred sixty-two",
+          "a thousand nine hundred sixty-two",
+          "one thousand nine hundred sixty two",
+          "a thousand nine hundred sixty two"
+        ]
+      ],
+      [
+        ["mil novecientos noventa y uno", "1991"],
+        [
+          "nineteen ninety-one",
+          "nineteen ninety one",
+          "1991",
+          "one thousand nine hundred ninety-one",
+          "a thousand nine hundred ninety-one",
+          "one thousand nine hundred ninety one",
+          "a thousand nine hundred ninety one"
+        ]
+      ],
+      [
+        ["dos mil siete", "2007"],
+        ["two thousand seven", "two thousand and seven", "2007"]
+      ],
+      [
+        ["dos mil quince", "2015"],
+        ["two thousand fifteen", "two thousand and fifteen", "2015"]
+      ]
     ],
     [
       "8.1H Lo bueno y lo malo de las redes sociales",
-      [["afectar"], ["to affect", "to influence"]],
+      [
+        ["He visto la película tres veces", "He visto la peli tres veces"],
+        [
+          "I've watched the movie three times",
+          "I have watched the movie three times",
+          "I've seen the movie three times",
+          "I have seen the movie three times",
+          "I've watched the film three times",
+          "I have watched the film three times",
+          "I've seen the film three times",
+          "I have seen the film three times"
+        ]
+      ],
+      [
+        ["He puesto el libro en la mesa"],
+        [
+          "I've put the book on the table",
+          "I have put the book on the table",
+          "I've placed the book on the table",
+          "I have placed the book on the table"
+        ]
+      ],
+      [
+        ["He vuelto del concierto", "He regresado del concierto"],
+        [
+          "I've returned from the concert",
+          "I've come back from the concert",
+          "I've got back from the concert",
+          "I've returned from the gig",
+          "I've come back from the gig",
+          "I've got back from the gig",
+          "I have returned from the concert",
+          "I have come back from the concert",
+          "I have got back from the concert",
+          "I have returned from the gig",
+          "I have come back from the gig",
+          "I have got back from the gig"
+        ]
+      ],
+      [
+        ["Has dicho la verdad"],
+        [
+          "You've told the truth",
+          "You have told the truth",
+          "You've spoken the truth",
+          "You have spoken the truth",
+          "You've said the truth",
+          "You have said the truth"
+        ]
+      ],
+      [
+        ["Han hecho una oferta"],
+        [
+          "They've made an offer",
+          "They've done an offer",
+          "They have done an offer",
+          "They have made an offer",
+          "They've put in an offer",
+          "They have put in an offer"
+        ]
+      ],
+      [
+        ["Hemos escrito un informe"],
+        [
+          "We've written a report",
+          "We've written a paper",
+          "We've written a account",
+          "We have written a report",
+          "We have written a paper",
+          "We have written a account"
+        ]
+      ],
+      [
+        ["Las redes sociales están aqui para quedarse"],
+        [
+          "Social media is here to stay",
+          "Social networks are here to stay",
+          "Social media are here to stay",
+          "The social media are here to stay",
+          "The social networks are here to stay"
+        ]
+      ],
+      [
+        [
+          "Las redes sociales pueden convertirse en algo peligroso",
+          "Las redes sociales pueden volverse en algo peligroso",
+          "Las redes sociales pueden transformarse en algo peligroso"
+        ],
+        [
+          "Social media can become something dangerous",
+          "Social media can turn into something dangerous",
+          "Social media can transform into something dangerous",
+          "Social networks can become something dangerous",
+          "Social networks can turn into something dangerous",
+          "Social networks can transform into something dangerous",
+          "The social media can become something dangerous",
+          "The social media can turn into something dangerous",
+          "The social media can transform into something dangerous",
+          "The social networks can become something dangerous",
+          "The social networks can turn into something dangerous",
+          "The social networks can transform into something dangerous"
+        ]
+      ],
+      [
+        [
+          "Mi perfil en mi plataforma favorita es muy importante",
+          "Mi perfil en mi plataforma preferida es muy importante",
+          "Mi cuenta en mi plataforma favorita es muy importante",
+          "Mi cuenta en mi plataforma preferida es muy importante"
+        ],
+        [
+          "My profile on my favourite platform is very important",
+          "My profile in my favourite platform is very important",
+          "My profile on my favorite platform is very important",
+          "My profile in my favorite platform is very important",
+          "My profile in my preferred platform is very important",
+          "My profile on my preferred platform is very important",
+          "My account in my favourite platform is very important",
+          "My account on my favourite platform is very important",
+          "My account in my favorite platform is very important",
+          "My account on my favorite platform is very important",
+          "My account in my preferred platform is very important",
+          "My account on my preferred platform is very important"
+        ]
+      ],
+      [
+        [
+          "Usar Facebook afecta mi humor",
+          "Usar Facebook influye en mi humor",
+          "Usar Facebook influencia mi humor"
+        ],
+        [
+          "Using Facebook affects my mood",
+          "Using Facebook influences my mood",
+          "Using Facebook affects my humour",
+          "Using Facebook influences my humour",
+          "Using Facebook affects my humor",
+          "Using Facebook influences my humor"
+        ]
+      ],
+      [
+        [
+          "Algunos comentarios pueden hacer daño",
+          "Ciertos comentarios pueden hacer daño",
+          "Algunos comentarios pueden causar daño",
+          "Ciertos comentarios pueden causar daño",
+          "Algunos comentarios pueden herir",
+          "Ciertos comentarios pueden herir"
+        ],
+        [
+          "Some comments can hurt",
+          "Some comments can harm",
+          "Some comments can damage",
+          "Some comments can do damage",
+          "Some comments can do harm",
+          "Some comments can cause damage",
+          "Some comments can cause harm",
+          "Certain comments can do damage",
+          "Certain comments can do harm",
+          "Certain comments can cause damage",
+          "Certain comments can cause harm"
+        ]
+      ],
+      [
+        [
+          "Algunas personas se dedican a insultar a otras en X",
+          "Alguna gente se dedica a insultar a otras en X",
+          "Algunas personas se dedican a insultar a otros en X",
+          "Alguna gente se dedica a insultar a otros en X",
+          "Algunas personas se dedican a insultar a los demás en X",
+          "Alguna gente se dedica a insultar a los demás en X",
+          "Algunas personas se dedican a insultar a los demás en X",
+          "Alguna gente se dedica a insultar a los demás en X"
+        ],
+        [
+          "Some people dedicate themselves to insulting others on X",
+          "Some persons dedicate themselves to insulting others on X",
+          "Some people dedicate themselves to insult others on X",
+          "Some persons dedicate themselves to insult others on X"
+        ]
+      ],
+      [
+        [
+          "a miles de kilómetros de distancia",
+          "miles de kilómetros de distancia",
+          "a miles de kilómetros",
+          "a miles de kilómetros lejos"
+        ],
+        [
+          "thousands of kilometers away",
+          "thousands of kilometres away",
+          "thousands of miles away",
+          "thousands of kilometers from here",
+          "thousands of kilometres from here",
+          "thousands of miles from here",
+          "at a distance of thousands of kilometers",
+          "at a distance of thousands of kilometres",
+          "at a distance of thousands of miles"
+        ]
+      ],
+      [
+        [
+          "Hoy en día mucha gente tiene un perfil en Instagram",
+          "Hoy en día mucha gente tiene una cuenta en Instagram",
+          "Hoy en día muchas personas tienen un perfil en Instagram",
+          "Hoy en día muchas personas tienen una cuenta en Instagram"
+        ],
+        [
+          "Nowadays lots of people have a profile on Instagram",
+          "These days lots of people have a profile on Instagram",
+          "Currently lots of people have a profile on Instagram",
+          "Nowadays a lot of people have a profile on Instagram",
+          "These days a lot of people have a profile on Instagram",
+          "Currently a lot of people have a profile on Instagram",
+          "Nowadays many people have a profile on Instagram",
+          "These days many people have a profile on Instagram",
+          "Currently many people have a profile on Instagram",
+          "Nowadays lots of people have an account on Instagram",
+          "These days lots of people have an account on Instagram",
+          "Currently lots of people have an account on Instagram",
+          "Nowadays a lot of people have an account on Instagram",
+          "These days a lot of people have an account on Instagram",
+          "Currently a lot of people have an account on Instagram",
+          "Nowadays many people have an account on Instagram",
+          "These days many people have an account on Instagram",
+          "Currently many people have an account on Instagram"
+        ]
+      ],
       [["al menos"], ["at least"]],
-      [["amistad"], ["friendship"]],
-      [["anunciar"], ["to announce", "to advertise"]],
-      [["causar"], ["to cause"]],
-      [["comunicar"], ["to communicate"]],
-      [["concierto"], ["concert", "gig", "show"]],
-      [["convertirse en"], ["to become", "to turn into", "to transform into"]],
-      [["daño"], ["damage", "harm", "injury"]],
-      [["desaparecer"], ["to disappear"]],
-      [["distancia"], ["distance"]],
-      [["estudio"], ["study", "studio"]],
-      [["hoy en día"], ["nowadays", "these days", "currently"]],
-      [["informe"], ["report", "paper", "account"]],
-      [["insultar"], ["to insult"]],
-      [["molestar"], ["to annoy", "to bother", "to disturb"]],
-      [["negocio"], ["business"]],
-      [["numeroso", "numerosa"], ["numerous"]],
-      [["oferta"], ["offer", "sale"]],
-      [["ofrecer"], ["to offer"]],
-      [["perdonar"], ["to forgive", "to pardon"]],
-      [["personaje"], ["character"]],
-      [["plataforma"], ["platform"]],
-      [["resultado"], ["result", "outcome"]],
-      [["uso"], ["use"]]
+      [
+        ["Puedes hacer nuevas amistades", "Puedes hacer nuevos amigos"],
+        [
+          "You can make new friendships",
+          "You can form new friendships",
+          "You can develop new friendships",
+          "You can make new friends"
+        ]
+      ],
+      [
+        ["La publicidad molesta un poco", "Los anuncios me molestan un poco"],
+        [
+          "Advertising annoys me a bit",
+          "Advertising bothers me a bit",
+          "Advertising disturbs me a bit",
+          "Publicity annoys me a bit",
+          "Publicity bothers me a bit",
+          "Publicity disturbs me a bit",
+          "Ads annoy me a bit",
+          "Ads bother me a bit",
+          "Ads disturb me a bit"
+        ]
+      ],
+      [
+        [
+          "En internet hay numerosas maneras de divertirse",
+          "En internet hay muchas maneras de divertirse",
+          "En internet hay numerosas formas de divertirse",
+          "En internet hay muchas formas de divertirse"
+        ],
+        [
+          "On the internet there are numerous ways to have fun",
+          "On the internet there are many ways to have fun",
+          "On the internet there are lots of ways to have fun",
+          "On the internet there are a lot of ways to have fun"
+        ]
+      ],
+      [
+        ["Han hecho la compra", "Han hecho las compras"],
+        ["They've done the shopping", "They have done the shopping"]
+      ],
+      [
+        ["Hay gente que quiere robarte", "Hay personas que quieren robarte"],
+        [
+          "There are people who want to rob you",
+          "There are people that want to rob you",
+          "There are people who want to steal from you",
+          "There are people that want to steal from you"
+        ]
+      ],
+      [
+        ["conocer gente", "conocer a personas"],
+        ["to meet people", "to meet persons", "to get to know people"]
+      ],
+      [
+        ["cualquier persona", "cualquiera"],
+        ["any person", "anybody", "anyone"]
+      ],
+      [["los resultados"], ["the results", "the outcomes"]],
+      [
+        [
+          "mantener el contacto",
+          "seguir en contacto",
+          "continuar en contacto",
+          "conservar el contacto"
+        ],
+        [
+          "to keep contact",
+          "to keep in touch",
+          "to stay in touch",
+          "to maintain contact",
+          "to keep the contact",
+          "to stay connected"
+        ]
+      ],
+      [
+        ["personas de todo el mundo", "gente de todo el mundo"],
+        [
+          "people from all over the world",
+          "people from around the world",
+          "people from across the world",
+          "persons from all over the world"
+        ]
+      ]
     ],
     [
       "8.2G La tecnología en casa",
@@ -6195,50 +6729,362 @@
     ],
     [
       "8.2F ¿Cómo usas tu móvil?",
-      [["auriculares"], ["headphones", "earphones", "earbuds"]],
-      [["calculadora"], ["calculator"]],
-      [["cantante"], ["singer"]],
-      [["compras"], ["shopping", "purchases"]],
-      [["despertar"], ["to wake up", "to awaken"]],
-      [["diccionario"], ["dictionary"]],
       [
-        ["educativo", "educativa"],
-        ["educational", "instructional"]
+        [
+          "Mi madre me llamó",
+          "Mi mamá me llamó",
+          "Mi madre me telefoneó",
+          "Mi mamá me telefoneó"
+        ],
+        [
+          "My mother called me",
+          "My mum called me",
+          "My mom called me",
+          "My mother phoned me",
+          "My mum phoned me",
+          "My mom phoned me"
+        ]
       ],
       [
-        ["electrónico", "electrónica"],
-        ["electronic", "digital"]
+        [
+          "El móvil te permite escuchar música",
+          "El móvil te deja escuchar música",
+          "El teléfono te permite escuchar música",
+          "El teléfono te deja escuchar música"
+        ],
+        [
+          "The phone allows you to listen to music",
+          "The mobile allows you to listen to music",
+          "The phone lets you listen to music",
+          "The mobile lets you listen to music",
+          "Your phone allows you to listen to music",
+          "Your mobile allows you to listen to music",
+          "Your phone lets you listen to music",
+          "Your mobile lets you listen to music"
+        ]
       ],
-      [["familiar"], ["relative", "family member"]],
-      [["función"], ["function"]],
-      [["gratis"], ["free"]],
-      [["lector electrónico"], ["e-book", "e-reader", "digital reader"]],
-      [["lejos"], ["far", "distant"]],
-      [["mantenerse en contacto"], ["to stay in contact", "to keep in touch"]],
       [
-        ["medio", "media"],
-        ["average", "mean"]
+        ["Te voy a mandar el dinero hoy", "Voy a mandarte el dinero hoy"],
+        [
+          "I'm going to send you the money today",
+          "I am going to send you the money today",
+          "I'm sending you the money today"
+        ]
       ],
-      [["nombre"], ["name"]],
-      [["número"], ["number"]],
-      [["oír"], ["to hear", "to listen"]],
-      [["profundamente"], ["deeply", "profoundly"]],
       [
-        ["prohibido", "prohibida"],
-        ["forbidden", "banned", "prohibited"]
+        [
+          "¿Mis auriculares? Los perdí la semana pasada",
+          "¿Mis cascos? Los perdí la semana pasada",
+          "¿Mis audífonos? Los perdí la semana pasada"
+        ],
+        [
+          "My headphones? I lost them last week",
+          "My earphones? I lost them last week",
+          "My earbuds? I lost them last week"
+        ]
       ],
-      [["quién"], ["who", "whom"]],
-      [["quitar"], ["to remove", "to take away"]],
-      [["ruido"], ["noise", "sound"]],
-      [["saber"], ["to know"]],
       [
-        ["todas partes", "por todas partes"],
-        ["everywhere", "all around", "all over"]
+        ["Me gusta esta app. La uso todos los días"],
+        [
+          "I like this app. I use it every day",
+          "I like this app. I use it everyday",
+          "I like this app. I use it each day"
+        ]
+      ],
+      [
+        [
+          "Este es mi portatil. Lo compré ayer",
+          "Este es mi ordenador portátil. Lo compré ayer"
+        ],
+        ["This is my laptop. I bought it yesterday"]
+      ],
+      [
+        ["Mira estas fotos. Las subiré a Instagram"],
+        [
+          "Look at these photos. I'll upload them to Instagram",
+          "Look at these pics. I'll upload them to Instagram",
+          "Look at these pictures. I'll upload them to Instagram",
+          "Look at these photographs. I'll upload them to Instagram",
+          "Look at these photos. I will upload them to Instagram",
+          "Look at these pics. I will upload them to Instagram",
+          "Look at these pictures. I will upload them to Instagram",
+          "Look at these photographs. I will upload them to Instagram"
+        ]
+      ],
+      [
+        [
+          "Esta app te da información sobre las carreteras",
+          "Esta app te da información sobre la carretera",
+          "Esta app te da información sobre las autopistas",
+          "Esta app te da información sobre las rutas"
+        ],
+        [
+          "This app gives you information about the roads",
+          "This app gives you information about the road",
+          "This app gives you info about the roads",
+          "This app gives you info about the road",
+          "This app gives you information about the highways",
+          "This app gives you information about the routes",
+          "This app gives you information about the motorways",
+          "This app gives you info about the highways",
+          "This app gives you info about the routes",
+          "This app gives you info about the motorways"
+        ]
+      ],
+      [
+        [
+          "El precio medio es 50 euros",
+          "El precio medio son 50 euros",
+          "El precio promedio es 50 euros"
+        ],
+        ["The average price is 50 euros", "The mean price is 50 euros"]
+      ],
+      [
+        ["buscar información"],
+        [
+          "to look for information",
+          "to look for info",
+          "to search for information",
+          "to search for info",
+          "to search for information",
+          "to search for info"
+        ]
+      ],
+      [
+        [
+          "Con esta app puedes crear listas de compras",
+          "Con esta app puedes crear listas de la compra"
+        ],
+        [
+          "With this app you can create shopping lists",
+          "With this app you can make shopping lists",
+          "With this app you can write shopping lists",
+          "With this app you can create a shopping list"
+        ]
+      ],
+      [
+        [
+          "Puedes quitar alguna cosa de la foto",
+          "Puedes eliminar alguna cosa de la foto",
+          "Puedes borrar alguna cosa de la foto",
+          "Puedes quitar cualquier cosa de la foto",
+          "Puedes eliminar cualquier cosa de la foto",
+          "Puedes borrar cualquier cosa de la foto",
+          "Puedes quitar alguna cosa de la fotografía",
+          "Puedes eliminar alguna cosa de la fotografía",
+          "Puedes borrar alguna cosa de la fotografía",
+          "Puedes quitar cualquier cosa de la fotografía",
+          "Puedes eliminar cualquier cosa de la fotografía",
+          "Puedes borrar cualquier cosa de la fotografía"
+        ],
+        [
+          "You can remove anything from the photo",
+          "You can take away anything from the photo",
+          "You can delete anything from the photo",
+          "You can eliminate anything from the photo",
+          "You can remove something from the photo",
+          "You can take away something from the photo",
+          "You can delete something from the photo",
+          "You can eliminate something from the photo",
+          "You can remove anything from the picture",
+          "You can take away anything from the picture",
+          "You can delete anything from the picture",
+          "You can eliminate anything from the picture",
+          "You can remove something from the picture",
+          "You can take away something from the picture",
+          "You can delete something from the picture",
+          "You can eliminate something from the picture"
+        ]
+      ],
+      [
+        [
+          "El ruido molesta a otras personas",
+          "El sonido molesta a otras personas",
+          "El ruido molesta a otra gente",
+          "El sonido molesta a otra gente"
+        ],
+        [
+          "The noise annoys other people",
+          "The sound annoys other people",
+          "The noise bothers other people",
+          "The sound bothers other people",
+          "The noise annoys other persons",
+          "The sound annoys other persons",
+          "The noise bothers other persons",
+          "The sound bothers other persons"
+        ]
+      ],
+      [
+        [
+          "Tengo un lector electrónico",
+          "Tengo un libro electrónico",
+          "Tengo un lector de libros electrónicos",
+          "Tengo un lector digital",
+          "Tengo un dispositivo de lectura",
+          "Tengo un e-book",
+          "Tengo un e-reader"
+        ],
+        [
+          "I have an e-book",
+          "I've got an e-book",
+          "I have a digital reader",
+          "I've got a digital reader",
+          "I have an e-reader",
+          "I've got an e-reader",
+          "I have a Kindle",
+          "I've got a Kindle"
+        ]
+      ],
+      [
+        ["El móvil me despertó", "El teléfono me despertó"],
+        [
+          "The phone woke me up",
+          "The phone awakened me",
+          "The mobile woke me up",
+          "The mobile awakened me",
+          "The mobile phone woke me up",
+          "The mobile phone awakened me"
+        ]
+      ],
+      [
+        [
+          "Puedes encontrar miles de juegos",
+          "Puedes encontrar miles de videojuegos"
+        ],
+        [
+          "You can find thousands of games",
+          "You can find thousands of video games",
+          "You can find thousands of videogames"
+        ]
+      ],
+      [
+        [
+          "La calculadora es una función básica",
+          "La calculadora es una herramienta básica"
+        ],
+        [
+          "The calculator is a basic function",
+          "The calculator is a basic feature",
+          "The calculator is a basic tool",
+          "The calculator is one of the basic functions",
+          "The calculator is one of the basic features"
+        ]
+      ],
+      [
+        [
+          "diccionarios digitales",
+          "diccionarios en línea",
+          "diccionarios online"
+        ],
+        [
+          "digital dictionaries",
+          "online dictionaries",
+          "electronic dictionaries"
+        ]
+      ],
+      [["mi nuevo número", "mi número nuevo"], ["my new number"]],
+      [
+        ["Si alguien te roba el móvil"],
+        [
+          "If someone steals your phone",
+          "If someone robs your phone",
+          "If someone steals your mobile",
+          "If someone robs your mobile",
+          "If somebody steals your phone",
+          "If somebody robs your phone",
+          "If somebody steals your mobile",
+          "If somebody robs your mobile"
+        ]
+      ],
+      [["Es muy útil"], ["It's very useful", "It is very useful"]],
+      [["Es gratis"], ["It's free", "It is free"]],
+      [
+        [
+          "Mi móvil no funciona",
+          "Mi teléfono no funciona",
+          "Mi teléfono móvil no funciona"
+        ],
+        [
+          "My phone doesn't work",
+          "My phone does not work",
+          "My phone isn't working",
+          "My phone is not working",
+          "My phone's not working",
+          "My mobile doesn't work",
+          "My mobile does not work",
+          "My mobile isn't working",
+          "My mobile is not working",
+          "My mobile's not working"
+        ]
+      ],
+      [
+        [
+          "Está prohibido usar móviles",
+          "Está prohibido usar teléfonos",
+          "Está prohibido usar teléfonos móviles"
+        ],
+        [
+          "It's prohibited to use phones",
+          "It's forbidden to use phones",
+          "It is prohibited to use phones",
+          "It is forbidden to use phones",
+          "It's prohibited using phones",
+          "It's forbidden using phones",
+          "It is prohibited using phones",
+          "It is forbidden using phones",
+          "It's prohibited to use mobiles",
+          "It's forbidden to use mobiles",
+          "It is prohibited to use mobiles",
+          "It is forbidden to use mobiles",
+          "It's prohibited using mobiles",
+          "It's forbidden using mobiles",
+          "It is prohibited using mobiles",
+          "It is forbidden using mobiles"
+        ]
+      ],
+      [
+        ["Lo uso para leer", "La uso para leer"],
+        [
+          "I use it for reading",
+          "I use it to read",
+          "I use it in order to read"
+        ]
       ]
     ],
     [
       "8.2H La tecnología del futuro",
-      [["absorber"], ["to absorb", "to soak up"]],
+      [
+        ["Cuando sea mayor", "Cuando sea adulto", "Cuando crezca"],
+        [
+          "When I'm older",
+          "Once I'm older",
+          "When I am older ",
+          "Once I am older",
+          "When I grow up",
+          "When I grow up"
+        ]
+      ],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [
+        ["Necesito una invención", "Necesito un invento"],
+        ["I need an invention"]
+      ],
+      [
+        [
+          "Quiero inventar un dispositivo",
+          "Quiero inventar un aparato",
+          "Quiero inventar un artefacto"
+        ],
+        [
+          "I want to invent a gadget",
+          "I want to invent a device",
+          "I want to invent an appliance"
+        ]
+      ],
       [
         ["añadir", "incluir"],
         ["to add", "to include"]
@@ -6253,22 +7099,73 @@
       [["científico", "científica"], ["scientist"]],
       [["cuestión"], ["issue", "matter", "question"]],
       [["dental"], ["dental"]],
-      [["dentista"], ["dentist"]],
       [["detectar"], ["to detect"]],
-      [["dispositivo"], ["gadget", "device", "appliance"]],
       [["existir"], ["to exist"]],
       [["experimentar"], ["to experiment", "to experience"]],
       [["hacer falta"], ["to be lacking", "to be missing", "to need"]],
-      [["identificar"], ["to identify"]],
-      [["impresora"], ["printer", "printing machine"]],
-      [["invención"], ["invention"]],
       [["limpiar"], ["to clean", "to tidy up"]],
       [["mentira"], ["lie", "falsehood"]],
-      [["notar"], ["to notice", "to note"]],
       [["observar"], ["to observe", "to watch"]],
-      [["segundo", "segunda"], ["second"]],
       [["sistema"], ["system"]],
-      [["Tierra"], ["Earth"]]
+      [
+        [
+          "Aquí en la Tierra, ya existen las impresoras 3D",
+          "Aquí en el planeta Tierra, ya existen las impresoras 3D",
+          "Aquí en la Tierra, las impresoras 3D ya existen",
+          "Aquí en el planeta Tierra, las impresoras 3D ya existen"
+        ],
+        [
+          "Here on Earth, 3D printers already exist",
+          "Here on Earth, 3D printers exist already",
+          "Here on the planet Earth, 3D printers already exist",
+          "Here on the planet Earth, 3D printers exist already",
+          "Here on Earth, the 3D printers already exist",
+          "Here on Earth, the 3D printers exist already",
+          "Here on the planet Earth, the 3D printers already exist",
+          "Here on the planet Earth, the 3D printers exist already"
+        ]
+      ],
+      [
+        [
+          "La nevera del futuro notará cuando te hace falta algo",
+          "El frigorífico del futuro notará cuando te hace falta algo",
+          "El refrigerador del futuro notará cuando te hace falta algo"
+        ],
+        [
+          "The fridge of the future will notice when you're missing something",
+          "The fridge of the future will notice when you are missing something",
+          "The fridge of the future will notice when you run out of something",
+          "The fridge of the future will notice when you need something",
+          "The fridge of the future will notice it when you're missing something",
+          "The fridge of the future will notice it when you are missing something",
+          "The fridge of the future will notice it when you run out of something",
+          "The fridge of the future will notice it when you need something",
+          "The fridge of the future will notice whenever you're missing something",
+          "The fridge of the future will notice whenever you are missing something",
+          "The fridge of the future will notice whenever you run out of something",
+          "The fridge of the future will notice whenever you need something",
+          "The fridge of the future will notice it whenever you're missing something",
+          "The fridge of the future will notice it whenever you are missing something",
+          "The fridge of the future will notice it whenever you run out of something",
+          "The fridge of the future will notice it whenever you need something",
+          "The fridge of the future will notice when you're missing anything",
+          "The fridge of the future will notice when you are missing anything",
+          "The fridge of the future will notice when you run out of anything",
+          "The fridge of the future will notice when you need anything",
+          "The fridge of the future will notice it when you're missing anything",
+          "The fridge of the future will notice it when you are missing anything",
+          "The fridge of the future will notice it when you run out of anything",
+          "The fridge of the future will notice it when you need anything",
+          "The fridge of the future will notice whenever you're missing anything",
+          "The fridge of the future will notice whenever you are missing anything",
+          "The fridge of the future will notice whenever you run out of anything",
+          "The fridge of the future will notice whenever you need anything",
+          "The fridge of the future will notice it whenever you're missing anything",
+          "The fridge of the future will notice it whenever you are missing anything",
+          "The fridge of the future will notice it whenever you run out of anything",
+          "The fridge of the future will notice it whenever you need anything"
+        ]
+      ]
     ],
     [
       "9.1G Mi casa",
@@ -6305,8 +7202,19 @@
       "9.1F Mi pueblo y mi ciudad",
       [["al lado de"], ["next to", "at the side of", "beside"]],
       [
-        ["cuarto de baño", "baño"],
-        ["bathroom", "toilet"]
+        [
+          "En mi casa hay dos cuartos de baño",
+          "En mi casa hay dos baños",
+          "En mi casa hay dos aseos",
+          "En mi casa hay dos servicios"
+        ],
+        [
+          "In my house there are two bathrooms",
+          "In my house there are two toilets",
+          "In my house there are two restrooms",
+          "In my house there are two washrooms",
+          "In my house there are two loos"
+        ]
       ],
       [
         ["El bosque está al oeste del castillo"],
@@ -6377,7 +7285,23 @@
           "The bull ring is behind the harbor"
         ]
       ],
-      [["servicios"], ["toilets", "services"]],
+      [
+        [
+          "¿Dónde están los servicios?",
+          "¿Dónde está el cuarto de baño?",
+          "¿Dónde está el baño?",
+          "¿Dónde está el aseo?"
+        ],
+        [
+          "Where are the toilets?",
+          "Where is the toilet?",
+          "Where's the toilet?",
+          "Where is the bathroom?",
+          "Where's the bathroom?",
+          "Where is the restroom?",
+          "Where's the restroom?"
+        ]
+      ],
       [["Está nevando"], ["It's snowing", "It is snowing"]],
       [["Hace frío"], ["It's cold", "It is cold"]],
       [["Aquí llueve a menudo"], ["Here it rains often"]],
