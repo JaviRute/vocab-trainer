@@ -1,12 +1,14 @@
 //TTD
+//* Añadir expresiones (no dan 25) a: Sp Y7 3.4, 4.2, 4.3, 4.4, 5.3 5.4
+//* Añadir expresiones (no dan 25) a: Sp Y8 3.1, 3.2, 3.4, 3.6, 4.2, 4.3, 5.2, 5.3, 5.4
+//* Añadir expresiones (no dan 25) a: Sp Y9 3.2, 3.3, 3.4, 3.5, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 5.3, 5.4
+//* Add Y9 French vocab (todo lo demás de KS3 Fr está de PM)
 //* sometimes it doesnt add a +1 to expressionsAnswered?
 //* mejorar visibilidad modales en modo telefono
 //* add a section of "common problems" or FAQ en Tutorial (usar en google chrome, check for errors on your answer)
 //* add special characters appearing always: ?, !, ', -
-//* avisar al estudiante si esta a punto de terminar y no ha metido su nombre, classcode, colegio
 //* change favicon
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
-//* Integrar con verbstrainer
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción
 

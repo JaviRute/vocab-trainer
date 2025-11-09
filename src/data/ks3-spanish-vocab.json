@@ -113,7 +113,7 @@
         ["Soy listo pero no soy serio"],
         [
           "I'm clever but I'm not serious",
-          "I am clever but Iam not serious",
+          "I am clever but I am not serious",
           "I'm smart but I'm not serious",
           "I am smart but I am not serious"
         ]
@@ -260,7 +260,7 @@
       [
         ["Mi cumpleaños es el catorce de septiembre"],
         [
-          "My birthday is 14th of September",
+          "My birthday is the 14th of September",
           "My birthday is fourteenth of September",
           "My birthday is on the 14th of September",
           "My birthday is on the fourteenth of September"
@@ -397,7 +397,7 @@
       [["escuchar música"], ["to listen to music", "to hear music"]],
       [
         ["jugar a los videojuegos"],
-        ["to play videogames", "to play video games"]
+        ["to play video games", "to play videogames"]
       ],
       [["leer"], ["to read"]],
       [
@@ -462,13 +462,20 @@
         [
           "I talk with my friends",
           "I chat with my friends",
-          "I speak to my friends"
+          "I speak to my friends",
+          "I talk to my friends"
         ]
       ],
-      [["hablamos"], ["we talk"]],
+      [["hablamos"], ["we talk", "we speak"]],
       [
         ["monto en bici"],
-        ["I ride my bike", "I cycle", "I ride a bike", "I go cycling"]
+        [
+          "I ride my bike",
+          "I cycle",
+          "I ride a bike",
+          "I go cycling",
+          "I ride the bike"
+        ]
       ],
       [
         ["saco fotos"],
@@ -484,7 +491,7 @@
         ]
       ],
       [["toco la guitarra"], ["I play the guitar", "I play guitar"]],
-      [["a veces"], ["sometimes"]],
+      [["a veces"], ["sometimes", "at times"]],
       [["de vez en cuando"], ["from time to time", "every now and then"]],
       [["nunca"], ["never"]],
       [["todos los días"], ["every day", "daily", "everyday"]],
@@ -527,7 +534,7 @@
       ],
       [
         ["Veo la tele"],
-        ["I watch TV", "I watch television", "I  watch the telly"]
+        ["I watch TV", "I watch television", "I watch the telly"]
       ]
     ],
     [
@@ -584,12 +591,15 @@
       ],
       [
         ["el otoño", "otoño"],
-        ["autumn", "fall"]
+        ["the autumn", "the fall", "autumn", "fall"]
       ],
-      [["el invierno", "invierno"], ["winter"]],
+      [
+        ["el invierno", "invierno"],
+        ["the winter", "winter"]
+      ],
       [["nunca"], ["never"]],
       [["generalmente"], ["generally"]],
-      [["a veces"], ["sometimes"]],
+      [["a veces"], ["sometimes", "at times"]],
       [
         ["En verano hace calor todos los días"],
         [
@@ -680,7 +690,7 @@
       [["Me gusta"], ["I like"]],
       [["Me gusta mucho"], ["I really like", "I like a lot"]],
       [["Me gusta muchísimo"], ["I really like", "I really really like"]],
-      [["Me encanta"], ["I love it"]],
+      [["Me encanta"], ["I love", "I love it"]],
       [["lunes"], ["Monday"]],
       [["martes"], ["Tuesday"]],
       [["miércoles"], ["Wednesday"]],
@@ -692,13 +702,20 @@
       [["los martes"], ["on Tuesdays", "every Tuesday"]],
       [
         ["También jugamos al fútbol"],
-        ["We also play football", "We also play soccer"]
+        [
+          "We also play football",
+          "We also play soccer",
+          "We play football too",
+          "We play soccer too",
+          "We play football as well",
+          "We play soccer as well"
+        ]
       ],
       [["Mis amigos hacen artes marciales"], ["My friends do martial arts"]]
     ],
     [
       "3.1 ¿Qué estudias?",
-      [["Estudio ciencias"], ["I study Science"]],
+      [["Estudio ciencias"], ["I study science"]],
       [["dibujo"], ["art", "drawing"]],
       [["educación física"], ["PE", "Physical Education"]],
       [["español"], ["Spanish"]],
@@ -710,7 +727,10 @@
       [["música"], ["music"]],
       [["religión"], ["RE", "Religious Studies", "Religion", "RS"]],
       [["teatro"], ["drama", "theatre", "theater"]],
-      [["tecnología"], ["technology", "DT", "design and technology"]],
+      [
+        ["tecnología"],
+        ["technology", "DT", "design and technology", "design technology"]
+      ],
 
       [
         ["¿Cuál es tu día favorito?"],
@@ -728,13 +748,13 @@
         [
           "My favourite day is Tuesday",
           "My favorite day is Tuesday",
-          "My favourites day are Tuesdays",
-          "My favorites day are Tuesdays"
+          "My favourites days are Tuesdays",
+          "My favorites days are Tuesdays"
         ]
       ],
       [
         ["Los lunes estudio geografía"],
-        ["On Mondays I study geography", "Mondays I study geography"]
+        ["On Mondays I study Geography", "Mondays I study Geography"]
       ],
       [["¿Por qué?"], ["Why?"]],
       [["Porque"], ["Because"]],
@@ -768,7 +788,7 @@
         ["I really like music", "I like music a lot"]
       ],
       [
-        ["No me gustan las matemáticas"],
+        ["No me gustan nada las matemáticas"],
         [
           "I don't like Maths at all",
           "I do not like Maths at all",
@@ -777,13 +797,23 @@
           "I don't like Math at all",
           "I do not like Math at all",
           "I really don't like Math",
-          "I really do not like Math"
+          "I really do not like Math",
+          "I really dislike Maths",
+          "I really dislike Math"
         ]
       ],
-      [["¿Te gustan las ciencias?"], ["Do you like science?"]],
+      [
+        ["¿Te gustan las ciencias?"],
+        ["Do you like science?", "Do you like sciences?"]
+      ],
       [
         ["Sí, me encantan las ciencias"],
-        ["Yes, I love science", "Yes I love science"]
+        [
+          "Yes, I love science",
+          "Yes I love science",
+          "Yes, I love sciences",
+          "Yes I love sciences"
+        ]
       ],
       [
         ["El profesor es paciente", "La profesora es paciente"],
@@ -826,7 +856,8 @@
           "I think IT is practical",
           "I think ICT is practical",
           "I think computing is practical",
-          "I think computer science is practical"
+          "I think computer science is practical",
+          "I think computer studies is practical"
         ]
       ],
       [
@@ -867,8 +898,8 @@
       [
         ["un campo de fútbol"],
         [
-          "a football field",
           "a football pitch",
+          "a football field",
           "a soccer field",
           "a soccer pitch"
         ]
@@ -884,6 +915,7 @@
         [
           "an ICT room",
           "an IT room",
+          "a computer room",
           "a computing room",
           "an ICT classroom",
           "an IT classroom",
@@ -892,7 +924,7 @@
       ],
       [["una piscina"], ["a swimming pool", "a pool", "a swimming-pool"]],
       [["unos laboratorios"], ["some laboratories", "some labs"]],
-      [["unas clases"], ["some classrooms", "some rooms"]],
+      [["unas clases"], ["some classrooms", "some rooms", "some lessons"]],
       [
         ["No hay piscina"],
         [
@@ -971,7 +1003,11 @@
           "The dining hall is modern but the library is old",
           "The canteen is modern but the library is old",
           "The cafeteria is modern but the library is old",
-          "The dining room is modern but the library is old"
+          "The dining room is modern but the library is old",
+          "The dining hall is modern but the library is old-fashioned",
+          "The canteen is modern but the library is old-fashioned",
+          "The cafeteria is modern but the library is old-fashioned",
+          "The dining room is modern but the library is old-fashioned"
         ]
       ]
     ],
@@ -987,44 +1023,85 @@
         ]
       ],
       [
-        ["Como un bocadillo"],
-        ["I eat a sandwich", "I eat a roll", "I eat a baguette"]
+        ["Como un bocadillo", "Como un sándwich"],
+        [
+          "I eat a sandwich",
+          "I eat a baguette",
+          "I eat a roll",
+          "I eat a sandwich roll"
+        ]
       ],
       [["unos caramelos"], ["some sweets"]],
       [["chicle"], ["chewing gum", "chewing-gum", "gum"]],
       [["una chocolatina"], ["a chocolate bar"]],
       [["fruta"], ["fruit"]],
-      [["unas patatas fritas"], ["some crisps"]],
+      [["unas patatas fritas"], ["some crisps", "some chips"]],
       [["Bebo agua"], ["I drink water"]],
-      [["un refresco"], ["a fizzy drink", "a soft drink"]],
-      [["un zumo", "un jugo"], ["a juice"]],
+      [["un refresco"], ["a fizzy drink", "a soft drink", "a soda"]],
+      [
+        ["un zumo", "un jugo"],
+        ["a juice", "a fruit juice"]
+      ],
       [
         ["Leo mis SMS", "Leo mis mensajes"],
         ["I read my text messages", "I read my texts", "I read my messages"]
       ],
       [
         ["Escribo SMS", "Escribo mensajes"],
-        [
-          "I write text messages",
-          "I write texts",
-          "I write messages",
-          "I send text messages",
-          "I send texts",
-          "I send messages"
-        ]
+        ["I write text messages", "I write texts", "I write messages"]
       ],
       [
         ["Nunca hago los deberes"],
         [
           "I never do homework",
+          "I never do any homework",
           "I never do my homework",
           "I never do the homework"
         ]
       ],
       [["normalmente"], ["normally"]],
-      [["a veces"], ["sometimes"]],
+      [["a veces"], ["sometimes", "at times"]],
       [["primero"], ["first", "firstly"]],
-      [["luego"], ["then", "afterwards", "later", "after"]]
+      [["luego"], ["then", "afterwards", "later", "after"]],
+      [
+        ["Pedro come un bocadillo"],
+        ["Pedro eats a sandwich", "Pedro eats a baguette", "Pedro eats a roll"]
+      ],
+      [["Lucas nunca lee libros"], ["Lucas never reads books"]],
+      [
+        ["A veces escuchamos música"],
+        ["Sometimes we listen to music", "At times we listen to music"]
+      ],
+      [
+        ["Alba habla con sus amigas"],
+        ["Alba talks to her friends", "Alba speaks to her friends"]
+      ],
+      [["Daniel juega al baloncesto"], ["Daniel plays basketaball"]],
+      [
+        ["Durante el recreo"],
+        [
+          "During breaktime",
+          "During break",
+          "At breaktime",
+          "At break",
+          "At recess"
+        ]
+      ],
+      [["Juego al fútbol"], ["I play football", "I play soccer"]],
+      [
+        ["Cuando hace buen tiempo"],
+        [
+          "When it's good weather",
+          "When it's nice weather",
+          "When it is nice weather",
+          "When it is good weather",
+          "When the weather is good",
+          "When there's good weather",
+          "When there's nice weather",
+          "When there is good weather",
+          "When there is nice weather"
+        ]
+      ]
     ],
     [
       "4.1 ¿Cuántas personas hay en tu familia?",
@@ -1051,7 +1128,7 @@
       [["mi padre"], ["my father", "my dad"]],
       [["mi abuelo"], ["my grandfather", "my grandad", "my grandpa"]],
       [["mi abuela"], ["my grandmother", "my grandma", "my granny"]],
-      [["mi bisabuela"], ["my great-grandmother"]],
+      [["mi bisabuela"], ["my great-grandmother", "my great grandma"]],
       [["mi tío"], ["my uncle"]],
       [["mi tía"], ["my aunt"]],
       [["mis primos"], ["my cousins"]],
@@ -1096,7 +1173,8 @@
           "their brothers",
           "his siblings",
           "her siblings",
-          "their siblings"
+          "their siblings",
+          "their brothers and sisters"
         ]
       ],
       [["treinta"], ["thirty", "30"]],
@@ -1106,7 +1184,7 @@
       [["setenta"], ["seventy", "70"]],
       [["ochenta"], ["eighty", "80"]],
       [["noventa"], ["ninety", "90"]],
-      [["cien"], ["one hundred", "100", "a hundred"]]
+      [["cien"], ["one hundred", "100", "a hundred", "hundred"]]
     ],
     [
       "4.2 ¿De qué color tienes los ojos?",
@@ -1125,7 +1203,7 @@
       [["Tengo los ojos verdes"], ["I have green eyes"]],
       [
         ["Llevo gafas", "Tengo gafas"],
-        ["I wear glasses", "I have glasses"]
+        ["I wear glasses", "I have glasses", "I've got glasses"]
       ],
       [
         ["¿Cómo tienes el pelo?"],
@@ -1135,18 +1213,18 @@
           "How is your hair?"
         ]
       ],
-      [["Tengo el pelo castaño"], ["I have brown hair"]],
+      [["Tengo el pelo castaño"], ["I have brown hair", "I've got brown hair"]],
       [
         ["Tengo el pelo largo y rizado"],
         ["I have long curly hair", "I have long and curly hair"]
       ],
       [["negro"], ["black"]],
-      [["rubio"], ["blond", "blonde", "fair", "fair-haired"]],
+      [["rubio"], ["blonde", "blond", "fair", "fair-haired"]],
       [["azul"], ["blue"]],
-      [["liso"], ["straight"]],
+      [["Tengo el pelo liso"], ["I have straight hair"]],
       [["rizado"], ["curly"]],
       [["largo"], ["long"]],
-      [["corto"], ["short"]],
+      [["Tengo el pelo corto"], ["I have short hair"]],
       [
         ["Soy pelirrojo", "Soy pelirroja"],
         [
@@ -1156,12 +1234,57 @@
           "I have red hair",
           "I am a redhead",
           "I am red-haired",
-          "I am ginger"
+          "I am ginger",
+          "I've got red hair"
         ]
       ],
       [
         ["Soy calvo", "Soy calva"],
         ["I'm bald", "I am bald"]
+      ],
+      [
+        ["Tiene quince años"],
+        [
+          "He's fifteen years old",
+          "She's fifteen years old",
+          "He is fifteen years old",
+          "She is fifteen years old",
+          "He's fifteen",
+          "She's fifteen",
+          "He is fifteen",
+          "She is fifteen"
+        ]
+      ],
+      [
+        ["Mi hermana tiene el pelo largo"],
+        ["My sister has long hair", "My sister's got long hair"]
+      ],
+      [
+        ["Mi padre tiene los ojos verdes"],
+        ["My dad has green eyes", "My father has green eyes"]
+      ],
+      [["Toca la guitarra"], ["He plays guitar", "She plays guitar"]],
+      [
+        ["Es una chica muy interesante"],
+        ["She's a very interesting girl", "She is a very interesting girl"]
+      ],
+      [
+        ["Canta en el grupo U2"],
+        [
+          "He sings in the band U2",
+          "Shee sings in the band U2",
+          "He sings in the group U2",
+          "Shee sings in the group U2"
+        ]
+      ],
+      [
+        ["Se llama Maria"],
+        [
+          "She's called Maria",
+          "She is called Maria",
+          "Her name is Maria",
+          "Her name's Maria"
+        ]
       ]
     ],
     [
@@ -1197,7 +1320,7 @@
       [["joven"], ["young"]],
       [
         ["viejo", "vieja", "mayor"],
-        ["old", "elderly", "aged", "senior", "older"]
+        ["old", "elderly", "aged", "senior", "older", "old man"]
       ],
       [["Tiene pecas"], ["He has freckles", "She has freckles"]],
       [
@@ -1217,7 +1340,11 @@
         ["¿Cómo es tu casa?"],
         [
           "What is your house like?",
+          "What's your house like?",
+          "What is your home like?",
+          "What's your home like?",
           "What is your flat like?",
+          "What's your flat like?",
           "How is your house?",
           "How is your flat?"
         ]
@@ -1251,7 +1378,9 @@
           "It is downtown",
           "It's downtown",
           "It is in the town centre",
-          "It's in the town centre"
+          "It's in the town centre",
+          "It's in the middle of the city",
+          "It is in the middle of the city"
         ]
       ],
       [
@@ -1262,12 +1391,22 @@
       [["una ciudad"], ["a city", "a town"]],
       [["el desierto"], ["the desert"]],
       [["la montaña"], ["the mountains", "the mountain"]],
-      [["un pueblo"], ["a village", " a town"]],
-      [["el norte"], ["the North"]],
-      [["el sur"], ["the South"]],
-      [["el este"], ["the East"]],
-      [["el oeste"], ["the West"]],
-      [["el centro"], ["the centre", "downtown", "the center", "the middle"]]
+      [["un pueblo"], ["a village", "a town"]],
+      [["el norte"], ["the north"]],
+      [["el sur"], ["the nouth"]],
+      [["el este"], ["the east"]],
+      [["el oeste"], ["the west"]],
+      [
+        ["el centro"],
+        [
+          "the centre",
+          "downtown",
+          "the center",
+          "the middle",
+          "the town centre",
+          "the town center"
+        ]
+      ]
     ],
     [
       "5.1 ¿Qué hay en tu ciudad?",
@@ -1675,7 +1814,10 @@
       ],
       [
         ["El año pasado fui a Escocia en autocar"],
-        ["Last year I went to Scotland by coach"]
+        [
+          "Last year I went to Scotland by coach",
+          "Last year I went to Scotland by bus"
+        ]
       ],
       [
         [
@@ -1720,14 +1862,20 @@
       [["¡Qué bien!"], ["How great!", "How good!"]],
       [["¡Qué bonito!"], ["How nice!", "How pretty!", "How beautiful!"]],
       [["¡Qué divertido!"], ["How fun!", "How amusing!", "How funny!"]],
-      [["¡Qué guay!"], ["How cool!", "Cool!"]],
-      [["¡Qué rico!"], ["How tasty!", "How delicious!"]],
+      [["¡Qué guay!"], ["How cool!", "Cool!", "How awesome!"]],
+      [
+        ["¡Qué rico!"],
+        ["How tasty!", "How delicious!", "How tasty", "How yummy!"]
+      ],
       [["¡Qué suerte!"], ["How lucky!", "What luck!"]],
       [["¡Qué aburrido!"], ["How boring!"]],
       [["¡Qué horror!"], ["How awful!", "How dreadful!", "How horrible!"]],
       [["¡Qué lástima!"], ["What a shame!", "What a pity!"]],
       [["¡Qué mal!"], ["How bad!", "That's bad!"]],
-      [["¡Qué rollo!"], ["How annoying!", "How boring!", "What a pain!"]]
+      [
+        ["¡Qué rollo!"],
+        ["How annoying!", "How boring!", "What a pain!", "What a drag!"]
+      ]
     ],
     [
       "1.2 ¿Qué hiciste?",
@@ -1766,7 +1914,8 @@
           "My friends rode a bike",
           "My friends cycled",
           "My friends rode their bike",
-          "My friends rode their bikes"
+          "My friends rode their bikes",
+          "My friends rode their bicycles"
         ]
       ],
       [["Nadé en el mar"], ["I swam in the sea", "I went swimming in the sea"]],
@@ -1800,7 +1949,12 @@
       ],
       [
         ["No compré nada"],
-        ["I didn't buy anything", "I did not buy anything", "I bought nothing"]
+        [
+          "I didn't buy anything",
+          "I did not buy anything",
+          "I bought nothing",
+          "I didn't buy anything at all"
+        ]
       ],
       [
         ["Fui a Madrid de vacaciones"],
@@ -1879,7 +2033,12 @@
       [["Fui a un restaurante"], ["I went to a restaurant"]],
       [
         ["Fuimos en coche y autocar", "Fuimos en coche y en autocar"],
-        ["We went by car and coach", "We went by car and by coach"]
+        [
+          "We went by car and coach",
+          "We went by car and by coach",
+          "We went by car and bus",
+          "We went by car and by bus"
+        ]
       ],
       [["Fui de compras por la mañana"], ["I went shopping in the morning"]],
       [
@@ -1926,7 +2085,16 @@
       ],
       [["Fue genial"], ["It was great", "It was excellent"]],
       [["Fue guay"], ["It was cool", "It was awesome"]],
-      [["Fue regular"], ["It was OK", "It was so-so", "It was so so"]],
+      [
+        ["Fue regular"],
+        [
+          "It was OK",
+          "It was so-so",
+          "It was so so",
+          "It was all right",
+          "It was okay"
+        ]
+      ],
       [["Fue un desastre"], ["It was a disaster"]],
       [["Fue horrible"], ["It was horrible", "It was awful"]],
       [
@@ -1934,13 +2102,18 @@
         ["It was terrible", "It was dreadful", "It was horrible"]
       ],
       [["Fue raro"], ["It was weird", "It was strange"]],
-      [["Me gustó"], ["I liked it"]],
-      [["Me encantó"], ["I loved it"]],
+      [["Me gustó"], ["I liked it", "I liked"]],
+      [["Me encantó"], ["I loved it", "I loved"]],
       [["¿Por qué?"], ["Why?"]],
       [["porque"], ["because"]],
       [
         ["Hizo buen tiempo"],
-        ["The weather was good", "It was nice weather", "It was good weather"]
+        [
+          "The weather was good",
+          "It was nice weather",
+          "It was good weather",
+          "The weather was nice"
+        ]
       ],
       [
         ["Comí algo malo y vomité"],
@@ -1955,9 +2128,15 @@
       [["Perdí mi pasaporte"], ["I lost my passport"]],
       [
         ["Perdí mi móvil", "Perdí mi teléfono"],
-        ["I lost my mobile", "I lost my phone"]
+        ["I lost my mobile", "I lost my phone", "I lost my mobile phone"]
       ],
-      [["Fue genial porque hizo sol"], ["It was great because it was sunny"]],
+      [
+        ["Fue genial porque hizo sol"],
+        [
+          "It was great because it was sunny",
+          "It was great because the sun was shining"
+        ]
+      ],
       [
         ["Visitamos muchas ruinas"],
         [
@@ -1993,7 +2172,7 @@
         ["Chateo con mis amigos"],
         [
           "I chat with my friends",
-          "I chat online  with my friends",
+          "I chat online with my friends",
           "I message my friends"
         ]
       ],
@@ -2028,7 +2207,7 @@
       [["¿Con qué frecuencia?"], ["How often?"]],
       [["todos los días"], ["every day", "daily"]],
       [["dos o tres veces a la semana"], ["two or three times a week"]],
-      [["a veces"], ["sometimes"]],
+      [["a veces"], ["sometimes", "at times"]],
       [["de vez en cuando"], ["from time to time", "every now and then"]],
       [["nunca"], ["never"]],
       [
@@ -2215,7 +2394,7 @@
       [["prefiero"], ["I prefer"]],
       [
         ["Mis padres prefieren los documentales"],
-        ["Mi parents prefer documentaries"]
+        ["My parents prefer documentaries"]
       ],
       [
         ["Mi programa favorito se llama The IT Crowd"],
@@ -2239,11 +2418,12 @@
       [
         [
           "¿Prefieres las comedias o los realitys?",
+          "¿Prefieres las comedias o los realities?",
           "¿Prefieres las comedias o los reality shows?"
         ],
         ["¿Do you prefer comedies or reality shows?"]
       ],
-      [["Si, estoy de acuerdo"], ["Yes, I agree", "Yes, I do agree"]],
+      [["Sí, estoy de acuerdo"], ["Yes, I agree", "Yes, I do agree"]],
       [["¿Estás de acuerdo?"], ["Do you agree?"]]
     ],
     [
@@ -2324,17 +2504,15 @@
         [
           "I watch many movies on the internet",
           "I see many movies on the internet",
-          "I watch many movies on the internet",
           "I see lots of movies on the internet",
           "I watch many films on the internet",
           "I see many films on the internet",
-          "I watch many films on the internet",
           "I see lots of films on the internet"
         ]
       ],
       [
         ["Juego en línea todos los días"],
-        ["I play online everyday", "I play online every day"]
+        ["I play online every day", "I play online everyday"]
       ],
       [
         ["Normalmente no monto en bici"],
@@ -2375,11 +2553,17 @@
       ],
       [
         ["Me gusta mucho", "Me gustan mucho"],
-        ["I really like", "I like a lot"]
+        [
+          "I really like",
+          "I like a lot",
+          "I really like it",
+          "I like it a lot",
+          "I like a lot"
+        ]
       ],
-      [["Me encantan", "Me encantan"], ["I love"]],
+      [["Me encanta", "Me encantan"], ["I love"]],
       [
-        ["No me gusta nada", "No me gusta nada"],
+        ["No me gusta nada", "No me gustan nada"],
         ["I really don't like", "I don't like at all"]
       ],
       [["Odio"], ["I hate"]],
@@ -2419,9 +2603,9 @@
         ["Desayuno cereales"],
         [
           "I have cereals for breakfast",
-          "I eat cereals for breakfast ",
+          "I eat cereals for breakfast",
           "I have cereal for breakfast",
-          "I eat cereal for breakfast "
+          "I eat cereal for breakfast"
         ]
       ],
       [["churros"], ["churros", "sweet fritters"]],
@@ -2431,7 +2615,7 @@
         ["yogurt", "yoghurt"]
       ],
       [["café"], ["coffee"]],
-      [["Cola Cao"], ["Cola Cao", "chocolate drink"]],
+      [["Cola Cao"], ["Cola Cao", "chocolate drink", "hot chocolate"]],
       [["té"], ["tea"]],
       [["zumo de naranja", "jugo de naranja"], ["orange juice"]],
       [
@@ -2450,9 +2634,13 @@
       ],
       [
         ["Como un bocadillo", "Como un sándwich"],
-        ["I eat a sandwich", "I eat a baguette"]
+        [
+          "I eat a sandwich",
+          "I eat a baguette",
+          "I eat a roll",
+          "I eat a sandwich roll"
+        ]
       ],
-
       [
         ["¿Qué cenas?"],
         ["What do you have for dinner?", "What do you eat for dinner?"]
@@ -2467,7 +2655,6 @@
         ]
       ],
       [["patatas fritas"], ["chips", "fries", "French fries"]],
-
       [
         ["¿A qué hora desayunas?"],
         [
@@ -2513,7 +2700,7 @@
     ],
     [
       "3.3 En el restaurante",
-      [["buenos días"], ["good day", "good morning"]],
+      [["buenos días"], ["good morning", "good day"]],
       [
         ["¿Qué va a tomar usted?", "¿Qué va a tomar?"],
         ["What are you going to have?", "What will you have?"]
@@ -2531,14 +2718,21 @@
       [
         ["Voy a tomar la ensalada mixta", "Voy a pedir la ensalada mixta"],
         [
-          "I'll have mixed salad",
+          "I'm going to have the mixed salad",
+          "I am going to have the mixed salad",
+          "I'll have the mixed salad",
+          "I'm going to order the mixed salad",
+          "I am going to order the mixed salad",
           "I'm going to have mixed salad",
-          "I'm going to order mixed salad"
+          "I am going to have mixed salad",
+          "I'll have mixed salad",
+          "I'm going to order mixed salad",
+          "I am going to order mixed salad"
         ]
       ],
       [
         ["de primer plato", "de primero"],
-        ["as a starter", "for starter"]
+        ["as a starter", "for a starter"]
       ],
       [["de segundo plato", "de segundo"], ["for main course"]],
       [["de postre"], ["for dessert"]],
@@ -2546,17 +2740,36 @@
       [["Tengo sed"], ["I am thirsty", "I'm thirsty"]],
       [["nada más"], ["nothing else"]],
       [["La cuenta, por favor"], ["The bill, please", "The check, please"]],
-      [["los huevos fritos", "huevos fritos"], ["fried eggs"]],
-      [["la sopa", "sopa"], ["soup"]],
-      [["el pan", "pan"], ["bread"]],
-      [["las chuletas de cerdo", "chuletas de cerdo"], ["pork chops"]],
+      [
+        ["los huevos fritos", "huevos fritos"],
+        ["the fried eggs", "fried eggs"]
+      ],
+      [
+        ["la sopa", "sopa"],
+        ["the soup", "soup"]
+      ],
+      [
+        ["el pan", "pan"],
+        ["the bread", "bread"]
+      ],
+      [
+        ["las chuletas de cerdo", "chuletas de cerdo"],
+        ["the pork chops", "pork chops"]
+      ],
       [
         ["el filete", "filete"],
-        ["steak", "fillet"]
+        [
+          "the steak",
+          "the fillet",
+          "the beef steak",
+          "steak",
+          "fillet",
+          "beef steak"
+        ]
       ],
       [
         ["el pollo con pimientos", "pollo con pimientos"],
-        ["chicken with peppers"]
+        ["the chicken with peppers", "chicken with peppers"]
       ],
       [
         [
@@ -2569,10 +2782,16 @@
       ],
       [
         ["el helado de chocolate", "helado de chocolate"],
-        ["chocolate ice cream"]
+        ["the chocolate ice cream", "chocolate ice cream"]
       ],
-      [["el helado de fresa", "helado de fresa"], ["strawberry ice cream"]],
-      [["el helado de vainilla", "helado de vainilla"], ["vanilla ice cream"]],
+      [
+        ["el helado de fresa", "helado de fresa"],
+        ["the strawberry ice cream", "strawberry ice cream"]
+      ],
+      [
+        ["el helado de vainilla", "helado de vainilla"],
+        ["the vanilla ice cream", "vanilla ice cream"]
+      ],
       [
         [
           "la tarta de queso",
@@ -2580,7 +2799,7 @@
           "tarta de queso",
           "pastel de queso"
         ],
-        ["cheesecake"]
+        ["the cheesecake", "cheesecake"]
       ]
     ],
     [
@@ -2589,7 +2808,7 @@
       [["¿Qué vas a comprar?"], ["What are you going to buy?"]],
       [["Voy a traer"], ["I am going to bring", "I'm going to bring"]],
       [["quesadillas"], ["quesadillas"]],
-      [["limonada"], ["lemonade", "limeade"]],
+      [["limonada"], ["lemonade"]],
       [["Voy a comprar"], ["I am going to buy", "I'm going to buy"]],
       [["una lechuga"], ["a lettuce"]],
       [["un pimiento verde"], ["a green pepper", "a green bell pepper"]],
@@ -2623,7 +2842,7 @@
       [["una botella de limonada"], ["a bottle of lemonade"]]
     ],
     [
-      "3.6 ¿Y tu? ¿Qué opinas?",
+      "3.6 ¿Y tú? ¿Qué opinas?",
       [
         ["¿Y tú?", "¿Y usted?"],
         ["And you?", "What about you?"]
@@ -2658,7 +2877,7 @@
       ],
       [
         ["Vale...", "Está bien..."],
-        ["OK...", "Alright...", "Fine"]
+        ["OK...", "Alright...", "Fine...", "Okay...", "Alright then..."]
       ],
 
       [
@@ -2673,9 +2892,9 @@
       [
         ["¿Puedes hablar más despacio, por favor?"],
         [
+          "Can you speak slower, please?",
           "Can you speak more slowly, please?",
           "Could you speak more slowly, please?",
-          "Can you speak slower, please?",
           "Could you speak slower, please?"
         ]
       ]
@@ -2700,7 +2919,10 @@
       ],
       [["al museo"], ["to the museum"]],
       [["al parque"], ["to the park"]],
-      [["a la pista de hielo"], ["to the ice rink", "to go ice skating"]],
+      [
+        ["a la pista de hielo"],
+        ["to the ice rink", "to go ice skating", "to the skating rink"]
+      ],
       [["al polideportivo"], ["to the sports centre", "to the sports complex"]],
 
       [
@@ -2720,7 +2942,7 @@
           "Yes, I'd like it very much"
         ]
       ],
-      [["¡Ni hablar!"], ["No way!", "Not at all!"]],
+      [["¡Ni hablar!"], ["No way!", "Not at all!", "Abolutely not!"]],
       [
         ["¡Ni en sueños!"],
         ["Not a chance!", "No way!", "Not in your wildest dreams!"]
@@ -2729,7 +2951,14 @@
       [["¡Qué aburrido!"], ["How boring!", "That's so boring"]],
 
       [["¿Dónde quedamos?"], ["Where do we meet?", "Where shall we meet?"]],
-      [["al lado de la bolera"], ["next to the bowling alley"]],
+      [
+        ["al lado de la bolera"],
+        [
+          "next to the bowling alley",
+          "beside the bowling alley",
+          "by the bowling alley"
+        ]
+      ],
       [
         ["delante de la cafetería"],
         ["in front of the café", "outside the café"]
@@ -2756,18 +2985,18 @@
       [["Tengo que hacer los deberes"], ["I have to do my homework"]],
       [
         ["cuidar a mi hermano", "cuidar de mi hermano"],
-        ["look after my brother", "take care of my brother"]
+        ["to look after my brother", "to take care of my brother"]
       ],
-      [["lavarme el pelo"], ["wash my hair"]],
+      [["lavarme el pelo"], ["to wash my hair"]],
       [
         ["ordenar mi dormitorio", "ordenar mi cuarto", "ordenar mi habitación"],
-        ["tidy my room", "clean my room"]
+        ["to tidy my room", "to clean my room"]
       ],
       [
         ["pasear al perro", "sacar al perro"],
-        ["walk the dog", "take the dog for a walk"]
+        ["to walk the dog", "to take the dog for a walk"]
       ],
-      [["salir con mis padres"], ["go out with my parents"]],
+      [["salir con mis padres"], ["to go out with my parents"]],
       [
         ["No quiero"],
         ["I don't want to", "I do not want to", "I don't feel like it"]
@@ -2801,7 +3030,14 @@
       [["Me maquillo"], ["I put on make-up"]],
       [["Me peino"], ["I comb my hair"]],
       [["Me aliso el pelo"], ["I straighten my hair"]],
-      [["Me pongo gomina"], ["I put gel on my hair"]],
+      [
+        ["Me pongo gomina"],
+        [
+          "I put gel on my hair",
+          "I put hair gel on",
+          "I put hair gel in my hair"
+        ]
+      ],
       [["primero"], ["first", "firstly"]],
       [["luego"], ["later", "then", "after that"]],
       [["después"], ["afterwards", "after that"]],
@@ -2819,11 +3055,33 @@
       [
         ["Normalmente los fines de semana llevo unos vaqueros azules"],
         [
+          "Normally at weekends I wear blue jeans",
+          "Normally at the weekends I wear blue jeans",
+          "Normally at weekends I wear some blue jeans",
+          "Normally at the weekends I wear some blue jeans",
+          "Normally at weekends I wear a pair of blue jeans",
+          "Normally at the weekends I wear a pair of blue jeans",
+          "Normally at weekends I normally wear blue jeans",
+          "At the weekends I normally wear blue jeans",
           "At weekends I normally wear some blue jeans",
-          "At the weekends I normally wear some blue jeans"
+          "At the weekends I normally wear some blue jeans",
+          "At weekends I normally wear a pair of blue jeans",
+          "At the weekends I normally wear a pair of blue jeans",
+          "Normally at weekends I wear blue jeans",
+          "Normally on the the weekends I wear blue jeans",
+          "Normally on the weekends I wear some blue jeans",
+          "Normally on the the weekends I wear some blue jeans",
+          "Normally on the weekends I wear a pair of blue jeans",
+          "Normally on the the weekends I wear a pair of blue jeans",
+          "Normally on the weekends I normally wear blue jeans",
+          "On the the weekends I normally wear blue jeans",
+          "On the weekends I normally wear some blue jeans",
+          "On the the weekends I normally wear some blue jeans",
+          "On the weekends I normally wear a pair of blue jeans",
+          "On the the weekends I normally wear a pair of blue jeans"
         ]
       ],
-      [["una camiseta"], ["a T-shirt", "a tee"]],
+      [["una camiseta"], ["a T-shirt", "a tee", "a T shirt", "a tshirt"]],
       [
         ["un jersey", "un suéter"],
         ["a jumper", "a sweater"]
@@ -2832,12 +3090,31 @@
       [["una falda"], ["a skirt"]],
       [["un vestido"], ["a dress"]],
       [["una gorra"], ["a cap", "a baseball cap"]],
-      [["unos pantalones"], ["trousers", "pants"]],
-      [["unas botas"], ["boots"]],
-      [["unos zapatos"], ["shoes", "dress shoes"]],
+      [
+        ["unos pantalones"],
+        [
+          "some trousers",
+          "some pants",
+          "a pair of trousers",
+          "trousers",
+          "pants"
+        ]
+      ],
+      [["unas botas"], ["some boots", "boots"]],
+      [
+        ["unos zapatos"],
+        ["some shoes", "some dress shoes", "shoes", "dress shoes"]
+      ],
       [
         ["unas zapatillas de deporte", "unas deportivas"],
-        ["trainers", "sneakers", "sports shoes"]
+        [
+          "some trainers",
+          "some sneakers",
+          "some sports shoes",
+          "trainers",
+          "sneakers",
+          "sports shoes"
+        ]
       ],
       [
         ["¿Vas a salir esta noche?"],
@@ -2873,14 +3150,17 @@
       [["verde"], ["green"]],
       [
         ["de muchos colores", "multicolor"],
-        ["multi-coloured", "multicolored"]
+        ["multi-coloured", "multicolored", "in many colours", "in many colors"]
       ]
     ],
     [
       "5.1 ¿Qué casa prefieres?",
       [["¿Qué casa prefieres?"], ["Which house do you prefer?"]],
       [["Esta casa es antigua"], ["This house is old"]],
-      [["Este piso es cómodo"], ["This flat is comfortable"]],
+      [
+        ["Este piso es cómodo"],
+        ["This flat is comfortable", "This apartment is comfortable"]
+      ],
       [
         ["amplio", "amplia"],
         ["spacious", "large"]
@@ -2949,7 +3229,10 @@
         ["Se puede", "Se pueden"],
         ["You can", "It is possible to"]
       ],
-      [["hacer senderismo"], ["go hiking", "go trekking", "go walking"]],
+      [
+        ["hacer senderismo"],
+        ["go hiking", "go trekking", "go walking", "to hike"]
+      ],
       [
         ["hacer actividades náuticas", "hacer deportes acuáticos"],
         ["do water sports", "do aquatic activities"]
@@ -2960,7 +3243,7 @@
       [["ir de compras"], ["go shopping"]],
       [
         ["ir de paseo en bicicleta", "montar en bici", "montar en bicicleta"],
-        ["go on a bike ride", "ride a bike", "go cycling"]
+        ["go on a bike ride", "ride a bike", "go cycling", "to cycle"]
       ],
       [["ir a la playa"], ["go to the beach"]],
       [["ir al restaurante"], ["go to the restaurant", "go to a restaurant"]],
@@ -2980,7 +3263,7 @@
         ["la estación de tren", "la estación"],
         ["the railway station", "the train station"]
       ],
-      [["el minigolf"], ["the minigolf", "the crazy golf"]],
+      [["el minigolf"], ["the mini-golf", "the minigolf", "the crazy golf"]],
       [["el parque de atracciones"], ["the theme park", "the amusement park"]],
       [["el parque acuático"], ["the water park"]],
       [
@@ -2991,7 +3274,12 @@
 
       [
         ["Sigue todo recto", "Siga todo recto"],
-        ["Keep straight on", "Go straight ahead", "Carry straight on"]
+        [
+          "Keep straight on",
+          "Go straight ahead",
+          "Carry straight on",
+          "Go straight on"
+        ]
       ],
       [["Dobla a la derecha", "Gira a la derecha"], ["Turn right"]],
       [["Dobla a la izquierda", "Gira a la izquierda"], ["Turn left"]],
@@ -3007,7 +3295,15 @@
       "5.4 Campamentos de verano",
       [["Me gusta"], ["I like"]],
       [["Me encanta"], ["I love"]],
-      [["Me gustaría mucho"], ["I would really like", "I would like a lot"]],
+      [
+        ["Me gustaría mucho"],
+        [
+          "I'd really like",
+          "I'd like a lot",
+          "I would really like",
+          "I would like a lot"
+        ]
+      ],
       [["Me encantaría"], ["I would love"]],
 
       [["ayer"], ["yesterday"]],
@@ -3039,11 +3335,17 @@
         ["What things do you love?"]
       ],
       [["Me gusta el cine"], ["I like the cinema", "I like the movies"]],
-      [["Me encanta el baile"], ["I love dance", "I love dancing"]],
+      [
+        ["Me encanta el baile"],
+        ["I love dancing", "I love dance", "I love the dance"]
+      ],
       [["Me chifla el deporte"], ["I love sports", "I love sport"]],
       [["Me flipa el dibujo"], ["I love art", "I love drawing"]],
-      [["Me mola la moda"], ["I love fashion", "I love style"]],
-      [["No me gustan los lunes"], ["I don't like Mondays"]],
+      [["Me mola la moda"], ["I love fashion"]],
+      [
+        ["No me gustan los lunes"],
+        ["I don't like Mondays", "I do not like Mondays", "I dislike Mondays"]
+      ],
       [
         ["No me gustan nada los insectos"],
         [
@@ -3066,10 +3368,13 @@
       [["Voy al parque muy a menudo"], ["I go to the park very often"]],
       [
         ["Voy al polideportivo dos veces a la semana"],
-        ["I go to the sports centre twice a week "],
-        ["I go to the sports center twice a week "]
+        ["I go to the sports centre twice a week"],
+        ["I go to the sports center twice a week"]
       ],
-      [["Voy de pesca casi todos los días"], ["I go fishing almost every day"]],
+      [
+        ["Voy de pesca casi todos los días"],
+        ["I go fishing almost every day", "I go fishing nearly every day"]
+      ],
       [
         ["Soy miembro de un club"],
         ["I am a member of a club", "I'm a member of a club"]
@@ -3087,7 +3392,7 @@
         ["¿Cómo organizas tu semana?"],
         ["How do you organise your week?", "How do you organize your week?"]
       ],
-      [["Bailo Zumba"], ["I dance Zumba"]],
+      [["Bailo Zumba"], ["I dance Zumba", "I do Zumba"]],
       [["Cocino para mi familia"], ["I cook for my family"]],
       [["Escribo canciones"], ["I write songs"]],
       [
@@ -3135,12 +3440,17 @@
         ["I am a member of a club", "I'm a member of a club"]
       ],
       [
-        ["Soy adicto a los videojuegos", "Soy adicto a los videojuegos"],
-        ["I'm addicted to videogames", "I am addicted to videogames"]
+        ["Soy adicto a los videojuegos", "Soy adicto a los video juegos"],
+        [
+          "I'm addicted to video games",
+          "I am addicted to video games",
+          "I'm addicted to videogames",
+          "I am addicted to videogames"
+        ]
       ],
       [
         ["Escribo canciones todos los días"],
-        ["I write songs everyday", "I write songs every day"]
+        ["I write songs every day", "I write songs everyday"]
       ],
       [["Preparo la cena muy a menudo"], ["I prepare dinner very often"]]
     ],
@@ -3195,14 +3505,19 @@
       [["De acuerdo"], ["All right", "Okay", "OK"]],
       [["Voy a ir"], ["I am going to go", "I'm going to go"]],
       [["No voy a ir"], ["I am not going to go", "I'm not going to go"]],
-      [["No gracias"], ["No thanks", "No thank you"]],
+      [["No, gracias"], ["No, thanks", "No, thank you"]],
       [["¿Estás loco?", "¿Estás loca?"], ["Are you crazy?"]],
       [["¡Ni en sueños!"], ["Not a chance!", "No way!", "In your dreams!"]],
       [["¡Qué rollo!"], ["How boring!", "That's boring"]],
 
       [
         ["¿Qué tipo de películas te gustan?"],
-        ["What type of movies do you like?", "What type of films do you like?"]
+        [
+          "What type of movies do you like?",
+          "What type of films do you like?",
+          "What kind of movies do you like?",
+          "What kind of films do you like?"
+        ]
       ],
       [["Me encantan las comedias"], ["I love comedies"]],
       [
@@ -3251,15 +3566,19 @@
         [
           "I invited my friends to sleep over at my house",
           "I invited my friends to stay the night at my house",
-          "I invited my friends for a sleepover at my house"
+          "I invited my friends for a sleepover at my house",
+          "I invited my friends to stay over at my house"
         ]
       ],
       [["Bebí refrescos"], ["I drank soft drinks", "I drank sodas"]],
       [
         ["Bebimos zumo de naranja", "Bebimos jugo de naranja"],
-        ["We drank orange juice"]
+        ["We drank orange juice", "We had orange juice"]
       ],
-      [["Comí tarta de cumpleaños"], ["I ate birthday cake"]],
+      [
+        ["Comí tarta de cumpleaños"],
+        ["I ate birthday cake", "I had birthday cake"]
+      ],
       [["Comimos pizza"], ["We ate pizza"]],
       [
         ["Recibí muchos regalos"],
@@ -3302,10 +3621,7 @@
     ],
     [
       "2.1 Hotel Catástrofe",
-      [
-        ["Soy camarero"],
-        ["I am a waiter", "I'm a waiter", "I am a waitress", "I'm a waitress"]
-      ],
+      [["Soy camarero"], ["I am a waiter", "I'm a waiter"]],
       [
         ["cocinero", "cocinera"],
         ["a cook", "a chef"]
@@ -3359,12 +3675,15 @@
       ],
       [
         ["vender productos en la tienda"],
-        ["to sell products in the shop", "sell products in the store"]
+        ["to sell products in the shop", "to sell products in the store"]
       ],
       [["¿Te gusta tu trabajo?"], ["Do you like your job?"]],
       [
         ["Me gusta mi trabajo porque es estimulante"],
-        ["I like my job because it is stimulating"]
+        [
+          "I like my job because it is stimulating",
+          "I like my job because it's rewarding"
+        ]
       ],
       [
         ["No me gusta mi trabajo porque es repetitivo"],
@@ -3458,7 +3777,11 @@
           "I would not like to work alone at all",
           "I wouldn't like to work alone at all",
           "I really would not like to work alone",
-          "I really wouldn't like to work alone"
+          "I really wouldn't like to work alone",
+          "I would not like working alone at all",
+          "I wouldn't like working alone at all",
+          "I really would not like working alone",
+          "I really wouldn't like working alone"
         ]
       ],
       [
@@ -3534,10 +3857,12 @@
           "In this moment I work at a hotel",
           "At this moment I work at a hotel",
           "In this moment I work in a hotel",
-          "At this moment I work in a hotel"
+          "At this moment I work in a hotel",
+          "At the moment I work at a hotel",
+          "At the moment I work in a hotel"
         ]
       ],
-      [["Tengo que limpar habitaciones"], ["I have to clean rooms"]],
+      [["Tengo que limpiar habitaciones"], ["I have to clean rooms"]],
       [["Es repetitivo"], ["It's repetitive", "It is repetitive"]],
       [
         ["Mi jefe es muy antipático"],
@@ -3545,7 +3870,8 @@
           "My boss is very unkind",
           "My boss is very unfriendly",
           "My boss is very mean",
-          "My boss is very rude"
+          "My boss is very rude",
+          "My boss is very unpleasant"
         ]
       ],
       [
@@ -3601,13 +3927,14 @@
         ]
       ],
       [
+        ["Por eso decidí ser abogado", "Por eso decidí ser abogada"],
         [
-          "Me gusta mucho y por eso decidí ser abogado",
-          "Me gusta mucho y por eso decidí ser abogada"
-        ],
-        [
-          "I really like and so I decided to be a lawyer",
-          "I really like and so I decided to become a lawyer"
+          "that's why I decided to be a lawyer",
+          "that's why I decided to become a lawyer",
+          "that is why I decided to be a lawyer",
+          "that is why I decided to become a lawyer",
+          "because of that I decided to be a lawyer",
+          "because of that I decided to become a lawyer"
         ]
       ],
       [
@@ -3639,7 +3966,7 @@
           "What qualities do you need to have?"
         ]
       ],
-      [["Tienes que ser"], ["You have to be"]],
+      [["Tienes que ser"], ["You have to be", "You need to be"]],
       [["Los idiomas son muy importantes"], ["Languages are very important"]],
       [
         ["Hablo español, alemán e inglés"],
@@ -3682,6 +4009,8 @@
         [
           "You have to be organised",
           "You have to be well organised",
+          "You need to be organised",
+          "You need to be well organised",
           "You must be organised",
           "You must be well organised"
         ]
@@ -3718,7 +4047,12 @@
       [["Como huevos"], ["I eat eggs"]],
       [
         ["Comí verduras"],
-        ["I ate vegetables", "I ate veggies", "I ate greens"]
+        [
+          "I ate vegetables",
+          "I ate some vegetables",
+          "I ate veggies",
+          "I ate greens"
+        ]
       ],
       [["Bebo agua"], ["I drink water"]],
 
@@ -3733,7 +4067,7 @@
       [["dos veces a la semana"], ["twice a week"]],
       [["los fines de semana"], ["at weekends", "on weekends"]],
       [["una vez al mes"], ["once a month"]],
-      [["a veces"], ["sometimes"]],
+      [["a veces"], ["sometimes", "at times"]],
       [["de vez en cuando"], ["from time to time", "occasionally"]],
       [["Nunca lo como", "Nunca la como"], ["I never eat it"]],
       [
@@ -3762,7 +4096,10 @@
       [["Hago gimnasia"], ["I do gymnastics"]],
       [["Hago natación"], ["I go swimming"]],
       [["Juego al baloncesto"], ["I play basketball"]],
-      [["Juego al ping pong"], ["I play table tennis", "I play ping pong"]],
+      [
+        ["Juego al ping pong"],
+        ["I play table tennis", "I play ping pong", "I play ping-pong"]
+      ],
       [["Juego al rugby"], ["I play rugby"]],
       [["Juego al tenis"], ["I play tennis"]],
       [["Juego al voleibol"], ["I play volleyball"]],
@@ -3906,14 +4243,14 @@
           "to work out for one hour a day",
           "to exercise for one hour a day",
           "to train for an hour a day",
-          "to work out an one hour a day",
-          "to exercise an one hour a day",
+          "to work out an hour a day",
+          "to exercise an hour a day",
           "train for one hour a day",
           "work out for one hour a day",
           "exercise for one hour a day",
           "train for an hour a day",
-          "work out an one hour a day",
-          "exercise an one hour a day"
+          "work out an hour a day",
+          "exercise an hour a day"
         ]
       ],
 
@@ -3925,10 +4262,10 @@
       [
         ["beber muchos refrescos"],
         [
+          "to drink many soft drinks",
           "drink lots of soft drinks",
           "drink many soft drinks",
-          "to drink lots of soft drinks",
-          "to drink many soft drinks"
+          "to drink lots of soft drinks"
         ]
       ],
       [["comer comida basura"], ["eat junk food", "to eat junk food"]],
@@ -3942,7 +4279,7 @@
     ],
     [
       "3.5 Me duele todo",
-      [["¿Qué tal estás?", "¿Qué tal?", "Cómo tal estás?"], ["How are you?"]],
+      [["¿Qué tal estás?", "¿Qué tal?", "Cómo estás?"], ["How are you?"]],
       [["¿Qué te duele?"], ["What hurts?"]],
       [["¿Te duele el estómago?"], ["Does your stomach hurt?"]],
       [["Me duele el brazo"], ["My arm hurts"]],
@@ -3956,9 +4293,9 @@
       [["Me duelen los dientes"], ["My teeth hurt"]],
       [["Me duelen los oídos"], ["My ears hurt", "I have earache"]],
       [["Me duelen los ojos"], ["My eyes hurt"]],
-      [["Tengo catarro"], ["I have a cold"]],
+      [["Tengo catarro"], ["I have a cold", "I've got a cold"]],
       [["Tengo náuseas"], ["I feel sick", "I feel nauseous"]],
-      [["Tengo quemaduras de sol"], ["I have sunburn"]],
+      [["Tengo quemaduras de sol"], ["I have sunburn", "I've got sunburn"]],
       [["Tengo tos"], ["I have a cough"]],
       [
         ["Estoy cansado", "Estoy cansada"],
@@ -3974,9 +4311,16 @@
       "4.1 Mis derechos",
       [
         ["Tengo derecho a la educación"],
-        ["I have the right to education", "I am entitled to education"]
+        [
+          "I have the right to an education",
+          "I have the right to education",
+          "I am entitled to education"
+        ]
       ],
-      [["al amor y a la familia"], ["to love and to family"]],
+      [
+        ["al amor y a la familia"],
+        ["to love and family", "to love and to family"]
+      ],
       [["al juego"], ["to play"]],
       [["a la libertad de expresión"], ["to freedom of expression"]],
       [["a un medio ambiente sano"], ["to a healthy environment"]],
@@ -3996,7 +4340,10 @@
       [["dormir"], ["to sleep"]],
       [["respirar"], ["to breathe"]],
       [["soy una chica"], ["I am a girl", "I'm a girl"]],
-      [["tengo que ganar dinero"], ["I have to earn money"]],
+      [
+        ["tengo que ganar dinero"],
+        ["I have to earn money", "I need to earn money"]
+      ],
       [
         ["hay mucha violencia en mi ciudad"],
         ["there is a lot of violence in my city"]
@@ -4009,7 +4356,7 @@
 
       [
         ["Soy inglés", "Soy inglesa"],
-        ["I am Colombian", "I'm Colombian"]
+        ["I am English", "I'm English"]
       ],
       [["boliviano", "boliviana"], ["Bolivian"]],
       [["colombiano", "colombiana"], ["Colombian"]],
@@ -4089,8 +4436,8 @@
           "to switch off the lights"
         ]
       ],
-      [["cerrar el grifo"], ["turn off the tap", "to turn off the tap"]],
-      [["conservar el agua"], ["save water", "to save water"]],
+      [["cerrar el grifo"], ["to turn the tap off", "to turn off the tap"]],
+      [["conservar el agua"], ["to save water", "save water"]],
       [
         ["desenchufar los aparatos eléctricos"],
         [
@@ -4133,7 +4480,15 @@
           "throw rubbish on the ground",
           "throw trash on the ground",
           "throw rubbish on the floor",
-          "throw trash on the floor"
+          "throw trash on the floor",
+          "to throw rubbish to the ground",
+          "to throw trash to the ground",
+          "to throw rubbish to the floor",
+          "to throw trash to the floor",
+          "throw rubbish to the ground",
+          "throw trash to the ground",
+          "throw rubbish to the floor",
+          "throw trash to the floor"
         ]
       ],
       [["usar bolsas de plástico"], ["to use plastic bags", "use plastic bags"]]
@@ -4145,8 +4500,8 @@
         ["¿Cómo era tu ciudad antes?", "¿Cómo era tu pueblo antes?"],
         ["What was your town like before?", "What was your city like before?"]
       ],
-      [["Antes"], ["Before", "In the past"]],
-      [["Antes"], ["Before"]],
+      [["Antes"], ["Before", "Some time ago"]],
+      [["En el pasado"], ["In the past"]],
       [
         ["era bastante aburrido", "era bastante aburrida"],
         ["it used to be quite boring", "it was quite boring"]
@@ -4200,14 +4555,19 @@
       [
         ["no había medios de transporte público"],
         [
+          "there didn't use to be any public transport",
           "there didn't use to be means of public transport",
-          "there was no public transport"
+          "there was no public transport",
+          "there wasn't any public transport"
         ]
       ],
 
       [["¿Cómo es ahora?"], ["What is it like now?"]],
       [["Ahora"], ["Now"]],
-      [["está limpia"], ["it is clean", "it's clean"]],
+      [
+        ["está limpia"],
+        ["it is clean", "it's clean", "it is tidy", "it's tidy"]
+      ],
       [
         ["hay menos basura"],
         [
@@ -4289,7 +4649,11 @@
 
       [
         ["Quiero ducharme", "Me quiero duchar"],
-        ["I want to have a shower", "I want to shower"]
+        [
+          "I want to have a shower",
+          "I want to shower",
+          "I want to take a shower"
+        ]
       ],
       [
         ["¿Puedo acostarme?", "¿Me puedo acostar?"],
@@ -4297,7 +4661,7 @@
       ],
       [
         ["mandar un SMS", "mandar un mensaje", "enviar un mensaje"],
-        ["to send a text", "to send a message"]
+        ["to send a text", "to send a message", "to send a text message"]
       ],
       [
         ["ver la tele", "ver la televisión"],
@@ -4364,7 +4728,16 @@
       ],
       [
         ["ir a la churrería"],
-        ["to go to the churros shop", "go to the churros shop"]
+        [
+          "to go to the churros shop",
+          "go to the churros shop",
+          "to go to the churro shop",
+          "go to the churro shop",
+          "to go to the churreria",
+          "go to the churreria",
+          "to go to the churrería",
+          "go to the churrería"
+        ]
       ],
       [
         ["ir al estadio Santiago Bernabéu"],
@@ -4424,10 +4797,10 @@
       [["un imán"], ["a magnet"]],
       [["un llavero"], ["a key ring", "a keychain"]],
       [["una camiseta"], ["a T-shirt"]],
-      [["una figurita"], ["a figurine", "a little figure"]],
+      [["una figurita"], ["a figurine", "a little figure", "a small figurine"]],
       [["una taza"], ["a cup", "a mug"]],
-      [["unos pendientes"], ["earrings"]],
-      [["unas castañuelas"], ["castanets"]],
+      [["unos pendientes"], ["earrings", "some earrings"]],
+      [["unas castañuelas"], ["castanets", "some castanets"]],
       [["turrón"], ["nougat", "Spanish nougat"]],
 
       [
@@ -4462,7 +4835,8 @@
         [
           "What are you looking for?",
           "What do you want?",
-          "What would you like?"
+          "What would you like?",
+          "How can I help you?"
         ]
       ],
       [["¿Cuánto es?"], ["How much is it?", "How much does it cost?"]],
@@ -4531,12 +4905,21 @@
         [
           "If it's good weather",
           "If it is good weather",
-          "If the weather is good"
+          "If the weather is good",
+          "If it's nice weather",
+          "If it is nice weather",
+          "If the weather is nice"
         ]
       ],
       [
         ["hace mal tiempo"],
-        ["it's bad weather", "it is bad weather", "the weather is bad"]
+        [
+          "the weather is bad",
+          "it's bad weather",
+          "it is bad weather",
+          "there's bad weather",
+          "there is bad weather"
+        ]
       ],
       [["hace frío"], ["it's cold", "it is cold"]],
       [["hace sol"], ["it's sunny", "it is sunny", "the sun is shining"]],

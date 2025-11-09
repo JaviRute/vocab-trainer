@@ -7064,9 +7064,49 @@
           "When I grow up"
         ]
       ],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
+      [
+        [
+          "Te veré cuando vengas a España",
+          "Te veré una vez que vengas a España"
+        ],
+        [
+          "I'll see you when you come to Spain",
+          "I will see you when you come to Spain",
+          "I'll see you whenever you come to Spain",
+          "I will see you whenever you come to Spain",
+          "I'll see you once you come to Spain",
+          "I will see you once you come to Spain"
+        ]
+      ],
+      [
+        ["Cuando vaya a la universidad"],
+        [
+          "When I go to university",
+          "Once I go to university",
+          "When I go to uni",
+          "Once I go to uni"
+        ]
+      ],
+      [
+        ["Cuando tengas tiempo"],
+        [
+          "When you have time",
+          "Once you have time",
+          "Whenever you have time",
+          "When you've got time",
+          "Once you've got time",
+          "Whenever you've got time",
+          "When you have the time",
+          "Once you have the time",
+          "Whenever you have the time",
+          "When you've got the time",
+          "Once you've got the time",
+          "Whenever you've got the time",
+          "When you get time",
+          "Once you get time",
+          "Whenever you get time"
+        ]
+      ],
       [[""], [""]],
       [[""], [""]],
       [

@@ -178,7 +178,12 @@
       ],
       [
         ["J'ai onze ans"],
-        ["I'm ten years old", "I am ten years old", "I'm ten", "I am ten"]
+        [
+          "I'm eleven years old",
+          "I am eleven years old",
+          "I'm eleven",
+          "I am eleven"
+        ]
       ],
       [
         ["J'ai douze ans"],
@@ -192,7 +197,7 @@
       [
         ["J'ai treize ans"],
         [
-          "I'm ten thirteen old",
+          "I'm thirteen old",
           "I am thirteen years old",
           "I'm thirteen",
           "I am thirteen"
@@ -259,7 +264,7 @@
       "1.2 Voici ma salle de classe!",
       [
         ["Qu'est-ce qu'il y a sur la photo?"],
-        ["What's on the picture?", "What is on the photo?"]
+        ["What's in the picture?", "What is in the photo?"]
       ],
       [
         ["Sur la photo, il y a un tableau blanc"],
@@ -633,8 +638,8 @@
           "I'm looking for a friend born in November"
         ]
       ],
-      ["Je suis né en mai.", "Je suis née en mai."],
-      ["I was born in May"]
+      [["Je suis né en mai.", "Je suis née en mai."]],
+      [["I was born in May"]]
     ],
     [
       "2.0 Point de départ",
@@ -865,7 +870,7 @@
       ],
       [
         ["je chante dans la chorale"],
-        ["I sing in the choir", "I sing in choir"]
+        ["I sing in the choir", "I sing at the choir"]
       ],
       [
         ["je joue dehors"],
@@ -1043,11 +1048,7 @@
         ]
       ],
       [
-        [
-          "J'ai deux heures d'anglais",
-          "J ai deux heures d'anglais",
-          "J'ai 2 heures d'anglais"
-        ],
+        ["J'ai deux heures d'anglais", "J'ai 2 heures d'anglais"],
         [
           "I have two hours of English",
           "I've got two hours of English",
@@ -1056,11 +1057,7 @@
         ]
       ],
       [
-        [
-          "J'ai trois heures de maths",
-          "J ai trois heures de maths",
-          "J'ai 3 heures de maths"
-        ],
+        ["J'ai trois heures de maths", "J'ai 3 heures de maths"],
         [
           "I have three hours of maths",
           "I've got three hours of maths",
@@ -1069,7 +1066,7 @@
         ]
       ],
       [
-        ["J'ai une heure d'histoire", "J ai une heure d histoire"],
+        ["J'ai une heure d'histoire"],
         [
           "I have one hour of history",
           "I've got one hour of history",
@@ -1106,7 +1103,7 @@
           "At ten there is recess",
           "At ten o'clock, there is break",
           "At 10 o'clock, there is break",
-          "At ten there, is recess"
+          "At ten there's recess"
         ]
       ],
       [
@@ -1199,15 +1196,32 @@
       [["Il y a des courts de tennis"], ["There are tennis courts"]],
       [
         ["Il n'y a pas de harcèlement"],
-        ["There isn't bullying", "There is no bullying", "There's no bullying"]
+        [
+          "There isn't any bullying",
+          "There is no bullying",
+          "There's no bullying"
+        ]
       ],
       [
         ["Il n'y a pas de toilettes sales"],
-        ["There aren't dirty toilets", "There are no dirty toilets"]
+        [
+          "There aren't any dirty toilets",
+          "There aren't any dirty toilets",
+          "There are not any dirty toilets",
+          "There are no dirty toilets"
+        ]
       ],
       [
-        ["Il n'y a pas de profs trop sévères"],
-        ["There aren't too strict teachers", "There are no too strict teachers"]
+        [
+          "Les profs ne sont pas trop sévères",
+          "Les professeurs ne sont pas trop sévères"
+        ],
+        [
+          "Teachers aren't too strict",
+          "Teachers are not too strict",
+          "The teachers aren't too strict",
+          "The teachers are not too strict"
+        ]
       ],
       [["On porte un jean"], ["We wear jeans"]],
       [["On porte un tee-shirt"], ["We wear a t-shirt"]],
@@ -1224,11 +1238,23 @@
       [["Il y a du wifi"], ["There's wifi", "There is wifi"]],
       [
         ["Il n'y a pas de cours"],
-        ["There aren't lessons", "There are no lessons"]
+        [
+          "There aren't any lessons",
+          "There are no lessons",
+          "There aren't lessons",
+          "There are no lessons"
+        ]
       ],
       [
         ["Il y a une pente pour faire du skate"],
-        ["There's a slope to skateboard", "There is a slope to skateboard"]
+        [
+          "There's a slope for skateboarding",
+          "There is a slope for skateboarding",
+          "There is a ramp for skateboarding",
+          "There's a ramp for skateboarding",
+          "There's a slope to skateboard on",
+          "There's a slope to skateboard on"
+        ]
       ]
     ],
     [
@@ -1240,8 +1266,12 @@
       [
         ["Il fait beau"],
         [
-          "The weather's fine",
-          "The weather is fine",
+          "The weather's nice",
+          "The weather is nice",
+          "The weather's good",
+          "The weather is good",
+          "The weather's nice",
+          "The weather is nice",
           "It's nice",
           "It is nice",
           "It's good weather",
@@ -1342,7 +1372,8 @@
           "I go skateboarding",
           "I do skateboarding",
           "I ride a skate",
-          "I ride my skate"
+          "I ride my skate",
+          "I skateboard"
         ]
       ],
       [["Je fais du patin à glace"], ["I go ice skating", "I do ice skating"]],
@@ -1449,8 +1480,8 @@
         [
           "We go canyoning",
           "People go canyoning",
-          "We go canyoning",
-          "People go canyoning"
+          "We do canyoning",
+          "People do canyoning"
         ]
       ],
       [
@@ -1507,7 +1538,12 @@
       ],
       [
         ["On fait de la motoneige"],
-        ["We go snowbiking", "People go snowbiking"]
+        [
+          "We go snowmobiling",
+          "People go snowmobiling",
+          "We go snowbiking",
+          "People go snowbiking"
+        ]
       ],
       [
         ["On joue au volley sur la plage"],
@@ -1546,7 +1582,7 @@
     [
       "3.4 Tu aimes faire ça?",
       [
-        ["Qu'est-ce que tu aimes faire sur ton portable"],
+        ["Qu'est-ce que tu aimes faire sur ton portable?"],
         [
           "What do you like doing on your phone?",
           "What do you like to do on your phone?"
@@ -1617,7 +1653,12 @@
       [["parce que c'est amusant"], ["because it's fun", "because it is fun"]],
       [
         ["parce que c'est marrant"],
-        ["because it's funny", "because it is funny"]
+        [
+          "because it's funny",
+          "because it is funny",
+          "because it's funny",
+          "because it is funny"
+        ]
       ],
       [
         ["parce que c'est ennuyeux"],
@@ -1830,7 +1871,7 @@
         [
           "Do you like watching TV?",
           "Do you like to watch TV?",
-          "Do you like to watch television?",
+          "Do you like watching television?",
           "Do you like to watch television?"
         ]
       ],
@@ -1886,7 +1927,7 @@
         ["I have a fish", "I've got a fish", "I own a fish"]
       ],
       [
-        ["J'ai un serpent", "J'ai un reptile serpent"],
+        ["J'ai un serpent"],
         ["I have a snake", "I've got a snake", "I own a snake"]
       ],
       [
@@ -1925,6 +1966,9 @@
       [
         ["J'ai douze poissons rouges", "J'ai 12 poissons rouges"],
         [
+          "I have twelve goldfish",
+          "I've got twelve goldfish",
+          "I own twelve goldfish",
           "I have twelve red goldfish",
           "I've got twelve red goldfish",
           "I own twelve red goldfish"
@@ -1935,8 +1979,8 @@
         [
           "My pet is three years old",
           "My animal is three years old",
-          "My pet is three years",
-          "My animal is three years"
+          "My pet is three",
+          "My animal is three"
         ]
       ],
       [["vingt"], ["twenty", "20"]],
@@ -1989,7 +2033,7 @@
       [["la fille"], ["the daughter"]],
       [["mes parents", "mes géniteurs"], ["my parents"]],
       [["Elle est petite"], ["She is small", "She is little", "She is short"]],
-      [["Il est grand"], ["He is tall", "He is big", "He is large"]],
+      [["Il est grand"], ["He is tall", "He is big", "He's tall", "He's big"]],
       [
         ["Elle est de taille moyenne"],
         ["She is medium-sized", "She is average height", "She is medium height"]
@@ -2009,11 +2053,11 @@
       "4.2 Où habites-tu?",
       [
         ["Où habites-tu?", "Tu habites où?", "Où est-ce que tu habites?"],
-        ["Where do you live?", "Where are you living?", "Where do you stay?"]
+        ["Where do you live?", "Where are you living?"]
       ],
       [
         ["J'habite en Angleterre", "Je vis en Angleterre"],
-        ["I live in England", "I'm living in England", "I stay in England"]
+        ["I live in England", "I'm living in England"]
       ],
       [
         [
@@ -2021,7 +2065,7 @@
           "Je vis au pays de Galles",
           "J'habite au Pays de Galles"
         ],
-        ["I live in Wales", "I'm living in Wales", "I stay in Wales"]
+        ["I live in Wales", "I'm living in Wales"]
       ],
       [
         ["J'habite dans un appartement", "Je vis dans un appartement"],
@@ -2029,7 +2073,7 @@
       ],
       [
         ["J'habite dans une maison", "Je vis dans une maison"],
-        ["I live in a house", "I'm living in a house", "I stay in a house"]
+        ["I live in a house", "I'm living in a house"]
       ],
       [
         [
@@ -2037,7 +2081,7 @@
           "On habite dans une maison",
           "Nous vivons dans une maison"
         ],
-        ["We live in a house", "We're living in a house", "We stay in a house"]
+        ["We live in a house", "We're living in a house"]
       ],
       [
         ["J'aime habiter ici", "J'aime vivre ici"],
@@ -2161,7 +2205,7 @@
       ],
       [
         [
-          "Je deteste mon appartement parce qu'il est trop petit",
+          "Je déteste mon appartement parce qu'il est trop petit",
           "Je déteste mon appartement car il est trop petit"
         ],
         [
@@ -2350,17 +2394,19 @@
       ],
       [
         ["Nous écoutons l'orchestre"],
-        ["We listen to the orchestra", "We listen the orchestra"]
+        ["We listen to the orchestra", "We hear the orchestra"]
       ],
       [
         ["Nous faisons la fête jusqu'à 23h"],
-        ["We celebrate until 11pm", "We celebrate until 11pm"]
+        ["We celebrate until 11pm", "We celebrate until 23h"]
       ],
       [
         ["Puis, à 23h, nous regardons le feu d'artifice"],
         [
           "Then, at 11pm, we watch the fireworks",
-          "Then, at 11pm, we see the fireworks"
+          "Then, at 11pm, we see the fireworks",
+          "Then, at 23h, we watch the fireworks",
+          "Then, at 23h, we see the fireworks"
         ]
       ],
       [
@@ -2469,7 +2515,14 @@
       ],
       [
         ["Pépé est marrant", "Mon grand-père est marrant"],
-        ["My grandpa is funny", "My grandfather is funny"]
+        [
+          "My grandpa is funny",
+          "My grandfather is funny",
+          "My grandpa is fun",
+          "My grandfather is fun",
+          "My grandpa is amusing",
+          "My grandfather is amusing"
+        ]
       ],
       [["Marie-Rose est sévère"], ["Marie-Rose is strict"]],
       [
@@ -2518,7 +2571,7 @@
           "What's there in your village?",
           "What is there in your town?",
           "What is there in your village?",
-          "What's in your town"
+          "What's in your town?"
         ]
       ],
       [
@@ -2607,10 +2660,10 @@
         [
           "In my town there isn't a swimming pool and it's rubbish",
           "In my town there's no swimming pool and it's rubbish",
-          "In my town there is no a swimming pool and it is rubbish",
+          "In my town there is no swimming pool and it is rubbish",
           "In my town, there isn't a swimming pool and it's rubbish",
           "In my town, there's no swimming pool and it's rubbish",
-          "In my town, there is no a swimming pool and it is rubbish"
+          "In my town, there is no swimming pool and it is rubbish"
         ]
       ]
     ],
@@ -2654,7 +2707,11 @@
       ],
       [
         ["Ils vont au musée du Louvre"],
-        ["They go to the Louvre museum", "They go to musée du Louvre"]
+        [
+          "They go to the Louvre museum",
+          "They go to musée du Louvre",
+          "They go to the musée du Louvre"
+        ]
       ],
       [
         ["Mon père va au stade du Parc des Princes"],
@@ -2685,7 +2742,11 @@
           "We don't go bowling because it's boring",
           "We do not go bowling because it is boring",
           "We don't go bowling alley because it's boring",
-          "We do not go bowling alley because it is boring"
+          "We do not go bowling alley because it is boring",
+          "We don't go to the bowling because it's boring",
+          "We do not go to the bowling because it is boring",
+          "We don't go to the bowling alley because it's boring",
+          "We do not go to the bowling alley because it is boring"
         ]
       ]
     ],
@@ -2848,7 +2909,11 @@
           "I'm going to go to the Louvre",
           "I am going to go to the Louvre",
           "I'm going to go to the Louvre museum",
-          "I am going to go to the Louvre museum"
+          "I am going to go to the Louvre museum",
+          "I'm going to the Louvre",
+          "I am going to the Louvre",
+          "I'm going to the Louvre museum",
+          "I am going to the Louvre museum"
         ]
       ],
       [
@@ -3128,6 +3193,10 @@
           "Nous avons 1 semaine de vacances"
         ],
         [
+          "We have a week's holiday",
+          "We have a week of holidays",
+          "We've got a week's holiday",
+          "We've got a week of holidays",
           "We have a week of holiday",
           "We've got a week of holiday",
           "We have one week of holiday",
@@ -3207,6 +3276,7 @@
       [
         [
           "Je suis en colo avec mes copains",
+          "Je suis en colonie avec mes copains",
           "Je suis en colonie de vacances avec mes copains"
         ],
         [
@@ -3349,7 +3419,10 @@
         ["J'ai rigolé avec mes copains"],
         ["I laughed with my friends", "I had a laugh with my friends"]
       ],
-      [["J'ai lu un BD"], ["I read a comic", "I read a comic book"]],
+      [
+        ["J'ai lu une BD", "J'ai lu un BD", "J'ai lu une bande dessinée"],
+        ["I read a comic", "I read a comic book"]
+      ],
       [["J'ai dormi beaucoup"], ["I slept a lot", "I slept very much"]],
       [
         ["J'ai passé la journée avec mes amis"],
@@ -3404,7 +3477,7 @@
       ],
       [
         ["C'était amusant", "C'était marrant", "C'était sympa"],
-        ["It was fun", "It was funny", "It was nice"]
+        ["It was fun", "It was funny", "It was nice", "It was amusing"]
       ],
       [["C'était intéressant"], ["It was interesting"]],
       [["C'était ennuyeux"], ["It was boring"]],
@@ -3424,7 +3497,13 @@
       ],
       [
         ["J'ai fait une balade au bord de la rivière"],
-        ["I went on a boat ride on the river"]
+        [
+          "I went for a walk by the river",
+          "I went for a walk along the riverbank",
+          "I went for a walk along the riverbank",
+          "I took a walk along the riverbank",
+          "I went on a boat ride on the river"
+        ]
       ],
       [["J'ai bu une limonade"], ["I drank a lemonade"]],
       [["J'ai visité Futuroscope"], ["I visited Futuroscope"]],
@@ -3713,12 +3792,16 @@
       ],
       [["je fais du sport"], ["I do sport", "I do sports"]],
       [
-        ["je mange des hamburger-frites"],
+        ["je mange des hamburgers-frites"],
         [
           "I eat burgers and chips",
           "I eat hamburgers and chips",
           "I eat burgers and fries",
-          "I eat hamburgers and fries"
+          "I eat hamburgers and fries",
+          "I eat burger and chips",
+          "I eat hamburger and chips",
+          "I eat burger and fries",
+          "I eat hamburger and fries"
         ]
       ],
       [["C'est un peu ennuyeux"], ["It's a bit boring", "It is a bit boring"]],
@@ -3894,7 +3977,14 @@
       ],
       [
         ["C'est marrant"],
-        ["It's fun", "It's funny", "It is fun", "It is funny"]
+        [
+          "It's fun",
+          "It's funny",
+          "It is fun",
+          "It is funny",
+          "It's amusing",
+          "It is amusing"
+        ]
       ],
       [
         ["C'est trop commercial"],
@@ -4072,14 +4162,30 @@
         ["pancakes with orange sauce", "the pancakes with orange sauce"]
       ],
       [["le thon"], ["tuna", "the tuna"]],
-      [["le fromage blanc"], ["soft white cheese", "the soft white cheese"]],
-      [["la crème fraîche"], ["thick sour cream", "the thick sour cream"]],
+      [
+        ["le fromage blanc"],
+        [
+          "soft white cheese",
+          "the soft white cheese",
+          "soft fresh cheese",
+          "the fresh white cheese"
+        ]
+      ],
+      [
+        ["la crème fraîche"],
+        [
+          "fresh cream",
+          "crème fraîche",
+          "thick sour cream",
+          "the thick sour cream"
+        ]
+      ],
       [
         ["la semoule"],
         ["couscous grains", "semolina", "the couscous grains", "the semolina"]
       ],
       [["l'ail"], ["garlic", "the garlic"]],
-      [["un pois chiche"], ["a chickpea", "one chickpea"]],
+      [["des pois chiches"], ["chickpeas", "some chickpeas"]],
       [["une courgette"], ["a courgette", "one courgette"]],
       [["une carotte"], ["a carrot", "one carrot"]],
       [
@@ -4099,7 +4205,10 @@
         ]
       ],
       [
-        ["À Pâques, je suis allé à Dunkerque"],
+        [
+          "À Pâques, je suis allé à Dunkerque",
+          "À Pâques, je suis allée à Dunkerque"
+        ],
         [
           "At Easter, I went to Dunkirk",
           "On Easter, I went to Dunkirk",
@@ -4253,7 +4362,7 @@
         ["Vous allez admirer les maisons illuminées"],
         [
           "You all are going to admire the illuminated houses",
-          "You'are going to admire the illuminated houses",
+          "You're going to admire the illuminated houses",
           "You are going to admire the illuminated houses"
         ]
       ],
@@ -4292,7 +4401,7 @@
         ["manger des crêpes"],
         ["to eat pancakes", "to eat crêpes", "to eat crepes"]
       ],
-      [["prendre des photos"], ["to take photos", "to make photos"]],
+      [["prendre des photos"], ["to take photos", "to take pictures"]],
       [
         ["regarder le carnaval"],
         ["to watch the carnival", "to see the carnival"]
@@ -4303,7 +4412,7 @@
       [
         ["Quelles sont tes bonnes résolutions pour l'année prochaine?"],
         [
-          "What are your new year's resolutions?",
+          "What are your New Year's resolutions?",
           "What are your resolutions for the new year?"
         ]
       ],
@@ -4432,9 +4541,7 @@
         ["Je passe le 31 décembre chez ma mère"],
         [
           "I spend the 31st of December at my mum's",
-          "I spend the 31st of December at my mother's",
-          "I pass the 31st of December at my mum's",
-          "I pass the 31st of December at my mother's"
+          "I spend the 31st of December at my mother's"
         ]
       ],
       [["Normalement"], ["Normally"]],
@@ -4540,8 +4647,8 @@
       [
         ["les jeux télévisés", "les jeux", "les jeux TV"],
         [
-          "gameshows",
           "game shows",
+          "gameshows",
           "TV game shows",
           "the gameshows",
           "the game shows",
@@ -4614,9 +4721,9 @@
           "I love documentaries because they are interesting",
           "I love documentaries because they're interesting",
           "I love documentary programmes because they are interesting",
-          "The I love documentaries because they are interesting",
-          "The I love documentaries because they're interesting",
-          "The I love documentary programmes because they are interesting"
+          "I the love documentaries because they are interesting",
+          "I the love documentaries because they're interesting",
+          "I the love documentary programmes because they are interesting"
         ]
       ],
       [
@@ -4725,7 +4832,7 @@
       [["ce n'est pas cher"], ["it's not expensive", "it is not expensive"]],
       [
         ["j'écoute de la musique en streaming"],
-        ["I listen to music on streaming", "I stream music"]
+        ["I stream music", "I listen to music on streaming"]
       ],
       [
         ["je télécharge des chansons"],
@@ -4896,7 +5003,7 @@
       [["Chez moi"], ["At my house", "At my home"]],
       [["À plus"], ["See you later"]],
       [["À demain"], ["See you tomorrow"]],
-      [["À samedi"], ["See you on saturday"]],
+      [["À samedi"], ["See you on Saturday"]],
       [["Je peux vous aider?"], ["Can I help you?"]],
       [
         ["Je voudrais trois billets pour Matrix"],
@@ -4988,7 +5095,7 @@
         ]
       ],
       [
-        ["Je ne joue jamais à des jeux vidéos"],
+        ["Je ne joue jamais à des jeux vidéo"],
         ["I never play video games", "I don't ever play video games"]
       ],
       [
@@ -5117,13 +5224,11 @@
       [
         ["J'ai essayé plein de vêtements"],
         [
-          [
-            "I tried on lots of clothes",
-            "I tried on many clothes",
-            "I tried on a lot of clothes",
-            "I tried on loads of clothes",
-            "I tried on plenty of clothes"
-          ]
+          "I tried on lots of clothes",
+          "I tried on many clothes",
+          "I tried on a lot of clothes",
+          "I tried on loads of clothes",
+          "I tried on plenty of clothes"
         ]
       ],
       [
@@ -5406,7 +5511,7 @@
         ["I went into town with my family", "I went to town with my family"]
       ],
       [
-        ["vvoir un match de foot"],
+        ["voir un match de foot"],
         [
           "to watch a football match",
           "to watch a soccer match",
@@ -5457,14 +5562,18 @@
       [
         ["Il fait beau"],
         [
-          "The weather's fine",
-          "The weather is fine",
-          "It's nice weather",
+          "The weather's nice",
+          "The weather is nice",
+          "The weather's good",
+          "The weather is good",
+          "The weather's nice",
+          "The weather is nice",
+          "It's nice",
+          "It is nice",
           "It's good weather",
-          "There is good weather",
-          "There's good weather",
-          "There is nice weather",
-          "There's nice weather"
+          "It is good weather",
+          "It's nice weather",
+          "It is nice weather"
         ]
       ],
       [
@@ -5473,6 +5582,7 @@
           "The weather's bad",
           "The weather is bad",
           "It's bad weather",
+          "It is bad weather",
           "There is bad weather",
           "There's bad weather"
         ]
@@ -5639,7 +5749,10 @@
         ["My brother must do the washing", "My brother has to do the washing"]
       ],
       [["Ranger ma chambre"], ["to tidy my room"]],
-      [["Rapporter l'eau"], ["to collect the water"]],
+      [
+        ["Rapporter l'eau"],
+        ["to bring back the water", "to collect the water"]
+      ],
       [
         ["Garder ma sœur"],
         ["to look after my sister", "to take care of my sister"]
@@ -5690,17 +5803,21 @@
       [["C'est juste"], ["It's fair", "It is fair"]],
       [
         ["Ce n'est pas juste"],
-        ["It's not fair", "It is not fair", "It isn't fair"]
+        [
+          "It's not fair",
+          "It is not fair",
+          "It isn't fair",
+          "It's unfair",
+          "It is unfair"
+        ]
       ],
       [
         ["Pour moi, c'est juste"],
         [
           "For me, it's fair",
-          "For me, it is not fair",
-          "For me, it is not fair",
+          "For me, it is fair",
           "For me it's fair",
-          "For me it is not fair",
-          "For me it is not fair"
+          "For me it is fair"
         ]
       ],
       [
@@ -5745,7 +5862,7 @@
           "They must look after their brothers and sisters",
           "They have to look after their brothers and sisters",
           "They must take care of their brothers and sisters",
-          "They have to take are of their brothers and sisters"
+          "They have to take care of their brothers and sisters"
         ]
       ],
       [
@@ -5771,7 +5888,7 @@
       [["Je m'habille"], ["I get dressed", "I dress"]],
       [
         ["Je me lave les dents"],
-        ["I clean my teeth", "I brush my teeth", "I wash my teeth"]
+        ["I brush my teeth", "I clean my teeth", "I wash my teeth"]
       ],
       [
         ["Je quitte la maison"],
@@ -5809,11 +5926,17 @@
         ["We have a wash", "We wash ourselves", "We wash", "We get washed"]
       ],
       [
-        ["A quelle heure est-ce que tu te lèves?"],
+        [
+          "À quelle heure est-ce que tu te lèves?",
+          "A quelle heure est-ce que tu te lèves?"
+        ],
         ["What time do you get up?"]
       ],
       [
-        ["A quelle heure est-ce que tu te couches?"],
+        [
+          "À quelle heure est-ce que tu te couches?",
+          "A quelle heure est-ce que tu te couches?"
+        ],
         [
           "What time do you go to bed?",
           "What time do you go to sleep?",
@@ -5890,8 +6013,8 @@
       [
         ["Le soir, je me lave les dents"],
         [
-          "In the evening, I clean my teeth",
           "In the evening, I brush my teeth",
+          "In the evening, I clean my teeth",
           "In the evening, I wash my teeth",
           "In the evening I clean my teeth",
           "In the evening I brush my teeth",
@@ -6087,9 +6210,9 @@
           "You must take a siesta",
           "One must take a siesta",
           "You have to take a nap",
-          "One have to take a nap",
+          "One has to take a nap",
           "You have to take a siesta",
-          "One have to take a siesta"
+          "One has to take a siesta"
         ]
       ],
       [
@@ -6116,7 +6239,9 @@
         ["Qu'est-ce que tu vas faire le weekend prochain?"],
         [
           "What are you going to do next weekend?",
-          "What are you going to do on the next weekend?"
+          "What are you going to do on the next weekend?",
+          "What are you doing next weekend?",
+          "What are you doing on the next weekend?"
         ]
       ],
       [
@@ -6142,7 +6267,7 @@
       [["C'était intéressant"], ["It was interesting"]],
       [
         ["Il y a du soleil"],
-        ["It's sunny", "It is sunny", "There's some sun", "There is some sun"]
+        ["It's sunny", "It is sunny", "There's sun", "There is sun"]
       ],
       [
         ["Je suis allé à la montagne"],
