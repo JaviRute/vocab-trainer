@@ -1,8 +1,9 @@
 //TTD
-//* Añadir expresiones (no dan 25) a: Sp Y7 3.4, 4.2, 4.3, 4.4, 5.3 5.4
-//* Añadir expresiones (no dan 25) a: Sp Y8 3.1, 3.2, 3.4, 3.6, 4.2, 4.3, 5.2, 5.3, 5.4
 //* Añadir expresiones (no dan 25) a: Sp Y9 3.2, 3.3, 3.4, 3.5, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 5.3, 5.4
+//* Terminar el GCSE Sp vocab desde el 8.2H en adelante ()
 //* Add Y9 French vocab (todo lo demás de KS3 Fr está de PM)
+//* El vocab de GCSE French hay q hacerlo entero (todos son 25 expresiones, pero solo cortas)
+//* El vocab de KS3 Spanish hay q hacerlo casi entero (todos son 25 expresiones, pero solo cortas)
 //* sometimes it doesnt add a +1 to expressionsAnswered?
 //* mejorar visibilidad modales en modo telefono
 //* add a section of "common problems" or FAQ en Tutorial (usar en google chrome, check for errors on your answer)
@@ -184,7 +185,7 @@ function App() {
         for (let i = 0; i < remainingExpressions.length; i++) {
           expressions += `${i + 1}. ${remainingExpressions[i][0][0]}\n`
        } 
-        setUserResponse("Check on the console! ❤");
+        setUserResponse("Press Ctrl + Shift + i ❤ ");
         console.log(expressions);
       }
       else if (!questionAlreadyAnswered){
