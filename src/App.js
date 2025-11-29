@@ -1,5 +1,5 @@
 //TTD
-//* Añadir expresiones (no dan 25) a: Sp Y9 3.2, 3.3, 3.4, 3.5, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 5.3, 5.4
+//* Añadir expresiones (no dan 25) a: Sp Y9 5.3, 5.4
 //* Terminar el GCSE Sp vocab desde el 8.2H en adelante ()
 //* Add Y9 French vocab (todo lo demás de KS3 Fr está de PM)
 //* El vocab de GCSE French hay q hacerlo entero (todos son 25 expresiones, pero solo cortas)
@@ -185,7 +185,7 @@ function App() {
         for (let i = 0; i < remainingExpressions.length; i++) {
           expressions += `${i + 1}. ${remainingExpressions[i][0][0]}\n`
        } 
-        setUserResponse("Press Ctrl + Shift + i ❤ ");
+        setUserResponse("Press Ctrl + Shift + i and check on the console! ❤ ");
         console.log(expressions);
       }
       else if (!questionAlreadyAnswered){

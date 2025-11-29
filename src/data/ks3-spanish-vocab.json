@@ -4767,7 +4767,7 @@
         ["I am going to be famous", "I'm going to be famous"]
       ],
       [
-        ["ganar mucho dinero"],
+        ["ganar mucho dinero", "cobrar mucho dinero"],
         ["to earn a lot of money", "to earn lots of money"]
       ],
       [
@@ -4802,7 +4802,7 @@
         ]
       ],
       [
-        ["Vas a ganar mucho dinero"],
+        ["Vas a ganar mucho dinero", "Vas a cobrar mucho dinero"],
         [
           "You're going to earn a lot of money",
           "You're going to earn lots of money",
@@ -5037,7 +5037,10 @@
     [
       "3.2 ¡Preparados, listos, ya!",
       [
-        ["¿Qué haces para estar en forma?"],
+        [
+          "¿Qué haces para estar en forma?",
+          "¿Qué haces para mantenerte en forma?"
+        ],
         [
           "What do you do to keep fit?",
           "What do you do to stay fit?",
@@ -5090,7 +5093,12 @@
       ],
       [
         ["Prefiero jugar al fútbol"],
-        ["I prefer playing football", "I prefer playing soccer"]
+        [
+          "I prefer playing football",
+          "I prefer playing soccer",
+          "I prefer to play football",
+          "I prefer to play soccer"
+        ]
       ],
       [
         ["Es mi deporte preferido"],
@@ -5104,27 +5112,72 @@
       [["Empecé a jugar"], ["I started playing", "I began playing"]],
       [
         ["Empecé a los diez años"],
-        ["I started at the age of ten", "I started when I was ten"]
+        [
+          "I started at the age of ten",
+          "I started when I was ten",
+          "I began at the age of ten",
+          "I began when I was ten",
+          "I started at the age of ten years",
+          "I started when I was ten years old",
+          "I began at the age of ten years",
+          "I began when I was ten years old"
+        ]
       ],
       [
-        ["Voy a empezar a jugar"],
-        ["I am going to start playing", "I'm going to start playing"]
+        ["Voy a empezar a jugar al baloncesto"],
+        [
+          "I am going to start playing basketball",
+          "I'm going to start playing, basketball"
+        ]
       ],
       [
-        ["Voy a empezar a hacer"],
-        ["I am going to start doing", "I'm going to start doing"]
+        ["Voy a empezar a hacer gimnasia"],
+        [
+          "I am going to start doing gymnastics",
+          "I'm going to start doing gymnastics",
+          "I am going to start to do gymnastics",
+          "I'm going to start to do gymnastics"
+        ]
+      ],
+      [
+        [
+          "Hay una piscina cubierta",
+          "Hay una piscina interior",
+          "Hay una piscina climatizada",
+          "Hay una piscina climatizada cubierta"
+        ],
+        [
+          "There's an indoor swimming pool",
+          "There is an indoor swimming pool",
+          "There's an indoor pool",
+          "There is an indoor pool",
+          "There's a heated indoor swimming pool",
+          "There is a heated indoor swimming pool",
+          "There's a heated indoor pool",
+          "There is a heated indoor pool"
+        ]
       ]
     ],
     [
       "3.3 ¿Cuál es tu rutina diaria?",
-      [["¿Cuál es tu rutina diaria?"], ["What is your daily routine?"]],
-      [["Me despierto"], ["I wake up"]],
+      [
+        ["¿Cuál es tu rutina diaria?"],
+        ["What's your daily routine?", "What is your daily routine?"]
+      ],
+      [
+        ["Me despierto a las siete"],
+        [
+          "I wake up at seven",
+          "I wake up at 7",
+          "I wake up at seven o'clock",
+          "I wake up at 7 o'clock"
+        ]
+      ],
       [["Me despierto muy temprano"], ["I wake up very early"]],
       [
         ["Me despierto a las siete"],
         ["I wake up at 7 o'clock", "I wake up at seven", "I wake up at 7"]
       ],
-      [["Me levanto"], ["I get up"]],
       [
         ["Me levanto enseguida"],
         ["I get up straight away", "I get up right away"]
@@ -5135,16 +5188,46 @@
       ],
       [["Me ducho"], ["I shower", "I have a shower", "I take a shower"]],
       [["Me visto"], ["I get dressed"]],
-      [["Me acuesto"], ["I go to bed"]],
+      [
+        ["A las once me acuesto", "A las 11 me acuesto"],
+        [
+          "At eleven I go to bed",
+          "At eleven o'clock I go to bed",
+          "At 11 I go to bed",
+          "At 11 o'clock I go to bed"
+        ]
+      ],
       [["Desayuno"], ["I have breakfast", "I eat breakfast"]],
       [["Meriendo"], ["I have an afternoon snack", "I have a snack"]],
       [["Ceno"], ["I have dinner", "I eat dinner"]],
       [["Salgo"], ["I go out"]],
       [
-        ["Salgo a correr"],
-        ["I go out running", "I go running", "I go for a run"]
+        [
+          "A las diez y cuarto salgo a correr",
+          "A las 10:15 salgo a correr",
+          "A las diez y cuarto voy a correr",
+          "A las 10:15 voy a correr",
+          "A las diez y cuarto hago footing",
+          "A las 10:15 hago footing"
+        ],
+        [
+          "At quarter-past ten I go for a run",
+          "At quarter past ten I go for a run",
+          "At 10:15 I go for a run",
+          "At quarter-past ten I go running",
+          "At quarter past ten I go running",
+          "At 10:15 I go running",
+          "At quarter-past ten I go out running",
+          "At quarter past ten I go out running",
+          "At 10:15 I go out running",
+          "At quarter-past ten I go jogging",
+          "At quarter past ten I go jogging",
+          "At 10:15 I go jogging",
+          "At quarter-past ten I jog",
+          "At quarter past ten I jog",
+          "At 10:15 I jog"
+        ]
       ],
-      [["Corro"], ["I run"]],
       [
         ["Corro veinte kilómetros"],
         [
@@ -5165,10 +5248,47 @@
         ["Termino a las dos"],
         ["I finish at two o'clock", "I finish at two", "I finish at 2"]
       ],
-      [["Duermo"], ["I sleep"]],
       [
         ["Duermo ocho horas"],
         ["I sleep for eight hours", "I sleep eight hours"]
+      ],
+      [
+        ["Conocí a mucha gente"],
+        ["I met a lot of people", "I met lots of people", "I met many people"]
+      ],
+      [
+        ["Entrena todos los días", "Entrena cada día"],
+        [
+          "He trains every day",
+          "She trains every day",
+          "He trains everyday",
+          "She trains everyday",
+          "He trains all days",
+          "She trains all days"
+        ]
+      ],
+      [["David se despierta temprano"], ["David wakes up early"]],
+      [
+        [
+          "Luego se viste",
+          "Después se viste",
+          "Entonces se viste",
+          "Más tarde se viste"
+        ],
+        [
+          "Then he gets dressed",
+          "Then he dresses",
+          "Then she gets dressed",
+          "Then she dresses",
+          "Later he gets dressed",
+          "Later he dresses",
+          "Later she gets dressed",
+          "Later she dresses",
+          "Afterwards he gets dressed",
+          "Afterwards he dresses",
+          "Afterwards she gets dressed",
+          "Afterwards she dresses"
+        ]
       ]
     ],
     [
@@ -5177,7 +5297,10 @@
         ["Para estar en forma"],
         ["To keep fit", "To keep in shape", "To stay fit", "To stay in shape"]
       ],
-      [["Se debe"], ["You should", "One should", "You must", "One must"]],
+      [
+        ["Se debe", "Hay que", "Debes", "Tienes que", "Se tiene que"],
+        ["You should", "One should", "You must", "One must"]
+      ],
       [
         ["beber agua frecuentemente"],
         ["to drink water frequently", "drink water frequently"]
@@ -5212,10 +5335,24 @@
           "exercise an hour a day"
         ]
       ],
-
       [
-        ["No se debe"],
-        ["You should not", "One should not", "You must not", "One must not"]
+        [
+          "No se debe",
+          "No hay que",
+          "No debes",
+          "No tienes que",
+          "No se tiene que"
+        ],
+        [
+          "You shouldn't",
+          "One shouldn't",
+          "You mustn't",
+          "One mustn't",
+          "You should not",
+          "One should not",
+          "You must not",
+          "One must not"
+        ]
       ],
       [["beber alcohol"], ["to drink alcohol", "drink alcohol"]],
       [
@@ -5229,12 +5366,111 @@
       ],
       [["comer comida basura"], ["eat junk food", "to eat junk food"]],
       [["fumar"], ["to smoke", "smoke"]],
-
       [
         ["Soy adicto al chocolate", "Soy adicta al chocolate"],
         ["I am addicted to chocolate", "I'm addicted to chocolate"]
       ],
-      [["A partir de ahora"], ["From now on"]]
+      [["A partir de ahora"], ["From now on"]],
+      [
+        [
+          "Voy a llevar una dieta más sana",
+          "Voy a tener una dieta más sana",
+          "Voy a seguir una dieta más sana"
+        ],
+        [
+          "I'm going to have a healthier diet",
+          "I am going to have a healthier diet",
+          "I'm going to follow a healthier diet",
+          "I am going to follow a healthier diet",
+          "I'm going to have a more healthy diet",
+          "I am going to have a more healthy diet",
+          "I'm going to follow a more healthy diet",
+          "I am going to follow a more healthy diet"
+        ]
+      ],
+      [
+        [
+          "Me gustan las galletas y las como a todas horas",
+          "Me gustan las galletas y las como todo el tiempo"
+        ],
+        [
+          "I like biscuits and I eat them all the time",
+          "I like cookies and I eat them all the time",
+          "I like biscuits and I eat them every hour",
+          "I like cookies and I eat them every hour"
+        ]
+      ],
+      [["¡Qué tontería"], ["How silly!"]],
+      [
+        ["¿Estás loco?", "¿Estás loca?"],
+        [
+          "Are you crazy?",
+          "Are you nuts?",
+          "Are you out of your mind?",
+          "Are you mad?"
+        ]
+      ],
+      [
+        ["Es demasiado"],
+        [
+          "It's too much",
+          "It is too much",
+          "That's too much",
+          "That is too much"
+        ]
+      ],
+      [
+        ["Es suficiente"],
+        [
+          "It's enough",
+          "It is enough",
+          "It's sufficient",
+          "It is sufficient",
+          "That's enough",
+          "That is enough",
+          "That's sufficient",
+          "That is sufficient"
+        ]
+      ],
+      [
+        ["Por supuesto", "Claro", "Desde luego", "Por descontado"],
+        ["Of course", "Sure", "Certainly", "Of course indeed"]
+      ],
+      [
+        ["¿En serio?", "¿De verdad?", "¿Hablas en serio?"],
+        ["Seriously?", "Are you serious?", "For real?"]
+      ],
+      [
+        [
+          "¡Claro que sí",
+          "¡Por supuesto que sí!",
+          "¡Desde luego que sí!",
+          "¡Seguro!"
+        ],
+        [
+          "Of course!",
+          "Sure!",
+          "Indeed!",
+          "Absolutely!",
+          "Definitely!",
+          "Certainly!"
+        ]
+      ],
+      [
+        ["No le gusta nada la fruta"],
+        [
+          "He doesn't like fruit at all",
+          "He does not like fruit at all",
+          "He really doesn't like fruit",
+          "He really does not like fruit",
+          "He really dislikes fruit",
+          "She doesn't like fruit at all",
+          "She does not like fruit at all",
+          "She really doesn't like fruit",
+          "She really does not like fruit",
+          "She really dislikes fruit"
+        ]
+      ]
     ],
     [
       "3.5 Me duele todo",
@@ -5264,7 +5500,51 @@
         ["Estoy enfermo", "Estoy enferma"],
         ["I am ill", "I'm ill", "I am sick", "I'm sick"]
       ],
-      [["No me encuentro bien"], ["I don't feel well", "I do not feel well"]]
+      [["No me encuentro bien"], ["I don't feel well", "I do not feel well"]],
+      [
+        ["Me quemé", "Me quemé al sol", "Me quemé la piel"],
+        [
+          "I got sunburnt",
+          "I got sunburned",
+          "I got burnt",
+          "I got burned",
+          "I got a sunburn"
+        ]
+      ],
+      [
+        [
+          "Me voy a poner crema solar",
+          "Me voy a echar protector solar",
+          "Me voy a poner protector solar"
+        ],
+        [
+          "I'm going to put on sunscreen",
+          "I am going to put on sunscreen",
+          "I'm going to put sunscreen on",
+          "I am going to put sunscreen on",
+          "I'm going to apply sunscreen",
+          "I am going to apply sunscreen",
+          "I'm going to put sunscreen on",
+          "I'm going to use sunscreen"
+        ]
+      ],
+      [
+        ["La próxima vez voy a tener más cuidado"],
+        [
+          "Next time I'm going to be more careful",
+          "Next time I am going to be more careful"
+        ]
+      ],
+      [
+        ["Me caí", "Me caí al suelo"],
+        [
+          "I fell",
+          "I fell over",
+          "I fell down",
+          "I took a fall",
+          "I had a fall"
+        ]
+      ]
     ],
     [
       "4.1 Mis derechos",
@@ -5277,13 +5557,21 @@
         ]
       ],
       [
-        ["al amor y a la familia"],
-        ["to love and family", "to love and to family"]
+        ["derecho al amor y a la familia", "el derecho al amor y a la familia"],
+        [
+          "the right to love and family",
+          "the right to love and to family",
+          "right to love and family",
+          "right to love and to family"
+        ]
       ],
-      [["al juego"], ["to play"]],
-      [["a la libertad de expresión"], ["to freedom of expression"]],
-      [["a un medio ambiente sano"], ["to a healthy environment"]],
-      [["a vivir en armonía"], ["to live in harmony"]],
+      [
+        ["derecho al juego", "el derecho al juego"],
+        ["the right to play", "right to play"]
+      ],
+      [["libertad de expresión"], ["freedom of expression"]],
+      [["un medio ambiente sano"], ["a healthy environment"]],
+      [["vivir en armonía"], ["to live in harmony"]],
       [
         ["No puedo dar mi opinión"],
         ["I cannot give my opinion", "I can't give my opinion"]
@@ -5312,12 +5600,10 @@
       [["el aire está contaminado"], ["the air is polluted"]],
       [["No es justo"], ["It is not fair", "It isn't fair", "It is unfair"]],
       [["Es inaceptable"], ["It is unacceptable"]],
-
       [
         ["Soy inglés", "Soy inglesa"],
         ["I am English", "I'm English"]
       ],
-      [["boliviano", "boliviana"], ["Bolivian"]],
       [["colombiano", "colombiana"], ["Colombian"]],
       [["mexicano", "mexicana"], ["Mexican"]],
       [["norteamericano", "norteamericana"], ["North American"]],
@@ -5326,7 +5612,10 @@
     ],
     [
       "4.2 El comercio justo",
-      [["El comercio justo"], ["Fair trade", "Fair trading"]],
+      [
+        ["El comercio justo"],
+        ["Fairtrade", "Fair trading", "Fair trade", "Fair-trade"]
+      ],
       [
         ["Tiene diez años"],
         [
@@ -5336,48 +5625,202 @@
           "She is ten"
         ]
       ],
-      [["Vive"], ["He lives", "She lives"]],
-      [["Viven"], ["They live"]],
       [
-        ["con su familia"],
-        ["with his family", "with her family", "with their family"]
-      ],
-      [["en una plantación"], ["on a plantation", "on a farm", "on a field"]],
-      [["Trabaja"], ["He works", "She works"]],
-      [["Trabajan"], ["They work"]],
-      [["catorce horas al día"], ["fourteen hours a day", "14 hours a day"]],
-      [["seis días a la semana"], ["six days a week", "6 days a week"]],
-      [
-        ["para un patrón", "para un jefe"],
-        ["for an employer", "for a boss"]
-      ],
-      [["para una cooperativa"], ["for a cooperative", "for a co-op"]],
-      [["Gana"], ["He earns", "She earns", "He makes", "She makes"]],
-      [["Ganan"], ["They earn", "They make"]],
-      [
-        ["treinta euros al mes"],
+        ["Vive en una plantación"],
         [
-          "thirty euros a month",
-          "30 euros a month",
-          "thirty euros per month",
-          "30 euros per month"
+          "He lives on a plantation",
+          "She lives on a plantation",
+          "He lives on a farm",
+          "She lives on a farm",
+          "He lives on a field",
+          "She lives on a field"
         ]
+      ],
+      [
+        ["Viven con su familia"],
+        [
+          "They live with their family",
+          "They live with his family",
+          "They live with her family"
+        ]
+      ],
+      [
+        ["Trabaja catorce horas al día"],
+        [
+          "He works fourteen hours a day",
+          "She works fourteen hours a day",
+          "He works 14 hours a day",
+          "She works 14 hours a day",
+          "He works fourteen hours per day",
+          "She works fourteen hours per day",
+          "He works 14 hours per day",
+          "She works 14 hours per day"
+        ]
+      ],
+      [
+        ["Trabajan para un patrón", "Trabajan para un jefe"],
+        ["They work for an employer", "They work for a boss"]
+      ],
+      [["seis días a la semana"], ["six days a week", "6 days a week"]],
+      [["una cooperativa"], ["a cooperative", "a co-op"]],
+      [
+        [
+          "Gana treinta euros al mes",
+          "Gana treinta euros por mes",
+          "Cobra treinta euros al mes",
+          "Cobra treinta euros por mes"
+        ],
+        [
+          "He earns thirty euros a month",
+          "He earns 30 euros a month",
+          "He earns thirty euros per month",
+          "He earns 30 euros per month",
+          "She earns thirty euros a month",
+          "She earns 30 euros a month",
+          "She earns thirty euros per month",
+          "She earns 30 euros per month",
+          "He makes thirty euros a month",
+          "He makes 30 euros a month",
+          "He makes thirty euros per month",
+          "He makes 30 euros per month",
+          "She makes thirty euros a month",
+          "She makes 30 euros a month",
+          "She makes thirty euros per month",
+          "She makes 30 euros per month"
+        ]
+      ],
+      [
+        ["Ganan", "Cobran"],
+        ["They earn", "They make"]
+      ],
+      [
+        ["beneficios", "los beneficios"],
+        ["profits", "the profits"]
+      ],
+      [
+        ["Pedro gana más que Laura", "Pedro cobra más que Laura"],
+        ["Pedro earns more than Laura", "Pedro makes more than Laura"]
+      ],
+      [
+        ["El patrón trabaja menos que Laura"],
+        ["The employer works less than Laura", "The boss works less than Laura"]
+      ],
+      [
+        [
+          "Nunca va al colegio",
+          "Nunca va al instituto",
+          "Nunca va al cole",
+          "Nunca va al insti"
+        ],
+        [
+          "He never goes to school",
+          "She never goes to school",
+          "He never goes to the school",
+          "She never goes to the school"
+        ]
+      ],
+      [
+        ["Hay mucha contaminación"],
+        ["There's a lot of pollution", "There is a lot of pollution"]
+      ],
+      [
+        ["Salarios justos", "Sueldos justos"],
+        ["Fair salaries", "Fair wages", "Fair pay"]
+      ],
+      [
+        [
+          "Condiciones de trabajo dignas",
+          "Condiciones laborales dignas",
+          "Condiciones de trabajo justas"
+        ],
+        [
+          "Respectable working conditions",
+          "Decent working conditions",
+          "Dignified working conditions",
+          "Fair working conditions"
+        ]
+      ],
+      [
+        ["Igualdad", "Equidad", "Paridad"],
+        ["Equality", "Equity", "Parity"]
+      ],
+      [
+        [
+          "No gana lo suficiente para vivir",
+          "No gana suficiente para vivir",
+          "No gana lo bastante para vivir",
+          "No gana bastante para vivir",
+          "No cobra lo suficiente para vivir",
+          "No cobra suficiente para vivir",
+          "No cobra lo bastante para vivir",
+          "No cobra bastante para vivir"
+        ],
+        [
+          "He doesn't earn enough to live",
+          "He does not earn enough to live",
+          "She doesn't earn enough to live",
+          "She does not earn enough to live"
+        ]
+      ],
+      [["En algunos países"], ["In some countries"]],
+      [
+        ["Muchos niños son explotados"],
+        [
+          "Many children are exploited",
+          "Lots of children are exploited",
+          "A lot of children are exploited"
+        ]
+      ],
+      [["No se quejan"], ["They don't complain", "They do not complain"]],
+      [
+        [
+          "Productos con el sello de comercio justo",
+          "Productos con certificación de comercio justo",
+          "Productos con el distintivo de comercio justo"
+        ],
+        [
+          "Products with the Fairtrade label",
+          "Products with the Fairtrade seal",
+          "Products with the Fairtrade mark",
+          "Products with Fairtrade certification"
+        ]
+      ],
+      [
+        ["Lo malo es que..."],
+        ["The bad thing is...", "The bad thing is that..."]
+      ],
+      [
+        ["Lo bueno es que..."],
+        ["The good thing is...", "The good thing is that..."]
       ]
     ],
     [
       "4.3 Reciclamos",
       [
-        ["¿Qué se debería hacer para proteger el medio ambiente?"],
+        [
+          "¿Qué se debería hacer para proteger el medio ambiente?",
+          "¿Qué deberías hacer para proteger el medio ambiente?",
+          "¿Qué deberíamos hacer para proteger el medio ambiente?"
+        ],
         [
           "What should you do to protect the environment?",
-          "What should we do to protect the environment?"
+          "What should we do to protect the environment?",
+          "What ought you do to protect the environment?",
+          "What ought we do to protect the environment?",
+          "What should you do in order to protect the environment?",
+          "What should we do in order to protect the environment?",
+          "What ought you do in order to protect the environment?",
+          "What ought we do in order to protect the environment?"
         ]
       ],
       [
         ["Para proteger el medio ambiente"],
         ["In order to protect the environment", "To protect the environment"]
       ],
-      [["Se debería"], ["You should", "We should", "One should"]],
+      [
+        ["Se debería", "Deberías", "Deberíamos"],
+        ["You should", "We should", "One should"]
+      ],
       [
         ["ahorrar energía en casa"],
         ["to save energy at home", "save energy at home"]
@@ -5425,8 +5868,15 @@
         ["to use public transport", "use public transport"]
       ],
       [
-        ["No se debería"],
-        ["You shouldn't", "We shouldn't", "You should not", "We should not"]
+        ["No se debería", "No deberías", "No deberíamos"],
+        [
+          "You shouldn't",
+          "We shouldn't",
+          "You should not",
+          "We should not",
+          "One shouldn't",
+          "One should not"
+        ]
       ],
       [["malgastar el agua"], ["to waste water", "waste water"]],
       [
@@ -5450,7 +5900,98 @@
           "throw trash to the floor"
         ]
       ],
-      [["usar bolsas de plástico"], ["to use plastic bags", "use plastic bags"]]
+      [
+        ["usar bolsas de plástico"],
+        ["to use plastic bags", "use plastic bags"]
+      ],
+      [
+        [
+          "un programa de reciclaje",
+          "un plan de reciclaje",
+          "una iniciativa de reciclaje"
+        ],
+        ["a recycling program", "a recycling programme", "a recycling scheme"]
+      ],
+      [
+        [
+          "Hicimos un jardín en el insti",
+          "Hicimos un jardín en el instituto",
+          "Hicimos un jardín en el colegio"
+        ],
+        [
+          "We made a garden at the school",
+          "We made a garden in the school",
+          "We made a garden at the school",
+          "We made a garden in the school"
+        ]
+      ],
+      [
+        ["Organizamos una recogida de basura"],
+        [
+          "We organised a rubbish collection",
+          "We organized a rubbish collection",
+          "We organised a litter pick",
+          "We organized a litter pick",
+          "We organised a trash collection",
+          "We organized a trash collection",
+          "We organised a garbage collection",
+          "We organized a garbage collection",
+          "We organised a waste collection",
+          "We organized a waste collection",
+          "We organise a rubbish collection",
+          "We organize a rubbish collection",
+          "We organise a litter pick",
+          "We organize a litter pick",
+          "We organise a trash collection",
+          "We organize a trash collection",
+          "We organise a garbage collection",
+          "We organize a garbage collection",
+          "We organise a waste collection",
+          "We organize a waste collection"
+        ]
+      ],
+      [
+        [
+          "Vamos al insti en bicicleta",
+          "Vamos al insti en bici",
+          "Vamos al instituto en bicicleta",
+          "Vamos al instituto en bici",
+          "Vamos al colegio en bicicleta",
+          "Vamos al colegio en bici"
+        ],
+        [
+          "We go to school by bike",
+          "We go to school on our bikes",
+          "We cycle to school",
+          "We ride our bikes to school",
+          "We bike to school"
+        ]
+      ],
+      [
+        [
+          "Usamos el papel por ambos lados",
+          "Utilizamos el papel por ambos lados",
+          "Utilizamos el papel por los dos lados",
+          "Usamos el papel por los dos lados"
+        ],
+        [
+          "We use the paper on both sides",
+          "We use both sides of the paper",
+          "We use paper on both sides",
+          "We use paper double-sided"
+        ]
+      ],
+      [
+        ["En primer lugar", "Para empezar", "Primero", "En primera instancia"],
+        ["Firstly", "First of all", "To begin with"],
+
+        ["En segundo lugar", "Después", "Luego", "En segunda instancia"],
+        ["Secondly", "In the second place", "Next"]
+      ],
+      [
+        ["Por último", "Finalmente", "Para terminar", "Por fin"],
+        ["Lastly", "Finally", "To finish", "In the end"]
+      ]
     ],
     [
       "4.4 Mi ciudad",
@@ -5463,22 +6004,27 @@
       [["En el pasado"], ["In the past"]],
       [
         ["era bastante aburrido", "era bastante aburrida"],
-        ["it used to be quite boring", "it was quite boring"]
+        [
+          "it was quite boring",
+          "it used to be quite boring",
+          "it used to be pretty boring",
+          "it was pretty boring"
+        ]
       ],
       [
         ["era muy peligroso", "era muy peligrosa"],
-        ["it used to be very dangerous", "it was very dangerous"]
+        ["it was very dangerous", "it used to be very dangerous"]
       ],
       [
         ["estaba sucio", "estaba sucia"],
-        ["it used to be dirty", "it was dirty"]
+        ["it was dirty", "it used to be dirty"]
       ],
       [
         ["había mucha basura"],
         [
+          "there was a lot of rubbish",
           "there used to be a lot of rubbish",
           "there used to be a lot of trash",
-          "there was a lot of rubbish",
           "there was a lot of trash",
           "there used to be lots of rubbish",
           "there used to be lots of trash",
@@ -5489,8 +6035,8 @@
       [
         ["había mucha contaminación"],
         [
-          "there used to be a lot of pollution",
           "there was a lot of pollution",
+          "there used to be a lot of pollution",
           "there used to be lots of pollution",
           "there was lots of pollution"
         ]
@@ -5498,8 +6044,8 @@
       [
         ["había mucha violencia"],
         [
-          "there used to be a lot of violence",
           "there was a lot of violence",
+          "there used to be a lot of violence",
           "there used to be lots of violence",
           "there was lots of violence"
         ]
@@ -5507,38 +6053,55 @@
       [
         ["no había nada para los jóvenes"],
         [
+          "there was nothing for young people",
+          "there wasn't anything for young people",
           "there didn't use to be anything for young people",
-          "there was nothing for young people"
+          "there was nothing for the youth",
+          "there wasn't anything for the youth",
+          "there didn't use to be anything the youth",
+          "there was nothing for the young",
+          "there wasn't anything for the young",
+          "there didn't use to be anything the young"
         ]
       ],
       [
         ["no había medios de transporte público"],
         [
+          "there was no means of public transport",
+          "there wasn't any means of public transport",
           "there didn't use to be any public transport",
           "there didn't use to be means of public transport",
           "there was no public transport",
-          "there wasn't any public transport"
+          "there wasn't any public transport",
+          "there was no means of public transportation",
+          "there wasn't any means of public transportation",
+          "there didn't use to be any public transportation",
+          "there didn't use to be means of public transportation",
+          "there was no public transportation",
+          "there wasn't any public transportation"
         ]
       ],
-
-      [["¿Cómo es ahora?"], ["What is it like now?"]],
+      [
+        ["¿Cómo es ahora?"],
+        ["What is it like now?", "What's it like now?", "How is it now?"]
+      ],
       [["Ahora"], ["Now"]],
       [
         ["está limpia"],
-        ["it is clean", "it's clean", "it is tidy", "it's tidy"]
+        ["it's clean", "it is clean", "it is tidy", "it's tidy"]
       ],
       [
         ["hay menos basura"],
         [
+          "there's less rubbish",
           "there is less rubbish",
           "there is less trash",
-          "there's less rubbish",
           "there's less trash"
         ]
       ],
       [
         ["hay menos contaminación"],
-        ["there is less pollution", "there's less pollution"]
+        ["there's less pollution", "there is less pollution"]
       ],
       [
         ["hay parques y espacios públicos muy bonitos"],
@@ -5550,28 +6113,61 @@
       [
         ["hay una red de transporte muy buena"],
         [
-          "there is a very good transport network",
-          "there's a very good transport network"
+          "there's a very good transport network",
+          "there is a very good transport network"
         ]
       ],
       [
         ["hay muchas cosas para los jóvenes"],
-        ["there are lots of things for young people"]
+        [
+          "there are lots of things for young people",
+          "there's lots of stuff for young people",
+          "there is lots of stuff for young people",
+          "there are lots of things for the youth",
+          "there's lots of stuff for the youth",
+          "there is lots of stuff for the youth",
+          "there are lots of things for the young",
+          "there's lots of stuff for the young",
+          "there is lots of stuff for the young"
+        ]
       ],
       [
         ["no tiene barrios peligrosos"],
         [
           "it doesn't have dangerous neighbourhoods",
           "it doesn't have dangerous neighborhoods",
+          "it does not have dangerous neighbourhoods",
+          "it does not have dangerous neighborhoods",
+          "it doesn't have any dangerous neighbourhoods",
+          "it doesn't have any dangerous neighborhoods",
+          "it does not have any dangerous neighbourhoods",
+          "it does not have any dangerous neighborhoods",
           "there are no dangerous neighbourhoods",
           "there are no dangerous neighborhoods"
         ]
+      ],
+      [
+        ["Van a construir un aeropuerto", "Se va a construir un aeropuerto"],
+        [
+          "They're going to build an airport",
+          "They are going to build an airport",
+          "An airport is going to be built"
+        ]
+      ],
+      [
+        ["las autoridades", "autoridades"],
+        ["the authorities", "authorities"]
+      ],
+      [["mi pueblo"], ["my town", "my hometown", "my village"]],
+      [
+        ["mi barrio", "mi vecindario"],
+        ["my neighbourhood", "my neighborhood", "my area", "my district"]
       ]
     ],
     [
       "5.1 Mucho gusto",
       [
-        ["Te presento a Antonio"],
+        ["Te presento a Antonio", "Este es Antonio"],
         ["Let me introduce you to Antonio", "This is Antonio"]
       ],
       [["Este es mi padre"], ["This is my father", "Here's my father"]],
@@ -5627,42 +6223,88 @@
         ["to watch television", "to watch TV"]
       ],
       [
-        ["un ratito", "un rato"],
-        ["for a little while", "for a while"]
+        [
+          "un ratito",
+          "un rato",
+          "por un ratito",
+          "por un rato",
+          "un poco",
+          "por un poco"
+        ],
+        [
+          "for a little while",
+          "for a while",
+          "for a bit of time",
+          "for a bit",
+          "a little while",
+          "a while",
+          "a bit of time",
+          "a bit"
+        ]
       ],
 
       [
         ["¿Quieres acostarte?", "¿Te quieres acostar?"],
-        ["Do you want to go to bed?"]
+        [
+          "Do you want to go to bed?",
+          "Would you like to go to bed?",
+          "Would you like going to bed?"
+        ]
       ],
       [
         ["¿Quieres ducharte?", "¿Te quieres duchar?"],
-        ["Do you want to have a shower?", "Do you want to shower?"]
+        [
+          "Do you want to have a shower?",
+          "Do you want to shower?",
+          "Would you like to have a shower?",
+          "Would you like to shower?"
+        ]
       ],
-      [["beber algo"], ["to drink something", "to have a drink"]],
-      [["comer algo"], ["to eat something", "to have something to eat"]]
+      [
+        ["beber algo"],
+        ["to drink something", "to have a drink", "to drink some"]
+      ],
+      [
+        ["comer algo"],
+        ["to eat something", "to have something to eat", "to eat some"]
+      ],
+      [
+        [
+          "mi invitado inglés",
+          "mi invitada inglesa",
+          "mi huésped inglés",
+          "mi huésped inglesa"
+        ],
+        ["my English guest"]
+      ]
     ],
     [
       "5.2 La caza del tesoro",
       [["Una aventura en Madrid"], ["An adventure in Madrid"]],
       [
         ["¿Qué vamos a hacer?"],
-        ["What are we going to do?", "What shall we do?"]
+        ["What are we going to do?", "What shall we do?", "What are we doing?"]
       ],
       [
         ["Vamos a hacer una caza del tesoro"],
         [
-          "We are going to go on a treasure hunt",
-          "We are going to do a treasure hunt",
-          "We are going on a treasure hunt",
           "We're going to go on a treasure hunt",
           "We're going to do a treasure hunt",
-          "We're going on a treasure hunt"
+          "We're going on a treasure hunt",
+          "We are going to go on a treasure hunt",
+          "We are going to do a treasure hunt",
+          "We are going on a treasure hunt"
         ]
       ],
       [
         ["Hay que"],
-        ["You have to", "We have to", "One has to", "It is necessary to"]
+        [
+          "You have to",
+          "We have to",
+          "One has to",
+          "It is necessary to",
+          "We have to"
+        ]
       ],
       [["Tenemos que"], ["We have to", "We must"]],
       [
@@ -5739,7 +6381,32 @@
         ["the most famous shop in Madrid", "the most famous store in Madrid"]
       ],
       [["los museos más espectaculares"], ["the most spectacular museums"]],
-      [["las tiendas más antiguas"], ["the oldest shops"]]
+      [["las tiendas más antiguas"], ["the oldest shops"]],
+      [
+        ["la infanta", "infanta", "la princesa", "princesa"],
+        ["the princess", "princess"]
+      ],
+      [
+        [
+          "cogimos el metro",
+          "tomamos el metro",
+          "fuimos en metro",
+          "viajamos en metro",
+          "cogimos el subte",
+          "cogimos el tren subterráneo"
+        ],
+        [
+          "we took the tube",
+          "we took the subway",
+          "we took the metro",
+          "we got the tube",
+          "we got the subway",
+          "we travelled by tube",
+          "we travelled by subway",
+          "we went by tube",
+          "we went by subway"
+        ]
+      ]
     ],
     [
       "5.3 En la tienda de recuerdos",
