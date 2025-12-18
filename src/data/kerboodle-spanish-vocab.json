@@ -333,8 +333,21 @@
         ["un hijo adoptado", "una hija adoptada"],
         ["an adopted child", "an adopted son", "an adopted daughter"]
       ],
-      [["biológico", "biológica"], ["biological"]],
-      [["cariño"], ["affection", "love", "fondness"]],
+      [
+        ["una hija biológica", "una hija de sangre", "una hija natural"],
+        ["a biological daughter", "a daughter by birth"]
+      ],
+      [
+        ["mi madre me da cariño"],
+        [
+          "my mother gives me affection",
+          "my mother gives me love",
+          "my mother gives me fondness",
+          "my mum gives me affection",
+          "my mum gives me love",
+          "my mum gives me fondness"
+        ]
+      ],
       [
         ["Mi hermano y yo compartimos habitación"],
         ["My brother and I share a room", "My brother and I share the room"]
@@ -344,12 +357,22 @@
         ["complicated", "complex"]
       ],
       [
-        ["comprensivo", "comprensiva"],
-        ["understanding", "supportive"]
+        ["mi padre es comprensivo"],
+        [
+          "my father is understanding",
+          "my father is supportive",
+          "my dad is understanding",
+          "my dad is supportive"
+        ]
       ],
       [
-        ["diverso", "diversa"],
-        ["various", "diverse"]
+        ["somos un grupo diverso"],
+        [
+          "we're a diverse group",
+          "we are a diverse group",
+          "we're a mixed group",
+          "we are a mixed group"
+        ]
       ],
       [
         ["Mi padres están divorciados", "Mi padres están separados"],
@@ -389,7 +412,7 @@
         ["husband", "spouse"]
       ],
       [
-        ["Me parezco a mi hermana mayor"],
+        ["Me parezco a mi hermana mayor", "Parezco como mi hermana mayor"],
         [
           "I look like my older sister",
           "I look like my big sister",
@@ -399,7 +422,18 @@
           "I take after my big sister"
         ]
       ],
-      [["miembro"], ["member"]],
+      [
+        [
+          "somos cuatro miembros en mi familia",
+          "somos cuatro en la familia",
+          "hay cuatro miembros en mi familia"
+        ],
+        [
+          "we're four members in my family",
+          "we are four members in my family",
+          "there are four members in my family"
+        ]
+      ],
       [
         ["familia monoparental"],
         ["single parent family", "single-parent family"]
@@ -412,8 +446,8 @@
       ],
       [["pareja"], ["couple", "partner"]],
       [
-        ["pasarlo bien"],
-        ["to have a good time", "to enjoy oneself", "to enjoy"]
+        ["lo pasamos bien"],
+        ["we have a good time", "we enjoy ourselves", "we enjoy"]
       ],
       [["primo", "prima"], ["cousin"]],
       [["separado", "separada"], ["separated"]],
