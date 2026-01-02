@@ -3,26 +3,17 @@
     [
       "1.1G ¿Cómo es?",
       [["¿cómo?"], ["how?"]],
-      [
-        ["abuelo", "abuela"],
-        ["grandfather", "grandmother"]
-      ],
+      [["abuelo"], ["grandfather", "grandad"]],
       [["azul"], ["blue"]],
       [["blanco", "blanca"], ["white"]],
       [["casi"], ["almost", "nearly"]],
-      [
-        ["chico", "chica"],
-        ["boy", "girl"]
-      ],
+      [["chico"], ["boy", "kid"]],
       [["gato", "gata"], ["cat"]],
       [["gordo", "gorda"], ["fat"]],
       [["gris"], ["grey", "gray"]],
       [["grupo"], ["group", "band"]],
       [["hay"], ["there is", "there are", "there's"]],
-      [
-        ["hermano", "hermana"],
-        ["brother", "sister", "sibling"]
-      ],
+      [["hermano"], ["brother", "sibling"]],
       [["hombre"], ["man"]],
       [["joven"], ["young"]],
       [["llamarse"], ["to be called", "to be named"]],
@@ -42,7 +33,17 @@
     ],
     [
       "1.1F ¿Qué tipo de persona eres?",
-      [["alegre"], ["cheerful", "happy", "merry"]],
+      [
+        ["Soy alegre"],
+        [
+          "I'm cheerful",
+          "I'm happy",
+          "I'm merry",
+          "I am cheerful",
+          "I am happy",
+          "I am merry"
+        ]
+      ],
       [["artístico", "artística"], ["artistic"]],
       [
         ["bueno", "buena"],
@@ -58,27 +59,106 @@
         ["fun", "enjoyable"]
       ],
       [["estar", "ser"], ["to be"]],
-      [["feliz"], ["happy", "glad"]],
+      [["feliz"], ["happy", "glad", "content"]],
       [["fuerte"], ["strong"]],
       [
-        ["gracioso", "graciosa"],
-        ["funny", "amusing"]
+        ["Es bastante gracioso", "Es bastante graciosa"],
+        [
+          "He's quite funny",
+          "He's quite amusing",
+          "He is rather funny",
+          "He is rather amusing",
+          "She's quite funny",
+          "She's quite amusing",
+          "She is rather funny",
+          "She is rather amusing",
+          "She's pretty funny",
+          "She's pretty amusing",
+          "She is pretty funny",
+          "She is pretty amusing"
+        ]
       ],
-      [["gustar"], ["to like", "to please"]],
-      [["independiente"], ["independent"]],
+      [
+        [
+          "Las chicas están en el insti",
+          "Las chicas están en el instituto",
+          "Las chicas están en el colegio",
+          "Las chicas están en el cole"
+        ],
+        [
+          "The girls are at school",
+          "The girls are in school",
+          "The girls are at the school",
+          "The girls are in the school"
+        ]
+      ],
+      [
+        ["Soy muy independiente"],
+        ["I'm very independent", "I am very independent"]
+      ],
       [
         ["listo", "lista"],
         ["clever", "smart", "intelligent"]
       ],
-      [["muy"], ["very"]],
-      [["nervioso", "nerviosa"], ["nervous"]],
-      [["perezoso", "perezosa", "vago", "vaga"], ["lazy"]],
-      [["persona"], ["person"]],
+      [
+        ["Le gusta mucho el baloncesto"],
+        [
+          "He really likes basketball",
+          "She really likes basketball",
+          "He likes basketball a lot",
+          "She likes basketball a lot"
+        ]
+      ],
+      [
+        ["Mi madre no es nerviosa"],
+        [
+          "My mother isn't nervous",
+          "My mother is not nervous",
+          "My mum isn't nervous",
+          "My mum is not nervous"
+        ]
+      ],
+      [
+        [
+          "Eres un poco perezoso",
+          "Eres un poco perezosa",
+          "Eres un poco vago",
+          "Eres un poco vaga"
+        ],
+        ["You're a bit lazy", "You are a bit lazy"]
+      ],
+      [
+        ["Estoy en el parque"],
+        [
+          "I'm in the park",
+          "I am in the park",
+          "I'm at the park",
+          "I am at the park"
+        ]
+      ],
       [["personalidad"], ["personality", "character"]],
       [["porque"], ["because"]],
       [["práctico", "práctica"], ["practical"]],
-      [["responsable"], ["responsible"]],
-      [["serio", "seria"], ["serious"]],
+      [
+        ["Es una persona seria y responsable"],
+        [
+          "He's a serious and responsible person",
+          "He is a serious and responsible person",
+          "She's a serious and responsible person",
+          "She is a serious and responsible person"
+        ]
+      ],
+      [
+        ["A veces soy travieso", "A veces soy traviesa"],
+        [
+          "Sometimes I'm naughty",
+          "Sometimes I am naughty",
+          "Sometimes I'm cheeky",
+          "Sometimes I am cheeky",
+          "Sometimes I misbehave",
+          "I sometimes misbehave"
+        ]
+      ],
       [
         ["simpático", "simpática", "amigable"],
         ["nice", "friendly"]
@@ -114,7 +194,9 @@
           "She's quite short",
           "She is quite short",
           "She's rather short",
-          "She is rather short"
+          "She is rather short",
+          "She's pretty short",
+          "She is pretty short"
         ]
       ],
       [
@@ -146,7 +228,10 @@
         ["físico", "física"],
         ["physical", "physique"]
       ],
-      [["A veces llevan gafas"], ["Sometimes they wear glasses"]],
+      [
+        ["A veces lleva gafas", "A veces se pone gafas", "A veces tiene gafas"],
+        ["Sometimes he wears glasses", "Sometimes she wears glasses"]
+      ],
       [["gris"], ["grey", "gray"]],
       [
         ["guapo", "guapa"],
@@ -154,7 +239,12 @@
       ],
       [
         ["Tengo el pelo largo y liso "],
-        ["I have long straight hair", "I have long and straight hair"]
+        [
+          "I have long straight hair",
+          "I have long and straight hair",
+          "I've got long straight hair",
+          "I've got long and straight hair"
+        ]
       ],
       [
         ["Tiene el pelo corto y rizado"],
@@ -184,13 +274,20 @@
       [["negro", "negra"], ["black"]],
       [
         ["Es calvo y tiene los ojos azules"],
-        ["He's bald and he has blue eyes", "He is bald and he has blue eyes"]
+        [
+          "He's bald and he has blue eyes",
+          "He is bald and he has blue eyes",
+          "He's bald and has blue eyes",
+          "He is bald and has blue eyes"
+        ]
       ],
       [
         ["Tienes una personalidad optimista"],
         [
           "You have an optimistic personality",
-          "You have a positive personality"
+          "You have a positive personality",
+          "You've got an optimistic personality",
+          "You've got a positive personality"
         ]
       ],
       [["pequeño"], ["small", "little"]],
@@ -208,24 +305,32 @@
         ]
       ],
       [["tener"], ["to have"]],
-      [["Está un poco triste"], ["He's a bit sad", "He is a bit sad"]],
+      [
+        ["Está un poco triste"],
+        [
+          "He's a bit sad",
+          "He is a bit sad",
+          "She's a bit sad",
+          "She is a bit sad"
+        ]
+      ],
       [["Tengo los ojos verdes"], ["I have green eyes"]]
     ],
     [
       "1.2G Las relaciones familiares",
       [["activo", "activa"], ["active"]],
-      [["bien"], ["well", "good", "nice", "fine"]],
+      [["bien"], ["well", "good", "nice", "fine", "okay", "ok"]],
       [["compras"], ["shopping"]],
       [["cuidar"], ["to care for", "to look after"]],
       [["discutir"], ["to discuss", "to argue"]],
-      [["fin de semana"], ["weekend"]],
+      [["fin de semana"], ["weekend", "the weekend"]],
       [["hacer"], ["to do", "to make"]],
       [["hago"], ["I do", "I make"]],
       [["ir"], ["to go"]],
       [["madrastra"], ["stepmother"]],
       [
         ["mucho", "mucha"],
-        ["much", "a lot", "many", "lots"]
+        ["much", "a lot", "many", "lots", "lots of"]
       ],
       [["noche"], ["night"]],
       [["padrastro"], ["stepfather"]],
@@ -241,7 +346,7 @@
         ["uncle", "aunt"]
       ],
       [["va"], ["he goes", "she goes", "it goes"]],
-      [["vacaciones"], ["holidays", "vacation"]],
+      [["vacaciones"], ["holidays", "vacation", "holiday"]],
       [["vais"], ["you go", "you all go"]],
       [["vamos"], ["we go", "let's go", "lets go"]],
       [["van"], ["they go"]],
@@ -250,22 +355,48 @@
     ],
     [
       "1.2F Los Amigos",
-      [["casarse"], ["to get married", "to marry", "to wed"]],
+      [
+        ["Alex se casa este verano"],
+        [
+          "Alex is getting married this summer",
+          "Alex gets married this summer",
+          "Alex is going to get married this summer"
+        ]
+      ],
       [
         ["compañero", "compañera"],
-        ["friend", "mate", "colleague", "school friend"]
+        ["friend", "mate", "colleague", "school friend", "classmate"]
       ],
-      [["común"], ["common"]],
-      [["contacto"], ["contact"]],
+      [
+        [
+          "Mi tío me da consejos",
+          "Mi tio me da consejos",
+          "Mi tío me aconseja"
+        ],
+        ["My uncle gives me advice", "My uncle gives me some advice"]
+      ],
+      [
+        ["El amigo ideal siempre te apoya"],
+        [
+          "The ideal friend always supports you",
+          "The perfect friend always supports you",
+          "An ideal friend always supports you",
+          "A perfect friend always supports you"
+        ]
+      ],
       [["creer"], ["to think", "to believe"]],
       [
         ["Somos muy diferentes"],
-        ["We are very different", "We are very different to one another"]
+        [
+          "We are very different",
+          "We are very different to one another",
+          "We are very different from each other"
+        ]
       ],
       [["divorciarse"], ["to get divorced", "to divorce"]],
       [
         ["Mi primo me escucha"],
-        ["My cousin listens to me", "My cousin hear me"]
+        ["My cousin listens to me", "My cousin hears me"]
       ],
       [["fatal"], ["terrible", "awful", "horrible", "fatal"]],
       [["frecuencia"], ["frequency"]],
@@ -283,14 +414,32 @@
       ],
       [
         ["Me llevo mal con mi tía"],
-        ["I get on badly with my auntie", "I get on badly with my auntie"]
+        [
+          "I get on badly with my aunt",
+          "I get on badly with my auntie",
+          "I don't get on well with my aunt"
+        ]
       ],
-      [["mejor"], ["better", "best"]],
-      [["paciente"], ["patient"]],
-      [["parecerse a"], ["to look like", "to resemble"]],
+      [
+        ["Es mi mejor amiga"],
+        ["She's my best friend", "She is my best friend"]
+      ],
+      [["Es muy paciente"], ["He's very patient", "He is very patient"]],
+      [
+        ["Me parezco a mi hermana"],
+        [
+          "I look like my sister",
+          "I resemble my sister",
+          "I take after my sister"
+        ]
+      ],
       [["pasar"], ["to pass", "to spend", "to happen"]],
       [
-        ["Me peleo con mi hermano"],
+        [
+          "Me peleo con mi hermano",
+          "Peleo con mi hermano",
+          "Discuto con mi hermano"
+        ],
         [
           "I fight with my brother",
           "I quarrel with my brother",
@@ -303,7 +452,9 @@
           "I get in contact with my grandmother",
           "I get in contact with my grannie",
           "I contact my grandmother",
-          "I contact my granny"
+          "I contact my granny",
+          "I get in touch with my grandmother",
+          "I get in touch with my granny"
         ]
       ],
       [
@@ -338,44 +489,53 @@
         ["a biological daughter", "a daughter by birth"]
       ],
       [
-        ["mi madre me da cariño"],
+        ["Mi madre me da cariño"],
         [
-          "my mother gives me affection",
-          "my mother gives me love",
-          "my mother gives me fondness",
-          "my mum gives me affection",
-          "my mum gives me love",
-          "my mum gives me fondness"
+          "My mother gives me affection",
+          "My mother gives me love",
+          "My mother gives me fondness",
+          "My mum gives me affection",
+          "My mum gives me love",
+          "My mum gives me fondness",
+          "My mother shows me affection",
+          "My mum shows me affection"
         ]
       ],
       [
         ["Mi hermano y yo compartimos habitación"],
-        ["My brother and I share a room", "My brother and I share the room"]
+        [
+          "My brother and I share a room",
+          "My brother and I share the room",
+          "My brother and I share room",
+          "My brother and I share a bedroom",
+          "My brother and I share the bedroom",
+          "My brother and I share bedroom"
+        ]
       ],
       [
         ["complicado", "complicada"],
         ["complicated", "complex"]
       ],
       [
-        ["mi padre es comprensivo"],
+        ["Mi padre es comprensivo"],
         [
-          "my father is understanding",
-          "my father is supportive",
-          "my dad is understanding",
-          "my dad is supportive"
+          "My father is understanding",
+          "My father is supportive",
+          "My dad is understanding",
+          "My dad is supportive"
         ]
       ],
       [
-        ["somos un grupo diverso"],
+        ["Somos un grupo diverso"],
         [
-          "we're a diverse group",
-          "we are a diverse group",
-          "we're a mixed group",
-          "we are a mixed group"
+          "We're a diverse group",
+          "We are a diverse group",
+          "We're a mixed group",
+          "We are a mixed group"
         ]
       ],
       [
-        ["Mi padres están divorciados", "Mi padres están separados"],
+        ["Mis padres están divorciados", "Mis padres están separados"],
         ["My parents are divorced", "My parents are separated"]
       ],
       [["Tengo una familia extendida"], ["I have an extended family"]],
@@ -424,14 +584,14 @@
       ],
       [
         [
-          "somos cuatro miembros en mi familia",
-          "somos cuatro en la familia",
-          "hay cuatro miembros en mi familia"
+          "Hay cuatro miembros en mi familia",
+          "Somos cuatro miembros en mi familia",
+          "Somos cuatro en la familia"
         ],
         [
-          "we're four members in my family",
-          "we are four members in my family",
-          "there are four members in my family"
+          "There are four members in my family",
+          "We're four members in my family",
+          "We are four members in my family"
         ]
       ],
       [
@@ -451,38 +611,47 @@
       ],
       [["primo", "prima"], ["cousin"]],
       [["separado", "separada"], ["separated"]],
-      [
-        ["tío", "tía"],
-        ["uncle", "aunt"]
-      ],
+      [["tío"], ["uncle"]],
       [["familia tradicional"], ["traditional family"]]
     ],
     [
       "2.1G La vida sana",
       [["agua"], ["water"]],
-      [["beber"], ["to drink"]],
+      [["beber"], ["to drink", "to have a drink"]],
       [["cama"], ["bed"]],
-      [["comer"], ["to eat"]],
+      [
+        ["comer"],
+        ["to eat", "eating", "to have food", "to have lunch", "to have dinner"]
+      ],
       [["comprar"], ["to buy", "to purchase"]],
       [["dar"], ["to give"]],
       [["fruta"], ["fruit"]],
       [["manzana"], ["apple"]],
-      [["mercado"], ["market"]],
+      [["mercado"], ["market", "street market", "food market"]],
       [["naranja"], ["orange"]],
       [["pan"], ["bread"]],
       [["piscina"], ["swimming pool", "pool"]],
-      [["poner"], ["to put"]],
-      [["preferir"], ["to prefer"]],
+      [["poner"], ["to put", "to place", "to put on"]],
+      [["preferir"], ["to prefer", "to like better", "to rather like"]],
       [["querer"], ["to want", "to love"]],
       [["sal"], ["salt"]],
-      [["tener cuidado"], ["to take care", "to be careful", "to watch out"]],
-      [["tener hambre"], ["to be hungry", "to feel hungry"]],
+      [
+        ["tener cuidado"],
+        [
+          "to be careful",
+          "to take care",
+          "to watch out",
+          "to be cautious",
+          "to take care with"
+        ]
+      ],
+      [["tener hambre"], ["to be hungry", "to feel hungry", "to be starving"]],
       [["tener que"], ["to have to"]],
       [["tener sed"], ["to be thirsty", "to feel thirsty"]],
       [["tener sueño"], ["to be sleepy", "to be tired", "to feel sleepy"]],
       [["tomar"], ["to take", "to eat", "to drink", "to have"]],
-      [["vaso"], ["glass", "tumbler", "cup"]],
-      [["vivir"], ["to live"]],
+      [["vaso"], ["glass", "tumbler", "cup", "drinking glass"]],
+      [["vivir"], ["to live", "to live in", "to live with"]],
       [["zumo", "jugo"], ["juice"]]
     ],
     [
@@ -491,23 +660,64 @@
         [
           "Voy a pie al insti",
           "Voy a pie al instituto",
-          "Voy a pie al colegio"
+          "Voy a pie al colegio",
+          "Ando al insti",
+          "Ando al instituto",
+          "Ando al colegio",
+          "Camino al insti",
+          "Camino al instituto",
+          "Camino al colegio"
         ],
         ["I walk to school", "I go on foot to school", "I go walking to school"]
       ],
       [
-        ["andar", "caminar"],
-        ["to walk", "to go on foot"]
+        ["andar", "caminar", "ir a pie"],
+        ["to walk", "to go on foot", "to go walking"]
       ],
       [
-        ["bicicleta", "bici"],
-        ["bicycle", "bike"]
+        ["Voy en bicicleta al campo", "Voy en bici al campo"],
+        [
+          "I go cycling to the countryside",
+          "I cycle to the countryside",
+          "I go to the countryside by bike",
+          "I ride my bike to the countryside",
+          "I go cycling in the countryside",
+          "I cycle in the countryside",
+          "I ride my bike in the countryside"
+        ]
       ],
-      [["bocadillo", "sándwich"], ["sandwich"]],
-      [["carne"], ["meat"]],
+      [
+        [
+          "Normalmente como un bocadillo de jamón",
+          "Normalmente como un sándwich de jamón"
+        ],
+        ["Normally I eat a ham sandwich"]
+      ],
+      [
+        [
+          "Como carne, pero sin mucha grasa",
+          "Como carne, pero con poca grasa",
+          "Como carne, pero no mucha grasa"
+        ],
+        [
+          "I eat meat, but without much fat",
+          "I eat meat, but without too much fat",
+          "I eat meat, but without a lot of fat",
+          "I eat meat, but not much fat",
+          "I eat meat, but with little fat",
+          "I eat meat, but with not much fat"
+        ]
+      ],
       [
         ["Salgo a correr", "Voy a correr"],
-        ["I go jogging", "I go running", "I go out running", "I go out jogging"]
+        [
+          "I go jogging",
+          "I go running",
+          "I go out running",
+          "I go out jogging",
+          "I go for a run",
+          "I go for a jog"
+        ]
       ],
       [
         ["A veces me salto el desayuno"],
@@ -518,13 +728,18 @@
         ]
       ],
       [
-        ["entrenar", "entrenarse"],
-        ["to train", "to work out"]
+        ["Entrenamos los sábados"],
+        ["We train on Saturdays", "We work out on Saturdays"]
       ],
       [["Tengo una dieta equilibrada"], ["I have a balanced diet"]],
       [
         ["Evito la grasa"],
-        ["I avoid fatty foods", "I avoid greasy food", "I avoid fats"]
+        [
+          "I avoid fatty foods",
+          "I avoid greasy food",
+          "I avoid fats",
+          "I avoid fat"
+        ]
       ],
       [["No fumo"], ["I don't smoke", "I do not smoke"]],
       [["ganar"], ["to earn", "to win", "to gain"]],
@@ -532,22 +747,61 @@
         ["Voy al gimnasio a menudo"],
         ["I go to the gym often", "I often go to the gym"]
       ],
-      [["grasa"], ["fat", "grease", "lard"]],
       [
-        ["un bocadillo de jamón"],
-        ["a ham sandwich", "a ham baguette", "a ham roll", "a ham panini"]
+        [
+          "Los fines de semana me permito una hamburguesa",
+          "Los fines de semana me dejo comer una hamburguesa",
+          "Los fines de semana me permito comer una hamburguesa"
+        ],
+        [
+          "At weekends I allow myself a burger",
+          "At the weekends I allow myself a burger",
+          "On weekends I allow myself a burger",
+          "At weekends I let myself have a burger",
+          "At the weekends I let myself have a burger",
+          "On weekends I let myself have a burger"
+        ]
       ],
       [
-        ["Me gusta hacer natación"],
-        ["I like to go swimming", "I like swimming", "I like to swim"]
+        ["No hago ejercicio", "No entreno", "No me ejercito"],
+        [
+          "I don't exercise",
+          "I don't do any exercise",
+          "I do not do any exercise",
+          "I don't do exercise",
+          "I do not do exercise",
+          "I do not exercise",
+          "I don't work out",
+          "I do not work out"
+        ]
       ],
-      [["pedir"], ["to ask for", "to order", "to request"]],
+      [
+        ["Me gusta hacer natación", "Me gusta nadar"],
+        [
+          "I like to go swimming",
+          "I like swimming",
+          "I like to swim",
+          "I like going swimming",
+          "I like going to swim"
+        ]
+      ],
+      [
+        ["Siempre pido agua"],
+        [
+          "I always ask for water",
+          "I always order water",
+          "I always request water"
+        ]
+      ],
       [["Quiero perder peso"], ["I want to lose weight"]],
-      [["Ceno pescado"], ["I have fish for dinner", "I eat fish for dinner"]],
+      [
+        ["Ceno pescado"],
+        ["I have fish for dinner", "I eat fish for dinner", "I dine fish"]
+      ],
       [["pollo"], ["chicken"]],
       [["salud"], ["health"]],
       [
-        ["Tomo un desayuno sano"],
+        ["Tomo un desayuno sano", "Como un desayuno sano"],
         ["I have a healthy breakfast", "I eat a healthy breakfast"]
       ],
       [
@@ -580,26 +834,61 @@
           "I always get early to bed"
         ]
       ],
-      [["Uso crema a diario"], ["I use cream daily"]],
+      [
+        ["Uso crema a diario"],
+        ["I use cream daily", "I use cream everyday", "I use cream every day"]
+      ],
       [["cabeza"], ["head"]],
       [
         ["Lo ideal es comer fruta y verdura"],
         [
           "The ideal thing is to eat fruit and vegetables",
-          "The ideal thing is to eat fruit and veg"
+          "The ideal thing is to eat fruit and veg",
+          "It is ideal to eat fruit and vegetables",
+          "It is ideal to eat fruit and veg",
+          "It's ideal to eat fruit and vegetables",
+          "It's ideal to eat fruit and veg"
         ]
       ],
-      [["hacer ejercicio"], ["to do exercise", "to exercise"]],
+      [
+        ["hacer ejercicio"],
+        ["to exercise", "to do exercise", "to train", "to work out"]
+      ],
       [
         ["No se debe tomar drogas"],
-        ["You shouldn't take drugs", "You should not take drugs"]
+        [
+          "You shouldn't take drugs",
+          "You should not take drugs",
+          "One shouldn't take drugs",
+          "One should not take drugs",
+          "You mustn't take drugs",
+          "You must not take drugs",
+          "One mustn't take drugs",
+          "One must not take drugs"
+        ]
       ],
       [["cena"], ["dinner", "tea", "evening meal", "supper"]],
       [["corazón"], ["heart"]],
-      [["dormir ocho horas al día"], ["to sleep eight hours a day"]],
+      [
+        ["dormir ocho horas al día"],
+        [
+          "to sleep eight hours a day",
+          "to sleep eight hours per day",
+          "sleeping eight hours a day",
+          "sleeping eight hours per day",
+          "to get eight hours of sleep a day",
+          "to get eight hours of sleep per day",
+          "getting eight hours of sleep a day",
+          "getting eight hours of sleep per day"
+        ]
+      ],
       [
         ["pasar tiempo en el campo"],
-        ["to spend time in the countryside", "to spend time in the country"]
+        [
+          "to spend time in the countryside",
+          "to spend time in the country",
+          "to spend time outdoors"
+        ]
       ],
       [
         ["Es importante cuidar el cuerpo"],
@@ -622,13 +911,25 @@
         ["El cuerpo tiene que descansar"],
         ["The body has to rest", "The body has to relax"]
       ],
-      [["beber alcohol"], ["to drink alcohol"]],
+      [["beber alcohol"], ["to drink alcohol", "drinking alcohol"]],
       [["disfrutar"], ["to enjoy", "to have fun"]],
       [["enfermedad"], ["illness", "disease", "sickness"]],
-      [["estar en forma"], ["to be fit", "to be in shape"]],
+      [
+        ["estar en forma"],
+        ["to be fit", "to be in shape", "being fit", "being in shape"]
+      ],
       [
         ["Es importante evitar el estrés"],
-        ["It's important to avoid stress", "It is important to avoid stress"]
+        [
+          "It's important to avoid stress",
+          "It is important to avoid stress",
+          "It's important to avoid the stress",
+          "It is important to avoid the stress",
+          "It's important avoiding stress",
+          "It is important avoiding stress",
+          "It's important avoiding the stress",
+          "It is important avoiding the stress"
+        ]
       ],
       [["Tengo hambre"], ["I'm hungry", "I am hungry"]],
       [["Necesito beber agua"], ["I need to drink water"]],
@@ -640,13 +941,26 @@
           "You have to look after your skin",
           "You have to take care of the skin",
           "You have to care for the skin",
-          "You have to look after the skin"
+          "You have to look after the skin",
+          "You've got to take care of your skin",
+          "You've got to care for your skin",
+          "You've got to look after your skin",
+          "You've got to take care of the skin",
+          "You've got to care for the skin",
+          "You've got to look after the skin"
         ]
       ],
       [["salud mental"], ["mental health"]],
       [
         ["respirar aire puro"],
-        ["to breathe fresh air", "to breathe pure air", "to breathe clean air"]
+        [
+          "to breathe fresh air",
+          "to breathe pure air",
+          "to breathe clean air",
+          "breathing fresh air",
+          "breathing pure air",
+          "breathing clean air"
+        ]
       ],
       [["riesgo"], ["risk"]],
       [["Tengo sed"], ["I'm thirsty", "I am thirsty"]],
@@ -675,42 +989,58 @@
       [["ideal"], ["ideal", "perfect"]],
       [["inglés", "inglesa"], ["English"]],
       [["leche"], ["milk"]],
-      [["lugar"], ["place", "site", "location"]],
+      [["lugar"], ["place", "site", "location", "spot"]],
       [["más"], ["more", "most"]],
       [["menos"], ["less", "least", "fewer"]],
       [["mexicano", "mexicana"], ["Mexican"]],
       [["plato"], ["plate", "dish", "course"]],
       [["por favor"], ["please"]],
-      [["servir"], ["to serve"]],
+      [["servir"], ["to serve", "serving"]],
       [["solo"], ["only", "alone", "just"]],
       [["típico", "típica"], ["typical"]],
       [["turista"], ["tourist"]]
     ],
     [
       "2.2F Tipos de Dietas",
-      [["No como azúcar"], ["I don't eat sugar", "I do not eat sugar"]],
       [
-        ["Como bastante pescado "],
+        ["No como azúcar"],
+        [
+          "I don't eat sugar",
+          "I do not eat sugar",
+          "I don't eat any sugar",
+          "I do not eat any sugar"
+        ]
+      ],
+      [
+        ["Como bastante pescado"],
         [
           "I eat plenty of fish",
           "I eat enough fish",
           "I eat quite a lot of fish",
-          "I eat a fair amount of fish"
+          "I eat a fair amount of fish",
+          "I eat a lot of fish"
         ]
       ],
       [
         ["Consiste en no comer ningun producto de origen animal"],
         [
+          "It consists of not eating any products of animal origin",
           "It consists of not eating any product of animal origin",
-          "It consists of eating no products of animal origin"
+          "It consists of eating no products of animal origin",
+          "It consists in not eating any product of animal origin",
+          "It consists in not eating any products of animal origin",
+          "It consists in eating no products of animal origin",
+          "It's about not eating any product of animal origin",
+          "It's about not eating any products of animal origin",
+          "It's about eating no products of animal origin",
+          "It is about not eating any product of animal origin",
+          "It is about not eating any products of animal origin",
+          "It is about eating no products of animal origin"
         ]
       ],
       [["ensalada"], ["salad"]],
       [["falta de proteína"], ["lack of protein", "shortage of protein"]],
-      [
-        ["productos frescos"],
-        ["fresh products", "fresh food", "fresh products"]
-      ],
+      [["productos frescos"], ["fresh products", "fresh food"]],
       [
         ["Evito la comida frita"],
         ["I avoid fried food", "I avoid deep-fried food"]
@@ -723,13 +1053,26 @@
       ],
       [
         ["Es bueno para el medio ambiente"],
-        ["It's good for the environment", "It is good for the environment"]
+        [
+          "It's good for the environment",
+          "It is good for the environment",
+          "It's beneficial for the environment",
+          "It is beneficial for the environment"
+        ]
       ],
       [
         ["Seguimos la dieta mediterránea"],
         ["We follow the Mediterranean diet"]
       ],
-      [["mi hermano menor"], ["my younger brother", "my little brother"]],
+      [
+        ["mi hermano menor"],
+        [
+          "my younger brother",
+          "my little brother",
+          "my younger sibling",
+          "my little sibling"
+        ]
+      ],
       [
         ["ninguno", "ninguna", "ningún"],
         ["none", "not any", "not one"]
@@ -743,27 +1086,40 @@
         [
           "We're going to prepare dinner",
           "We are going to prepare dinner",
-          "We're going to prepare the dinner",
-          "We are going to prepare the dinner"
+          "We're going to make the dinner",
+          "We are going to make the dinner"
         ]
       ],
       [["Voy a comer"], ["I'm going to eat", "I am going to eat"]],
       [["ayudar"], ["to help"]],
       [["región"], ["region", "area"]],
       [
-        ["Es una dieta que es buena para el corazón"],
+        [
+          "Es una dieta que es buena para el corazón",
+          "Es una dieta buena para el corazón",
+          "Es una buena dieta para el corazón"
+        ],
         [
           "It's a diet that's good for the heart",
           "It is a diet that is good for the heart",
           "It's a diet which is good for the heart",
           "It is a diet which is good for the heart",
           "It's a heart-healthy diet",
-          "It is a heart-healthy diet"
+          "It is a heart-healthy diet",
+          "It's a good diet for the heart",
+          "It is a good diet for the heart"
         ]
       ],
       [["servir"], ["to serve"]],
       [["tipo"], ["type", "kind", "sort"]],
-      [["Hay muchas dietas tontas"], ["There are many silly diets"]],
+      [
+        ["Hay muchas dietas tontas"],
+        [
+          "There are many silly diets",
+          "There are lots of silly diets",
+          "There are a lot of silly diets"
+        ]
+      ],
       [["Van a trabajar"], ["They're going to work", "They are going to work"]],
       [
         ["veterinario", "veterinaria"],
@@ -772,14 +1128,28 @@
     ],
     [
       "2.2H La vida en España",
-      [["aceite"], ["oil"]],
+      [
+        [
+          "Un desayuno típico es pan tostado con aceite y tomate",
+          "Un desayuno típico es tostada con aceite y tomate",
+          "Un desayuno típico es tostadas con aceite y tomate",
+          "Un desayuno típico es pan con aceite y tomate"
+        ],
+        [
+          "A typical breakfast is toasted bread with oil and tomato",
+          "A typical breakfast is toast with oil and tomato",
+          "A typical breakfast is bread with oil and tomato",
+          "A typical breakfast is toast with olive oil and tomato",
+          "A typical breakfast is toasted bread with olive oil and tomato"
+        ]
+      ],
       [
         ["los platos alemanes"],
         [
-          "the German dishes",
+          "German dishes",
           "the German meals",
           "the German foods",
-          "German dishes",
+          "the German dishes",
           "German meals",
           "German foods"
         ]
@@ -787,7 +1157,7 @@
       [["andaluz", "andaluza"], ["Andalusian"]],
       [["la carne argentina"], ["the Argentinian meat", "Argentinian meat"]],
       [["No puedo dormir"], ["I can't sleep", "I cannot sleep"]],
-      [["los vinos chilenos"], ["the Chilean wines", "Chilean wines"]],
+      [["los vinos chilenos"], ["Chilean wines", "the Chilean wines"]],
       [["chino", "china"], ["Chinese"]],
       [
         [
@@ -796,10 +1166,14 @@
           "Debes tener una dieta equilibrada"
         ],
         [
+          "It's necessary to have a balanced diet",
+          "It is necessary to have a balanced diet",
           "One must have a balanced diet",
           "You must have a balanced diet",
           "One should have a balanced diet",
-          "You should have a balanced diet"
+          "You should have a balanced diet",
+          "It's necessary to have a balanced diet",
+          "It is necessary to have a balanced diet"
         ]
       ],
       [["las tapas españolas"], ["the Spanish tapas", "Spanish tapas"]],
@@ -809,24 +1183,77 @@
         ["a Mexican festival", "a Mexican party", "a Mexican celebration"]
       ],
       [["los dulces franceses"], ["the French sweets", "French sweets"]],
-      [["hay que"], ["one must", "it is necessary to", "you must"]],
       [
-        ["histórico", "histórica"],
-        ["historic", "historical"]
+        ["hay que"],
+        ["it's necessary to", "one must", "it is necessary to", "you must"]
       ],
-      [["horario"], ["timetable", "schedule"]],
-      [["el desayuno inglés"], ["the English breakfast", "English breakfast"]],
       [
-        ["merienda"],
         [
-          "afternoon snack",
-          "snack",
-          "tea-time snack",
-          "tea time snack",
-          "merienda"
+          "En España tenemos muchas fiestas",
+          "En España tenemos muchas celebraciones",
+          "En España tenemos muchos festivales",
+          "En España hay muchas fiestas",
+          "En España hay muchas celebraciones",
+          "En España hay muchos festivales"
+        ],
+        [
+          "In Spain we have many festivals",
+          "In Spain we have many celebrations",
+          "In Spain we've got many festivals",
+          "In Spain we've got many celebrations",
+          "In Spain we have lots of festivals",
+          "In Spain we have lots of celebrations",
+          "In Spain we've got lots of festivals",
+          "In Spain we've got lots of celebrations",
+          "In Spain we have a lot of festivals",
+          "In Spain we have a lot of celebrations",
+          "In Spain we've got a lot of festivals",
+          "In Spain we've got a lot of celebrations"
         ]
       ],
-      [["comida mexicana"], ["Mexican food"]],
+      [
+        [
+          "El horario es de nueve a cinco",
+          "El horario es desde las nueve a las cinco",
+          "El horario es desde las nueve hasta las cinco"
+        ],
+        [
+          "The timetable is from nine to five",
+          "The timetable is nine to five",
+          "The schedule is from nine to five",
+          "The schedule is nine to five"
+        ]
+      ],
+      [["el desayuno inglés"], ["the English breakfast", "English breakfast"]],
+      [
+        ["Como la merienda a las cinco de la tarde"],
+        [
+          "I have the afternoon snack at five in the afternoon",
+          "I have the snack at five in the afternoon",
+          "I have the tea-time snack at five in the afternoon",
+          "I have the tea time snack at five in the afternoon",
+          "I have the merienda at five in the afternoon",
+          "I eat the afternoon snack at five in the afternoon",
+          "I eat the snack at five in the afternoon",
+          "I eat the tea-time snack at five in the afternoon",
+          "I eat the tea time snack at five in the afternoon",
+          "I eat the merienda at five in the afternoon",
+          "I have an afternoon snack at five in the afternoon",
+          "I have a snack at five in the afternoon",
+          "I have a tea-time snack at five in the afternoon",
+          "I have a tea time snack at five in the afternoon",
+          "I have a merienda at five in the afternoon",
+          "I eat an afternoon snack at five in the afternoon",
+          "I eat a snack at five in the afternoon",
+          "I eat a tea-time snack at five in the afternoon",
+          "I eat a tea time snack at five in the afternoon",
+          "I eat a merienda at five in the afternoon"
+        ]
+      ],
+      [
+        ["Me gusta la comida mexicana"],
+        ["I like Mexican food", "I like the Mexican food"]
+      ],
       [
         ["Para estar en forma"],
         [
@@ -858,16 +1285,56 @@
           "You shouldn't eat processed food"
         ]
       ],
-      [["siesta"], ["nap", "afternoon nap", "siesta"]],
+      [
+        [
+          "Después del almuerzo duermo una siesta",
+          "Después del almuerzo duermo la siesta",
+          "Después del almuerzo tengo una siesta",
+          "Después del almuerzo echo una siesta",
+          "Después del almuerzo me echo una siesta"
+        ],
+        [
+          "After lunch I have a nap",
+          "After lunch I have an afternoon nap",
+          "After lunch I have a siesta",
+          "After lunch I sleep a nap",
+          "After lunch I sleep an afternoon nap",
+          "After lunch I sleep a siesta",
+          "After lunch I sleep a bit",
+          "After lunch I sleep for a while",
+          "After lunch I take a nap",
+          "After lunch I take an afternoon nap",
+          "After lunch I take a siesta"
+        ]
+      ],
       [
         ["Puedo hacer una paella muy buena"],
         [
           "I can make a very nice paella",
           "I can make a very tasty paella",
-          "I can make a delicious tasty paella"
+          "I can make a very delicious paella"
         ]
       ],
-      [["tortilla"], ["omelette", "Spanish omelette"]]
+      [
+        [
+          "Soy el dueño de una tienda de ropa",
+          "Soy dueño de una tienda de ropa"
+        ],
+        [
+          "I'm the owner of a clothes shop",
+          "I am the owner of a clothes shop",
+          "I'm the owner of a clothing shop",
+          "I am the owner of a clothing shop",
+          "I'm the owner of a clothes store",
+          "I am the owner of a clothes store",
+          "I'm the owner of a clothing store",
+          "I am the owner of a clothing store",
+          "I own a clothes shop",
+          "I own a clothing shop",
+          "I own a clothes store",
+          "I own a clothing store"
+        ]
+      ]
     ],
     [
       "3.1G El día escolar",
@@ -895,10 +1362,13 @@
         ["trousers", "pants"]
       ],
       [["primero", "primera"], ["first"]],
-      [["recreo"], ["break", "break time", "recess"]],
+      [
+        ["recreo"],
+        ["break", "break time", "recess", "breaktime", "school break"]
+      ],
       [["religión"], ["religion", "R.E.", "RE", "religious education"]],
       [["terminar"], ["to finish", "to end"]],
-      [["tutoría"], ["tutorial", "tutor group", "form period"]],
+      [["tutoría"], ["tutorial", "tutor group", "form period", "form time"]],
       [["uniforme"], ["uniform"]],
       [["verde"], ["green"]],
       [["zapato"], ["shoe"]]
@@ -912,20 +1382,37 @@
           "Mi colegio tiene 500 alumnos",
           "Mi insti tiene 500 estudiantes",
           "Mi instituto tiene 500 estudiantes",
-          "Mi colegio tiene 500 estudiantes"
+          "Mi colegio tiene 500 estudiantes",
+          "Mi insti tiene quinientos alumnos",
+          "Mi instituto tiene quinientos alumnos",
+          "Mi colegio tiene quinientos alumnos",
+          "Mi insti tiene quinientos estudiantes",
+          "Mi instituto tiene quinientos estudiantes",
+          "Mi colegio tiene quinientos estudiantes"
         ],
-        ["My school has 500 students", "My school has 500 pupils"]
+        [
+          "My school has 500 students",
+          "My school has 500 pupils",
+          "My school has five hundred students",
+          "My school has five hundred pupils"
+        ]
       ],
       [
         [
           "La historia es mi asignatura favorita",
           "La historia es mi asignatura preferida",
           "La historia es mi clase favorita",
-          "La historia es mi clase preferida"
+          "La historia es mi clase preferida",
+          "Historia es mi asignatura favorita",
+          "Historia es mi asignatura preferida",
+          "Historia es mi clase favorita",
+          "Historia es mi clase preferida"
         ],
         [
           "History is my favourite subject",
           "History is my favorite subject",
+          "History is my favourite class",
+          "History is my favorite class",
           "History is my preferred subject",
           "History is my preferred class"
         ]
@@ -942,26 +1429,58 @@
           "My school doesn't have a swimming pool",
           "My school does not have a swimming pool",
           "My school doesn't have a swimming-pool",
-          "My school does not have a swimming-pool"
+          "My school does not have a swimming-pool",
+          "My school has no pool",
+          "My school has no swimming pool",
+          "My school has no swimming-pool",
+          "My school's got no pool",
+          "My school's got no swimming pool",
+          "My school's got no swimming-pool"
         ]
       ],
-      [["chaqueta"], ["jacket", "blazer"]],
+      [
+        [
+          "Tenemos que llevar una chaqueta",
+          "Tenemos que ponernos una chaqueta"
+        ],
+        [
+          "We have to wear a blazer",
+          "We have to wear a jacket",
+          "We've got to wear a blazer",
+          "We've got to wear a jacket"
+        ]
+      ],
       [
         ["Hay demasiados deberes", "Hay demasiada tarea"],
         ["There's too much homework", "There is too much homework"]
       ],
       [["dibujo"], ["art", "drawing"]],
-      [["edificio"], ["building"]],
       [
-        ["La biblioteca es más grande que el gymnasio"],
+        [
+          "En mi insti hay dos edificios",
+          "En mi instituto hay dos edificios",
+          "En mi colegio hay dos edificios",
+          "En mi cole hay dos edificios"
+        ],
+        ["In my school there are two buildings"]
+      ],
+      [
+        ["La biblioteca es más grande que el gimnasio"],
         [
           "The library is bigger than the gym",
-          "The library is larger than the gym"
+          "The library is larger than the gym",
+          "The library is more big than the gym",
+          "The library is more large than the gym"
         ]
       ],
       [
         ["Los profesores explican bien"],
-        ["The teachers explain well", "Teachers explain well"]
+        [
+          "The teachers explain well",
+          "Teachers explain well",
+          "The teachers explain good",
+          "Teachers explain good"
+        ]
       ],
       [["geografía"], ["geography"]],
       [
@@ -970,7 +1489,15 @@
           "You have to raise your hand before talking",
           "You have to put your hand up before talking",
           "You have to raise your hand before speaking",
-          "You have to put your hand up before speaking"
+          "You have to put your hand up before speaking",
+          "You've got to raise your hand before talking",
+          "You've got to put your hand up before talking",
+          "You've got to raise your hand before speaking",
+          "You've got to put your hand up before speaking",
+          "You must raise your hand before talking",
+          "You must put your hand up before talking",
+          "You must raise your hand before speaking",
+          "You must put your hand up before speaking"
         ]
       ],
       [["idiomas", "lenguas"], ["languages"]],
@@ -985,7 +1512,17 @@
           "Amenities are old"
         ]
       ],
-      [["mesa"], ["table", "desk"]],
+      [
+        ["En mi clase hay muchas sillas y mesas"],
+        [
+          "In my class there are lots of chairs and tables",
+          "In my class there are a lot of chairs and tables",
+          "In my class there are many chairs and tables",
+          "In my class there are lots of chairs and desks",
+          "In my class there are a lot of chairs and desks",
+          "In my class there are many chairs and desks"
+        ]
+      ],
       [
         ["Hay un montón de ordenadores", "Hay un montón de computadoras"],
         [
@@ -1003,21 +1540,21 @@
         ["No debes correr en los pasillos"],
         [
           "You shouldn't run in the corridors",
-          "You shouldn't  run in the hallway",
-          "You shouldn't  run in the halls",
-          "You shouldn't  run down the corridors",
+          "You shouldn't run in the hallway",
+          "You shouldn't run in the halls",
+          "You shouldn't run down the corridors",
           "You should not run in the corridors",
-          "You should not  run in the hallway",
-          "You should not  run in the halls",
-          "You should not  run down the corridors",
+          "You should not run in the hallway",
+          "You should not run in the halls",
+          "You should not run down the corridors",
           "You mustn't run in the corridors",
-          "You mustn't  run in the hallway",
-          "You mustn't  run in the halls",
-          "You mustn't  run down the corridors",
+          "You mustn't run in the hallway",
+          "You mustn't run in the halls",
+          "You mustn't run down the corridors",
           "You must not run in the corridors",
-          "You must not  run in the hallway",
-          "You must not  run in the halls",
-          "You must not  run down the corridors"
+          "You must not run in the hallway",
+          "You must not run in the halls",
+          "You must not run down the corridors"
         ]
       ],
       [["patio"], ["yard", "patio", "playground", "courtyard"]],
@@ -1034,15 +1571,35 @@
           "It's not allowed to use the phone in class",
           "It is not allowed to use the phone in class",
           "You're not allowed to use your phone in class",
-          "You are not allowed to use your phone in class"
+          "You are not allowed to use your phone in class",
+          "It's not allowed to use the mobile in class",
+          "It is not allowed to use the mobile in class",
+          "You're not allowed to use your mobile in class",
+          "You are not allowed to use your mobile in class"
         ]
       ],
-      [["recreo"], ["break", "break time"]],
+      [
+        ["recreo"],
+        ["break", "break time", "recess", "breaktime", "school break"]
+      ],
       [
         ["respetar a los demás", "respetar a los otros"],
-        ["to respect the others"]
+        ["to respect the others", "respecting the others"]
       ],
-      [["silla"], ["chair"]],
+      [
+        [
+          "No estoy de acuerdo porque es demasiado estricto",
+          "Estoy en desacuerdo porque es demasiado estricto"
+        ],
+        [
+          "I disagree because it's too strict",
+          "I don't agree because it's too strict",
+          "I do not agree because it's too strict",
+          "I disagree because it is too strict",
+          "I don't agree because it is too strict",
+          "I do not agree because it is too strict"
+        ]
+      ],
       [["Llevamos uniforme"], ["We wear a uniform", "We wear uniform"]]
     ],
     [
@@ -1060,13 +1617,16 @@
         ["Me gusta aprender cosas nuevas"],
         ["I like to learn new things", "I like learning new things"]
       ],
-      [["Necesito aprobar"], ["I need to pass", "I need to pass an exam"]],
+      [
+        ["Necesito aprobar", "Necesito aprobar los exámenes"],
+        ["I need to pass", "I need to pass an exam", "I need to pass the exams"]
+      ],
       [
         ["No tengo papel ni libros"],
         [
+          "I don't have paper or books",
           "I haven't got paper or books",
           "I haven't got any paper or books",
-          "I don't have paper or books",
           "I don't have any paper or books",
           "I do not have paper or books",
           "I have neither paper nor books",
@@ -1075,8 +1635,32 @@
         ]
       ],
       [["asistir", "asistir a"], ["to attend"]],
-      [["comportamiento"], ["behaviour"]],
-      [["diccionario"], ["dictionary"]],
+      [
+        [
+          "Tienen mal comportamiento",
+          "Muestran mal comportamiento",
+          "Se comportan mal",
+          "Se portan mal"
+        ],
+        [
+          "They behave badly",
+          "They misbehave",
+          "They have bad behaviour",
+          "They have bad behavior",
+          "They've got bad behaviour",
+          "They've got bad behavior",
+          "They show bad behaviour",
+          "They show bad behavior"
+        ]
+      ],
+      [
+        [
+          "Podemos usar un diccionario",
+          "Podemos usar diccionario",
+          "Podemos usar el diccionario"
+        ],
+        ["We can use a dictionary", "We can use the dictionary"]
+      ],
       [
         ["Ya no estudiamos religión"],
         [
@@ -1118,7 +1702,24 @@
           "I do not like mathematics because it is difficult"
         ]
       ],
-      [["mejorar"], ["to improve", "to get better"]],
+      [
+        [
+          "Quiero mejorar mis notas",
+          "Quiero sacar mejores notas",
+          "Quiero tener mejores notas",
+          "Quiero mejorar mis resultados",
+          "Quiero sacar mejores resultados",
+          "Quiero tener mejores resultados"
+        ],
+        [
+          "I want to improve my grades",
+          "I want to get better grades",
+          "I want to improve my marks",
+          "I want to get better marks",
+          "I want to improve my results",
+          "I want to get better results"
+        ]
+      ],
       [
         ["sacar buenas notas", "sacar buena nota"],
         [
@@ -1128,9 +1729,51 @@
           "to achieve good marks"
         ]
       ],
-      [["página"], ["page"]],
-      [["palabra"], ["word"]],
-      [["participar"], ["to participate", "to take part"]],
+      [
+        ["La página tiene mil palabras", "La página tiene 1000 palabras"],
+        [
+          "The page has a thousand words",
+          "The page has one thousand words",
+          "The page has 1000 words",
+          "The page has got a thousand words",
+          "The page has got one thousand words",
+          "The page has got 1000 words",
+          "The page's got a thousand words",
+          "The page's got one thousand words",
+          "The page's got 1000 words"
+        ]
+      ],
+      [
+        [
+          "Mi instituto organiza excursiones interesantes",
+          "Mi instituto organiza viajes interesantes",
+          "Mi insti organiza viajes interesantes",
+          "Mi colegio organiza viajes interesantes",
+          "Mi cole organiza viajes interesantes",
+          "Mi insti organiza excursiones interesantes",
+          "Mi colegio organiza excursiones interesantes",
+          "Mi cole organiza excursiones interesantes"
+        ],
+        [
+          "My school organises interesting trips",
+          "My school organizes interesting trips",
+          "My school organises interesting excursions",
+          "My school organizes interesting excursions",
+          "My school organises interesting school trips",
+          "My school organizes interesting school trips"
+        ]
+      ],
+      [
+        ["Participo en varias actividades", "Tomo parte en varias actividades"],
+        [
+          "I participate in several activities",
+          "I take part in several activities",
+          "I participate in various activities",
+          "I take part in various activities",
+          "I'm involved in several activities",
+          "I'm involved in various activities"
+        ]
+      ],
       [
         ["la presión de los exámenes"],
         [
@@ -1143,7 +1786,12 @@
       [["prueba"], ["test", "exam"]],
       [
         ["Algunas reglas son tontas", "Algunas normas son tontas"],
-        ["Some rules are silly", "Some school rules are silly"]
+        [
+          "Some rules are silly",
+          "Some school rules are silly",
+          "Some norms are silly",
+          "Some school norms are silly"
+        ]
       ],
       [
         ["No repasa jamás"],
@@ -1160,7 +1808,22 @@
           "She doesn't ever revise"
         ]
       ],
-      [["resultado"], ["result", "outcome"]],
+      [
+        [
+          "Saqué buenos resultados",
+          "Tuve buenos resultados",
+          "He sacado buenos resultados",
+          "He tenido buenos resultados"
+        ],
+        [
+          "I got good results",
+          "I had good results",
+          "I've got good results",
+          "I've had good results",
+          "I have got good results",
+          "I have had good results"
+        ]
+      ],
       [
         ["No quiero suspender"],
         ["I don't want to fail", "I do not want to fail"]
@@ -1175,13 +1838,13 @@
       ],
       [
         ["bachillerato"],
-        ["Baccalaureate", "A Levels", "A-Levels", "sixth form"]
+        ["A Levels", "A-Levels", "sixth form", "Baccalaureate"]
       ],
       [["curso"], ["course"]],
-      [["decisión"], ["decision", "choice"]],
-      [["dinero"], ["money", "cash"]],
+      [["decisión"], ["decision", "choice", "decision-making"]],
+      [["dinero"], ["money", "cash", "income"]],
       [["electricista"], ["electrician"]],
-      [["escoger"], ["to choose", "to pick", "to select"]],
+      [["escoger"], ["to choose", "to pick", "to select", "to opt for"]],
       [["escribir"], ["to write"]],
       [["hora"], ["hour", "time", "lesson", "period"]],
       [["hospital"], ["hospital"]],
@@ -1189,7 +1852,7 @@
       [["me gustaría"], ["I would like", "I'd like"]],
       [
         ["obligatorio", "obligatoria"],
-        ["compulsory", "mandatory"]
+        ["compulsory", "mandatory", "obligatory"]
       ],
       [["optativo", "optativa", "opcional"], ["optional"]],
       [["perfecto", "perfecta"], ["perfect"]],
@@ -1198,17 +1861,20 @@
         ["pocos", "pocas"],
         ["few", "little"]
       ],
-      [["policía"], ["police officer", "cop"]],
+      [
+        ["policía"],
+        ["police officer", "cop", "policeman", "police woman", "police"]
+      ],
       [
         ["por eso", "así que"],
         ["so", "therefore"]
       ],
-      [["profesión"], ["profession", "career"]],
-      [["recepción"], ["reception"]],
+      [["profesión"], ["profession", "career", "job"]],
+      [["recepción"], ["reception", "front desk"]],
       [["recepcionista"], ["receptionist", "clerk"]],
       [["tecnología"], ["technology", "tech"]],
       [["turismo"], ["tourism"]],
-      [["universidad"], ["University", "uni"]]
+      [["universidad"], ["university", "uni"]]
     ],
     [
       "3.2F Los trabajos",
@@ -1220,11 +1886,24 @@
           "I want to be a solicitor"
         ]
       ],
-      [["contar historias"], ["to tell tales", "to tell stories"]],
-      [["trabajar desde casa"], ["to work from home"]],
+      [
+        ["contar historias"],
+        ["to tell stories", "to tell tales", "telling tales", "telling stories"]
+      ],
+      [
+        ["trabajar desde casa", "teletrabajar"],
+        ["to work from home", "working from home"]
+      ],
       [
         ["proteger a las personas", "proteger a la gente"],
-        ["to protect the people", "to protect people", "to protect the persons"]
+        [
+          "to protect the people",
+          "to protect people",
+          "to protect the persons",
+          "protecting the people",
+          "protecting people",
+          "protecting the persons"
+        ]
       ],
       [
         [
@@ -1237,7 +1916,7 @@
       ],
       [
         ["Necesitas una carrera universitaria", "Necesitas una carrera"],
-        ["You need a University degree", "You need a degree"]
+        ["You need a university degree", "You need a degree"]
       ],
       [
         ["Los clientes son amables"],
@@ -1247,22 +1926,40 @@
           "The customers are kind",
           "The clients are kind",
           "The customers are friendly",
-          "The clients are friendly"
+          "The clients are friendly",
+          "Customers are nice",
+          "Clients are nice",
+          "Customers are kind",
+          "Clients are kind",
+          "Customers are friendly",
+          "Clients are friendly"
         ]
       ],
-      [["diseñar ropa"], ["to design clothes"]],
+      [
+        ["diseñar ropa"],
+        [
+          "to design clothes",
+          "designing clothes",
+          "to design clothing",
+          "designing clothing"
+        ]
+      ],
       [
         ["empleado", "empleada"],
-        ["employee", "worker", "staff"]
+        ["employee", "worker", "staff member"]
       ],
       [["enfermero", "enfermera"], ["nurse"]],
       [
         ["Me gustaría enseñar a los niños"],
         [
+          "I'd like to teach children",
           "I'd like to teach the children",
           "I would like to teach the children",
-          "I'd like to teach children",
-          "I would like to teach children"
+          "I would like to teach children",
+          "I'd like teaching the children",
+          "I would like teaching the children",
+          "I'd like teaching children",
+          "I would like teaching children"
         ]
       ],
       [
@@ -1289,10 +1986,13 @@
         [
           "to write articles for a magazine",
           "to write magazine articles",
-          "to write pieces for a magazine"
+          "to write pieces for a magazine",
+          "writing articles for a magazine",
+          "writing magazine articles",
+          "writing pieces for a magazine"
         ]
       ],
-      [["pagar"], ["to pay"]],
+      [["pagar"], ["to pay", "paying"]],
       [
         ["Cuando sea mayor quiero ser periodista"],
         [
@@ -1304,14 +2004,36 @@
           "When I grow up I want to be a reporter"
         ]
       ],
-      [["presentar las noticias"], ["to present the news", "to host the news"]],
-      [["resolver problemas"], ["to solve problems", "to resolve problems"]],
+      [
+        ["presentar las noticias"],
+        [
+          "to present the news",
+          "to host the news",
+          "presenting the news",
+          "hosting the news"
+        ]
+      ],
+      [
+        ["resolver problemas"],
+        [
+          "to solve problems",
+          "to resolve problems",
+          "solving problems",
+          "resolving problems",
+          "to solve issues",
+          "to resolve issues",
+          "solving issues",
+          "resolving issues"
+        ]
+      ],
       [
         [
           "Se me dan bien las ciencias",
           "Soy buena en ciencias",
           "Se me da bien la ciencia",
-          "Soy buena en ciencia"
+          "Soy buena en ciencia",
+          "Soy bueno en ciencias",
+          "Soy bueno en ciencia"
         ],
         [
           "I'm good at science",
@@ -1324,7 +2046,13 @@
         [
           "Lo mejor es el salario",
           "Lo mejor es el sueldo",
-          "Lo mejor es la paga"
+          "Lo mejor es la paga",
+          "Lo más bueno es el salario",
+          "Lo más bueno es el sueldo",
+          "Lo más bueno es la paga",
+          "La cosa más buena es el salario",
+          "La cosa más buena es el sueldo",
+          "La cosa más buena es la paga"
         ],
         [
           "The best thing is the salary",
@@ -1339,13 +2067,27 @@
         ["seguro", "segura"],
         ["safe", "sure", "secure", "certain"]
       ],
-      [["tener éxito"], ["to be successful", "to succeed", "to have success"]],
+      [
+        ["tener éxito"],
+        [
+          "to be successful",
+          "to succeed",
+          "to have success",
+          "being successful",
+          "succeeding",
+          "having success"
+        ]
+      ],
       [
         [
           "Lo peor es el horario",
           "La peor cosa es el horario",
           "Lo peor son las horas de trabajo",
-          "La peor cosa son las horas de trabajo"
+          "La peor cosa son las horas de trabajo",
+          "Lo más malo es el horario",
+          "Lo más malo son las horas de trabajo",
+          "La cosa más mala es el horario",
+          "La cosa más mala son las horas de trabajo"
         ],
         [
           "The worst thing is the working hours",
@@ -1371,6 +2113,12 @@
           "Debes enviar una carta personalizada"
         ],
         [
+          "It's necessary to send a cover letter",
+          "It is necessary to send a cover letter",
+          "It's necessary to send a personalised letter",
+          "It is necessary to send a personalised letter",
+          "It's necessary to send a personalized letter",
+          "It is necessary to send a personalized letter",
           "You must send a cover letter",
           "One must send a cover letter",
           "You must send a personalised letter",
@@ -1386,10 +2134,10 @@
       [
         ["Comenzarás a las nueve", "Empezarás a las nueve"],
         [
+          "You'll start at nine",
           "You will begin at nine",
           "You'll begin at nine",
           "You will start at nine",
-          "You'll start at nine",
           "You will begin at 9",
           "You'll begin at 9",
           "You will start at 9",
@@ -1413,7 +2161,9 @@
         [
           "to show your positive aspects",
           "to demonstrate your positive aspects",
-          "to prove your positive aspects"
+          "to prove your positive aspects",
+          "to show your strengths",
+          "to highlight your strengths"
         ]
       ],
       [
@@ -1452,7 +2202,15 @@
           "It's recommended to dress smartly",
           "It is recommended to dress smartly",
           "It is advised to dress smartly",
-          "It's advised to dress smartly"
+          "It's advised to dress smartly",
+          "It's recommended wearing smart clothes",
+          "It is recommended wearing smart clothes",
+          "It is advised wearing smart clothes",
+          "It's advised wearing smart clothes",
+          "It's recommended dressing smartly",
+          "It is recommended dressing smartly",
+          "It is advised dressing smartly",
+          "It's advised dressing smartly"
         ]
       ],
       [
@@ -1482,6 +2240,7 @@
           "it's necessary",
           "it is necessary to",
           "it's necessary to",
+          "you need to",
           "you must",
           "one must"
         ]
@@ -1516,17 +2275,16 @@
           "It is worth to investigate the company on the internet"
         ]
       ],
-      [["lograr"], ["to manage", "to achieve", "to succeed in"]],
+      [["lograr"], ["to achieve", "to manage", "to succeed in"]],
       [
         [
           "No se debe mentir en el currículum",
-          "No se debe mentir en el curriculum",
           "No se debe mentir en el CV",
           "No debes mentir en el currículum",
-          "No debes mentir en el curriculum",
           "No debes mentir en el CV"
         ],
         [
+          "One must not lie on the CV",
           "You must not lie in the CV",
           "One must not lie in the CV",
           "You should not lie in the CV",
@@ -1534,7 +2292,6 @@
           "You shouldn't lie in the CV",
           "One shouldn't lie in the CV",
           "You must not lie on the CV",
-          "One must not lie on the CV",
           "You should not lie on the CV",
           "One should not lie on the CV",
           "You shouldn't lie on the CV",
@@ -1550,18 +2307,45 @@
         [
           "I have the ideal profile for the position",
           "I have the ideal profile for the vacancy",
-          "I have the ideal profile for the job"
+          "I have the ideal profile for the job",
+          "I've got the ideal profile for the position",
+          "I've got the ideal profile for the vacancy",
+          "I've got the ideal profile for the job"
         ]
       ],
       [
         ["trabajar en equipo"],
-        ["to work as a team", "to work in a team", "to work in teams"]
+        [
+          "to work in a team",
+          "to work as a team",
+          "to work in teams",
+          "working as a team",
+          "working in a team",
+          "working in teams"
+        ]
       ],
-      [["hacer preguntas"], ["to ask questions", "to make questions"]],
       [
-        ["Hay que ser proactivo", "Hay que ser proactiva"],
+        ["hacer preguntas"],
+        [
+          "to ask questions",
+          "to make questions",
+          "asking questions",
+          "making questions"
+        ]
+      ],
+      [
+        [
+          "Hay que ser proactivo",
+          "Hay que ser proactiva",
+          "Debes ser proactivo",
+          "Debes ser proactiva",
+          "Se debe ser proactivo",
+          "Se debe ser proactiva"
+        ],
         [
           "You must be proactive",
+          "It's necessary to be proactive",
+          "It is necessary to be proactive",
           "One must be proactive",
           "You have to be proactive",
           "You've got to be proactive",
@@ -1571,9 +2355,24 @@
       ],
       [
         ["Hacer un curso de formación"],
-        ["To do a training course", "To take a training course"]
+        [
+          "To do a training course",
+          "To take a training course",
+          "doing a training course",
+          "taking a training course"
+        ]
       ],
-      [["solicitar"], ["to apply for", "to request"]]
+      [
+        ["solicitar"],
+        [
+          "to apply for",
+          "to request",
+          "applying for",
+          "requesting",
+          "to apply",
+          "applying"
+        ]
+      ]
     ]
   ],
   "Theme 2": [

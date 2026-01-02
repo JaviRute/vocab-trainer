@@ -4,7 +4,6 @@
 //* Add Y9 French vocab (todo lo demás de KS3 Fr está de PM)
 //* El vocab de GCSE French hay q hacerlo entero (todos son 25 expresiones, pero solo cortas)
 //* El vocab de KS3 Spanish hay q hacerlo casi entero (todos son 25 expresiones, pero solo cortas)
-//* sometimes it doesnt add a +1 to expressionsAnswered?
 //* mejorar visibilidad modales en modo telefono
 //* add a section of "common problems" or FAQ en Tutorial (usar en google chrome, check for errors on your answer)
 //* add special characters appearing always: ?, !, ', -
@@ -12,7 +11,8 @@
 //* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción
-
+//* EL KS3 SPANISH ESTÁ FINIQUITADO TODO LO Q SON  MODULOS 1 A 3, TERMINA LOS 4 A 5 DE Y7, Y8 Y Y9
+//* KS4 SPANISH SUPERFINIQUITADO: UNI1
 
 
 import './App.css';
