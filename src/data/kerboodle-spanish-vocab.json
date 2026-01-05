@@ -2379,7 +2379,7 @@
     [
       "4.1G Un mundo deportivo",
       [["actividad"], ["activity"]],
-      [["además"], ["furthermore", "besides", "also"]],
+      [["además"], ["also", "furthermore", "besides", "as well"]],
       [["atletismo"], ["athletics"]],
       [["bádminton"], ["badminton"]],
       [["baloncesto"], ["basketball"]],
@@ -2387,7 +2387,7 @@
         ["barato", "barata"],
         ["cheap", "inexpensive"]
       ],
-      [["camiseta"], ["t-shirt", "tee"]],
+      [["camiseta"], ["t-shirt", "tee", "t shirt", "tshirt"]],
       [
         ["cansado", "cansada"],
         ["tired", "tiring"]
@@ -2411,7 +2411,7 @@
       ],
       [["fútbol"], ["football", "soccer"]],
       [["golf"], ["golf"]],
-      [["guay"], ["cool", "awesome"]],
+      [["guay"], ["cool", "awesome", "great"]],
       [["interesante"], ["interesting"]],
       [["invierno"], ["winter"]],
       [["mujer"], ["woman"]],
@@ -2426,14 +2426,24 @@
       "4.1F ¡Nos gusta el riesgo!",
       [
         ["respirar aire puro", "respirar aire limpio"],
-        ["to breathe fresh air", "to breathe pure air", "to breathe clean air"]
+        [
+          "to breathe fresh air",
+          "to breathe pure air",
+          "to breathe clean air",
+          "breathing fresh air",
+          "breathing pure air",
+          "breathing clean air"
+        ]
       ],
       [
-        ["hacer alpinismo", "hacer montañismo"],
+        ["hacer alpinismo", "hacer montañismo", "hacer senderismo"],
         [
           "to go mountaineering",
+          "to do mountaineering",
           "to go mountain climbing",
-          "to climb mountains"
+          "to do mountain climbing",
+          "to climb mountains",
+          "mountaineering"
         ]
       ],
       [
@@ -2460,12 +2470,21 @@
           "I scuba dive off the coast",
           "I go scuba diving off the coast",
           "I scuba-dive off the coast",
+          "I scuba-dive on the coast",
+          "I scuba dive on the coast",
           "I go scuba-diving off the coast"
         ]
       ],
       [
         ["Hago parkour entre los edificios"],
-        ["I do parkour between the buildings"]
+        [
+          "I do parkour between the buildings",
+          "I do parkour around the buildings",
+          "I practise parkour between the buildings",
+          "I practise parkour around the buildings",
+          "I do parkour around buildings",
+          "I practise parkour around buildings"
+        ]
       ],
       [
         ["Tenemos dos actividades emocionantes"],
@@ -2560,7 +2579,11 @@
           "It's better when it's not windy",
           "It is better when it is not windy",
           "It's better when it isn't windy",
-          "It is better when it isn't windy"
+          "It is better when it isn't windy",
+          "It's best when it's not windy",
+          "It is best when it is not windy",
+          "It's best when it isn't windy",
+          "It is best when it isn't windy"
         ]
       ],
       [
@@ -2599,7 +2622,6 @@
       [
         [
           "Soy aficionado al deporte",
-          "Soy aficionado al deporte",
           "Soy un fan del deporte",
           "Soy una fan del deporte",
           "Soy un fanático del deporte",
@@ -2617,12 +2639,21 @@
         ]
       ],
       [
-        ["Me gusta andar en la playa", "Me gusta caminar en la playa"],
+        [
+          "Me gusta andar en la playa",
+          "Me gusta caminar en la playa",
+          "Me gusta andar por la playa",
+          "Me gusta caminar por la playa",
+          "Me gusta pasear en la playa",
+          "Me gusta pasear por la playa"
+        ],
         [
           "I like to walk on the beach",
           "I like walking on the beach",
-          "I like to walk in the beach",
-          "I like walking in the beach"
+          "I like to walk around the beach",
+          "I like walking around the beach",
+          "I like to have a walk on the beach",
+          "I like having a walk around the beach"
         ]
       ],
       [["Me encanta bailar"], ["I love to dance", "I love dancing"]],
@@ -2645,7 +2676,9 @@
           "I learnt to cook with my friend",
           "I learned to cook with my friend",
           "I learned how to cook with my friend",
-          "I learnt how to cook with my friend"
+          "I learnt how to cook with my friend",
+          "I learnt cooking with my friend",
+          "I learned cooking with my friend"
         ]
       ],
       [
@@ -2653,12 +2686,9 @@
         [
           "I have several consoles at home",
           "I have several games consoles at home",
-          "I've several games consoles at home",
-          "I've several consoles at home",
           "I've got several games consoles at home",
           "I've got several consoles at home",
           "I have several game consoles at home",
-          "I've several game consoles at home",
           "I've got several game consoles at home"
         ]
       ],
@@ -2677,7 +2707,9 @@
           "Ayer empecé a repasar para los exámenes",
           "Ayer comencé a repasar para los exámenes",
           "Ayer empecé a estudiar para los exámenes",
-          "Ayer comencé a estudiar para los exámenes"
+          "Ayer comencé a estudiar para los exámenes",
+          "Ayer empecé a revisar para los exámenes",
+          "Ayer comencé a revisar para los exámenes"
         ],
         [
           "Yesterday I started to revise for the exams",
@@ -2725,7 +2757,10 @@
         [
           "I want to stop playing videogames",
           "I want to stop playing video-games",
-          "I want to stop playing video games"
+          "I want to stop playing video games",
+          "I want to quit playing videogames",
+          "I want to quit playing video-games",
+          "I want to quit playing video games"
         ]
       ],
       [
@@ -2771,18 +2806,28 @@
       [["novela"], ["novel"]],
       [
         ["pasear"],
-        ["to go for a walk", "to take a walk", "to stroll", "to have a walk"]
-      ],
-      [
-        ["Suelo pintar los domingos"],
         [
-          "I usually paint on Sundays",
-          "I tend to paint on Sundays",
-          "I often paint on Sundays",
-          "I normally paint on Sundays"
+          "to go for a walk",
+          "to take a walk",
+          "to stroll",
+          "to have a walk",
+          "to have a stroll",
+          "to take a stroll"
         ]
       ],
-      [["ochenta por ciento"], ["eighty percent", "eighty per cent", "80%"]],
+      [
+        ["Los domingos suelo pintar"],
+        [
+          "On Sundays I usually paint",
+          "On Sundays I tend to paint",
+          "On Sundays I often paint",
+          "On Sundays I normally paint"
+        ]
+      ],
+      [
+        ["ochenta por ciento", "80%", "80 por ciento"],
+        ["eighty percent", "eighty per cent", "80%", "80 percent"]
+      ],
       [
         ["aquellos zapatos rojos"],
         ["those red shoes over there", "those red shoes"]
@@ -2795,39 +2840,75 @@
     ],
     [
       "4.2G ¡Me paso el día bailando!",
-      [["ahora"], ["now"]],
-      [["bailar"], ["to dance"]],
+      [["ahora"], ["now", "right now"]],
+      [["bailar"], ["to dance", "dancing"]],
       [
         ["banda", "grupo"],
         ["band", "group"]
       ],
-      [["cantar"], ["to sing"]],
-      [["cantante"], ["singer"]],
-      [["clase"], ["class", "lesson"]],
+      [["cantar"], ["to sing", "singing"]],
+      [["cantante"], ["singer", "vocalist"]],
+      [["clase"], ["class", "lesson", "classroom"]],
       [["concierto"], ["concert", "gig"]],
       [["dormitorio"], ["bedroom", "room"]],
-      [["descubrir"], ["to discover", "to find out"]],
-      [["disfrutar"], ["to enjoy"]],
-      [["discoteca"], ["nightclub", "danceclub", "club", "disco"]],
-      [["escuchar"], ["to listen", "to hear"]],
-      [["espectáculo"], ["show"]],
+      [
+        ["descubrir"],
+        ["to discover", "to find out", "discovering", "finding out"]
+      ],
+      [["disfrutar"], ["to enjoy", "enjoying"]],
+      [["discoteca"], ["disco", "nightclub", "danceclub", "club"]],
+      [
+        ["escuchar"],
+        ["to listen", "to hear", "listening", "hearing", "to listen to"]
+      ],
+      [["espectáculo"], ["show", "performance"]],
       [["mañana"], ["tomorrow", "morning"]],
       [
         ["maravilloso", "maravillosa"],
-        ["wonderful", "marvellous", "amazing"]
+        ["wonderful", "marvellous", "amazing", "fantastic"]
       ],
       [["música"], ["music"]],
-      [["nuevo", "nueva"], ["new"]],
-      [["opinar"], ["to think"]],
-      [["pasar"], ["to spend", "to happen", "to pass"]],
+      [
+        ["nuevo", "nueva"],
+        ["new", "brand new"]
+      ],
+      [
+        ["opinar"],
+        [
+          "to think",
+          "thinking",
+          "to believe",
+          "believing",
+          "to give an opinion"
+        ]
+      ],
+      [
+        ["pasar"],
+        [
+          "to spend",
+          "to happen",
+          "to pass",
+          "spending",
+          "passing",
+          "to spend time"
+        ]
+      ],
       [["el mes que viene", "el próximo mes"], ["next month"]],
-      [["ser"], ["to be"]],
+      [["ser"], ["to be", "being"]],
       [["tarde"], ["afternoon", "evening", "late"]],
-      [["teatro"], ["theatre"]],
-      [["tocar la guitarra"], ["to play guitar", "to play the guitar"]],
+      [["teatro"], ["theatre", "theater"]],
+      [
+        ["tocar la guitarra"],
+        [
+          "to play guitar",
+          "to play the guitar",
+          "playing guitar",
+          "playing the guitar"
+        ]
+      ],
       [
         ["varios", "varias"],
-        ["several", "various"]
+        ["several", "various", "a few"]
       ]
     ],
     [
@@ -2861,7 +2942,10 @@
           "I go to the movies each Saturday"
         ]
       ],
-      [["concurso"], ["game show", "contest", "competition", "quiz"]],
+      [
+        ["concurso"],
+        ["game show", "contest", "competition", "quiz", "quiz show"]
+      ],
       [
         [
           "Me gustan los dibujos animados",
@@ -2876,7 +2960,8 @@
           "I like animated movies",
           "I like animated series",
           "I like animation",
-          "I like animation series"
+          "I like animation series",
+          "I like animated shows"
         ]
       ],
       [
@@ -2892,7 +2977,11 @@
           "Liv Tyler is my favourite actress",
           "Liv Tyler is my favorite actress",
           "Liv Tyler is my favourite female actor",
-          "Liv Tyler is my favorite female actor"
+          "Liv Tyler is my favorite female actor",
+          "Liv Tyler's my favourite actress",
+          "Liv Tyler's my favorite actress",
+          "Liv Tyler's my favourite female actor",
+          "Liv Tyler's my favorite female actor"
         ]
       ],
       [
@@ -2951,9 +3040,12 @@
       ],
       [
         ["famoso", "famosa"],
-        ["celebrity", "famous"]
+        ["celebrity", "famous", "well-known"]
       ],
-      [["seguramente"], ["certainly"]],
+      [
+        ["seguramente", "ciertamente"],
+        ["certainly", "surely", "definitely"]
+      ],
       [
         ["La pantalla es más grande"],
         [
@@ -3023,25 +3115,35 @@
         ["television", "telly", "TV"]
       ],
       [["fácilmente"], ["easily", "with ease"]],
-      [["una vez al día"], ["once a day"]],
-      [["dos veces a la semana"], ["twice a week", "two times a week"]],
-      [["tres veces al mes"], ["three times a month"]],
+      [["una vez al día"], ["once a day", "once per day"]],
+      [
+        ["dos veces a la semana"],
+        [
+          "twice a week",
+          "two times a week",
+          "twice per week",
+          "two times per week"
+        ]
+      ],
+      [["tres veces al mes"], ["three times a month", "three times per month"]],
       [
         ["cada día", "todos los días"],
-        ["every day", "each day", "daily"]
+        ["every day", "each day", "daily", "every single day"]
       ]
     ],
     [
       "4.2H Mi tiempo es oro",
       [
-        ["Es un pintor de arte abstracto"],
+        ["Es un pintor de arte abstracto", "Es un pintor abstracto"],
         [
           "He's an abstract painter",
           "He is an abstract painter",
           "He's an abstract artist",
           "He is an abstract artist",
           "He's an abstract art painter",
-          "He is an abstract art painter"
+          "He is an abstract art painter",
+          "He's a painter of abstract art",
+          "He is a painter of abstract art"
         ]
       ],
       [
@@ -3070,7 +3172,7 @@
           "She is an astronaut and scientist"
         ]
       ],
-      [["decoración"], ["decoration"]],
+      [["decoración"], ["decoration", "decor"]],
       [
         [
           "La entrada menos cara",
@@ -3111,7 +3213,8 @@
           "I've got three pets",
           "I have 3 pets",
           "I've 3 pets",
-          "I've got 3 pets"
+          "I've got 3 pets",
+          "I have got three pets"
         ]
       ],
       [
@@ -3119,7 +3222,9 @@
           "De noche suelo mirar las estrellas",
           "De noche suelo mirar a las estrellas",
           "Por la noche suelo mirar las estrellas",
-          "Por la noche suelo mirar a las estrellas"
+          "Por la noche suelo mirar a las estrellas",
+          "De noche usualmente miro las estrellas",
+          "Por la noche usualmente miro las estrellas"
         ],
         [
           "At night I usually look at the stars",
@@ -3139,7 +3244,8 @@
           "The finest work of art",
           "The best piece of art",
           "The greatest piece of art",
-          "The finest piece of art"
+          "The finest piece of art",
+          "The best art piece"
         ]
       ],
       [
@@ -3156,10 +3262,11 @@
           "The most nice landscape",
           "The most beautiful landscape",
           "The most beautiful views",
-          "The prettiest views"
+          "The prettiest views",
+          "The nicest views"
         ]
       ],
-      [["peligro"], ["danger", "hazard"]],
+      [["peligro"], ["danger", "hazard", "risk"]],
       [
         ["regalar"],
         [
@@ -3172,7 +3279,7 @@
       ],
       [
         ["El río menos peligroso"],
-        ["The least dangerous river", "The least dangerious stream"]
+        ["The least dangerous river", "The least dangerous stream"]
       ],
       [
         ["La roca más pesada", "La piedra más pesada"],
@@ -3211,7 +3318,7 @@
       ],
       [
         ["El peor día de la semana", "El día más malo de la semana"],
-        ["The worst day of the week"]
+        ["The worst day of the week", "The worst weekday"]
       ],
       [
         ["Juego con mi hermano mayor", "Juego con mi hermano más grande"],
@@ -3226,7 +3333,10 @@
         ]
       ],
       [
-        ["Eres la persona que buscamos"],
+        [
+          "Eres la persona que buscamos",
+          "Eres la persona que estamos buscando"
+        ],
         [
           "You're the person we are looking for",
           "You are the person we are looking for",
@@ -3246,15 +3356,19 @@
           "I searched for the address on my phone",
           "I looked for the address on my phone",
           "I checked the address on my phone",
-          "I looked up the address on my phone"
+          "I looked up the address on my phone",
+          "I searched for the address on my mobile",
+          "I looked for the address on my mobile",
+          "I checked the address on my mobile",
+          "I looked up the address on my mobile"
         ]
       ],
       [
-        ["Llegué a casa tarde"],
+        ["Llegué a casa tarde", "Llegué tarde a casa"],
         ["I arrived home late", "I got home late", "I came home late"]
       ],
       [
-        ["A veces cocino con mi madre"],
+        ["A veces cocino con mi madre", "A veces cocino con mi mamá"],
         [
           "Sometimes I cook with my mother",
           "Sometimes I cook with my mum",
@@ -3288,7 +3402,10 @@
     ],
     [
       "5.1G De celebración",
-      [["allí"], ["there", "over there"]],
+      [
+        ["allí", "ahí"],
+        ["there", "over there", "right there"]
+      ],
       [["aniversario"], ["anniversary"]],
       [["boda"], ["wedding", "marriage"]],
       [
@@ -3297,37 +3414,67 @@
       ],
       [["cumpleaños"], ["birthday"]],
       [["de"], ["of", "from"]],
-      [["debajo de"], ["underneath", "under", "beneath"]],
-      [["delante de"], ["in front of", "ahead of"]],
-      [["desde"], ["since", "from"]],
-      [["detrás de"], ["behind", "at the back of"]],
+      [
+        ["debajo de", "debajo"],
+        ["underneath", "under", "beneath"]
+      ],
+      [
+        ["delante de", "delante"],
+        ["in front of", "ahead of", "at the front of"]
+      ],
+      [
+        ["desde", "ya que"],
+        ["since", "from"]
+      ],
+      [
+        ["detrás de", "detrás"],
+        ["behind", "at the back of"]
+      ],
       [["en"], ["in", "on", "at"]],
-      [["encima de"], ["on top of", "over"]],
+      [
+        ["encima de", "encima"],
+        ["on top of", "over", "on top", "above", "on"]
+      ],
       [["entre"], ["among", "between"]],
       [["especial"], ["special"]],
       [["fecha"], ["date"]],
       [["gente"], ["people", "folk"]],
-      [
-        ["hermanastro", "hermanastra"],
-        ["stepbrother", "stepsister"]
-      ],
-      [["llamar"], ["to call", "to phone"]],
+      [["hermanastro"], ["stepbrother", "step-brother"]],
+      [["llamar"], ["to call", "to phone", "to ring"]],
       [["nacer"], ["to be born"]],
-      [["por"], ["by", "through", "for", "because of"]],
+      [["por"], ["by", "through", "for", "because of", "due to"]],
       [["según"], ["according to", "depending on"]],
-      [["sobre"], ["on", "over", "about"]],
+      [["sobre"], ["on", "over", "about", "regarding"]],
       [
         ["tener ganas de"],
-        ["to look forward to", "to feel like", "to want to"]
+        [
+          "to look forward to",
+          "to feel like",
+          "to want to",
+          "to fancy",
+          "to be in the mood to"
+        ]
       ],
       [["traje"], ["suit"]],
       [["visitar"], ["to visit"]]
     ],
     [
       "5.1F Nuestras tradiciones de siempre",
-      [["Tenemos un mes de ayuno"], ["We have a month of fasting"]],
       [
-        ["Escuchamos a la banda local", "Escuchamos al grupo local"],
+        ["Tenemos un mes de ayuno"],
+        [
+          "We have a month of fasting",
+          "We have a month-long fast",
+          "We fast for a month"
+        ]
+      ],
+      [
+        [
+          "Escuchamos a la banda local",
+          "Escuchamos al grupo local",
+          "Escuchamos la banda local",
+          "Escuchamos el grupo local"
+        ],
         [
           "We listen to the local band",
           "We listen to the local music band",
@@ -3338,12 +3485,18 @@
         ]
       ],
       [
-        ["Hay muchas celebraciones católicas", "Hay muchas fiestas católicas"],
+        [
+          "Hay muchas celebraciones católicas",
+          "Hay muchas fiestas católicas",
+          "Hay muchos festivales católicos"
+        ],
         [
           "There are many Catholic celebrations",
           "There are many Catholic festivals",
           "There are lots of Catholic celebrations",
-          "There are lots of Catholic festivals"
+          "There are lots of Catholic festivals",
+          "There are a lot of Catholic celebrations",
+          "There are a lot of Catholic festivals"
         ]
       ],
       [
@@ -3369,7 +3522,9 @@
           "Pasamos el día en compañía de la familia",
           "Pasamos el día acompañados de la familia",
           "Pasamos el día en compañía de nuestra familia",
-          "Pasamos el día acompañados de nuestra familia"
+          "Pasamos el día acompañados de nuestra familia",
+          "Pasamos el día en la compañía de la familia",
+          "Pasamos el día en la compañía de nuestra familia"
         ],
         [
           "We spend the day in the company of the family",
@@ -3382,11 +3537,11 @@
           "We spent the day in company of our family"
         ]
       ],
-      [["desayuno"], ["breakfast"]],
+      [["desayuno"], ["breakfast", "breakfast time"]],
       [
         [
-          "Hay desfiles por las calles",
           "Hay desfiles en las calles",
+          "Hay desfiles por las calles",
           "Hay procesiones por las calles",
           "Hay procesiones en las calles"
         ],
@@ -3403,14 +3558,16 @@
         ["Disfrutamos de la comida", "Disfrutamos la comida"],
         ["We enjoy the food", "We enjoyed the food"]
       ],
-      [["Janucá"], ["Hanukkah"]],
+      [["Janucá", "Hanukkah"], ["Hanukkah"]],
       [
         ["Hay muchas luces en las casas", "Hay muchas luces en los hogares"],
         [
           "There are many lights in the houses",
           "There are lots of lights in the houses",
           "There are many lights in the homes",
-          "There are lots of lights in the homes"
+          "There are lots of lights in the homes",
+          "There are a lot of lights in the houses",
+          "There are a lot of lights in the homes"
         ]
       ],
       [
@@ -3504,7 +3661,10 @@
         ["No soy muy religioso", "No soy muy religiosa"],
         ["I'm not very religious", "I am not very religious"]
       ],
-      [["Semana Santa"], ["Holy Week", "Easter Week", "Easter"]],
+      [
+        ["Semana Santa"],
+        ["Holy Week", "Easter Week", "Easter", "Holy Week celebrations"]
+      ],
       [
         [
           "Es una tradición en mi país",
@@ -3539,7 +3699,10 @@
           "It is celebrated in the summer"
         ]
       ],
-      [["Hay fuegos artificiales"], ["There are fireworks"]],
+      [
+        ["Hay fuegos artificiales"],
+        ["There are fireworks", "There are fireworks displays"]
+      ],
       [
         ["Lo celebro con mi familia", "Lo festejo con mi familia"],
         ["I celebrate it with my family"]
@@ -3557,7 +3720,9 @@
           "The celebration includes a dance",
           "The celebration includes a ball",
           "The party includes a dance",
-          "The party includes a ball"
+          "The party includes a ball",
+          "The festival includes a dance",
+          "The festival includes a ball"
         ]
       ],
       [
@@ -3567,12 +3732,27 @@
           "Me empujaron la cara al pastel",
           "Me empujaron la cara hacia la tarta",
           "Me empujaron la cara hasta la tarta",
-          "Me empujaron la cara a la tarta"
+          "Me empujaron la cara a la tarta",
+          "Empujaron mi cara hacia el pastel",
+          "Empujaron mi cara hasta el pastel",
+          "Empujaron mi cara al pastel",
+          "Empujaron mi cara hacia la tarta",
+          "Empujaron mi cara hasta la tarta",
+          "Empujaron mi cara a la tarta"
         ],
         [
           "They pushed my face to the cake",
           "They pushed my face towards the cake",
-          "They pushed my face into the cake"
+          "They pushed my face into the cake",
+          "They shoved my face into the cake",
+          "They shoved my face towards the cake",
+          "They shoved my face to the cake",
+          "They forced my face into the cake",
+          "They pressed my face into the cake",
+          "They smashed my face into the cake",
+          "They slammed my face into the cake",
+          "They stuck my face into the cake",
+          "They planted my face into the cake"
         ]
       ],
       [
@@ -3585,7 +3765,7 @@
           "We went to the church for the ceremony"
         ]
       ],
-      [["Ven conmigo"], ["Come with me"]],
+      [["Ven conmigo"], ["Come with me", "Come along with me"]],
       [
         [
           "Es una tradición importante en México",
@@ -3625,7 +3805,8 @@
           "These are the lyrics of the song",
           "These are the lyrics for the song",
           "These are the lyrics to the song",
-          "These are the song lyrics"
+          "These are the song lyrics",
+          "This is the song lyrics"
         ]
       ],
       [["mordida"], ["bite"]],
@@ -3680,7 +3861,12 @@
         [
           "My friends surprised me with a party",
           "My friends gave me a surprise with a party",
-          "My friends gave me a suprise party"
+          "My friends gave me a surprise party",
+          "My friends threw me a surprise party",
+          "My friends organised a surprise party for me",
+          "My friends organized a surprise party for me",
+          "My friends planned a surprise party for me",
+          "My friends surprised me with a surprise party"
         ]
       ],
       [
@@ -3690,12 +3876,19 @@
           "There are a lot of sweets",
           "There are lots of sweets",
           "There are tons of sweets",
-          "There are so many sweets"
+          "There are so many sweets",
+          "There are plenty of sweets"
         ]
       ],
       [
         ["¡Qué vergüenza!", "¡Qué bochorno!", "¡Qué ridículo!", "¡Qué corte!"],
-        ["How embarrassing!", "How shameful!", "What a shame!", "How awkward!"]
+        [
+          "How embarrassing!",
+          "How shameful!",
+          "What a shame!",
+          "How awkward!",
+          "That's so embarrassing!"
+        ]
       ],
       [
         [
@@ -3818,9 +4011,9 @@
         ["antiguo", "antigua"],
         ["old", "ancient"]
       ],
-      [["ambiente"], ["atmosphere", "environment"]],
-      [["alegría"], ["happiness", "joy"]],
-      [["celebrar"], ["to celebrate", "to hold"]],
+      [["ambiente"], ["atmosphere", "environment", "ambience"]],
+      [["alegría"], ["happiness", "joy", "cheer"]],
+      [["celebrar"], ["to celebrate", "to hold", "celebrating"]],
       [["ciudad"], ["city", "town"]],
       [
         ["crítico", "crítica"],
@@ -3828,29 +4021,32 @@
       ],
       [
         ["diverso", "diversa"],
-        ["diverse", "varied"]
+        ["diverse", "varied", "mixed"]
       ],
-      [["durante"], ["for", "during"]],
+      [["durante"], ["during", "for", "throughout"]],
       [["entierro"], ["burial", "funeral"]],
-      [["humor"], ["humour"]],
+      [["humor"], ["humour", "humor"]],
       [
         ["humorístico", "humorística"],
         ["humorous", "comical", "funny"]
       ],
-      [["ofrecer"], ["to offer", "to provide"]],
-      [["opción"], ["option", "choice"]],
-      [["premio"], ["prize", "award"]],
+      [["ofrecer"], ["to offer", "to provide", "offering"]],
+      [["opción"], ["option", "choice", "alternative"]],
+      [["premio"], ["prize", "award", "trophy"]],
       [["pueblo"], ["town", "village"]],
-      [["real"], ["real", "royal"]],
+      [["real"], ["real", "royal", "actual"]],
       [["reina"], ["queen"]],
       [["rey"], ["king"]],
-      [["sonreír"], ["to smile"]],
+      [["sonreír"], ["to smile", "smiling"]],
       [["sonrisa"], ["smile", "grin"]],
       [["tipo"], ["type", "kind", "sort"]],
-      [["tono"], ["tone"]],
-      [["venir"], ["to come"]],
-      [["vestido"], ["dress", "gown"]],
-      [["viejo", "vieja"], ["old"]]
+      [["tono"], ["tone", "mood"]],
+      [["venir"], ["to come", "coming"]],
+      [["vestido"], ["dress", "gown", "costume"]],
+      [
+        ["viejo", "vieja"],
+        ["old", "elderly"]
+      ]
     ],
     [
       "5.2F Latinoamérica celebra la vida",
@@ -3863,7 +4059,11 @@
           "I'm going to learn about Latin culture",
           "I am going to learn about Latin culture",
           "I'm going to learn about the Latin culture",
-          "I am going to learn about the Latin culture"
+          "I am going to learn about the Latin culture",
+          "I'm going to learn about Latin American culture",
+          "I am going to learn about Latin American culture",
+          "I'm going to learn about the Latin American culture",
+          "I am going to learn about the Latin American culture"
         ]
       ],
       [
@@ -3894,7 +4094,10 @@
           "This the first day of the carnival",
           "It's the first day of carnival",
           "It is the first day of carnival",
-          "This the first day of carnival"
+          "This the first day of carnival",
+          "It's the first carnival day",
+          "It is the first carnival day",
+          "This the first carnival day"
         ]
       ],
       [
@@ -3909,7 +4112,16 @@
           "The party consists of sharing food",
           "The festival consists of sharing food",
           "The celebration consists of sharing food",
-          "The party consists of sharing food"
+          "The party consists of sharing food",
+          "The festival consists on sharing food",
+          "The celebration consists on sharing food",
+          "The party consists on sharing food",
+          "The festival is about sharing food",
+          "The celebration is about sharing food",
+          "The party is about sharing food",
+          "The festival involves sharing food",
+          "The celebration involves sharing food",
+          "The party involves sharing food"
         ]
       ],
       [
@@ -3918,7 +4130,8 @@
           "The parade was a great experience",
           "The procession was a great experience",
           "The parade was a big experience",
-          "The procession was a big experience"
+          "The procession was a big experience",
+          "The march was a great experience"
         ]
       ],
       [
@@ -3936,13 +4149,21 @@
           "It's celebrated between the 20th and the 23rd of June",
           "It is celebrated between the 20th and the 23rd of June",
           "It's celebrated between the 20 and the 23 of June",
-          "It is celebrated between the 20 and the 23 of June"
+          "It is celebrated between the 20 and the 23 of June",
+          "It's celebrated between the 20th and the 23rd June",
+          "It is celebrated between the 20th and the 23rd June",
+          "It's celebrated between the 20 and the 23 June",
+          "It is celebrated between the 20 and the 23 June"
         ]
       ],
       [
         [
           "Se espera que muchos turistas vendrán",
-          "Se espera que muchos turistas llegarán"
+          "Se espera que muchos turistas llegarán",
+          "Se espera que muchos turistas vengan",
+          "Se espera que muchos turistas lleguen",
+          "Se espera que vengan muchos turistas",
+          "Se espera que lleguen muchos turistas"
         ],
         [
           "It's expected that many tourists will come",
@@ -4001,6 +4222,8 @@
         [
           "There are lots of flowers in the street",
           "There are many flowers in the street",
+          "There are a lot of flowers in the street",
+          "There are a lot of flowers in the streets",
           "There are lots of flowers in the streets",
           "There are many flowers in the streets"
         ]
@@ -4013,7 +4236,9 @@
         ],
         [
           "The Quechua language has a lot of influence in Peru",
-          "The Quechua language has lots of influence in Peru"
+          "The Quechua language has lots of influence in Peru",
+          "The Quechua language has much influence in Peru",
+          "The Quechua language has very much influence in Peru"
         ]
       ],
       [
@@ -4041,7 +4266,13 @@
         ],
         [
           "The Day of the Dead is celebrated in November",
-          "The Day of the Deceased is celebrated in November"
+          "The Day of the Deceased is celebrated in November",
+          "Día de Muertos is celebrated in November",
+          "Day of the Dead is celebrated in November",
+          "The Day of the Dead takes place in November",
+          "Día de los Muertos is celebrated in November",
+          "The Day of the Dead is in November",
+          "Día de Muertos takes place in November"
         ]
       ],
       [
@@ -4067,7 +4298,12 @@
       ],
       [
         ["He tenido un mal día", "Tuve un mal día"],
-        ["I've had a bad day", "I have had a bad day"]
+        [
+          "I've had a bad day",
+          "I have had a bad day",
+          "I had a bad day",
+          "I've had a rough day"
+        ]
       ],
       [["tercer", "tercero", "tercera"], ["third"]],
       [
@@ -4170,6 +4406,8 @@
         [
           "Before leaving, I ate something",
           "Before leaving I ate something",
+          "Before I left, I ate something",
+          "Before I left I ate something",
           "Before going out, I ate something",
           "Before going out I ate something"
         ]
@@ -4187,7 +4425,8 @@
           "Upon arriving to the hotel I called my brother",
           "Upon arriving at the hotel I called my brother",
           "Upon reaching the hotel I called my brother",
-          "When I arrived at the hotel, I called my brother"
+          "When I arrived at the hotel, I called my brother",
+          "When I arrived to the hotel, I called my brother"
         ]
       ]
     ],
@@ -4205,24 +4444,24 @@
           "It is a mix of African American and European styles",
           "It's a blend of African American and European styles",
           "It is a blend of African American and European styles",
-          "It's a mixture of Afroamerican and European styles",
-          "It is a mixture of Afroamerican and European styles",
-          "It's a mix of Afroamerican and European styles",
-          "It is a mix of Afroamerican and European styles",
-          "It's a blend of Afroamerican and European styles",
-          "It is a blend of Afroamerican and European styles",
+          "It's a mixture of Afro-American and European styles",
+          "It is a mixture of Afro-American and European styles",
+          "It's a mix of Afro-American and European styles",
+          "It is a mix of Afro-American and European styles",
+          "It's a blend of Afro-American and European styles",
+          "It is a blend of Afro-American and European styles",
           "It's a mixture of African American and European style",
           "It is a mixture of African American and European style",
           "It's a mix of African American and European style",
           "It is a mix of African American and European style",
           "It's a blend of African American and European style",
           "It is a blend of African American and European style",
-          "It's a mixture of Afroamerican and European style",
-          "It is a mixture of Afroamerican and European style",
-          "It's a mix of Afroamerican and European style",
-          "It is a mix of Afroamerican and European style",
-          "It's a blend of Afroamerican and European style",
-          "It is a blend of Afroamerican and European style"
+          "It's a mixture of Afro-American and European style",
+          "It is a mixture of Afro-American and European style",
+          "It's a mix of Afro-American and European style",
+          "It is a mix of Afro-American and European style",
+          "It's a blend of Afro-American and European style",
+          "It is a blend of Afro-American and European style"
         ]
       ],
       [
@@ -4240,7 +4479,15 @@
           "I've got to leave the contest",
           "I've got to abandon the contest",
           "I've got to quit the contest",
-          "I've got to withdraw from the contest"
+          "I've got to withdraw from the contest",
+          "I have to leave the game show",
+          "I have to abandon the game show",
+          "I have to quit the game show",
+          "I have to withdraw from the game show",
+          "I've got to leave the game show",
+          "I've got to abandon the game show",
+          "I've got to quit the game show",
+          "I've got to withdraw from the game show"
         ]
       ],
       [
@@ -4295,7 +4542,9 @@
       [
         [
           "Estoy empezando a entender mejor",
-          "Estoy comenzando a entender mejor"
+          "Estoy comenzando a entender mejor",
+          "Estoy empezando a comprender mejor",
+          "Estoy comenzando a comprender mejor"
         ],
         [
           "I'm starting to understand better",
@@ -4351,7 +4600,12 @@
       ],
       [
         ["Me gustan los bailes latinos", "Me gustan las danzas latinas"],
-        ["I like Latin dances", "I like Latin dancing"]
+        [
+          "I like Latin dances",
+          "I like Latin dancing",
+          "I like Latin American dances",
+          "I like Latin American dancing"
+        ]
       ],
       [
         ["La rumba nació en Cuba"],
@@ -4474,7 +4728,7 @@
     [
       "6.1G La alfombra roja de los premios Goya",
       [["a veces"], ["sometimes", "at times"]],
-      [["alfombra roja"], ["the red carpet"]],
+      [["la alfombra roja"], ["the red carpet"]],
       [["anillo"], ["ring"]],
       [
         ["bienvenido", "bienvenida"],
@@ -4486,8 +4740,11 @@
       ],
       [["cambio"], ["change", "exchange"]],
       [["ceremonia"], ["ceremony", "event"]],
-      [["de rayas"], ["striped", "with stripes"]],
-      [["derecha"], ["right"]],
+      [
+        ["de rayas", "a rayas"],
+        ["striped", "with stripes"]
+      ],
+      [["derecha"], ["right", "right-hand"]],
       [["diferente"], ["different"]],
       [["elegante"], ["elegant", "stylish", "smart"]],
       [["era"], ["I was", "he was", "she was", "it was"]],
@@ -4497,16 +4754,16 @@
       [["moderno", "moderna"], ["modern"]],
       [["nominación"], ["nomination"]],
       [["notable"], ["noticeable", "considerable", "remarkable"]],
-      [["opinar"], ["to believe", "to think"]],
+      [["opinar"], ["to think", "to believe", "to give an opinion"]],
       [
         ["pantalón corto", "pantalones cortos"],
         ["shorts", "short trousers"]
       ],
       [["pecas"], ["freckles"]],
-      [["recibir"], ["to receive", "to get"]],
+      [["recibir"], ["to receive", "to get", "receiving"]],
       [["rosa"], ["pink", "rose"]],
       [["sombrero"], ["hat", "cap"]],
-      [["tener suerte"], ["to be lucky", "to have luck"]]
+      [["tener suerte"], ["to be lucky", "to have luck", "being lucky"]]
     ],
     [
       "6.1F Lola y Rosalía, ayer y hoy",
@@ -4555,9 +4812,9 @@
       [
         [
           "Las entradas son carísimas",
-          "Los billetes son carísimas",
-          "Los tickets son carísimas",
-          "Los boletos son  carísimas",
+          "Los billetes son carísimos",
+          "Los tickets son carísimos",
+          "Los boletos son  carísimos",
           "Las entradas son demasiado caras",
           "Los billetes son demasiado caros",
           "Los tickets son demasiado caros",
@@ -4588,7 +4845,12 @@
       ],
       [
         ["Rosalía ha cambiado su estilo"],
-        ["Rosalía has changed her style", "Rosalia has changed her style"]
+        [
+          "Rosalía has changed her style",
+          "Rosalia has changed her style",
+          "Rosalía's changed her style",
+          "Rosalia's changed her style"
+        ]
       ],
       [
         [
@@ -4596,6 +4858,18 @@
           "Tiene mucho éxito en los Estados Unidos"
         ],
         [
+          "He's very successful in the United States",
+          "He's very successful in the US",
+          "He's very successful in the USA",
+          "She's very successful in the United States",
+          "She's very successful in the US",
+          "She's very successful in the USA",
+          "He's very successful in United States",
+          "He's very successful in US",
+          "He's very successful in USA",
+          "She's very successful in United States",
+          "She's very successful in US",
+          "She's very successful in USA",
           "He has a lot of success in the United States",
           "She has a lot of success in the United States",
           "He has lots of success in the United States",
@@ -4607,7 +4881,19 @@
           "He has a lot of success in the US",
           "She has a lot of success in the US",
           "He has lots of success in the US",
-          "She has lots of success in the US"
+          "She has lots of success in the US",
+          "He's got a lot of success in the United States",
+          "She's got a lot of success in the United States",
+          "He's got lots of success in the United States",
+          "She's got lots of success in the United States",
+          "He's got a lot of success in the USA",
+          "She's got a lot of success in the USA",
+          "He's got lots of success in the USA",
+          "She's got lots of success in the USA",
+          "He's got a lot of success in the US",
+          "She's got a lot of success in the US",
+          "He's got lots of success in the US",
+          "She's got lots of success in the US"
         ]
       ],
       [
@@ -4716,7 +5002,25 @@
           "Rosalia showed up to a contest",
           "Rosalia introduced herself on a contest",
           "Rosalia presented herself on a contest",
-          "Rosalia showed up on a contest"
+          "Rosalia showed up on a contest",
+          "Rosalía entered a competition",
+          "Rosalía took part in a competition",
+          "Rosalía joined a competition",
+          "Rosalía introduced herself to a competition",
+          "Rosalía presented herself to a competition",
+          "Rosalía showed up to a competition",
+          "Rosalía introduced herself on a competition",
+          "Rosalía presented herself on a competition",
+          "Rosalía showed up on a competition",
+          "Rosalia entered a competition",
+          "Rosalia took part in a competition",
+          "Rosalia joined a competition",
+          "Rosalia introduced herself to a competition",
+          "Rosalia presented herself to a competition",
+          "Rosalia showed up to a competition",
+          "Rosalia introduced herself on a competition",
+          "Rosalia presented herself on a competition",
+          "Rosalia showed up on a competition"
         ]
       ],
       [
@@ -4754,9 +5058,17 @@
           "Es aún famosa",
           "Es famosa aún"
         ],
-        ["She's still famous", "She is still famous"]
+        [
+          "She's still famous",
+          "She is still famous",
+          "She's famous still",
+          "She is famous still"
+        ]
       ],
-      [["Su estilo es único"], ["His style is unique", "Her style is unique"]],
+      [
+        ["Su estilo es único"],
+        ["His style is unique", "Her style is unique", "Their style is unique"]
+      ],
       [
         [
           "Opino que no es muy buena",
@@ -4854,9 +5166,7 @@
         [
           "My current partner is Portuguese",
           "My partner at the moment is Portuguese",
-          "My present partner is Portuguese",
-          "My current couple is Portuguese",
-          "My present couple is Portuguese"
+          "My present partner is Portuguese"
         ]
       ],
       [
@@ -4869,10 +5179,10 @@
           "We support disadvantaged children",
           "We provide support to disadvantaged children",
           "We help disadvantaged children",
-          "We give support to underpriviledged children",
-          "We support underpriviledged children",
-          "We provide support to underpriviledged children",
-          "We help underpriviledged children"
+          "We give support to underprivileged children",
+          "We support underprivileged children",
+          "We provide support to underprivileged children",
+          "We help underprivileged children"
         ]
       ],
       [
@@ -4884,15 +5194,15 @@
         ],
         [
           "As a child I used to dance",
-          "As I child I danced",
+          "As a child I danced",
           "As a child I used to do dance",
           "As a child I used to do dancing",
           "As a child he used to dance",
-          "As I child he danced",
+          "As a child he danced",
           "As a child he used to do dance",
           "As a child he used to do dancing",
           "As a child she used to dance",
-          "As I child she danced",
+          "As a child she danced",
           "As a child she used to do dance",
           "As a child she used to do dancing"
         ]
@@ -4950,7 +5260,11 @@
           "He dreamed of being an actor",
           "He used to dream about being an actor",
           "He dreamt about being an actor",
-          "He dreamed about being an actor"
+          "He dreamed about being an actor",
+          "He dreamed of becoming an actor",
+          "He dreamt of becoming an actor",
+          "He used to dream of becoming an actor",
+          "He used to dream about becoming an actor"
         ]
       ],
       [
@@ -4959,7 +5273,9 @@
           "to stand out",
           "to be noteworthy",
           "to attract attention",
-          "to call the attention"
+          "to call the attention",
+          "to draw attention",
+          "to catch attention"
         ]
       ],
       [
@@ -4981,7 +5297,6 @@
           "She ended up being famous worldwide",
           "She ended up being worldwide famous",
           "She ended up being world-famous",
-          "She turned famous worldwide",
           "She turned worldwide famous",
           "She turned world-famous"
         ]
@@ -5127,10 +5442,7 @@
       [["cenar"], ["to have dinner", "to eat dinner", "to dine"]],
       [["desayunar"], ["to have breakfast", "to eat breakfast"]],
       [["descanso"], ["rest", "break"]],
-      [
-        ["despertar", "despertarse"],
-        ["to wake up", "to wake"]
-      ],
+      [["despertar", "despertarse"], ["to wake up"]],
       [["dormirse"], ["to fall asleep"]],
       [["evento"], ["event"]],
       [["finalmente"], ["finally"]],
@@ -5139,14 +5451,22 @@
         ["habitación", "cuarto", "dormitorio"],
         ["room", "bedroom"]
       ],
-      [["jugar videojuegos"], ["to play videogames"]],
+      [
+        ["jugar videojuegos", "jugar a videojuegos", "jugar a los videojuegos"],
+        [
+          "to play video games",
+          "playing video games",
+          "to play videogames",
+          "playing videogames"
+        ]
+      ],
       [
         ["lavarse los dientes"],
         [
-          "to brush one's teeth",
-          "to clean one's teeth",
           "to brush your teeth",
-          "to clean your teeth"
+          "to clean your teeth",
+          "to brush one's teeth",
+          "to clean one's teeth"
         ]
       ],
       [["lentamente"], ["slowly"]],
@@ -5202,7 +5522,14 @@
           "Rosario is an actress with Cuban heritage",
           "Rosario is an actress with Cuban ancestry",
           "Rosario is an actress with Cuban descent",
-          "Rosario is an actress with Cuban roots"
+          "Rosario is an actress with Cuban roots",
+          "Rosario's an actress of Cuban heritage",
+          "Rosario's an actress of Cuban ancestry",
+          "Rosario's an actress of Cuban descent",
+          "Rosario's an actress with Cuban heritage",
+          "Rosario's an actress with Cuban ancestry",
+          "Rosario's an actress with Cuban descent",
+          "Rosario's an actress with Cuban roots"
         ]
       ],
       [
@@ -5302,7 +5629,15 @@
           "He's selfish with his family",
           "She's selfish with her family",
           "He is selfish with his family",
-          "She is selfish with her family"
+          "She is selfish with her family",
+          "He's selfish towards his family",
+          "She's selfish towards her family",
+          "He is selfish towards his family",
+          "She is selfish towards her family",
+          "He's selfish to his family",
+          "She's selfish to her family",
+          "He is selfish to his family",
+          "She is selfish to her family"
         ]
       ],
       [
@@ -5377,10 +5712,18 @@
           "I dislike her because she is ill-mannered"
         ]
       ],
-      [["que yo sepa"], ["as far as I know"]],
+      [
+        ["que yo sepa"],
+        [
+          "as far as I know",
+          "to my knowledge",
+          "as far as I'm aware",
+          "as far as I am aware"
+        ]
+      ],
       [
         [
-          "Valer la pena leer todos los días",
+          "Vale la pena leer todos los días",
           "Merece la pena leer todos los días"
         ],
         [
@@ -5391,7 +5734,9 @@
           "It's worthwhile reading everyday",
           "It is worthwhile reading everyday",
           "It's worthwhile to read every day",
-          "It is worthwhile to read every day"
+          "It is worthwhile to read every day",
+          "It's worth reading daily",
+          "It is worth reading daily"
         ]
       ],
       [
@@ -5496,9 +5841,14 @@
     ],
     [
       "6.2H ¡La fama tiene dos caras!",
-      [["a causa de"], ["because of", "due to"]],
+      [["a causa de"], ["because of", "due to", "owing to"]],
       [
-        ["Los fotógrafos la acosaban dia y noche"],
+        [
+          "Los fotógrafos la acosaban día y noche",
+          "Los fotógrafos la acosaron día y noche",
+          "Los fotógrafos la acosaban de día y de noche",
+          "Los fotógrafos la acosaron de día y de noche"
+        ],
         [
           "The photographers harassed her day and night",
           "The photographers bullied her day and night",
@@ -5508,12 +5858,19 @@
           "Photographers pestered her day and night"
         ]
       ],
-      [["Algo tenía que cambiar"], ["Something had to change"]],
+      [
+        ["Algo tenía que cambiar"],
+        [
+          "Something had to change",
+          "Something needed to change",
+          "Something had to give"
+        ]
+      ],
       [
         [
           "Se dijo que era el momento",
           "Se dijo a sí mismo que era el momento",
-          "Se dijo a sí misma quer era el momento"
+          "Se dijo a sí misma que era el momento"
         ],
         [
           "He told himself that it was the moment",
@@ -5528,7 +5885,7 @@
       ],
       [
         [
-          "Decició dejar la ciudad",
+          "Decidió dejar la ciudad",
           "Decidió marcharse de la ciudad",
           "Decidió irse de la ciudad",
           "Decidió abandonar la ciudad"
@@ -5593,7 +5950,7 @@
       ],
       [
         ["para siempre", "por siempre"],
-        ["forever", "for good", "for always"]
+        ["forever", "for good"]
       ],
       [
         ["Hubo una peligrosa persecución", "Hubo una persecución peligrosa"],
@@ -5605,14 +5962,14 @@
       ],
       [
         [
-          "Fuimos aun lugar público",
-          "Fuimos aun espacio público",
+          "Fuimos a un lugar público",
+          "Fuimos a un espacio público",
           "Fuimos a una zona pública"
         ],
         [
-          "We wnt to a public space",
-          "We wnt to a public area",
-          "We wnt to a public place"
+          "We went to a public space",
+          "We went to a public area",
+          "We went to a public place"
         ]
       ],
       [
