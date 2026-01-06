@@ -6151,16 +6151,16 @@
       [["avión"], ["plane", "airplane", "aeroplane"]],
       [["barco"], ["boat", "ship"]],
       [["bicicleta"], ["bike", "bicycle"]],
-      [["billete"], ["ticket"]],
+      [["billete", "boleto", "entrada", "ticket"], ["ticket"]],
       [["carretera"], ["road", "highway"]],
       [["coche", "carro"], ["car"]],
-      [["coger"], ["to catch", "to take"]],
+      [["coger"], ["to take", "to catch", "to grab"]],
       [["de pie"], ["standing", "on foot"]],
-      [["extranjero"], ["abroad", "foreign country"]],
-      [["estación"], ["station", "terminal"]],
+      [["extranjero"], ["foreign", "abroad", "foreign country"]],
+      [["estación"], ["station", "terminal", "season"]],
       [["ir de compras"], ["to go shopping"]],
       [["lento", "lenta"], ["slow"]],
-      [["llegar"], ["to arrive", "to get to"]],
+      [["llegar"], ["to arrive", "to get to", "to reach"]],
       [["metro"], ["metro", "tube", "underground"]],
       [["puerto"], ["port", "harbour", "harbor"]],
       [["relajante"], ["relaxing", "soothing"]],
@@ -6183,7 +6183,7 @@
         [
           "En verano suelo ir de vacaciones con mi familia",
           "En verano voy usualmente de vacaciones con mi familia",
-          "En verano usualmente vpy de vacaciones con mi familia"
+          "En verano usualmente voy de vacaciones con mi familia"
         ],
         [
           "In summer I usually go on holiday with my family",
@@ -6215,7 +6215,10 @@
         ]
       ],
       [
-        ["Prefiero ir de camping porque me encanta la naturaleza"],
+        [
+          "Prefiero ir de camping porque me encanta la naturaleza",
+          "Prefiero acampar porque me encanta la naturaleza"
+        ],
         [
           "I prefer to go camping because I love nature",
           "I prefer going camping because I love nature",
@@ -6294,7 +6297,11 @@
           "I would like to visit an island in the Caribbean",
           "I'd like to visit an island in the Caribbean",
           "I would like visiting an island in the Caribbean",
-          "I'd like visiting an island in the Caribbean"
+          "I'd like visiting an island in the Caribbean",
+          "I would like to visit an island in the Caribe",
+          "I'd like to visit an island in the Caribe",
+          "I would like visiting an island in the Caribe",
+          "I'd like visiting an island in the Caribe"
         ]
       ],
       [
@@ -6472,11 +6479,9 @@
           "I lost my suitcase at the airport",
           "I lost my luggage at the airport",
           "I lost my baggage at the airport",
-          "I lost my wallet at the airport",
           "I lost my suitcase in the airport",
           "I lost my luggage in the airport",
-          "I lost my baggage in the airport",
-          "I lost my wallet in the airport"
+          "I lost my baggage in the airport"
         ]
       ],
       [
@@ -6589,9 +6594,7 @@
           "I would put my luggage in the wardrobe",
           "I'd put my luggage in the wardrobe",
           "I would put my baggage in the wardrobe",
-          "I'd put my baggage in the wardrobe",
-          "I would put my wallet in the wardrobe",
-          "I'd put my wallet in the wardrobe"
+          "I'd put my baggage in the wardrobe"
         ]
       ],
       [
@@ -6715,7 +6718,7 @@
           "el boleto de tren",
           "boleto de tren"
         ],
-        ["train ticket", "the train ticket"]
+        ["the train ticket", "train ticket"]
       ]
     ],
     [
@@ -6723,9 +6726,22 @@
       [["acuario"], ["aquarium"]],
       [["cámara"], ["camera"]],
       [["cultura"], ["culture"]],
-      [["entrar en"], ["to go into", "to enter", "to get into"]],
+      [
+        ["entrar en"],
+        [
+          "to go into",
+          "to enter",
+          "to get into",
+          "to get in",
+          "to get inside",
+          "to go inside"
+        ]
+      ],
       [["fiesta"], ["party", "festival", "celebration"]],
-      [["hay que"], ["one must", "you have to", "it is necessary to"]],
+      [
+        ["hay que"],
+        ["it is necessary to", "it's necessary to", "one must", "you have to"]
+      ],
       [["hijos"], ["children", "sons and daughters", "offspring"]],
       [["iglesia"], ["church"]],
       [["isla"], ["island"]],
@@ -6743,16 +6759,26 @@
         ["bull ring", "bullring", "bullfighting arena", "bullfighting ring"]
       ],
       [["plaza mayor"], ["main square", "town square"]],
-      [["quedarse"], ["to stay", "to remain"]],
+      [
+        ["quedarse", "alojarse"],
+        ["to stay", "to remain"]
+      ],
       [["razón"], ["reason"]],
       [["recomendar"], ["to recommend"]],
       [["un poco"], ["a little", "a bit"]],
-      [["vista"], ["view", "sight"]]
+      [
+        ["vista", "vistas"],
+        ["view", "sight", "landscape"]
+      ]
     ],
     [
       "7.2F ¿Qué tipo de vacaciones prefieres?",
       [
-        ["Estaba bajando del avión"],
+        [
+          "Estaba bajando del avión",
+          "Estaba bajándome del avión",
+          "Estaba bajandome del avión"
+        ],
         [
           "I was getting off the plane",
           "I was going down the plane",
@@ -6770,7 +6796,11 @@
           "Pasé dos semanas ayudando en una escuela",
           "Pasé dos semanas ayudando en un colegio",
           "Pasé dos semanas ayudando en un instituto",
-          "Pasé dos semanas ayudando en un insti"
+          "Pasé dos semanas ayudando en un insti",
+          "Me pasé dos semanas ayudando en una escuela",
+          "Me pasé dos semanas ayudando en un colegio",
+          "Me pasé dos semanas ayudando en un instituto",
+          "Me pasé dos semanas ayudando en un insti"
         ],
         [
           "I spent two weeks helping in a school",
@@ -6808,12 +6838,8 @@
           "I am interested in the customs of other countries",
           "I'm interested in other countries' customs",
           "I am interested in other countries' customs",
-          "I'm interested on the customs of other habits",
-          "I am interested on the customs of other habits",
           "I'm interested on other countries' habits",
           "I am interested on other countries' habits",
-          "I'm interested in the customs of other habits",
-          "I am interested in the customs of other habits",
           "I'm interested in other countries' habits",
           "I am interested in other countries' habits"
         ]
@@ -6838,6 +6864,9 @@
       ],
       [
         [
+          "Es una ciudad histórica con edificios hermosos",
+          "Es una ciudad histórica con edificios preciosos",
+          "Es una ciudad histórica con edificios maravillosos",
           "Es una ciudad histórica con hermosos edificios",
           "Es una ciudad histórica con preciosos edificios",
           "Es una ciudad histórica con maravillosos edificios"
@@ -6923,7 +6952,7 @@
       ],
       [
         ["Lo compré en el mercado", "La compré en el mercado"],
-        ["I bought it in the market"]
+        ["I bought it in the market", "I purchased it in the market"]
       ],
       [
         ["Te voy a llamar luego", "Voy a llamarte luego"],
@@ -6937,7 +6966,14 @@
         ["Nos visitan a menudo"],
         ["They visit us often", "They often visit us"]
       ],
-      [["Estaba nadando en el mar"], ["I was swimming in the sea"]],
+      [
+        ["Estaba nadando en el mar"],
+        [
+          "I was swimming in the sea",
+          "He was swimming in the sea",
+          "She was swimming in the sea"
+        ]
+      ],
       [
         [
           "Hay que llevar ropa caliente",
@@ -6946,6 +6982,10 @@
           "Debes llevar ropa caliente"
         ],
         [
+          "It's necessary to wear warm clothes",
+          "It is necessary to wear warm clothes",
+          "It's necessary to wear warm clothing",
+          "It is necessary to wear warm clothing",
           "You have to wear warm clothes",
           "One has to wear warm clothes",
           "You need to wear warm clothes",
@@ -6989,7 +7029,8 @@
         [
           "La comida fue servida por el camarero",
           "La comida era servida por el camarero",
-          "La comida se sirvió por el camarero"
+          "La comida se sirvió por el camarero",
+          "La comida la sirvió el camarero"
         ],
         ["The food was served by the waiter"]
       ],
@@ -7092,19 +7133,19 @@
           "It's not allowed to smoke in the palace",
           "It is not allowed to smoke in the palace",
           "It's not allowed smoking in the palace",
-          "It's not allowed smoking in the palace",
+          "It is not allowed smoking in the palace",
           "It's not allowed to smoke at the palace",
           "It is not allowed to smoke at the palace",
           "It's not allowed smoking at the palace",
-          "It's not allowed smoking at the palace",
+          "It is not allowed smoking at the palace",
           "It's not permitted to smoke in the palace",
           "It is not permitted to smoke in the palace",
           "It's not permitted smoking in the palace",
-          "It's not permitted smoking in the palace",
+          "It is not permitted smoking in the palace",
           "It's not permitted to smoke at the palace",
           "It is not permitted to smoke at the palace",
           "It's not permitted smoking at the palace",
-          "It's not permitted smoking at the palace"
+          "It is not permitted smoking at the palace"
         ]
       ],
       [
@@ -7127,7 +7168,7 @@
           "Se necesitan más profesores en la escuela",
           "Se necesitan más profesores en la escuela",
           "Se necesitan más profesores en el insti",
-          "Más profesores son necesitados la escuela",
+          "Más profesores son necesitados en la escuela",
           "Más profesores son necesitados en el colegio",
           "Más profesores son necesitados en el instituto",
           "Más profesores son necesitados en el insti"
@@ -7248,7 +7289,10 @@
       [["comunicar"], ["to communicate"]],
       [["conectar"], ["to connect"]],
       [["confianza"], ["confidence", "trust"]],
-      [["diario", "diaria"], ["daily"]],
+      [
+        ["diario", "diaria"],
+        ["daily", "diary"]
+      ],
       [["intercambiar"], ["to exchange", "to swap"]],
       [["mensaje"], ["message"]],
       [["olvidar"], ["to forget"]],
@@ -7278,13 +7322,13 @@
         ],
         [
           "I've answered the call",
-          "I've responded the call",
+          "I've responded to the call",
           "I have answered the call",
-          "I have responded the call",
+          "I have responded to the call",
           "I've answered the phone call",
-          "I've responded the phone call",
+          "I've responded to the phone call",
           "I have answered the phone call",
-          "I have responded the phone call"
+          "I have responded to the phone call"
         ]
       ],
       [
@@ -7292,7 +7336,8 @@
         [
           "I have argued with my brother",
           "I have had an argument with my brother",
-          "I have fought with my brother"
+          "I have fought with my brother",
+          "I have fallen out with my brother"
         ]
       ],
       [
@@ -7410,7 +7455,15 @@
       [
         [
           "Mi primer móvil pesaba 1 kilo",
-          "Mi primer teléfono móvil pesaba 1 kilo"
+          "Mi primer teléfono móvil pesaba 1 kilo",
+          "Mi primer móvil pesaba un kilo",
+          "Mi primer teléfono móvil pesaba un kilo",
+          "Mi primer móvil pesaba 1 kg",
+          "Mi primer teléfono móvil pesaba 1 kg",
+          "Mi primer móvil pesaba 1kg",
+          "Mi primer teléfono móvil pesaba 1kg",
+          "Mi primer móvil pesaba un kg",
+          "Mi primer teléfono móvil pesaba un kg"
         ],
         [
           "My first phone weighed 1 kilo",
@@ -7630,10 +7683,10 @@
         [
           "We've written a report",
           "We've written a paper",
-          "We've written a account",
+          "We've written an account",
           "We have written a report",
           "We have written a paper",
-          "We have written a account"
+          "We have written an account"
         ]
       ],
       [
@@ -7643,6 +7696,7 @@
           "Social networks are here to stay",
           "Social media are here to stay",
           "The social media are here to stay",
+          "The social media is here to stay",
           "The social networks are here to stay"
         ]
       ],
@@ -7693,7 +7747,10 @@
         [
           "Usar Facebook afecta mi humor",
           "Usar Facebook influye en mi humor",
-          "Usar Facebook influencia mi humor"
+          "Usar Facebook influencia mi humor",
+          "El usar Facebook afecta mi humor",
+          "El usar Facebook influye en mi humor",
+          "El usar Facebook influencia mi humor"
         ],
         [
           "Using Facebook affects my mood",
@@ -7701,7 +7758,13 @@
           "Using Facebook affects my humour",
           "Using Facebook influences my humour",
           "Using Facebook affects my humor",
-          "Using Facebook influences my humor"
+          "Using Facebook influences my humor",
+          "To use Facebook affects my mood",
+          "To use Facebook influences my mood",
+          "To use Facebook affects my humour",
+          "To use Facebook influences my humour",
+          "To use Facebook affects my humor",
+          "To use Facebook influences my humor"
         ]
       ],
       [
@@ -7860,10 +7923,10 @@
           "conservar el contacto"
         ],
         [
+          "to maintain contact",
           "to keep contact",
           "to keep in touch",
           "to stay in touch",
-          "to maintain contact",
           "to keep the contact",
           "to stay connected"
         ]
@@ -7881,10 +7944,13 @@
     [
       "8.2G La tecnología en casa",
       [["aparato"], ["gadget", "device", "appliance"]],
-      [["arreglar"], ["to sort", "to arrange", "to fix", "to repair"]],
+      [
+        ["arreglar", "reparar"],
+        ["to repair", "to sort", "to arrange", "to fix"]
+      ],
       [["aspiradora"], ["vacuum cleaner", "hoover"]],
       [["automático", "automática"], ["automatic"]],
-      [["bajar"], ["to download", "to go down"]],
+      [["bajar"], ["to download", "to go down", "to lower", "to turn down"]],
       [["correo electrónico"], ["email", "electronic mail", "e-mail"]],
       [["diseño"], ["design", "layout"]],
       [["encender"], ["to turn on", "to light", "to switch on"]],
@@ -7893,16 +7959,18 @@
       [["hacer fotos"], ["to take photos", "to take pictures"]],
       [["horrible"], ["horrible"]],
       [["instalar"], ["to install", "to set up"]],
-      [["libro electrónico"], ["e-book", "digital book"]],
+      [["libro electrónico"], ["e-book", "digital book", "electronic book"]],
       [["llevar"], ["to take", "to carry", "to wear"]],
       [["luz"], ["light", "electricity"]],
       [
         ["mantenerse en contacto"],
         [
           "to keep in touch",
+          "to get in contact",
           "to keep in contact",
           "to stay in touch",
-          "to stay in contact"
+          "to stay in contact",
+          "to contact"
         ]
       ],
       [["mayor"], ["older", "elder", "bigger", "greater"]],
@@ -8177,13 +8245,9 @@
         ["Si alguien te roba el móvil"],
         [
           "If someone steals your phone",
-          "If someone robs your phone",
           "If someone steals your mobile",
-          "If someone robs your mobile",
           "If somebody steals your phone",
-          "If somebody robs your phone",
-          "If somebody steals your mobile",
-          "If somebody robs your mobile"
+          "If somebody steals your mobile"
         ]
       ],
       [["Es muy útil"], ["It's very useful", "It is very useful"]],
@@ -8248,9 +8312,8 @@
         [
           "When I'm older",
           "Once I'm older",
-          "When I am older ",
+          "When I am older",
           "Once I am older",
-          "When I grow up",
           "When I grow up"
         ]
       ],
@@ -8297,8 +8360,22 @@
           "Whenever you get time"
         ]
       ],
-      [[""], [""]],
-      [[""], [""]],
+      [
+        ["Los científicos están experimentando con impresoras 3D"],
+        [
+          "Scientists are experimenting with 3D printers",
+          "The scientists are experimenting with 3D printers"
+        ]
+      ],
+      [
+        [
+          "Quiero que hagas un bocadillo",
+          "Quiero que me hagas un bocadillo",
+          "Quiero que hagas un sandwich",
+          "Quiero que me hagas un sandwich"
+        ],
+        ["I want you to make a sandwich"]
+      ],
       [
         ["Necesito una invención", "Necesito un invento"],
         ["I need an invention"]
@@ -8324,19 +8401,80 @@
         ["to turn off", "to put out", "to switch off", "to shut down"]
       ],
       [["capaz de"], ["capable of", "able to"]],
-      [["castillo"], ["castle"]],
-      [["cepillo"], ["brush", "toothbrush"]],
-      [["científico", "científica"], ["scientist"]],
-      [["cuestión"], ["issue", "matter", "question"]],
-      [["dental"], ["dental"]],
-      [["detectar"], ["to detect"]],
-      [["existir"], ["to exist"]],
-      [["experimentar"], ["to experiment", "to experience"]],
-      [["hacer falta"], ["to be lacking", "to be missing", "to need"]],
+      [["¿Eres abogado?"], ["Are you a lawyer?"]],
+      [["cepillo de dientes"], ["toothbrush"]],
+      [
+        ["Necesito que vayas al supermercado"],
+        ["I need you to go to the supermarket"]
+      ],
+      [["Quiero que vengas al cine"], ["I want you to come to the cinema"]],
+      [["salud dental"], ["dental health"]],
+      [
+        ["Cuando tenga dinero"],
+        [
+          "When I have money",
+          "Once I have money",
+          "Whenever I have money",
+          "When I've got money",
+          "Once I've got money",
+          "Whenever I've got money",
+          "When I have the money",
+          "Once I have the money",
+          "Whenever I have the money",
+          "When I've got the money",
+          "Once I've got the money",
+          "Whenever I've got the money",
+          "When I get money",
+          "Once I get money",
+          "Whenever I get money"
+        ]
+      ],
+      [
+        ["Quiero que tengas éxito"],
+        [
+          "I want you to be successful",
+          "I want you to have success",
+          "I want you to succeed"
+        ]
+      ],
+      [
+        [
+          "Mis padres quieren que sea médico",
+          "Mis padres quieren que sea doctor"
+        ],
+        [
+          "My parents want me to be a doctor",
+          "My parents want me to become a doctor"
+        ]
+      ],
+      [
+        [
+          "Me hace falta queso",
+          "Necesito queso",
+          "Me falta queso",
+          "No tengo queso"
+        ],
+        [
+          "I need cheese",
+          "I'm lacking cheese",
+          "I'm missing cheese",
+          "I am lacking cheese",
+          "I am missing cheese",
+          "I'm out of cheese",
+          "I have run out of cheese",
+          "I am out of cheese",
+          "I've run out of cheese",
+          "I don't have any cheese",
+          "I do not have any cheese"
+        ]
+      ],
       [["limpiar"], ["to clean", "to tidy up"]],
       [["mentira"], ["lie", "falsehood"]],
       [["observar"], ["to observe", "to watch"]],
-      [["sistema"], ["system"]],
+      [
+        ["Cuando mi madre haga la cena"],
+        ["When my mother makes dinner", "When my mum makes dinner"]
+      ],
       [
         [
           "Aquí en la Tierra, ya existen las impresoras 3D",
@@ -8354,47 +8492,6 @@
           "Here on the planet Earth, the 3D printers already exist",
           "Here on the planet Earth, the 3D printers exist already"
         ]
-      ],
-      [
-        [
-          "La nevera del futuro notará cuando te hace falta algo",
-          "El frigorífico del futuro notará cuando te hace falta algo",
-          "El refrigerador del futuro notará cuando te hace falta algo"
-        ],
-        [
-          "The fridge of the future will notice when you're missing something",
-          "The fridge of the future will notice when you are missing something",
-          "The fridge of the future will notice when you run out of something",
-          "The fridge of the future will notice when you need something",
-          "The fridge of the future will notice it when you're missing something",
-          "The fridge of the future will notice it when you are missing something",
-          "The fridge of the future will notice it when you run out of something",
-          "The fridge of the future will notice it when you need something",
-          "The fridge of the future will notice whenever you're missing something",
-          "The fridge of the future will notice whenever you are missing something",
-          "The fridge of the future will notice whenever you run out of something",
-          "The fridge of the future will notice whenever you need something",
-          "The fridge of the future will notice it whenever you're missing something",
-          "The fridge of the future will notice it whenever you are missing something",
-          "The fridge of the future will notice it whenever you run out of something",
-          "The fridge of the future will notice it whenever you need something",
-          "The fridge of the future will notice when you're missing anything",
-          "The fridge of the future will notice when you are missing anything",
-          "The fridge of the future will notice when you run out of anything",
-          "The fridge of the future will notice when you need anything",
-          "The fridge of the future will notice it when you're missing anything",
-          "The fridge of the future will notice it when you are missing anything",
-          "The fridge of the future will notice it when you run out of anything",
-          "The fridge of the future will notice it when you need anything",
-          "The fridge of the future will notice whenever you're missing anything",
-          "The fridge of the future will notice whenever you are missing anything",
-          "The fridge of the future will notice whenever you run out of anything",
-          "The fridge of the future will notice whenever you need anything",
-          "The fridge of the future will notice it whenever you're missing anything",
-          "The fridge of the future will notice it whenever you are missing anything",
-          "The fridge of the future will notice it whenever you run out of anything",
-          "The fridge of the future will notice it whenever you need anything"
-        ]
       ]
     ],
     [
@@ -8403,12 +8500,12 @@
       [["armario"], ["cupboard", "wardrobe", "closet"]],
       [["cama"], ["bed"]],
       [["dormitorio"], ["bedroom", "room"]],
-      [["enorme"], ["enormous", "huge"]],
-      [["entrar"], ["to enter", "to go in", "to come in"]],
+      [["enorme"], ["huge", "enormous"]],
+      [["entrar"], ["to enter", "to go in", "to come in", "to get in"]],
       [["espacio"], ["space", "room"]],
       [["estantes"], ["shelves"]],
       [["estilo"], ["style"]],
-      [["guardar"], ["to keep", "to store"]],
+      [["guardar"], ["to keep", "to store", "to save"]],
       [["lámpara"], ["lamp"]],
       [["mesa"], ["table", "desk"]],
       [["odiar"], ["to hate", "to detest"]],
@@ -8424,13 +8521,16 @@
       [["techo"], ["ceiling", "roof"]],
       [
         ["tranquilo", "tranquila"],
-        ["quiet", "peaceful", "calm"]
+        ["quiet", "peaceful", "calm", "tranquil"]
       ],
       [["ventana"], ["window"]]
     ],
     [
       "9.1F Mi pueblo y mi ciudad",
-      [["al lado de"], ["next to", "at the side of", "beside"]],
+      [
+        ["al lado de"],
+        ["next to", "at the side of", "beside", "by the side of", "alongside"]
+      ],
       [
         [
           "En mi casa hay dos cuartos de baño",
@@ -8449,35 +8549,61 @@
       [
         ["El bosque está al oeste del castillo"],
         [
-          "The forest is to the West of the castle",
-          "The forest is West of the castle",
-          "The wood is to the West of the castle",
-          "The wood is West of the castle",
-          "The woods are to the West of the castle",
-          "The woods are West of the castle"
+          "The forest is to the west of the castle",
+          "The forest is west of the castle",
+          "The wood is to the west of the castle",
+          "The wood is west of the castle",
+          "The woods are to the west of the castle",
+          "The woods are west of the castle"
         ]
       ],
       [
         ["al norte del campo"],
         [
-          "To the North of the field",
-          "To the North of the country",
-          "To the North of the countryside",
-          "North of the field",
-          "North of the country",
-          "North of the countryside"
+          "To the north of the field",
+          "To the north of the country",
+          "To the north of the countryside",
+          "north of the field",
+          "north of the country",
+          "north of the countryside"
         ]
       ],
       [["clima"], ["climate", "weather"]],
       [["encima de"], ["on top of", "above"]],
-      [["estación"], ["station", "season"]],
-      [["¿Dónde está la fábrica?"], ["Where is the factory?"]],
-      [["faltar"], ["to be lacking", "to be short of", "to lack", "to miss"]],
+      [["las estaciones del año"], ["the seasons of the year"]],
+      [
+        ["¿Dónde está la fábrica?"],
+        ["Where is the factory?", "Where's the factory?"]
+      ],
+      [
+        ["Hay una falta de servicios públicos"],
+        [
+          "There's a lack of public services",
+          "There is a lack of public services"
+        ]
+      ],
       [["veinte grados"], ["twenty degrees", "20 degrees"]],
-      [["Siempre tenemos cielos grises"], ["We always have grey skies"]],
+      [
+        ["Siempre tenemos cielos grises"],
+        [
+          "We always have grey skies",
+          "We've always got grey skies",
+          "We always get grey skies",
+          "We always have gray skies",
+          "We've always got gray skies",
+          "We always get gray skies"
+        ]
+      ],
       [
         ["Llueve todo el tiempo"],
-        ["It rains all of the time", "It rains all the time"]
+        [
+          "It rains all the time",
+          "It rains all of the time",
+          "It's raining all of the time",
+          "It's raining all the time",
+          "It is raining all of the time",
+          "It is raining all the time"
+        ]
       ],
       [
         ["La mezquita está cerca del centro comercial"],
@@ -8493,7 +8619,9 @@
         ],
         [
           "The theme park is far from the city",
-          "The amusement park is far from the city"
+          "The amusement park is far from the city",
+          "The theme park is far away from the city",
+          "The amusement park is far away from the city"
         ]
       ],
       [
@@ -8502,16 +8630,21 @@
       ],
       [
         ["El coche está debajo del puente"],
-        ["The car is underneath the bridge", "The car is under the bridge"]
+        [
+          "The car is underneath the bridge",
+          "The car is under the bridge",
+          "The car's underneath the bridge",
+          "The car's under the bridge"
+        ]
       ],
       [
         ["La plaza de toros está detrás del puerto"],
         [
           "The bullring is behind the port",
-          "The bullring is behind the  harbour",
+          "The bullring is behind the harbour",
           "The bullring is behind the harbor",
           "The bull ring is behind the port",
-          "The bull ring is behind the  harbour",
+          "The bull ring is behind the harbour",
           "The bull ring is behind the harbor"
         ]
       ],
@@ -8534,7 +8667,10 @@
       ],
       [["Está nevando"], ["It's snowing", "It is snowing"]],
       [["Hace frío"], ["It's cold", "It is cold"]],
-      [["Aquí llueve a menudo"], ["Here it rains often"]],
+      [
+        ["Aquí llueve a menudo"],
+        ["Here it rains often", "It often rains here"]
+      ],
       [
         ["Hace fresco"],
         ["It's cool", "It is cool", "It's chilly", "It is chilly"]
@@ -8542,11 +8678,11 @@
       [
         ["En mi pueblo hace mal tiempo"],
         [
+          "In my town the weather is bad",
           "In my town there's bad weather",
           "In my town there's bad weather",
           "The weather is bad in my town",
           "The weather's bad in my town",
-          "In my town the weather is bad",
           "In my town the weather's bad",
           "In my town it's bad weather",
           "In my town it is bad weather"
@@ -8565,37 +8701,218 @@
     ],
     [
       "9.1H Lo bueno y lo malo de mi región",
-      [["afueras"], ["outskirts", "suburbs"]],
-      [["atraer"], ["to attract"]],
-      [["ayuntamiento"], ["town hall", "council"]],
-      [["barrio"], ["neighbourhood", "district", "area", "neighborhood"]],
-      [["centro deportivo", "polideportivo"], ["sports centre"]],
-      [["conseguir"], ["to manage", "to achieve", "to get"]],
+      [
+        [
+          "Había zonas pobres en las afueras",
+          "Había áreas pobres en las afueras"
+        ],
+        [
+          "There were poor areas on the outskirts",
+          "There were poor areas on the suburbs",
+          "There were poor areas in the outskirts",
+          "There were poor areas in the suburbs"
+        ]
+      ],
+      [
+        [
+          "Van a construir más hoteles para atraer a los turistas",
+          "Van a construir más hoteles para atraer turistas",
+          "Se van a construir más hoteles para atraer a los turistas",
+          "Van a edificar más hoteles para atraer a los turistas"
+        ],
+        [
+          "They're going to build more hotels to attract tourists",
+          "They are going to build more hotels to attract tourists",
+          "They're going to build more hotels to attract the tourists",
+          "They are going to build more hotels to attract the tourists"
+        ]
+      ],
+      [
+        ["El ayuntamiento permitió la construcción de una fábrica"],
+        [
+          "The council allowed the construction of a factory",
+          "The council approved the construction of a factory",
+          "The town hall allowed the construction of a factory",
+          "The town hall approved the construction of a factory",
+          "The town hall allowed for the building of a factory",
+          "The council allowed for the building of a factory",
+          "The town hall allowed the building of a factory",
+          "The council allowed the building of a factory"
+        ]
+      ],
+      [
+        ["Hay barrios peligrosos"],
+        [
+          "There are dangerous neighbourhoods",
+          "There are dangerous districts",
+          "There are dangerous areas",
+          "There are dangerous neighborhoods"
+        ]
+      ],
+      [
+        [
+          "Dani trabaja en el centro deportivo desde hace seis semanas",
+          "Dani trabaja en el polideportivo desde hace seis semanas",
+          "Dani ha trabajado en el centro deportivo desde hace seis semanas",
+          "Dani ha trabajado en el polideportivo desde hace seis semanas",
+          "Dani ha trabajado en el centro deportivo seis semanas",
+          "Dani ha trabajado en el polideportivo seis semanas"
+        ],
+        [
+          "Dani has worked at the sports centre for six weeks",
+          "Dani has been working at the sports centre for six weeks",
+          "Dani's worked at the sports centre for six weeks",
+          "Dani's been working at the sports centre for six weeks",
+          "Dani has worked in the sports centre for six weeks",
+          "Dani has been working in the sports centre for six weeks",
+          "Dani's worked in the sports centre for six weeks",
+          "Dani's been working in the sports centre for six weeks",
+          "Dani has worked at the sports center for six weeks",
+          "Dani has been working at the sports center for six weeks",
+          "Dani's worked at the sports center for six weeks",
+          "Dani's been working at the sports center for six weeks",
+          "Dani has worked in the sports center for six weeks",
+          "Dani has been working in the sports center for six weeks",
+          "Dani's worked in the sports center for six weeks",
+          "Dani's been working in the sports center for six weeks"
+        ]
+      ],
+      [
+        ["Los vecinos han conseguido mejorar el edificio"],
+        [
+          "The neighbours have managed to improve the building",
+          "The neighbors have managed to improve the building",
+          "The neighbours have achieved to improve the building",
+          "The neighbors have achieved to improve the building",
+          "The neighbours have succeeded in improving the building",
+          "The neighbors have succeeded in improving the building"
+        ]
+      ],
       [["construcción"], ["building", "construction"]],
-      [["cruzar"], ["to cross"]],
       [
-        ["delincuencia", "crimen"],
-        ["crime", "criminality"]
+        [
+          "Se puede cruzar la ciudad en minutos",
+          "Uno puede cruzar la ciudad en minutos",
+          "Puedes cruzar la ciudad en minutos"
+        ],
+        [
+          "You can cross the city in minutes",
+          "One can cross the city in minutes",
+          "It's possible to cross the city in minutes",
+          "It is possible to cross the city in minutes"
+        ]
       ],
-      [["delito"], ["crime", "offence", "offense"]],
-      [["edad"], ["age"]],
-      [["escalera"], ["stairs", "ladder", "staircase"]],
-      [["estado"], ["state"]],
-      [["gastar"], ["to spend", "to waste"]],
-      [["gracias"], ["thanks", "thank you"]],
-      [["industria"], ["industry"]],
-      [["infantil"], ["childish", "children's", "of children"]],
-      [["metro"], ["underground", "tube", "subway"]],
-      [["nivel"], ["level"]],
-      [["paro"], ["unemployment", "joblessness"]],
+      [
+        ["Hay un alto nivel de delincuencia", "Hay un alto nivel de crimen"],
+        [
+          "There's a high level of crime",
+          "There's a high level of criminality",
+          "There is a high level of crime",
+          "There is a high level of criminality"
+        ]
+      ],
+      [
+        ["Hay casas en mal estado", "Hay casas en malas condiciones"],
+        [
+          "There are houses in a bad state",
+          "There are houses in bad state",
+          "There are houses in poor condition",
+          "There are houses in bad condition",
+          "There are run-down houses"
+        ]
+      ],
+      [
+        ["He gastado mucho dinero"],
+        [
+          "I've spent a lot of money",
+          "I have spent a lot of money",
+          "I've spent lots of money",
+          "I have spent lots of money"
+        ]
+      ],
+      [
+        ["parques infantiles", "parques para niños", "zonas infantiles"],
+        [
+          "children's playgrounds",
+          "playgrounds",
+          "play areas",
+          "children's play areas",
+          "children's parks"
+        ]
+      ],
+      [["metro"], ["tube", "underground", "subway"]],
+      [
+        ["El nivel de paro está bajando", "El nivel de desempleo está bajando"],
+        [
+          "The level of unemployment is falling",
+          "The rate of unemployment is falling",
+          "The unemployment rate is falling",
+          "The unemployment level is falling",
+          "The level of unemployment is going down",
+          "The rate of unemployment is going down",
+          "The unemployment rate is going down",
+          "The unemployment level is going down",
+          "The level of unemployment is decreasing",
+          "The rate of unemployment is decreasing",
+          "The unemployment rate is decreasing",
+          "The unemployment level is decreasing"
+        ]
+      ],
       [["piso"], ["flat", "apartment", "floor"]],
-      [
-        ["roto", "rota"],
-        ["broken", "damaged"]
-      ],
-      [["sistema"], ["system"]],
       [["torre"], ["tower"]],
-      [["transporte"], ["transport", "transportation"]]
+      [
+        ["Hay un buen sistema de transporte público"],
+        [
+          "There's a good public transport system",
+          "There is a good public transport system",
+          "There's a good public transportation system",
+          "There is a good public transportation system",
+          "There's a good system of public transport",
+          "There is a good system of public transport",
+          "There's a good system of public transportation",
+          "There is a good system of public transportation"
+        ]
+      ],
+      [
+        ["Tiene aspectos positivos y negativos"],
+        [
+          "It has positive and negative aspects",
+          "It's got positive and negative aspects"
+        ]
+      ],
+      [
+        ["Está bien conectada", "Está bien conectado"],
+        [
+          "It's well-connected",
+          "It is well-connected",
+          "It's well connected",
+          "It is well connected"
+        ]
+      ],
+      [["agradable"], ["pleasant", "nice"]],
+      [
+        ["No hay nada que hacer"],
+        [
+          "There's nothing to do",
+          "There is nothing to do",
+          "There isn't anything to do"
+        ]
+      ],
+      [
+        ["desde hace dos años", "desde hace 2 años"],
+        ["for two years", "for 2 years"]
+      ],
+      [
+        ["hace tres años", "hace 3 años"],
+        [
+          "three years ago",
+          "It's been three years",
+          "three 3 ago",
+          "It's been 3 years"
+        ]
+      ],
+      [["desde septiembre"], ["since September", "from September"]],
+      [["la arquitectura"], ["the architecture"]]
     ],
     [
       "9.2G El medio ambiente en mi región",

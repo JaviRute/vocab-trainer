@@ -1,6 +1,6 @@
 //TTD
 //* Añadir expresiones (no dan 25) a: Sp Y9 5.3, 5.4
-//* Terminar el GCSE Sp vocab desde el 8.2H en adelante ()
+//* Terminar el GCSE Sp vocab desde el 9.2G en adelante ()
 //* Add Y9 French vocab (todo lo demás de KS3 Fr está de PM)
 //* El vocab de GCSE French hay q hacerlo entero (todos son 25 expresiones, pero solo cortas)
 //* El vocab de KS3 Spanish hay q hacerlo casi entero (todos son 25 expresiones, pero solo cortas)
