@@ -596,7 +596,7 @@ function App() {
         }
 
         {showAlert && 
-          <Alert24 language={language} handleAlert={handleAlert} />
+          <Alert24 language={language} handleAlert={handleAlert} handleUserInfo={handleUserInfo}/>
         }
 
         <div className="footer-message">
