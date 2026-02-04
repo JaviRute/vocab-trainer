@@ -20,7 +20,11 @@ export default function SelectionRow({  language,
                                         chooseTheme, 
                                         chooseLesson, 
                                         restartThemeSelection, 
-                                        restartLessonSelection }) {
+                                        restartLessonSelection,
+                                        setShowLoseProgressPopup, 
+                                        setFunctionToRun, 
+                                        expressionsAnswered, 
+                                        functionToRun }) {
 
     // Determine the first key of the selected theme (for initial rendering purposes)
     const firstKey = Object.keys(theme)[0];
@@ -70,8 +74,18 @@ export default function SelectionRow({  language,
 
             {language && theme && <>
                 { ks3Ks4 ? 
-                  (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Theme</h2>) :
-                  (<h2 className="restart-selection" onClick={restartThemeSelection}>Selected Course</h2>)
+                  (<h2 className="restart-selection" onClick={() => {
+                    if (expressionsAnswered !== 0) {
+                      setFunctionToRun("Run restartThemeSelection");
+                      setShowLoseProgressPopup(true);
+                    } else {restartThemeSelection()}
+                    }}>Selected Theme</h2>) :
+                  (<h2 className="restart-selection" onClick={() => {
+                    if (expressionsAnswered !== 0) {
+                      setFunctionToRun("Run restartThemeSelection");
+                      setShowLoseProgressPopup(true);
+                    } else {restartThemeSelection()}
+                    }}>Selected Course</h2>)
                   }
                 {theme === theme1S && <p>Kerboodle Theme 1</p>}
                 {theme === theme2S && <p>Kerboodle Theme 2</p>}
@@ -112,7 +126,12 @@ export default function SelectionRow({  language,
         </div>
         </>}
         {theme && lesson && <>
-            <h2 className="restart-selection" onClick={restartLessonSelection}>Selected Lesson</h2>
+            <h2 className="restart-selection" onClick={() => {
+                    if (expressionsAnswered !== 0) {
+                      setFunctionToRun("Run restartThemeSelection");
+                      setShowLoseProgressPopup(true);
+                    } else {restartThemeSelection()}
+                    }}>Selected Lesson</h2>
             <div className=''>
                 <p>{lesson[0]}</p>
             </div>

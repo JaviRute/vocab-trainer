@@ -33,6 +33,7 @@ import Tutorial from './components/Tutorial';
 import ConfettiCelebration from "./components/Confetti";
 import ConfettiModal from './components/ConfettiModal';
 import UserInfo from './components/UserInfo'
+import LoseProgressPopup from './components/LoseProgressPopup';
 
 import legacyVivaSpanish from './data/spanish-vocab.json';
 import kerboodleSpanishData from './data/kerboodle-spanish-vocab.json'
@@ -123,6 +124,10 @@ function App() {
   // Alert when the user is about to win but has not entered name/class/school
   const [showAlert, setShowAlert] = useState(false);
 
+  // This piece of state will save which function needs to be run if the user clicks on OK
+  // This is in order for the user to not lose progress by accidentally clicking on something
+  const [functionToRun, setFunctionToRun] = useState("");
+  const [showLoseProgressPopup, setShowLoseProgressPopup] = useState(false)
 
   // Sound-----------Sound---------------Sound----------------Sound---------------Sound--------------Sound---------
 
@@ -278,8 +283,8 @@ function App() {
       if (inputRef.current) {
           inputRef.current.focus();
       }
-      if (spToEngMode === true) {console.log(`Pssssst! The answer is "${randomItem[1]}"`)};
-      if (spToEngMode === false) {console.log(`Pssssst! The answer is "${randomItem[0]}"`)};
+      // if (spToEngMode === true) {console.log(`Pssssst! The answer is "${randomItem[1]}"`)};
+      // if (spToEngMode === false) {console.log(`Pssssst! The answer is "${randomItem[0]}"`)};
     } else {
       if (!gameOver) {
         setGameOver(true);
@@ -366,6 +371,7 @@ function App() {
     setInputOn(false);
     setGameIsOn(false);
     setGameOver(true);
+    setExpressionsAnswered(0);
   }
 
   const restartLessonSelection = () => {
@@ -422,6 +428,7 @@ function App() {
     setTeacherMode(prevValue => !prevValue);
     setTheme("");
     setLesson("");
+    setExpressionsAnswered(0)
   }
 
   // Add cleanup when component unmounts (add this useEffect):
@@ -454,6 +461,35 @@ function App() {
     setCompletedAt(new Date());
     setShouldCelebrate(true);
   }
+
+  // This function is here to avoid the user losing his progress by clicking on buttons accidentally
+  // If he has some progress he will have the chance to go ahead with his choice or continue playing
+  // Therefore, these functions will only run after the chooses to do so on a popup window
+  const handleFunctionToRun = () => {
+    // First if the user clicks on the button to toggle between Teacher and Student mode
+    if (functionToRun == "Run toggleTeacherMode") {
+      toggleTeacherMode();
+      setShowLoseProgressPopup(false);
+      restartThemeSelection();
+    } 
+    // Second if the user clicks on the button which toggles between KS3 and KS4
+    else if (functionToRun == "Run setKs3Ks4") {
+      setKs3Ks4(prevVal => !prevVal);
+      setShowLoseProgressPopup(false);
+      restartThemeSelection();
+    } 
+    // Next if the user clicks on the button to switch between direction of the translation
+    else if (functionToRun == "Run setSpToEngMode") {
+      setSpToEngMode(prevVal => !prevVal);
+      setShowLoseProgressPopup(false);
+      restartThemeSelection();
+    }
+    // If the user clicks on the Selected Course button or Selected Lesson
+    else if (functionToRun == "Run restartThemeSelection") {
+      restartThemeSelection();
+      setShowLoseProgressPopup(false);
+    }
+  }
   
 
   return (
@@ -476,7 +512,34 @@ function App() {
 
         <ConfettiCelebration ref={confettiRef} />
 
-        <TopRow spToEngMode={spToEngMode} setSpToEngMode={setSpToEngMode} restartThemeSelection={restartThemeSelection} teacherMode={teacherMode} handleTutorial={handleTutorial} toggleTeacherMode={toggleTeacherMode} ks3Ks4={ks3Ks4} setKs3Ks4={setKs3Ks4} language={language} toggleLanguage={toggleLanguage} handleUserInfo={handleUserInfo}/>
+        {showLoseProgressPopup && 
+          <LoseProgressPopup 
+            language={language} 
+            showLoseProgressPopup={showLoseProgressPopup}
+            setShowLoseProgressPopup={setShowLoseProgressPopup}
+            toggleTeacherMode={toggleTeacherMode}
+            handleFunctionToRun={handleFunctionToRun}
+            expressionsAnswered={expressionsAnswered}
+            expressionsToAnswer={expressionsToAnswer}
+          />}
+
+        <TopRow 
+          spToEngMode={spToEngMode} 
+          setSpToEngMode={setSpToEngMode} 
+          restartThemeSelection={restartThemeSelection} 
+          teacherMode={teacherMode} 
+          handleTutorial={handleTutorial} 
+          toggleTeacherMode={toggleTeacherMode} 
+          ks3Ks4={ks3Ks4} 
+          setKs3Ks4={setKs3Ks4} 
+          language={language} 
+          toggleLanguage={toggleLanguage} 
+          handleUserInfo={handleUserInfo}
+          setShowLoseProgressPopup={setShowLoseProgressPopup}
+          setFunctionToRun={setFunctionToRun}
+          expressionsAnswered={expressionsAnswered}
+          functionToRun={functionToRun}
+          />
 
         <SelectionRow 
           language={language}
@@ -500,6 +563,10 @@ function App() {
           chooseLesson={chooseLesson}
           restartThemeSelection={restartThemeSelection}
           restartLessonSelection={restartLessonSelection}
+          setShowLoseProgressPopup={setShowLoseProgressPopup}
+          setFunctionToRun={setFunctionToRun}
+          expressionsAnswered={expressionsAnswered}
+          functionToRun={functionToRun}
           />
         
         {theme && lesson && 

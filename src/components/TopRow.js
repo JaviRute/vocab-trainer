@@ -4,7 +4,7 @@ import FrenchFlag from '../assets/french-flag.svg';
 import BritishFlag from '../assets/british-flag.svg';
 import Arrow from '../assets/arrow.svg';
 
-export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4, language, toggleLanguage, handleUserInfo}) {
+export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelection, teacherMode, handleTutorial, toggleTeacherMode, ks3Ks4, setKs3Ks4, language, toggleLanguage, handleUserInfo, setShowLoseProgressPopup, setFunctionToRun, expressionsAnswered, functionToRun}) {
 
 
 
@@ -32,7 +32,15 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
             </button>
             <button 
                 className='top-button'
-                onClick={toggleTeacherMode}>
+                onClick={() => {
+                  if (expressionsAnswered !== 0) {
+                    setFunctionToRun("Run toggleTeacherMode");
+                    setShowLoseProgressPopup(true);
+                  } else {
+                    toggleTeacherMode();
+                    
+                  }
+                }}>
                 <span className="material-symbols-outlined">person_raised_hand</span>
                 <span className="tooltiptext">Toggle between Student and Teacher modes</span>
             </button>
@@ -42,9 +50,14 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
 
       {language && <div className='options-container'>
             <div className='ks-container' onClick={() => {
+                            if (expressionsAnswered != 0) {
+                                setFunctionToRun("Run setKs3Ks4");
+                                setShowLoseProgressPopup(true);
+                            } else {
                             setKs3Ks4(prevVal => !prevVal);
-                            restartThemeSelection()}
-                            }>
+                            restartThemeSelection()
+                            }
+                            }}>
                           <h3 className={ks3Ks4 ? 'ks-hidden' : ''} >KS3</h3>
                           <h3 className='ks-hidden'>/</h3>
                           <h3 className={ks3Ks4 ? '' : 'ks-hidden'} >KS4</h3>
@@ -53,8 +66,13 @@ export default function TopRow( { spToEngMode, setSpToEngMode, restartThemeSelec
 
 
                   <div className='flag-container' onClick={() => {
-                    setSpToEngMode(prevVal => !prevVal);
-                    restartThemeSelection()}
+                    if (expressionsAnswered != 0) {
+                        setFunctionToRun("Run setSpToEngMode");
+                        setShowLoseProgressPopup(true);
+                      } else {
+                          setSpToEngMode(prevVal => !prevVal);
+                          restartThemeSelection()}
+                      }
                     }>
                     {spToEngMode ? (
                       <>
