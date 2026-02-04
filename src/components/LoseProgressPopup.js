@@ -9,7 +9,7 @@ export default function LoseProgressPopup({ language, setShowLoseProgressPopup, 
                     <h2>{language === "Spanish" ? "¡ALERTA!" : "ALERTE!"}</h2>
                     <p>You are in the middle of a game.</p>
                     <p>You just clicked on a button that will restart the game and make you lose your progress <strong>({expressionsAnswered}/{expressionsToAnswer})</strong>.</p>
-                    <p>Do you want to continue?</p>
+                    <p>Are you sure you want to restart the game?</p>
                     <button onClick={() => setShowLoseProgressPopup(false)} className='main-button big-text-button'>No, keep playing</button>
                     <button onClick={() => handleFunctionToRun()} className='main-button big-text-button'>Yes, restart the game</button>
                 </div>
