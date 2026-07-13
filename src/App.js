@@ -8,7 +8,6 @@
 //* add a section of "common problems" or FAQ en Tutorial (usar en google chrome, check for errors on your answer)
 //* add special characters appearing always: ?, !, ', -
 //* change favicon
-//* Hacer un hard/easy mode. En hard mode son menos expresiones pero mas largas
 //* hacer q en la traducción English to Spanish te avise si has puesto la expresión bien pero con un fallo de acento
 //* alternativamente podría hacerlo q los acentos no tuvieran efecto en la traducción
 //* EL KS3 SPANISH ESTÁ FINIQUITADO TODO LO Q SON  MODULOS 1 A 3, TERMINA LOS 4 A 5 DE Y7, Y8 Y Y9
