@@ -8955,35 +8955,308 @@
       [["vino"], ["wine"]]
     ],
     [
-      "9.2F ¿Qué puedo hacer para proteger el medio ambiente?",
-      [["anuncio"], ["advert", "ad", "advertisement"]],
-      [["basura"], ["rubbish", "litter", "garbage", "trash"]],
-      [["botella"], ["bottle"]],
-      [["calefacción"], ["heating"]],
-      [["contenedor"], ["container", "bin", "dumpster"]],
-      [["cuidado"], ["care", "caution"]],
-      [["dejar"], ["to leave", "to let", "to allow"]],
-      [["entorno"], ["surroundings"]],
-      [["evitar"], ["to avoid", "to prevent"]],
-      [["ir a pie"], ["to go on foot", "to walk"]],
-      [["lluvia"], ["rain", "rainfall"]],
-      [["medio ambiente"], ["environment", "surroundings"]],
-      [["nadie"], ["no one", "nobody", "none"]],
-      [["organizar"], ["to organise", "to organize", "to arrange"]],
-      [["otoño"], ["autumn", "fall"]],
-      [["plan"], ["plan"]],
-      [["plantar"], ["to plant"]],
-      [["plástico"], ["plastic"]],
+      "9.2F El medio ambiente y yo",
       [
-        ["preocuparse por"],
-        ["to worry about", "to be worried about", "to be concerned about"]
+        [
+          "Separa la basura en los contenedores correctos",
+          "Separa la basura dentro de los contenedores correctos"
+        ],
+        [
+          "Separate the rubbish into the correct bins",
+          "Separate the garbage into the correct bins",
+          "Separate the trash into the correct bins",
+          "Sort the rubbish into the correct bins",
+          "Sort the garbage into the correct bins",
+          "Sort the trash into the correct bins",
+          "Split the rubbish into the correct bins",
+          "Split the garbage into the correct bins",
+          "Split the trash into the correct bins",
+          "Separate the rubbish in the correct bins",
+          "Separate the garbage in the correct bins",
+          "Separate the trash in the correct bins",
+          "Sort the rubbish in the correct bins",
+          "Sort the garbage in the correct bins",
+          "Sort the trash in the correct bins",
+          "Split the rubbish in the correct bins",
+          "Split the garbage in the correct bins",
+          "Split the trash in the correct bins",
+          "Separate the rubbish into the correct containers",
+          "Separate the garbage into the correct containers",
+          "Separate the trash into the correct containers",
+          "Sort the rubbish into the correct containers",
+          "Sort the garbage into the correct containers",
+          "Sort the trash into the correct containers",
+          "Split the rubbish into the correct containers",
+          "Split the garbage into the correct containers",
+          "Split the trash into the correct containers",
+          "Separate the rubbish in the correct containers",
+          "Separate the garbage in the correct containers",
+          "Separate the trash in the correct containers",
+          "Sort the rubbish in the correct containers",
+          "Sort the garbage in the correct containers",
+          "Sort the trash in the correct containers",
+          "Split the rubbish in the correct containers",
+          "Split the garbage in the correct containers",
+          "Split the trash in the correct containers"
+        ]
       ],
-      [["primavera"], ["spring"]],
-      [["reciclar"], ["to recycle", "to reuse"]],
-      [["recoger"], ["to collect", "to pick up", "to gather"]],
-      [["regar"], ["to water", "to irrigate"]],
-      [["separar"], ["to separate", "to split", "to sort"]],
-      [["tirar"], ["to throw", "to throw away", "to dump"]]
+      [
+        [
+          "Baja la calefacción un poco",
+          "Baja un poco la calefacción",
+          "Reduce la calefacción un poco"
+        ],
+        [
+          "Turn down the heating a little",
+          "Turn the heating down a little",
+          "Lower the heating a little",
+          "Reduce the heating a little",
+          "Turn down the heating a bit",
+          "Turn the heating down a bit",
+          "Lower the heating a bit",
+          "Reduce the heating a bit"
+        ]
+      ],
+      [
+        ["Ponte más ropa", "Abrígate más"],
+        [
+          "Put on more clothes",
+          "Put more clothes on",
+          "Put on some more clothes",
+          "Wear more clothes",
+          "Wear warmer clothes",
+          "Dress more warmly"
+        ]
+      ],
+      [
+        ["dejar correr el agua", "dejar que el agua corra"],
+        [
+          "to let the water run",
+          "letting the water run",
+          "to leave the water run",
+          "leaving the water run",
+          "to let the water running",
+          "letting the water running",
+          "to leave the water running",
+          "leaving the water running"
+        ]
+      ],
+      [
+        ["una tienda de segunda mano"],
+        [
+          "a second-hand shop",
+          "a second hand shop",
+          "a charity shop",
+          "a charity"
+        ]
+      ],
+      [
+        [
+          "Recoge agua de lluvia",
+          "Recoge el agua de lluvia",
+          "Recoge agua de la lluvia",
+          "Recoge el agua de la lluvia"
+        ],
+        [
+          "Collect rainwater",
+          "Collect the rainwater",
+          "Gather rainwater",
+          "Gather the rainwater"
+        ]
+      ],
+      [["regar las plantas"], ["to water the plants", "watering the plants"]],
+      [
+        [
+          "Participa en un proyecto del barrio",
+          "Participa en un proyecto de tu barrio",
+          "Participa en un proyecto local"
+        ],
+        [
+          "Take part in a neighbourhood project",
+          "Take part in a neighborhood project",
+          "Participate in a neighbourhood project",
+          "Participate in a neighborhood project",
+          "Join a neighbourhood project",
+          "Join a neighborhood project"
+        ]
+      ],
+      [
+        ["recoger basura", "recoger la basura"],
+        [
+          "to pick up rubbish",
+          "to pick up garbage",
+          "to pick up trash",
+          "to pick up litter",
+          "to collect rubbish",
+          "to collect garbage",
+          "to collect trash",
+          "to collect litter",
+          "to gather rubbish",
+          "to gather garbage",
+          "to gather trash",
+          "to gather litter"
+        ]
+      ],
+      [
+        ["Planta un árbol", "Planta un árbol nuevo"],
+        ["Plant a tree", "Plant a new tree"]
+      ],
+      [
+        [
+          "Apaga las luces",
+          "Apaga las luces de casa",
+          "Apaga las luces en casa"
+        ],
+        [
+          "Turn off the lights",
+          "Switch off the lights",
+          "Turn the lights off",
+          "Switch the lights off"
+        ]
+      ],
+      [
+        [
+          "Ir a pie al colegio",
+          "Ir andando al colegio",
+          "Caminar hasta el colegio"
+        ],
+        [
+          "To walk to school",
+          "To go to school on foot",
+          "To go to school by foot",
+          "Walking to school",
+          "Going to school on foot"
+        ]
+      ],
+      [
+        ["Con agua de lluvia", "Usando agua de lluvia"],
+        ["With rainwater", "Using rainwater"]
+      ],
+      [
+        [
+          "Comparte tus ideas",
+          "Comparte tus ideas con los demás",
+          "Comparte tus ideas con otras personas"
+        ],
+        [
+          "Share your ideas",
+          "Share your ideas with other people",
+          "Share your ideas with others"
+        ]
+      ],
+      [
+        ["Es importante cerrar el grifo"],
+        [
+          "It is important to close the tap",
+          "It's important to close the tap",
+          "It is important closing the tap",
+          "It's important closing the tap",
+          "It is important to turn off the tap",
+          "It's important to turn off the tap",
+          "It is important turning off the tap",
+          "It's important turning off the tap"
+        ]
+      ],
+      [
+        ["Respeta a los animales", "Cuida a los animales"],
+        [
+          "Respect the animals",
+          "Respect animals",
+          "Take care of animals",
+          "Look after animals"
+        ]
+      ],
+      [
+        ["Ahorra energía", "Ahorra energía en casa", "Intenta ahorrar energía"],
+        ["Save energy", "Save energy at home", "Try to save energy"]
+      ],
+      [["Usa menos agua"], ["Use less water"]],
+      [
+        [
+          "Se debe reciclar botellas de plástico",
+          "Se deben reciclar botellas de plástico",
+          "Debes reciclar botellas de plástico",
+          "Hay que reciclar botellas de plástico",
+          "Tienes que reciclar botellas de plástico"
+        ],
+        [
+          "You must recycle plastic bottles",
+          "One must recycle plastic bottles",
+          "You have to recycle plastic bottles",
+          "One has to recycle plastic bottles",
+          "You should recycle plastic bottles",
+          "One should recycle plastic bottles"
+        ]
+      ],
+      [
+        [
+          "Planté un árbol en primavera",
+          "Planté un árbol durante la primavera"
+        ],
+        [
+          "I planted a tree in spring",
+          "I planted a tree the in spring",
+          "I planted a tree during the spring"
+        ]
+      ],
+      [
+        [
+          "Organicé un proyecto en mi colegio",
+          "Organicé un proyecto en mi instituto",
+          "Preparé un proyecto en mi colegio",
+          "Preparé un proyecto en mi instituto",
+          "Organicé un proyecto en mi insti",
+          "Preparé un proyecto en mi insti"
+        ],
+        [
+          "I organised a project at my school",
+          "I organized a project at my school",
+          "I arranged a project at my school",
+          "I organised a project in my school",
+          "I organized a project in my school",
+          "I arranged a project in my school"
+        ]
+      ],
+      [
+        ["Voy a plantar más árboles"],
+        ["I'm going to plant more trees", "I am going to plant more trees"]
+      ],
+      [
+        [
+          "Voy a preocuparme más por el medio ambiente",
+          "Voy a preocuparme más por el entorno",
+          "Me voy a preocupar más por el medio ambiente",
+          "Me voy a preocupar más por el entorno",
+          "Voy a cuidar más el medio ambiente",
+          "Voy a cuidar más el entorno"
+        ],
+        [
+          "I'm going to care more about the environment",
+          "I am going to care more about the environment",
+          "I'm going to worry more about the environment",
+          "I am going to worry more about the environment",
+          "I'm going to be more concerned about the environment",
+          "I am going to be more concerned about the environment",
+          "I'm going to care more for the environment",
+          "I am going to care more for the environment"
+        ]
+      ],
+      [
+        [
+          "Para proteger el medio ambiente",
+          "Con el fin de proteger el medio ambiente",
+          "A fin de proteger el medio ambiente"
+        ],
+        ["In order to protect the environment", "To protect the environment"]
+      ],
+      [
+        ["En lugar de ir en coche", "En vez de ir en coche"],
+        [
+          "Instead of going by car",
+          "Instead of travelling by car",
+          "Instead of traveling by car"
+        ]
+      ]
     ],
     [
       "9.2H Protegiendo el planeta",
