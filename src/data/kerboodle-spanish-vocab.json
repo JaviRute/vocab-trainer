@@ -9260,58 +9260,169 @@
     ],
     [
       "9.2H Protegiendo el planeta",
-      [["abeja"], ["bee"]],
       [
-        ["advertir", "avisar"],
-        ["to warn", "to alert"]
-      ],
-      [["agotar"], ["to exhaust", "to deplete"]],
-      [
-        ["alimentos", "comida"],
-        ["foodstuff", "food", "provisions"]
+        ["En mi barrio hay demasiado tráfico"],
+        [
+          "In my neighborhood there's too much traffic",
+          "In my neighborhood there is too much traffic"
+        ]
       ],
       [
-        ["alrededor de", "cerca de"],
-        ["around", "near", "about"]
-      ],
-      [["amenazar"], ["to threaten"]],
-      [
-        ["aumentar", "incrementar"],
-        ["to increase", "to rise", "to grow"]
-      ],
-      [
-        ["cifra", "número"],
-        ["figure", "number"]
-      ],
-      [["ciudadano", "ciudadana"], ["citizen"]],
-      [
-        ["concienciar", "sensibilizar"],
-        ["to make aware", "to raise awareness"]
-      ],
-      [["contaminación"], ["pollution", "contamination"]],
-      [["cultivo"], ["crop", "cultivation"]],
-      [["dejar de contaminar", "parar de contaminar"], ["to stop polluting"]],
-      [
-        ["destinado a", "dirigido a"],
-        ["aimed at", "intended for", "directed at"]
+        [
+          "Vamos a usar menos papel en clase",
+          "Vamos a utilizar menos papel en clase"
+        ],
+        [
+          "We're going to use less paper in class",
+          "We are going to use less paper in class"
+        ]
       ],
       [
-        ["en vez de", "en lugar de"],
-        ["instead of", "rather than"]
+        ["Acabo de limpiar la cocina", "He terminado de limpiar la cocina"],
+        [
+          "I've just cleaned the kitchen",
+          "I have just cleaned the kitchen",
+          "I just cleaned the kitchen"
+        ]
       ],
-      [["ganadería"], ["cattle farming", "livestock farming"]],
-      [["hogar"], ["home", "household"]],
-      [["humo"], ["smoke", "fume", "exhaust"]],
-      [["invernadero"], ["greenhouse"]],
-      [["investigación"], ["research", "investigation", "study"]],
-      [["medida"], ["measure"]],
       [
-        ["poblado", "poblada", "habitado", "habitada"],
-        ["populated", "inhabited"]
+        ["Acaba de llegar al aeropuerto"],
+        [
+          "He's just arrived at the airport",
+          "She's just arrived at the airport",
+          "He has just arrived at the airport",
+          "She has just arrived at the airport",
+          "He just arrived at the airport",
+          "She just arrived at the airport",
+          "He's just arrived to the airport",
+          "She's just arrived to the airport",
+          "He has just arrived to the airport",
+          "She has just arrived to the airport",
+          "He just arrived to the airport",
+          "She just arrived to the airport"
+        ]
       ],
-      [["prohibir"], ["to prohibit", "to ban", "to forbid"]],
-      [["químico", "química"], ["chemical"]],
-      [["según"], ["according to"]]
+      [
+        [
+          "Reciclad el vidrio",
+          "Reciclad el cristal",
+          "Recicla el vidrio",
+          "Recicla el cristal",
+          "Reciclad vidrio",
+          "Reciclad cristal",
+          "Recicla vidrio",
+          "Recicla cristal"
+        ],
+        ["Recycle the glass", "Recycle glass"]
+      ],
+      [
+        [
+          "Comed más verduras",
+          "Comed más vegetales",
+          "Come más verduras",
+          "Come más vegetales"
+        ],
+        ["Eat more vegetables", "Eat more veggies"]
+      ],
+      [
+        [
+          "Voy a dejar de usar bolsas de plástico",
+          "Voy a parar de usar bolsas de plástico"
+        ],
+        [
+          "I'm going to stop using plastic bags",
+          "I'm going to quit using plastic bags",
+          "I am going to stop using plastic bags",
+          "I am going to quit using plastic bags"
+        ]
+      ],
+      [
+        [
+          "Los vecinos se quejan del humo",
+          "Los vecinos se quejan de los humos"
+        ],
+        [
+          "The neighbours complain about the smoke",
+          "The neighbors complain about the smoke",
+          "The neighbours complain about smoke",
+          "The neighbors complain about smoke",
+          "Neighbours complain about the smoke",
+          "Neighbors complain about the smoke",
+          "Neighbours complain about smoke",
+          "Neighbors complain about smoke"
+        ]
+      ],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [[""], [""]],
+      [
+        ["El gobierno ha tomado medidas", "El gobierno ha adoptado medidas"],
+        [
+          "The government has taken measures",
+          "The government has taken action",
+          "The government has adopted measures"
+        ]
+      ],
+      [
+        [
+          "según las cifras del informe",
+          "según los datos del informe",
+          "según las estadísticas del informe",
+          "según los números del informe"
+        ],
+        [
+          "according to the numbers from the report",
+          "according to the numbers in the report",
+          "according to the figures from the report",
+          "according to the figures in the report",
+          "according to the report numbers",
+          "according to the report figures",
+          "according to the report's figures",
+          "according to the report's numbers"
+        ]
+      ],
+      [
+        ["reducir el consumo de carne", "disminuir el consumo de carne"],
+        [
+          "to reduce meat consumption",
+          "to decrease meat consumption",
+          "to reduce the meat consumption",
+          "to decrease the meat consumption",
+          "to reduce the consumption of meat",
+          "to decrease the consumption of meat"
+        ]
+      ],
+      [
+        ["una campaña para concienciar sobre la contaminación"],
+        [
+          "a campaign to raise awareness about pollution",
+          "a campaign to raise awareness about contamination",
+          "a campaign to make people aware about pollution",
+          "a campaign to make people aware about contamination",
+          "a campaign to raise awareness about the pollution",
+          "a campaign to raise awareness about the contamination",
+          "a campaign to make people aware about the pollution",
+          "a campaign to make people aware about the contamination",
+          "a campaign to raise awareness of pollution",
+          "a campaign to raise awareness of contamination",
+          "a campaign to make people aware of pollution",
+          "a campaign to make people aware of contamination",
+          "a campaign to raise awareness of the pollution",
+          "a campaign to raise awareness of the contamination",
+          "a campaign to make people aware of the pollution",
+          "a campaign to make people aware of the contamination"
+        ]
+      ],
+      [["el efecto invernadero"], ["the greenhouse effect"]]
     ]
   ]
 }
