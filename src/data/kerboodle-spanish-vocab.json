@@ -9264,7 +9264,9 @@
         ["En mi barrio hay demasiado tráfico"],
         [
           "In my neighborhood there's too much traffic",
-          "In my neighborhood there is too much traffic"
+          "In my neighborhood there is too much traffic",
+          "In my neighbourhood there's too much traffic",
+          "In my neighbourhood there is too much traffic"
         ]
       ],
       [
@@ -9352,18 +9354,155 @@
           "Neighbors complain about smoke"
         ]
       ],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
-      [[""], [""]],
+      [
+        ["Limpiad el río", "Limpia el río"],
+        ["Clean the river", "Clean up the river"]
+      ],
+      [
+        [
+          "Acabamos de encender un fuego",
+          "Acabamos de hacer un fuego",
+          "Acabamos de prender un fuego"
+        ],
+        [
+          "We've just lit a fire",
+          "We have just lit a fire",
+          "We just lit a fire",
+          "We've just started a fire",
+          "We have just started a fire",
+          "We just started a fire",
+          "We've just built a fire",
+          "We have just built a fire",
+          "We just built a fire"
+        ]
+      ],
+      [
+        [
+          "La contaminación del aire afecta a nuestra salud",
+          "La contaminación del aire afecta nuestra salud",
+          "La polución del aire afecta a nuestra salud",
+          "La polución del aire afecta nuestra salud"
+        ],
+        [
+          "Air pollution affects our health",
+          "The air pollution affects our health",
+          "Air contamination affects our health",
+          "The air contamination affects our health",
+          "The pollution of air affects our health",
+          "The pollution of the air affects our health",
+          "The contamination of air affects our health",
+          "The contamination of the air affects our health",
+          "Pollution of air affects our health",
+          "Pollution of the air affects our health",
+          "Contamination of air affects our health",
+          "Contamination of the air affects our health"
+        ]
+      ],
+      [
+        [
+          "Deberíamos usar más el transporte público",
+          "Deberíamos utilizar más el transporte público"
+        ],
+        [
+          "We should use public transport more",
+          "We should use more public transport",
+          "We should use the public transport more",
+          "We should use more the public transport"
+        ]
+      ],
+      [
+        ["Las abejas están en peligro"],
+        ["Bees are in danger", "The bees are in danger"]
+      ],
+      [
+        ["Tenemos que proteger los espacios verdes"],
+        [
+          "We have to protect green spaces",
+          "We've got to protect green spaces",
+          "We need to protect green spaces",
+          "We have to protect the green spaces",
+          "We need to protect the green spaces"
+        ]
+      ],
+      [
+        [
+          "Las obras han destruido el bosque",
+          "Las obras han destruido el campo",
+          "La obra ha destruido el bosque",
+          "La obra ha destruido el campo"
+        ],
+        [
+          "Building work has destroyed the wood",
+          "Construction work has destroyed the wood",
+          "Building work has destroyed the woods",
+          "Construction work has destroyed the woods",
+          "Building works have destroyed the wood",
+          "Construction works have destroyed the wood",
+          "Building works have destroyed the woods",
+          "Constructions work have destroyed the woods",
+          "Building work has destroyed the countryside",
+          "Construction work has destroyed the countryside",
+          "Building works have destroyed the countryside",
+          "Construction works have destroyed the countryside",
+          "Construction work has destroyed the forest",
+          "Building works have destroyed the forest",
+          "Construction works have destroyed the forest",
+          "Building work has destroyed the forest",
+          "Construction work has destroyed the forest",
+          "Building works have destroyed the forest",
+          "Construction works have destroyed the forest",
+          "The building work has destroyed the wood",
+          "The construction work has destroyed the wood",
+          "The building work has destroyed the woods",
+          "The construction work has destroyed the woods",
+          "The building works have destroyed the wood",
+          "The construction works have destroyed the wood",
+          "The building works have destroyed the woods",
+          "The constructions work have destroyed the woods",
+          "The cuilding work has destroyed the countryside",
+          "The construction work has destroyed the countryside",
+          "The cuilding works have destroyed the countryside",
+          "The construction works have destroyed the countryside",
+          "The construction work has destroyed the forest",
+          "The building works have destroyed the forest",
+          "The construction works have destroyed the forest",
+          "The building work has destroyed the forest",
+          "The construction work has destroyed the forest",
+          "The building works have destroyed the forest",
+          "The construction works have destroyed the forest"
+        ]
+      ],
+      [
+        [
+          "Esto es un problema serio",
+          "Este es un problema serio",
+          "Esto es un problema grave",
+          "Este es un problema grave"
+        ],
+        ["This is a serious problem"]
+      ],
+      [
+        ["coches eléctricos", "los coches eléctricos"],
+        ["electric cars", "electrical cars"]
+      ],
+      [
+        ["ganadería", "la ganadería"],
+        [
+          "cattle farming",
+          "livestock farming",
+          "livestock production",
+          "animal farming"
+        ]
+      ],
+      [
+        ["una ciudad muy poblada", "una ciudad con mucha población"],
+        [
+          "a very populous city",
+          "a heavily populated city",
+          "a very populated city"
+        ]
+      ],
+      [["productos químicos"], ["chemical products", "chemicals"]],
       [
         ["El gobierno ha tomado medidas", "El gobierno ha adoptado medidas"],
         [
@@ -9398,7 +9537,13 @@
           "to reduce the meat consumption",
           "to decrease the meat consumption",
           "to reduce the consumption of meat",
-          "to decrease the consumption of meat"
+          "to decrease the consumption of meat",
+          "reduce meat consumption",
+          "decrease meat consumption",
+          "reduce the meat consumption",
+          "decrease the meat consumption",
+          "reduce the consumption of meat",
+          "decrease the consumption of meat"
         ]
       ],
       [
