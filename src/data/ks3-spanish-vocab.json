@@ -4203,15 +4203,27 @@
         ["un salón", "una sala de estar"],
         ["a living room", "a lounge"]
       ],
-      [["una chimenea"], ["a fireplace"]],
-      [["un jacuzzi"], ["a hot tub", "a jacuzzi"]],
-      [["un jardín"], ["a garden", "a yard"]],
-      [["una piscina"], ["a swimming pool", "a pool"]],
+      [
+        ["una chimenea"],
+        ["a fireplace", "a chimney", "one fireplace", "one chimney"]
+      ],
+      [
+        ["un jacuzzi"],
+        ["a hot tub", "a jacuzzi", "one hot tub", "one jacuzzi"]
+      ],
+      [["un jardín"], ["a garden", "a yard", "one garden", "one yard"]],
+      [
+        ["una piscina"],
+        ["a swimming pool", "a pool", "one swimming pool", "one pool"]
+      ],
       [
         ["una terraza", "un balcón"],
-        ["a balcony", "a terrace"]
+        ["a balcony", "a terrace", "one balcony", "one terrace"]
       ],
-      [["vistas al mar"], ["views of the sea", "sea views", "ocean views"]]
+      [
+        ["vistas al mar", "vista al mar"],
+        ["sea views", "sea view", "views of the sea", "ocean views"]
+      ]
     ],
     [
       "5.2 ¿Qué se puede hacer en...?",
@@ -4463,20 +4475,36 @@
           "I would like a lot"
         ]
       ],
-      [["Me encantaría"], ["I would love"]],
+      [["Me encantaría"], ["I'd love", "I would love"]],
       [["ayer"], ["yesterday"]],
-      [["el fin de semana pasado"], ["last weekend"]],
-      [["el verano pasado"], ["last summer"]],
-      [["el año pasado"], ["last year"]],
+      [["el fin de semana pasado"], ["last weekend", "the last weekend"]],
+      [
+        [
+          "el verano pasado",
+          "el último verano",
+          "el pasado verano",
+          "el verano anterior"
+        ],
+        ["last summer", "the last summer"]
+      ],
+      [["el año pasado", "el último año", "el año anterior"], ["last year"]],
       [
         ["hace dos años", "hace un par de años"],
         ["two years ago", "a couple of years ago"]
       ],
       [["hoy"], ["today"]],
       [["mañana"], ["tomorrow"]],
-      [["este fin de semana"], ["this weekend"]],
+      [["este fin de semana", "este finde"], ["this weekend"]],
       [["el verano que viene", "el próximo verano"], ["next summer"]],
-      [["el año que viene", "el próximo año"], ["next year"]],
+      [
+        [
+          "el año que viene",
+          "el próximo año",
+          "el año siguiente",
+          "el año próximo"
+        ],
+        ["next year", "the following year", "the next year"]
+      ],
       [
         ["Vas a hacer senderismo"],
         [
@@ -6745,14 +6773,8 @@
           "Products with Fairtrade certification"
         ]
       ],
-      [
-        ["Lo malo es que..."],
-        ["The bad thing is...", "The bad thing is that..."]
-      ],
-      [
-        ["Lo bueno es que..."],
-        ["The good thing is...", "The good thing is that..."]
-      ]
+      [["Lo malo es que"], ["The bad thing is", "The bad thing is that"]],
+      [["Lo bueno es que"], ["The good thing is", "The good thing is that"]]
     ],
     [
       "4.3 Reciclamos",
